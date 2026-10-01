@@ -26,6 +26,8 @@
   --warn:#fbbf24;
   --bad:#fb7185;
   --r-s:10px; --r-m:16px; --r-l:24px; --r-xl:32px;
+  --topbar-h:58px; --picker-h:44px;
+  --sticky-h:calc(var(--topbar-h) + var(--picker-h));
   --shadow:0 18px 50px -18px rgba(0,0,0,.75);
   --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
   --sans:"Plus Jakarta Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,"Helvetica Neue",Arial,sans-serif;
@@ -44,7 +46,7 @@ html[data-theme="light"]{
 }
 *{box-sizing:border-box}
 html,body{margin:0;padding:0}
-html{scroll-behavior:smooth;scroll-padding-top:150px}
+html{scroll-behavior:smooth;scroll-padding-top:calc(var(--sticky-h) + 16px)}
 body{
   font-family:var(--sans);
   background:var(--bg);
@@ -67,15 +69,15 @@ a{color:inherit}
 .mono{font-family:var(--mono)}
 
 /* ============ CLASS PICKER (GLOBAL FILTER) ============ */
-.picker{position:sticky;top:66px;z-index:55;backdrop-filter:blur(18px) saturate(160%);
+.picker{position:sticky;top:var(--topbar-h);z-index:55;backdrop-filter:blur(18px) saturate(160%);
   background:color-mix(in srgb,var(--bg) 84%,transparent);border-bottom:1px solid var(--line)}
-.picker-in{display:flex;align-items:center;gap:16px;padding:11px 0;flex-wrap:wrap}
+.picker-in{display:flex;align-items:center;gap:14px;min-height:var(--picker-h);padding:6px 0;flex-wrap:wrap}
 .pk-lbl{display:flex;align-items:center;gap:9px;font-size:12.5px;font-weight:700;color:var(--txt-2);white-space:nowrap}
 .pk-lbl .ic{width:26px;height:26px;border-radius:8px;display:grid;place-items:center;font-size:13px;
   background:linear-gradient(135deg,var(--brand),var(--brand-2))}
-.pk-chips{display:flex;gap:7px;flex-wrap:wrap}
+.pk-chips{display:flex;gap:7px;flex-wrap:wrap;min-width:0}
 .pk-chip{position:relative;display:inline-flex;align-items:center;gap:8px;font:inherit;font-size:13.5px;font-weight:700;
-  padding:9px 15px;border-radius:12px;border:1px solid var(--line);background:var(--surface);color:var(--txt-2);
+  padding:7px 13px;border-radius:12px;border:1px solid var(--line);background:var(--surface);color:var(--txt-2);
   cursor:pointer;transition:.2s;white-space:nowrap}
 .pk-chip:hover{color:var(--txt);border-color:var(--line-2);transform:translateY(-2px)}
 .pk-chip .cnt{font-family:var(--mono);font-size:10.5px;font-weight:700;padding:1px 6px;border-radius:6px;
@@ -87,9 +89,11 @@ a{color:inherit}
 .pk-meta{margin-left:auto;display:flex;align-items:center;gap:10px;font-size:12.5px;color:var(--txt-3)}
 .pk-meta b{color:var(--txt);font-variant-numeric:tabular-nums}
 .pk-clear{display:none;font:inherit;font-size:12.5px;font-weight:700;padding:8px 13px;border-radius:11px;cursor:pointer;
+  align-items:center;gap:6px;white-space:nowrap;
   border:1px solid rgba(251,113,133,.4);background:rgba(251,113,133,.12);color:var(--bad);transition:.18s}
+.pk-clear .pkc-ic{font-size:11px}
 .pk-clear:hover{background:rgba(251,113,133,.2)}
-.pk-clear.on{display:inline-block}
+.pk-clear.on{display:inline-flex;align-items:center}
 html[data-theme="light"] .pk-clear{color:#be123c;background:rgba(244,63,94,.1);border-color:rgba(190,18,60,.3)}
 
 /* banner kelas aktif */
@@ -119,7 +123,7 @@ html[data-theme="light"] .pk-clear{color:#be123c;background:rgba(244,63,94,.1);b
 /* ============ TOPBAR ============ */
 .topbar{position:sticky;top:0;z-index:60;backdrop-filter:blur(18px) saturate(160%);
   background:color-mix(in srgb,var(--bg) 78%,transparent);border-bottom:1px solid var(--line)}
-.topbar-in{display:flex;align-items:center;gap:18px;height:66px}
+.topbar-in{display:flex;align-items:center;gap:18px;height:var(--topbar-h)}
 .logo{display:flex;align-items:center;gap:11px;font-weight:800;letter-spacing:-.02em;white-space:nowrap}
 .logo-mark{width:38px;height:38px;border-radius:12px;display:grid;place-items:center;font-size:19px;
   background:linear-gradient(135deg,var(--brand),var(--brand-2));box-shadow:0 8px 22px -8px rgba(124,92,255,.9)}
@@ -176,7 +180,7 @@ h1{font-size:clamp(2rem,4.6vw,3.5rem);line-height:1.06;letter-spacing:-.035em;ma
 .card .s{font-size:12.5px;color:var(--txt-2)}
 
 /* ============ SECTION ============ */
-section{padding:16px 0 40px;scroll-margin-top:158px}
+section{padding:16px 0 40px;scroll-margin-top:calc(var(--sticky-h) + 16px)}
 .sec-head{display:flex;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:20px}
 .sec-head h2{font-size:clamp(1.3rem,2.3vw,1.75rem);letter-spacing:-.03em;margin:0;font-weight:800}
 .sec-head p{margin:4px 0 0;color:var(--txt-2);font-size:14px;max-width:76ch}
@@ -436,20 +440,53 @@ html[data-theme="light"] .gate-err{color:#be123c;background:rgba(244,63,94,.1)}
 
 /* ============ RESPONSIVE ============ */
 @media(max-width:1080px){.grid-2{grid-template-columns:1fr}}
+/* tablet & bawah: picker jadi SATU baris — label & petunjuk disembunyikan,
+   chip digeser horizontal, meta dipotong ellipsis */
+@media(max-width:1340px){
+  :root{--picker-h:44px}
+  .picker-in{flex-wrap:nowrap;gap:10px}
+  .pk-lbl,.picker .t-kls{display:none}
+  .pk-chips{flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;flex:1 1 auto;
+    scroll-snap-type:x proximity;-ms-overflow-style:none;scrollbar-width:none;padding:2px 0;scroll-padding-left:2px}
+  .pk-chips::-webkit-scrollbar{display:none}
+  .pk-chip{flex:none;scroll-snap-align:center}
+  .pk-meta{margin-left:0;flex:0 1 auto;min-width:0;font-size:12px;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .pk-clear.on{display:inline-flex!important;align-items:center;gap:5px;flex:none}
+}
+@media(max-width:1000px){.pk-meta{display:none}}
 @media(max-width:760px){
-  .hero{padding:36px 0 20px}
-  .picker-in{padding:9px 0;gap:10px}
-  .pk-lbl span.t{display:none}
-  .pk-chip{padding:8px 12px;font-size:12.5px}
-  .pk-meta{width:100%;margin-left:0;font-size:12px}
+  :root{--topbar-h:56px;--picker-h:46px}
+  .hero{padding:30px 0 18px}
+  .findme{padding:14px 15px;gap:12px;margin:16px 0 20px}
+  .findme .fm-txt span{font-size:11.5px}
+  .fm-jump{margin-left:0;width:100%;gap:7px}
+  .fm-b{flex:1;min-width:0;padding:8px 10px}
+  .fm-k{font-size:12.5px} .fm-c{font-size:10px}
+  .fm-l{width:100%;margin-bottom:-2px}
+
+  .picker-in{gap:8px}
+  .pk-chip{padding:7px 12px;font-size:12.5px;border-radius:11px}
+  .pk-chip .cnt{font-size:10px;padding:1px 5px}
+  .pk-clear{padding:7px 10px;font-size:12px;border-radius:11px}
+  .pk-clear .pkc-tx{display:none}
+  .pk-clear .pkc-ic{font-size:12px}
+  .pk-chip.on::after{inset:-2px;border-radius:13px}
+
   .kbanner{padding:14px 16px;gap:12px}
-  .kbanner .kstat{margin-left:0;width:100%;gap:16px;justify-content:space-between}
+  .kbanner .kstat{margin-left:0;width:100%;gap:14px;justify-content:space-between}
   .kbanner .kstat .n{font-size:1.1rem}
-  .stats{grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:11px;margin-bottom:34px}
-  .card{padding:16px 17px;border-radius:var(--r-m)} .card .v{font-size:1.85rem}
+  .kbanner .kstat .t{font-size:9.5px}
+  .stats{grid-template-columns:repeat(auto-fit,minmax(148px,1fr));gap:11px;margin-bottom:34px}
+  .card{padding:16px 17px;border-radius:var(--r-m)} .card .v{font-size:1.8rem}
+  .card .k{font-size:10.5px} .card .s{font-size:11.5px}
   .panel{padding:18px 16px}
-  .bar-row{grid-template-columns:minmax(110px,1fr) 1fr auto;font-size:12px}
+  .bar-row{grid-template-columns:minmax(104px,1fr) 1fr auto;font-size:12px;gap:8px}
+  .bar-row .num{min-width:48px}
   .donut-wrap{justify-content:center}
+  .sec-head{gap:10px}
+  .rx{padding:11px 12px;gap:10px}
+  .rx .rv{font-size:.95rem}
   nav.tabs{display:none}
   .kvlist div{grid-template-columns:1fr;gap:2px}
   .mbody{padding:18px 16px 24px} .mh{padding:16px}
@@ -493,7 +530,8 @@ html[data-theme="light"] .gate-err{color:#be123c;background:rgba(244,63,94,.1)}
     <div class="pk-chips" id="pkChips"></div>
     <div class="pk-meta" id="pkMeta"></div>
     <span class="t-kls" style="opacity:.7" title="Pilih kelas dengan tombol angka">⌨ 1–4 · 0</span>
-    <button class="pk-clear" id="pkClear">✕ Lihat Semua Kelas</button>
+    <button class="pk-clear" id="pkClear" title="Kembali ke semua kelas" aria-label="Lihat semua kelas">
+      <span class="pkc-ic">✕</span><span class="pkc-tx">Lihat Semua Kelas</span></button>
   </div>
 </div>
 
@@ -829,6 +867,17 @@ const statOf_  = k => k ? DATA.per_komponen.filter(x=>x.kelas===k) : DATA.per_ko
 function avgOf(k){const v=statOf_(STATE.kelas).map(s=>s[k]);return v.reduce((a,b)=>a+b,0)/v.length;}
 function setW(root=document){$$('.fill[data-w]',root).forEach(f=>f.style.width=f.dataset.w+'%');}
 const isSB = n => n>=90, isB = n => n>=80&&n<90, isC = n => n>=70&&n<80;
+const stickyTop = ()=>{
+  const v=getComputedStyle(document.documentElement);
+  const tb=parseInt(v.getPropertyValue('--topbar-h'))||64;
+  const pk=parseInt(v.getPropertyValue('--picker-h'))||52;
+  return tb+pk+18;
+};
+const scrollTo_ = el => window.scrollTo({top:Math.max(0,el.offsetTop-stickyTop()),behavior:'smooth'});
+const scrollChip = sel =>{
+  const c=$(sel); if(!c||!c.scrollIntoView)return;
+  try{ c.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'}); }catch(e){}
+};
 
 /* ============================== HEADER ============================== */
 function buildChips(){
@@ -1447,7 +1496,7 @@ function bindGlobal(){
   links.forEach(l=>l.onclick=e=>{
     e.preventDefault();
     const href=l.getAttribute('href'), t=$(href);
-    const go=()=>window.scrollTo({top:t.offsetTop-150,behavior:'smooth'});
+    const go=()=>scrollTo_(t);
     if(href==='#cek') needCek(go); else go();});
 }
 
@@ -1485,7 +1534,7 @@ function gateTry(e){
   try{ sessionStorage.setItem(GK,'1'); }catch(e){}
   gateClose(); buildCek(); updateCekNav();
   if(gateCb){const f=gateCb; gateCb=null; f();}
-  else window.scrollTo({top:$('#cek').offsetTop-150,behavior:'smooth'});
+  else scrollTo_($('#cek'));
 }
 function relock(){
   cekOpen=false;
@@ -1559,8 +1608,6 @@ function buildRolodex(){
 function setKelas(k, silent){
   STATE.kelas=ALL_KELAS.includes(k)?k:'';
   localStorage.setItem('asts-kelas',STATE.kelas);
-  $$('#pkChips .pk-chip').forEach(b=>b.classList.toggle('on',b.dataset.k===STATE.kelas));
-  $('#pkClear').classList.toggle('on',!!STATE.kelas);
   $('#pkMeta').innerHTML=STATE.kelas
     ? `Rata-rata <b>${fmt(avg(rekapOf(STATE.kelas)))}</b> · ${rekapOf(STATE.kelas).length} siswa`
     : `Rata-rata seluruh kelas <b>${fmt(avg(DATA.rekap))}</b> · ${DATA.rekap.length} siswa`;
@@ -1570,7 +1617,12 @@ function setKelas(k, silent){
   buildBanner(); buildStats(); buildDonut(); buildCompBars(); buildKelas(); buildWeakStrong();
   buildKomponen(); buildBonus(); buildKetidak(); buildCek(); buildRolodex();
   renderRekap(); renderStu();
-  $$('#pkChips .pk-chip').forEach(b=>b.classList.toggle('on',b.dataset.k===STATE.kelas));
+  $$('#pkChips .pk-chip').forEach(b=>{
+    const on=b.dataset.k===STATE.kelas;
+    b.classList.toggle('on',on);
+    if(on&&!silent) scrollChip('#pkChips .pk-chip.on');
+  });
+  $('#pkClear').classList.toggle('on',!!STATE.kelas);
   setW();
   if(!silent && STATE.kelas) window.scrollTo({top:0,behavior:'smooth'});
 }
