@@ -848,8 +848,8 @@ Karena aset pengassessment ini tidak dapat melihat gambar secara visual, berikut
 # E. RINGKASAN AKHIR
 
 1. **19 dari 19 siswa mengirim(link Blogger)** sebelum batas waktu; waktu tidak memengaruhi skor kualitas.
-2. **3 siswa nilai Sangat Baik** (Diaz 97,50; Wilda 92,00; Jajang 90,50) — memenuhi hampir seluruh ketentuan.
-3. **4 siswa Baik** (Safinah 89,50; Jihan 89,50; Dede Aprilia 85,50; Wahdan 83,00).
+2. **4 siswa nilai Sangat Baik** (Diaz 100,00; Jajang 93,50; Jihan 92,50; Wilda 92,00) — memenuhi hampir seluruh ketentuan.
+3. **3 siswa Baik** (Safinah 89,50; Dede Aprilia 85,50; Wahdan 84,00).
 4. **7 siswa Perlu Perbaikan**, didominasi oleh 3 pola batang:
    - **Komponen kosong**: Storyline (Putri Intan, Intan Widiyanti, Quinsya, Dhea) dan Naskah (Dhea) — diberi nilai 0.
    - **Ketentuan minimum tidak terpenuhi**: shotlist <10 (Quinsya 8), storyboard <6 (Jihan 4), deskripsi <100 kata (Qiandra 23, Putri Intan 50, Safinah 86, Jajang 54), mockup <3 terverifikasi, **maskot full body tidak ada** (Qiandra).
@@ -857,5 +857,6 @@ Karena aset pengassessment ini tidak dapat melihat gambar secara visual, berikut
 5. **2 siswa (Ade Sahrul, Dira) mengirim projek yang berbeda** — bukan Personal Branding Creative Campaign.
 6. **1 siswa (Fitriyani) mengirim URL editor** — TIDAK DAPAT DIVERIFIKASI, nilai 0, harus kirim ulang.
 7. **Pola umum kelas**: shotlist adalah komponen yang paling kuat (12 dari 19 siswa terverifikasi ≥10 shot dengan kolom lengkap); **storyline, naskah, prompt, dan label Blogger adalah titik lemah paling umum.**
-8. **Setelah revisi rubrik:** 9 siswa naik nilai, rata-rata kelas **64,61 → 66,58**. Tertinggi Diaz 97,50; terendah Fitriyani 0 (link tidak dapat diakses).
+8. **Setelah 2x revisi rubrik:** rata-rata **64,61 → 66,63** (nilai rubrik), ditambah bonus resolusi → **67,34** (nilai akhir). Tertinggi Diaz 100,00; terendah Fitriyani 0 (link tidak dapat diakses).
+9. **Bonus resolusi** diberikan kepada 5 siswa: Diaz (+3), Jajang (+3), Jihan (+3), Wulan (+3), Qiandra (+2). 14 siswa lain bonus 0 **tanpa pengurangan nilai**.
 8. **Setelah revisi rubrik:** 9 siswa naik nilai, rata-rata 64,61 → 66,58. Tertinggi: Diaz 97,50; terendah: Fitriyani 0 (link tidak dapat diakses).
