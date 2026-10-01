@@ -1,0 +1,15 @@
+# Hanya index.html yang dipublikasikan (GitHub Pages untuk siswa).
+# File sumber & data kerja tetap ada di komputer lokal, tidak ikut ter-upload.
+
+# laporan & rekap nilai (data privat)
+LAPORAN PENILAIAN ASTS*.md
+REKAP NILAIAN ASTS*.xlsx
+rekap_nilai_asts_hasil.json
+
+# folder kerja penilaian (skrip OCR, dump data, bukti)
+SESI PENILAIAN/
+
+# sistem
+.DS_Store
+Thumbs.db
+*.swp
