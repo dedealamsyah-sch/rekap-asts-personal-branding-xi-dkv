@@ -1,0 +1,115 @@
+====================================================================================================
+ID R14 | XI DKV 2 | WINA AFRILIANI
+URL: https://winaafrilianii.blogspot.com/2026/09/personal-branding-wina-afriliani-xi-dkv.html
+STATUS: 200  final=https://winaafrilianii.blogspot.com/2026/09/personal-branding-wina-afriliani-xi-dkv.html
+PAGE TITLE: PERSONAL BRANDING WINA AFRILIANI XI DKV 2
+H1: 
+WORDS: 1793 | IMAGES: 6 | TABLES: 0
+LABELS: Al, CV, branding/logo, kegiatan sekolah, personal branding, portofolio, tugas sekolah
+KW COUNTS: {'logo': 17, 'moodboard': 6, 'mockup': 2, 'naskah': 29, 'storyline': 4, 'shotlist': 3, 'storyboard': 6, 'mascot': 10, 'prompt': 8, 'tagline': 10, 'deskripsi': 10, 'by_nama': 0, 'color': 9, 'tipografi': 4}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+   P(4w): Kamis 01 Oktober 2026
+   P(11w): ASTS Personal Branding Wina Afriliani XI DKV 2 SMKN 9 GARUT
+   P(3w): 1.Personal branding
+   [IMG#1] alt='' w=400 h=299 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRHKT2undFw6g6ZnYpeGMPXNodZvj3i1B-7tyZotiRHqNfjzh5r10ySULUFLvVDxxL95b6X3xUZRoX3h1LRVjD14UUYeAruV4Ig1mxInUaqcIG4Bxh80QtSnzDmvjyYlblWxwIxt-6dVF
+   P(19w): Logo Wina Afriliani menggambarkan personal branding yang memadukan hobi memasak dan fotografi dengan gaya yang ceria, kreatif, dan feminin.
+   P(12w): Tulisan “WA” menjadi identitas utama yang berasal dari inisial nama Wina Afriliani.
+   P(10w): Ikon kamera melambangkan ketertarikan pada fotografi dan kegiatan mengabadikan momen.
+   P(11w): Whisk dan spatula menggambarkan hobi memasak serta kreativitas dalam mengolah makanan.
+   P(7w): Bunga memberikan kesan feminin, hangat, dan menyenangkan.
+   P(12w): Warna coral/peach dan cream memberikan kesan lembut, hangat, ceria, dan friendly.
+   P(10w): Bentuk lingkaran melambangkan kesatuan, keseimbangan, dan kreativitas yang terus berkembang.
+   P(22w): Tagline “Menangkap Kebahagiaan Lewat Rasa & Lensa” memiliki makna bahwa Wina mengekspresikan kebahagiaan melalui masakan yang dibuat dan momen yang diabadikan melalui fotografi.
+   P(16w): Kesimpulan: Logo ini merepresentasikan sosok yang kreatif, hangat, ceria, dan memiliki passion dalam memasak serta fotografi.
+   P(1w): PROMPT :
+   P(23w): Hai berperanlah sebagai expert designer i will make new personal branding/logo from my initial name " Wina Afriliani "WA",style sesuaikan, dengan ketentuan:
+   P(3w): •Inisial nama:"WA"
+   P(4w): •Karakter diri:feminime/ceria
+   P(4w): •Hobi atau minat:memasak
+   P(5w): •Bidang kreatif yang diminati: fotografi
+   P(1w): Output
+   P(3w): •Logo personal branding:
+   P(2w): •Nama branding:
+   P(1w): •Tagline:
+   P(8w): Output file:PNG, dimensi 4:3 kualitas=4k
+   P(4w): 2.MEMBUAT BRANDING MOODBOARD
+   [IMG#2] alt='' w=400 h=266 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7A2Zpshfqu4pNBrR6WalZGvQ8bfaw7ilscT66jOsyzh5IrhBnPh6O7XvYL6mzbKsFgFvTcR6SGbfDS0TMWNxFGVAgrZJbhlQFzIkaKWG1cn_eRFgMKyIy7P3G7IF4RE2_kXiH_3zOKx9
+   P(4w): Deskripsi Moodboard Personal Branding
+   P(21w): Moodboard Wina Afriliani menampilkan konsep personal branding yang menggabungkan hobi memasak dan fotografi dengan nuansa yang hangat, feminin, kreatif, dan sederhana.
+   P(4w): 1. Warna Utama Branding
+   P(21w): Menggunakan perpaduan dusty pink, blush pink, cream, warm brown, dan sage green. Warna-warna ini memberikan kesan lembut, hangat, natural, dan nyaman.
+   P(2w): 2. Tipografi
+   P(25w): Menggunakan font handwritten/script untuk nama utama agar terlihat personal dan kreatif. Font sans serif digunakan pada teks pendukung supaya tetap sederhana dan mudah dibaca.
+   P(3w): 3. Style Visual
+   P(21w): Gaya visual menggabungkan ilustrasi doodle, fotografi natural, flatlay makanan, dan tekstur yang clean. Visual dibuat sederhana tetapi tetap estetik dan menarik.
+   P(3w): 4. Tone & Mood
+   P(20w): Moodboard memiliki karakter hangat, ramah, kreatif, positif, feminin, dan autentik. Kesan yang ingin ditampilkan adalah sederhana tetapi tetap memiliki makna.
+   P(3w): 5. Elemen Grafis
+   P(22w): Elemen seperti kamera, whisk, spatula, bunga, hati, daun, dan brush stroke digunakan untuk memperkuat identitas memasak dan fotografi serta memberikan kesan handmade.
+   P(3w): 6. Inspirasi Visual
+   P(27w): Inspirasi berasal dari makanan yang estetik, kamera, bunga, suasana meja yang nyaman, dan aktivitas sehari-hari. Keseluruhan visual menggambarkan kreativitas dan kebahagiaan dalam menikmati makanan serta mengabadikan momen.
+   P(1w): Kesimpulan:
+   P(28w): Moodboard ini menjadi panduan visual untuk membangun personal branding Wina Afriliani yang hangat, kreatif, feminin, dan autentik, dengan fokus pada perpaduan rasa melalui memasak dan lensa melalui fotografi.
+   P(1w): PROMPT :
+   P(11w): berdasarkan logo di atas buatkan moodboard nya sesuai dengan ketentuan berikut:
+   P(4w): 1. Warna utama branding
+   P(2w): 2. Tipografi
+   P(3w): 3. Style visual
+   P(3w): 4. Tone & mood
+   P(3w): 5. Elemen grafis
+   P(3w): 6. Inspirasi visual
+   P(1w): Output:
+   P(2w): Format landscape
+   P(5w): 3.MEMBUAT MOCK UP BRANDING
+   [IMG#3] alt='' w=400 h=365 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_91n3kLwFEfCen7aU2ji5UHuJTeUqwIC2n5O_ACbQ_BgC8rqXfzFFK8fkPfgC9mmxiqF4q-wj4WLEx2i5X1jIhfZGeDGwFBHvs4No8mChdRik2MP-JXp_kpGbRxog4cY8B3TnQ0E86AG
+   [IMG#4] alt='' w=400 h=400 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPGsS89wFQl3dSlLziEtZ0ATC9NwCwrfsweHoN-ijOocRIWEMrZULTKDIvahFl2kNgNoQDMDKERJNTfs4vH33cYoy9r7ujpAAiNcfo3EJuYCLC1cOikxyjyltX1qvMInAXPrDip4J91ZW
+   P(3w): 5.NASKAH IKLAN
+   P(14w): Tentu, berikut naskah iklan bertema hobi memasak yang cocok untuk durasi sekitar 30 detik:
+   P(2w): HOBI MEMASAK
+   P(2w): 1. Judul:
+   P(3w): “Masak dengan Cinta”
+   P(2w): 2. Tema:
+   P(8w): Menjadikan memasak sebagai hobi yang menyenangkan dan kreatif.
+   P(3w): 3. Pesan Utama:
+   P(19w): Memasak bukan hanya tentang membuat makanan, tetapi juga tentang menyalurkan kreativitas, mencoba hal baru, dan berbagi kebahagiaan melalui makanan.
+   P(5w): 4. Narasi/Dialog (±30 detik):
+   P(46w): “Bagi sebagian orang, memasak mungkin terlihat biasa. Tapi bagiku, memasak adalah cara untuk mengekspresikan diri. Mulai dari menyiapkan bahan, mengolahnya, hingga menjadi hidangan yang lezat. Setiap masakan memberikan pengalaman dan kepuasan tersendiri. Dengan memasak, aku bisa berkreasi, belajar hal baru, dan membuat orang-orang di sekitarku tersenyum.”
+   P(3w): 5. Closing Tagline:
+   P(6w): “Menangkap kebahagiaan lewat rasa dan lensa.”
+   P(1w): PROMPT :
+   P(12w): Baik terimakasih,pertama saya ingin membuat naskah/scriptnya terlebih dahulu berikut ketentuannya:
+   P(2w): Naskah iklan
+   P(2w): Wajib memuat :
+   P(2w): 1. Judul
+   P(2w): 2. Tema
+   P(3w): 3. Pesan utama
+   P(9w): 4. Narasi/dialog: sesuaikan untuk memenuhi durasi 30 detik
+   P(3w): 5. Closing tagline
+   P(2w): 6.STORYLINE
+   P(15w): Tentu! Storyline-nya bisa dibuat selaras dengan naskah “Masak dengan Cinta” dan durasi sekitar 30 detik.
+   P(3w): “MASAK DENGAN CINTA”
+   P(2w): 1. Pembukaan
+   P(19w): Visual menampilkan seseorang menyiapkan bahan-bahan masakan di dapur. Kamera mengambil gambar bahan, alat masak, dan ekspresi wajah yang bersemangat.
+   P(16w): Narasi: “Bagi sebagian orang, memasak mungkin terlihat biasa. Tapi bagiku, memasak adalah cara untuk mengekspresikan diri.”
+   P(3w): 2. Alur Cerita
+   P(18w): Tokoh mulai mencuci, memotong, mencampurkan bahan, dan memasak. Tampilkan beberapa close-up proses memasak agar terlihat menarik dan kreatif.
+   P(11w): Narasi: “Mulai dari menyiapkan bahan, mengolahnya, hingga menjadi hidangan yang lezat.”
+   P(4w): 3. Konflik/Fokus Visual
+   P(22w): Tokoh sempat mengalami kesulitan saat memasak, misalnya bumbu kurang pas atau merasa ragu dengan hasil masakannya. Kemudian tokoh mencoba memperbaikinya hingga berhasil.
+   P(17w): Narasi: “Setiap masakan memberikan pengalaman dan kepuasan tersendiri. Dengan memasak, aku bisa berkreasi dan belajar hal baru.”
+   P(2w): 4. Penutup
+   P(17w): Hidangan yang sudah jadi ditampilkan dengan close-up. Tokoh tersenyum dan menikmati hasil masakannya bersama orang-orang di sekitarnya.
+   P(7w): Narasi: “...dan membuat orang-orang di sekitarku tersenyum.”
+   P(2w): Closing Tagline:
+   P(8w): “Masak dengan hati, ciptakan rasa, dan bagikan kebahagiaan.”
+   P(1w): PROMPT :
+   P(11w): Waw amazing.nice... Sekarang buatkan juga storyline. Ini ketentuannya,wajib memuat:
+   P(2w): 1.Pembukaan
+   P(3w): 2.Alur cerita
+   P(4w): 3.Konflik/Fokus Visual
+   P(2w): 4.Penutup
+   P(2w): 7.SHOTLISTNYA :
+   [IMG#5] alt='' w=400 h=266 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvfutI8cMkJGEUDAnkg3Uv-TO_cmJaLyoDW7wTjZIYa0Cskswmy8KMVZF67id-weWoyexQ2lYYV-eRxD-FgicGATIi1OygS6RNE82XDhPlcj2u2neBV00By7hYYxY6RHjRoOZu7I5QNBW
+   [IMG#6] alt='' w=400 h=365 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMZuD26cYfUdIvmSMIxhYMjCASD7y4yQbL2vsdBYz75bBjljMa2-O28W1nJHubHPob3fklJWr9dL8BF0BUGqEtPs5BjN7HLjKtwWXjMbxxxKW0mGdgSKzcV61DYeW3Y5sXr-6hkoX9P8Y

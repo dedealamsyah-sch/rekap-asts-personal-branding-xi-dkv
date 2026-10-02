@@ -1,0 +1,29 @@
+====================================================================================================
+ID R27 | XI DKV 3 | KHANZA NURAENI
+URL: https://khanzanuraeni.blogspot.com/2026/09/personal-branding-khanza-nuraeni-xi-dkv.html
+STATUS: 200  final=https://khanzanuraeni.blogspot.com/2026/09/personal-branding-khanza-nuraeni-xi-dkv.html
+PAGE TITLE: Personal Branding Khanza Nuraeni XI DKV 3
+H1: 
+WORDS: 1207 | IMAGES: 5 | TABLES: 1
+LABELS: AI, Personal Branding, Portofolio, SMKN 9 Garut, Tugas Sekolah
+KW COUNTS: {'logo': 15, 'moodboard': 4, 'mockup': 3, 'naskah': 4, 'storyline': 1, 'shotlist': 1, 'storyboard': 2, 'mascot': 10, 'prompt': 6, 'tagline': 7, 'deskripsi': 5, 'by_nama': 1, 'color': 12, 'tipografi': 1}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+   [IMG#1] alt='' w=400 h=None src=https://blogger.googleusercontent.com/img/a/AVvXsEjAUeEVMfXvAk89P4wzYVlWdq8lF1qT-oL0bpYB1dcfz-OWrFbED9E3pxUkPFx4-YbaVTmMaS5lo93DIzm4V7ORaezc2daT7VUoUCm0g-xbc8NwN0A2lGT42Do2JDZiAZlwenROO5LwhBNfYuf8pQQG
+   [IMG#2] alt='' w=400 h=None src=https://blogger.googleusercontent.com/img/a/AVvXsEjvfdnkMaetDnMShnA-qxQgNTj9WjFDcIvF_JJRUf24pf4IvWPkXsRwBSf4FLUZQgketPyWO97npdT56_NBq_bOXmgkCEkRBMWfDWlRBf_6zLOvt8w7UZmB-HBTv-Y-ICsxC2xxHl3ZI-LwbM773DwC
+   [IMG#3] alt='' w=400 h=None src=https://blogger.googleusercontent.com/img/a/AVvXsEjFm4fIPF-JwcIVV4LmjQ0X46GeCxx9NgzwD6YQ8EbyrOnuQn8VBRmTQqKpC1UnnMvGlL3dZUTCyaEoz7V7I124UKd-FIG5oZtxPE-46IxT_iFWgN9qXAnvbi3_oZHY4rsmf0e_Rj-b_ye7VkjLgiYJ
+   [TABLE#1] rows=11 maxcols=5
+        r01: No || Visual (Adegan) || Audio / VO || Teknis Kamera || Durasi
+        r02: 1 || Ruang kerja desainer temaram dengan tumpukan sketsa kasar || SFX: Suasana hening, ketikan keyboard || Medium Shot, Eye Level, Static || 2s
+        r03: 2 || Tangan desainer menggambar garis vektor presisi di pen tablet || VO: "Setiap karya besar berawal dari satu garis sederhana..." || Extreme Close-Up, High Angle, Pan Right || 3s
+        r04: 3 || Sketsa kasar di layar monitor berubah menjadi garis grid || VO: "...di tengah tumpukan gagasan, mengeksekusi visual..." || Close-Up, Straight On, Zoom In || 2s
+        r05: 4 || Sorot mata desainer fokus menatap layar monitor || SFX: Suara stylus pensil digital || Close-Up, Eye Level, Static || 2s
+        r06: 5 || Vektor garis Cyan/Teal meliuk membentuk monogram "KA" || VO: "KHNZA ARTWORKS hadir untuk menjembatani ide beranimu..." || Medium Close-Up, Low Angle, Tilt Up || 3s
+        r07: 6 || Logo "KA" terisi warna Cyan/Teal & Dark Charcoal || VO: "...dengan bentuk visual yang tajam, presisi, dan bersih." || Close-Up, Eye Level, Zoom Out || 2s
+        r08: 7 || Transisi cepat logo tercetak di atas Kartu Nama || VO: "Kami tidak sekadar menggambar..." || Medium Shot, High Angle, Tracking Right || 2s
+        r09: 8 || Tampilan Gelas Kopi (Paper Cup) dengan logo KA di meja || VO: "...kami memberi wujud pada identitasmu." || Medium Close-Up, Eye Level, Pan Left || 2s
+        r10: 9 || Layar HP menampilkan grid feed Instagram KHNZA ARTWORKS || SFX: Suara klik dan efek transisi lembut || Close-Up, Overhead, Static || 2s
+        r11: 10 || Tampilan akhir animasi Logo & Tagline "Bold Ideas, Clean Designs" || VO: "KHNZA ARTWORKS – Bold Ideas, Clean Designs by Khnza." || Full Shot, Eye Level, Zoom In Slow || 3s
+   [IMG#4] alt='' w=400 h=None src=https://blogger.googleusercontent.com/img/a/AVvXsEhfghN05wFPi79a-j2QIXlZqM_BHU-t-9imXJVy9-JA0egD8mEbugQjEZBbS8K1j-MMxmQO6heeQfd-tL3zaLdVwmS3iz5DI69yEM2hmhA4T5Guu9fhgXJdlbxK8cv-d6DGurG8I0NVSpQmm1IRtRZ9
+   [IMG#5] alt='' w=400 h=None src=https://blogger.googleusercontent.com/img/a/AVvXsEgwrtdul9yZlyI8A8QBtuLLl5cGUZ0iBIC6ceA45Cc3ODwwKTjwB18LA6cRFjGydwgD7Nqmjmb8DaWoyblcEgjwbI4zq6DMoSnfg2KsMIgCPUw7tiBtTMm8olWeZa-i6D3IGMaN7cIQBQA9MicmNEDz

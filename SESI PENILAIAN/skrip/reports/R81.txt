@@ -1,0 +1,58 @@
+====================================================================================================
+ID R81 | XI DKV 4 | AI SITI MUSLIMAH
+URL: https://aisitimuslimahh.blogspot.com/2026/10/asts-personal-branding-ai-siti-muslimah.html
+STATUS: 200  final=https://aisitimuslimahh.blogspot.com/2026/10/asts-personal-branding-ai-siti-muslimah.html
+PAGE TITLE: ASTS PERSONAL BRANDING AI SITI MUSLIMAH XI DKV 4
+H1: 
+WORDS: 2227 | IMAGES: 6 | TABLES: 0
+LABELS: AI, Personal Branding, Portofolio, SMKN 9 Garut, Tugas Sekolah
+KW COUNTS: {'logo': 39, 'moodboard': 11, 'mockup': 7, 'naskah': 33, 'storyline': 5, 'shotlist': 8, 'storyboard': 5, 'mascot': 23, 'prompt': 18, 'tagline': 16, 'deskripsi': 23, 'by_nama': 7, 'color': 12, 'tipografi': 4}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h1]: ASTS PERSONAL BRANDING AI SITI MUSLIMAH XI DKV 4 SMKN 9 GARUT
+
+## HEADING [h1]: 
+
+## HEADING [h3]: 1.LOGO PERSONAL
+   [IMG#1] alt='' w=400 h=400 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLX_d4K4nwASok02wLmQOb6PVeVQFDOi8MFCvWperJwhTvALl4oLXVK1YE_VQohCH5ZozW2_yajKp-sroiRNZJDneE8ImTeT6NH_i4dEY_1xmNBelf7bxJach7P-196-CkZ-dhFKQA-sC
+
+## HEADING [h3]: 2.MOODBOARD
+   [IMG#2] alt='' w=400 h=231 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjujm7uvXHMuKkk9J5pIv65UuimqGVSMkzH0QKvv5_JIFx6-XGUNBB_01Daqxx10O3wQGRpIj2rPMmoW1L_w49TAtrL-XI-Zf23MlR6PMjl5jM9GR3n6GSIwLgOT-GNSgmosnN9nD8u3gq
+
+## HEADING [h3]: 3.MOCKUP
+   [IMG#3] alt='' w=400 h=266 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGDh4rqY9U7ccZP09PwOkbVSYOOTlXLtVGUBZkN4TTbjkTeF46Wp1pqFhgsUkahShM8DXH1Nkf93GpO5MEYt3F98z8W7KiU8BFKi7F2DKjxVu-onCqpcL2PDZ_ijxixng-xfbslr4IE8s
+
+## HEADING [h3]: 4.MASCOT
+   [IMG#4] alt='' w=400 h=400 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY4omvCZTvKi9NKc6hznT5d1UgjSZ9X2_8AdT7MxyIw8z3itvGP_nzM_5tyPitc1hWuFF7hSF7w2bCcxxv2VVSmZxQBtKyB9ISgB7Eonfe8CCHwqqg8LiLUwxBnPUdUIw2u0RFNFKYDYF
+
+## HEADING [h3]: 5. NASKAH IKLAN
+
+## HEADING [h3]: 6.STORYLINE
+
+## HEADING [h3]: 7.SHOTLIST
+   [IMG#5] alt='' w=400 h=236 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZZmdTPEAD65P6AdMzbQyHSF07c37jp-0eB9lmbz4sN_gRmVaJ8At0Yn3R85nYr8j7wcpEmfbngc-4VhRvgIqqihSWhqQi0ZSl9MRz4No-mEOFI7qg8Zd3dSbNyCX8n_KYfxzIN8JlTH2
+
+## HEADING [h3]: 8.STORYBOARD
+   [IMG#6] alt='' w=400 h=339 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhubiQHCN6HU_JnCQHJYhBakrD_KWMTsF9zXBaaEWTCOCI5fEuUIKUa8D5LWm0liNZrgpMtsOvN2vm_A8qStsjCfnX9TcCOS_z_kjAEXB7W6s19agi26cvmcBSLuSH6VhGN04AAS4TUCDR
+
+## HEADING [h3]: 9. PENJELASAN KONSEP
+
+## HEADING [h3]: 10. PROMPT YANG DIGUNAKAN
+
+## HEADING [h4]: 1.Prompt Logo
+
+## HEADING [h4]: 2. Prompt Moodboard
+
+## HEADING [h4]: 3. Prompt Mockup
+
+## HEADING [h4]: 4. Prompt Maskot
+
+## HEADING [h4]: 5. Prompt Naskah Iklan
+
+## HEADING [h4]: 6. Prompt Storyline
+
+## HEADING [h4]: 7. Prompt Shotlist
+
+## HEADING [h4]: 8. Prompt Storyboard

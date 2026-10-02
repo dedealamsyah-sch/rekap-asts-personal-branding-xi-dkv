@@ -1,0 +1,23 @@
+SHEETS: ['Form Responses 1']
+######################################################################
+SHEET: Form Responses 1 A1:J20
+r1  | Timestamp | KELAS | NAMA | Link Postingan Blogger | NAMA 2 | Link Postingan Blogger 2 | NAMA 3 | Link Postingan Blogger 3 | NAMA 4 | Link Postingan Blogger 4
+r2  | 2026-09-29 14:36:04.487000 | XI DKV 2 |  |  | WAHDAN SAPARI | https://d4aanz.blogspot.com/2026/09/personal-branding.html |  |  |  | 
+r3  | 2026-09-29 14:38:28.755000 | XI DKV 2 |  |  | AHMAD FAUZI | https://ahmadfll.blogspot.com/2026/09/promptberperanlah-sebagai-profesional.html |  |  |  | 
+r4  | 2026-09-29 15:29:39.626000 | XI DKV 3 |  |  |  |  | QIANDRA KAIZAR NAHARI | https://qiandrakaizarnahari.blogspot.com/2026/09/personal-branding-qiandra-kaizar-nahari.html |  | 
+r5  | 2026-09-29 20:43:59.188000 | XI DKV 3 |  |  |  |  | ILMA LATIFAH | https://ilmalatifah.blogspot.com/2026/09/uji-kompetensi-ai-prompting-dkv-smkn-9.html |  | 
+r6  | 2026-09-30 07:14:40.550000 | XI DKV 3 |  |  |  |  | SOPA ANIDATUL AISAH | https://copaanidatul.blogspot.com/2026/09/personal-branding-sopa-anidatul-aisah.html |  | 
+r7  | 2026-09-30 07:18:30.969000 | XI DKV 3 |  |  |  |  | JAJANG M HUSNI MUBAROK | https://jajangmhusnimubarok.blogspot.com/2026/09/personal-branding-jajang-m-husni.html?m=1 |  | 
+r8  | 2026-09-29 14:25:38.639000 | XI DKV 4 |  |  |  |  |  |  | ADE SAHRUL GUNAWAN | https://adesahrulgunawan.blogspot.com/2026/09/asts-komputer-grafis-xi-dkv-4.html
+r9  | 2026-09-29 19:10:30.437000 | XI DKV 4 |  |  |  |  |  |  | DIRA RAHMAWATI | https://dirarahmawati1.blogspot.com/2026/09/asts-komputer-grafis-dira-rahmawati-xi.html
+r10 | 2026-09-30 13:27:43.905000 | XI DKV 4 |  |  |  |  |  |  | FITRIYANI | https://www.blogger.com/blog/post/edit/3381382262198283975/5845339142879718163
+r11 | 2026-09-30 16:43:03.671000 | XI DKV 4 |  |  |  |  |  |  | DEDE APRILIA KARTIKA | https://dedeapriliakartika06.blogspot.com/2026/09/personal-branding-dede-aprilia-kartika.html
+r12 | 2026-09-30 16:49:37.229000 | XI DKV 3 |  |  |  |  | PUTRI INTAN NURAENI | https://putriintannuraeni.blogspot.com/2026/09/uji-kompetensi-ai-prompting-dkv-smkn-9.html |  | 
+r13 | 2026-09-30 17:18:04.837000 | XI DKV 3 |  |  |  |  | INTAN WIDIYANTI | https://intanwdworld.blogspot.com/2026/09/uji-kompetensi-ai-prompting-xi-dkv-3.html |  | 
+r14 | 2026-09-30 18:20:36.196000 | XI DKV 1 | SAFINAH SYARA GARINI | https://safinahsyaragarini.blogspot.com/2026/09/personal-branding-safinah-syaara-garini.html |  |  |  |  |  | 
+r15 | 2026-09-30 20:01:14.189000 | XI DKV 3 |  |  |  |  | QUINSYA RAHMANESA SOLEHA | https://quinsyarahmanesasoleha.blogspot.com/2026/09/personal-branding-quinsya-rahmanesa.html |  | 
+r16 | 2026-09-30 20:55:12.727000 | XI DKV 3 |  |  |  |  | JIHAN SHAFIRA KEAN PUTRI MULYADI | https://jihanshafirakean.blogspot.com/2026/09/asts-personal-branding-jihan-shafira-xi.html |  | 
+r17 | 2026-09-30 21:01:25.054000 | XI DKV 3 |  |  |  |  | DHEA EKA KHOERUNNISA | https://dheaekadhey.blogspot.com/2026/09/personal-branding-dhea-eka-khoerunnisa.html?m=1 |  | 
+r18 | 2026-09-30 21:09:49.883000 | XI DKV 1 | WULAN SUNDARI | https://wulansundariii.blogspot.com/2026/09/asts-personal-branding-wulan-sundari-xi_01701389558.html |  |  |  |  |  | 
+r19 | 2026-09-30 21:12:44.147000 | XI DKV 1 | WILDA AZKIA | https://wildaazkia.blogspot.com/2026/09/personal-branding.html |  |  |  |  |  | 
+r20 | 2026-09-30 21:47:41.128000 | XI DKV 1 | MUHAMAD DIAZ PIRDAUS | https://dias20092806.blogspot.com/2026/09/personal-branding-muhamad-diaz-pirdaus.html |  |  |  |  |  | 

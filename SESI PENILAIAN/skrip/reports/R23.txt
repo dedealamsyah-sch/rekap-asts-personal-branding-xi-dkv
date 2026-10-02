@@ -1,0 +1,236 @@
+====================================================================================================
+ID R23 | XI DKV 3 | INTAN WIDIYANTI
+URL: https://intanwdworld.blogspot.com/2026/09/uji-kompetensi-ai-prompting-xi-dkv-3.html
+STATUS: 200  final=https://intanwdworld.blogspot.com/2026/09/uji-kompetensi-ai-prompting-xi-dkv-3.html
+PAGE TITLE: Personal Branding Intan Widiyanti XI DKV 3
+H1: 
+WORDS: 3393 | IMAGES: 5 | TABLES: 1
+LABELS: AI, Branding, Kegiatan praktikum, Maskot, Mockup, Profil, SMKN 9 Garut, Tugas sekolah logo, di sekolah, moodboard, personal branding, portofolio, portopolio, tugas sekolah
+KW COUNTS: {'logo': 28, 'moodboard': 4, 'mockup': 3, 'naskah': 18, 'storyline': 4, 'shotlist': 6, 'storyboard': 3, 'mascot': 19, 'prompt': 8, 'tagline': 4, 'deskripsi': 5, 'by_nama': 0, 'color': 17, 'tipografi': 4}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h2]: ASTS PERSONAL BRANDING INTAN WIDIYANTI XI DKV 3 SMKN 9 GARUT
+
+## HEADING [h3]: 1. Branding
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGGEVODm-CbhwzB7npCHusXtZWvikdI44DLsvEkh9JzNAucjHvI-S6aCnvMYrp-tOyEIEV_teNOvH0gDxXrPqJarKTTxznv2tkwiA8rwvYF7r1XkL0sNyti115upjSpZfR1i_hNBrdayI
+
+## HEADING [h3]: 1. Inisial Nama: Fondasi Identitas Utama
+   LIST[ul] n=2:
+        1. Huruf V/W yang tegas serta huruf D yang melengkung saling terhubung secara harmonis.
+        2. Di bagian bawah, tertera nama lengkap saya, INTAN WIDIYANTI, yang mempertegas kepemilikan dan keterbacaan brand personal saya.
+
+## HEADING [h3]: 2. Elemen Kamera dan Fotografi: Seni Mengabadikan Momen
+   LIST[ul] n=2:
+        1. Frame Focus / Viewfinder [ ]: Terletak di area kiri atas huruf utama, melambangkan ketajaman sudut pandang saya dalam mengamati objek, menangkap detail, dan menemukan keindahan dalam setiap momen.
+        2. Aperture / Shutter Kamera: Elemen lingkaran berbentuk bilah aperture diletakkan tepat di tengah-tengah bentuk huruf. Ini mewakili esensi dari fotografi—mengatur pencahayaan, fokus, dan visi artistik dalam setiap karya yang saya hasilkan.
+
+## HEADING [h3]: 3. Elemen Pita Film: Dedikasi pada Videografi dan Sinematografi
+
+## HEADING [h3]: 4. Warna Hitam Monokrom: Elegan, Profesional, dan Timeless
+
+## HEADING [h3]: 2. Moodboard
+   [IMG#2] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrDP6e8q2thlCeTz0wD2RQoVGbXTnQbYm-24rUhS6qZTrmaNsWp-Uk_8I0Y70hwZc1Qa_XEhrPCptz9DXj57MdK8Asj3BvEmmm3GSAWmM4HadkF0NTpey7jgAFBjs33Rsl_Y7Bf9ciYef
+
+## HEADING [h3]: 1. Warna Utama Branding (Color Palette)
+   LIST[ul] n=3:
+        1. Obsidian Black (#1A1A1A): Warna dominan yang memberikan kesan profesional, tegas, premium, dan elegan.
+        2. Pure White (#FFFFFF): Warna kontras untuk ruang bersih (clean space), memberikan kejelasan visual dan aspek minimalis.
+        3. Slate Gray (#4A4A4A): Warna sekunder untuk elemen transisi, teks pendukung, atau tata letak grid agar tampilan terasa modern dan halus.
+
+## HEADING [h3]: 2. TypoGraphy (Tipografi)
+   LIST[ul] n=2:
+        1. Primary / Header: Serif Bold Modern (Contoh: Playfair Display / Cinzel Bold) — Mencerminkan kesan klasik, berkelas, bernilai seni, serta mempertegas nama INTAN WIDIYANTI.
+        2. Secondary / Body Text: Sans-Serif Clean (Contoh: Montserrat / Inter) — Memberikan keterbacaan yang tinggi, berkesan kontemporer, dan rapi untuk deskripsi karya.
+
+## HEADING [h3]: 3. Style Visual (Gaya Visual)
+   LIST[ul] n=2:
+        1. Cinematic Monochrome: Foto dan video dengan kontras tinggi, pencahayaan dramatis (play of shadows & light), serta nuansa black and white yang abadi.
+        2. Minimalist Geometry: Garis-garis bersih, simetris, dan mengutamakan ketajaman komposisi visual tanpa hiasan yang berlebihan.
+
+## HEADING [h3]: 4. Tone & Mood
+   LIST[ul] n=2:
+        1. Tone: Sophisticated, Cinematic, Professional, Sharp, & Authentic.
+        2. Mood: Elegan, tenang, fokus, artistik, dan tepercaya. Suasana ruang kerja visual yang penuh kedalaman cerita (storytelling).
+
+## HEADING [h3]: 5. Elemen Grafis (Graphic Elements)
+   LIST[ul] n=3:
+        1. Frame Focus / Viewfinder [ ]: Garis sudut pemfokusan sebagai bingkai pendukung tata letak (layout grid).
+        2. Aperture Symbol: Aksen lingkaran geometris halus sebagai pembatas antarbagian.
+        3. Film Strip Pattern: Pola garis bergerigi khas klise film sebagai aksen garis tepi atau latar belakang transparan.
+
+## HEADING [h3]: 6. Referensi Desain (Design References)
+   LIST[ul] n=3:
+        1. Portofolio / Website: Tampilan grid monokrom bergaya galeri seni modern dengan area latar belakang luas (white space).
+        2. Kartu Nama & Stationeries: Cetakan bahan matte paper hitam dengan emboss / spot UV mengkilap pada logo IWVD.
+        3. Social Media Grid: Estetika pameran foto/video dengan rasio konsisten dan dominasi warna monokrom.
+
+## HEADING [h3]: 7. Inspirasi Visual (Visual Inspiration)
+   LIST[ul] n=3:
+        1. Foto pameran seni fotografi hitam-putih.
+        2. Lensa kamera antik dan peralatan sinematografi profesional.
+        3. Siluet subjek di bawah pencahayaan natural yang dramatis (backlight/chiaroscuro).
+
+## HEADING [h3]: Lensa kamera antik dan peralatan sinematografi profesional.
+
+## HEADING [h3]: 3. Mockup
+   [IMG#3] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAY5kUtGLCq4REpEi-6b7os5cNoyDwIxh_J4m5xz32N3MenRnaSmHZusHCfgNioLWJJQ3-LpcYngcStwIiJHS3ubq9PvHBVgHznDeJVs5rqSHEdBi-dbkAudv9Dm6gDG1N7bqkjvOpJ5R
+
+## HEADING [h4]: 1. Kartu Nama (Business Card)
+
+## HEADING [h4]: 2. Stiker Branding (Branding Stickers)
+
+## HEADING [h4]: 3. Roll-Up Banner (Banner Pameran/Studio)
+
+## HEADING [h3]: 4. Maskot
+   [IMG#4] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFsNtC4tyE-Wkg-5dUU-TjNxtTwzIQuw02r7YjyugX1plS5P1Gf9GM4un24vBk8SGUWKZj1_sby0kHi0EsF1zasWAEBgLtzIr-ZfELeuLYZAtTzdHrKUool2yvIyhAsCsVc4jZD7J86eB
+
+## HEADING [h3]: 5. Naskah
+   LIST[ul] n=5:
+        1. Judul: Through the Lens of Storytelling
+        2. Tema: Sinematografi, Presisi, dan Visual Direction Premium
+        3. Pesan Utama: Setiap cerita memiliki nilai dan keindahan; bersama Intan Widiyanti, setiap detik momen berharga ditangkap dengan fokus, presisi teknis, dan dedikasi sinematik yang tak lekang oleh waktu.
+        4. Narasi/Dialog: "Di balik setiap karya hebat... selalu ada ruang untuk menciptakan cerita. Bukan sekadar mengambil gambar, melainkan tentang bagaimana memberi jiwa pada setiap sudut pandang. Berawal dari passion yang membara di dalam dada... dan mata 
+        5. Closing Tagline: "Intan Widiyanti — Framing Your Vision, Crafting Your Story."
+
+## HEADING [h3]: Detail Adegan & Narasi / Dialog (10 Shot sesuai Tabel Shotlist)
+   LIST[ul] n=10:
+        1. Shot 1 — Pengenalan Studio (00:00 - 00:03) Jenis Shot: Extreme Wide Shot (EWS) | Angle: Eye Level | Movement: Static / Diam Visual: Ruang studio serba hitam elegan yang tampak sepi, dengan roll-up banner Intan Widiyanti berdiri anggun di sudut ruanga
+        2. Shot 2 — Kemunculan Maskot (00:03 - 00:06) Jenis Shot: Medium Long Shot (MLS) | Angle: Low Angle | Movement: Pan Right Visual: Karakter 3D "Widi" melangkah masuk ke tengah ruangan studio dengan gaya percaya diri dan postur tegap. Narasi (Voiceover): 
+        3. Shot 3 — Aktivasi "Heart Aperture" (00:06 - 00:08) Jenis Shot: Close-Up (CU) | Angle: Eye Level | Movement: Zoom In Visual: Kamera menyorot bagian dada Widi saat simbol aperture mulai menyala terang memancarkan cahaya emas hangat. Narasi (Voiceover):
+        4. Shot 4 — Detail Lensa Kamera (00:08 - 00:10) Jenis Shot: Extreme Close-Up (ECU) | Angle: Slightly High Angle | Movement: Rack Focus Visual: Fokus tajam pada detail tiga lensa kamera yang membentuk bagian kepala maskot Widi, merefleksikan pencahayaan 
+        5. Shot 5 — Menjangkau Peralatan (00:10 - 00:13) Jenis Shot: Medium Shot (MS) | Angle: Eye Level | Movement: Tracking Shot Visual: Kamera mengikuti pergerakan tangan Widi saat meraih kamera sinema profesional di atas meja produksi. Narasi (Voiceover): "
+        6. Shot 6 — Pengambilan Foto / Focusing (00:13 - 00:16) Jenis Shot: Close-Up (CU) | Angle: Over the Shoulder (OTS) | Movement: Tilt Up Visual: Mengambil sudut pandang dari belakang bahu Widi; terlihat garis viewfinder [ ] muncul secara digital di layar 
+        7. Shot 7 — Aksi Rekam Video (00:16 - 00:19) Jenis Shot: Medium Close-Up (MCU) | Angle: Low Angle | Movement: Dolly Out Visual: Widi menatap mantap ke arah kamera utama sambil memegang kamera sinema, memancarkan kesan sophisticated dan ahli. Narasi (Voi
+        8. Shot 8 — Unboxing Branding Material (00:19 - 00:22) Jenis Shot: Top-Down / Birds Eye | Angle: High Angle | Movement: Static Visual: Tampilan dari atas meja; tangan Widi menata kartu nama matte black bernuansa emas dan stiker logo WD dengan rapi. Nara
+        9. Shot 9 — Pose Utama (Hero Pose) (00:22 - 00:25) Jenis Shot: Full Shot (FS) | Angle: Low Angle | Movement: Slow Arc / Orbit Visual: Kamera berputar lambat mengelilingi karakter 3D Widi yang berdiri di atas stand bertuliskan INTAN WIDIYANTI. Narasi (Vo
+        10. Shot 10 — Penutup / Outro Logo (00:25 - 00:29) Jenis Shot: Close-Up (CU) to Graphic Fade | Angle: Eye Level | Movement: Zoom Out Visual: Widi memberikan ketukan ringan pada lensa kepalanya, lalu visual bertransisi menjadi logo grafis utama WD — Intan
+   LIST[ul] n=6:
+        1. Judul
+        2. Tema
+        3. Pesan Utama
+        4. Narasi/Dialog
+        5. Closing Tagline
+        6. Penutup
+
+## HEADING [h3]: 6. Storyline
+
+## HEADING [h3]: 1. Pembukaan (Introduction)
+   LIST[ul] n=3:
+        1. Adegan: Suasana studio serba hitam yang tenang, elegan, dan penuh misteri. Kamera menyorot roll-up banner Intan Widiyanti di sudut ruangan yang diselimuti pencahayaan lembut.
+        2. Fokus Narasi: Membuka ruang imajinasi audiens bahwa setiap karya visual yang hebat selalu dimulai dari studio tempat lahirnya ide-ide besar.
+        3. Kesan Visual: Warm, mysterious, sophisticated, dan eksklusif.
+
+## HEADING [h3]: 2. Alur Cerita (Development)
+   LIST[ul] n=3:
+        1. Adegan: Maskot 3D "Widi" melangkah masuk ke tengah studio dengan gestur tegap dan percaya diri. Diiringi musik sinematik yang membesar, bagian dada Widi (aperture) menyala terang memancarkan cahaya emas hangat, menandakan "jiwa dan passion" dalam ber
+        2. Fokus Narasi: Menggambarkan kesiapan, dedikasi, serta perpaduan antara kreativitas artistik dan instrumen produksi kelas atas.
+        3. Kesan Visual: Dinamis, hidup, dan berkarakter.
+
+## HEADING [h3]: 3. Konflik / Fokus Visual (Climax & Execution)
+   LIST[ul] n=3:
+        1. Adegan: Lensa kamera pada kepala Widi berputar menyesuaikan fokus secara presisi (rack focus). Lewat sudut pandang dari belakang bahu (over-the-shoulder), layar kamera menampilkan garis viewfinder[ ] yang mengunci objek gambar dengan sempurna. Widi l
+        2. Fokus Visual: Menegaskan kemampuan teknis, ketajaman observasi, dan ketelitian tinggi dalam mengambil momen terbaik (framing & focusing). Ini menjadi jawaban atas "konflik" pencarian kualitas visual terbaik yang dicari oleh setiap klien.
+        3. Kesan Visual: Tajam, presisi, profesional, dan sinematik.
+
+## HEADING [h3]: 4. Penutup (Resolution & Call to Action)
+   LIST[ul] n=3:
+        1. Adegan: Widi merapikan materi branding cetak (kartu nama matte black-gold dan stiker logo WD) dari tampilan top-down. Widi kemudian berdiri dalam hero pose di atas stand bertuliskan INTAN WIDIYANTI. Setelah memberikan ketukan ringan pada lensa kepala
+        2. Fokus Narasi: Menegaskan identitas nama Intan Widiyanti sebagai Visual Director yang tepercaya dan siap mengesekusi visi visual klien menjadi cerita yang tak terlupakan.
+        3. Closing Tagline: "Intan Widiyanti — Framing Your Vision, Crafting Your Story."
+
+## HEADING [h4]: Prompt yang saya gunakan:
+   LIST[ul] n=4:
+        1. Pembukaan
+        2. Alur Cerita
+        3. Konflik/Fokus Visual
+        4. Penutup
+
+## HEADING [h3]: 7. Shootlist
+
+## HEADING [h2]: Tabel Shotlist Video Promosi Branding
+   P(5w): INTAN WIDIYANTI — VISUAL & VIDEO DIRECTION
+   P(27w): Tabel shotlist di bawah ini diimplementasikan secara rinci berdasarkan alur storyline (Pembukaan, Alur Cerita, Fokus Visual, dan Penutup) untuk mengarahkan produksi video promosi personal branding Intan Widiyanti.
+   [TABLE#1] rows=11 maxcols=7
+        r01: No || Adegan & Stage || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+        r02: 1 || PembukaanPengenalan Studio || Extreme Wide Shot (EWS) || Eye Level || Static / Diam || 3s || Ruang studio serba hitam elegan yang tampak sepi, dengan roll-up banner Intan Widiyanti berdiri anggun di sudut ruangan diselimuti cahaya lembut.
+        r03: 2 || Alur CeritaKemunculan Maskot || Medium Long Shot (MLS) || Low Angle || Pan Right || 3s || Karakter 3D "Widi" melangkah masuk ke tengah ruangan studio dengan gaya percaya diri dan postur tegap.
+        r04: 3 || Alur CeritaAktivasi "Heart Aperture" || Close-Up (CU) || Eye Level || Zoom In || 2s || Kamera menyorot bagian dada Widi saat simbol aperture mulai menyala terang memancarkan cahaya emas hangat.
+        r05: 4 || Alur CeritaDetail Lensa Utama || Extreme Close-Up (ECU) || Slightly High Angle || Rack Focus || 2s || Fokus tajam pada detail tiga lensa kamera yang membentuk bagian kepala maskot Widi, merefleksikan pencahayaan studio.
+        r06: 5 || Alur CeritaMenjangkau Peralatan || Medium Shot (MS) || Eye Level || Tracking Shot || 3s || Kamera mengikuti pergerakan tangan Widi saat meraih kamera sinema profesional di atas meja produksi.
+        r07: 6 || Fokus VisualPengambilan Foto / Focusing || Close-Up (CU) || Over the Shoulder (OTS) || Tilt Up || 3s || Mengambil sudut pandang dari belakang bahu Widi; terlihat garis viewfinder [ ] muncul secara digital di layar kamera saat ia mengarahkan lensa.
+        r08: 7 || Fokus VisualAksi Rekam Video Sinematik || Medium Close-Up (MCU) || Low Angle || Dolly Out || 3s || Widi menatap mantap ke arah kamera utama sambil memegang kamera sinema, memancarkan kesan sophisticated dan ahli.
+        r09: 8 || PenutupUnboxing Branding Material || Top-Down / Birds Eye || High Angle || Static || 3s || Tampilan dari atas meja; tangan Widi menata kartu nama matte black bernuansa emas dan stiker logo IWVD dengan rapi.
+        r10: 9 || PenutupPose Utama (Hero Pose) || Full Shot (FS) || Low Angle || Slow Arc / Orbit || 4s || Kamera berputar lambat mengelilingi karakter 3D Widi yang berdiri di atas stand bertuliskan INTAN WIDIYANTI.
+        r11: 10 || PenutupOutro Logo & Tagline || Close-Up (CU) to Graphic || Eye Level || Zoom Out || 4s || Widi memberikan ketukan ringan pada lensa kepalanya, lalu visual bertransisi menjadi logo grafis utama IWVD — Intan Widiyanti di latar hitam pekat.
+
+## HEADING [h4]: Prompt yang saya gunakan:
+
+## HEADING [h4]: Nice bangett bestiee, dari storyline tersebut implementasi ke Shotlist Buat tabel shotlist minimal 10 shot. Dalam bentuk tables No | Adegan | Jenis Shot | Angle | Movement | Durasi | Deskripsi
+
+## HEADING [h3]: 8. Storyboard
+   [IMG#5] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOv0S9k1iMycObIiMI9HMb9YzkxoyhjDnaBRPG0p0RjMK4RIvUJPm85C4lAW_lATF-gHCSxjr5lrBhE2I36XTenZFrFzYPPWreth5QvyguCF35kPuSNZLxeE_lK1rE64AeOB8k5AZ2PPR
+
+## HEADING [h3]: Scene 1: Pengenalan Studio (The Studio)
+   LIST[ul] n=6:
+        1. Stage: Pembukaan
+        2. Visual Adegan: Suasana studio produksi bernuansa gelap dan megah dengan pencahayaan spotlightbernuansa hangat. Di sudut studio, berdiri sebuah roll-up banner profesional dengan logo emas bertuliskan monogram WD.
+        3. Keterangan Shot: MLS to CU (Medium Long Shot ke Close-Up)
+        4. Angle Kamera: Eye Level
+        5. Transisi: Dissolve
+        6. Dialog / Narasi (VO): "Di balik setiap momen... selalu ada cerita yang menunggu untuk diabadikan."
+
+## HEADING [h3]: Scene 2: Kemunculan Maskot (Widi Enters)
+   LIST[ul] n=6:
+        1. Stage: Alur Cerita
+        2. Visual Adegan: Maskot 3D bernama "Widi"—sebuah karakter unik dengan kepala gabungan tiga lensa kamera—melangkah tegap menuju tengah studio. Elemen aperture kamera di bagian dadanya memancarkan cahaya emas terang yang melambangkan inti kreativitas.
+        3. Keterangan Shot: MLS (Medium Long Shot)
+        4. Angle Kamera: Low Angle
+        5. Transisi: Pan Right
+        6. Dialog / Narasi (VO): "Bukan sekadar menangkap gambar, tapi tentang bagaimana memberi nyawa..."
+
+## HEADING [h3]: Scene 3: Detail (The Heart)
+   LIST[ul] n=6:
+        1. Stage: Alur Cerita
+        2. Visual Adegan: Kamera bergerak mendekat (zoom in) menampilkan bagian wajah dan dada maskot secara detail. Mekanisme aperture kamera yang berpendar emas terlihat membuka perlahan, menegaskan fokus pada presisi dan keindahan teknis.
+        3. Keterangan Shot: CU (Close-Up)
+        4. Angle Kamera: Eye Level
+        5. Transisi: Zoom In
+        6. Dialog / Narasi (VO): "...pada setiap sudut pandang."
+
+## HEADING [h3]: Scene 4: Fokus (The Focus)
+   LIST[ul] n=6:
+        1. Stage: Fokus Visual
+        2. Visual Adegan: Pengambilan gambar dari sudut pandang belakang bahu (Over the Shoulder) memperlihatkan monitor kamera sinema yang menampilkan grid digital viewfinder [ ] sedang mengunci fokus pada subjek.
+        3. Keterangan Shot: MCU to CU (Medium Close-Up ke Close-Up)
+        4. Angle Kamera: Eye Level
+        5. Transisi: Rack Focus
+        6. Dialog / Narasi (VO): "Dengan ketajaman presisi..."
+
+## HEADING [h3]: Scene 5: Visi (The Vision)
+   LIST[ul] n=6:
+        1. Stage: Fokus Visual
+        2. Visual Adegan: Maskot Widi memegang kamera sinema profesional berukuran besar dengan mantap, menunjukkan aksi nyata dan profesionalisme dalam mengeksekusi ide menjadi karya visual sinematik.
+        3. Keterangan Shot: MS (Medium Shot)
+        4. Angle Kamera: Low Angle
+        5. Transisi: Dissolve
+        6. Dialog / Narasi (VO): "...dan mata yang dilatih untuk melihat keindahan di setiap detail."
+
+## HEADING [h3]: Scene 6: Kesimpulan (The Unboxing & Pose)
+   LIST[ul] n=6:
+        1. Stage: Penutup
+        2. Visual Adegan: Diawali dengan sudut pandang dari atas (Top-Down) yang memperlihatkan elemen pendukung merek seperti kartu nama bertuliskan WD dan stiker premium. Kamera kemudian berputar perlahan (Orbit) menuju tampilan Hero Pose dari maskot Widi yan
+        3. Keterangan Shot: Top-Down to FS (Top-Down ke Full Shot)
+        4. Angle Kamera: High to Low (Orbit)
+        5. Transisi: Slow Arc
+        6. Dialog / Narasi (VO): "Intan Widiyanti — Framing Your Vision, Crafting Your Story."
+
+## HEADING [h4]: Prompt yang saya gunakan:
+   LIST[ul] n=6:
+        1. 6 Scene
+        2. Visual Adegan
+        3. Keterangan Shot
+        4. Angle Kamera
+        5. Transisi
+        6. Dialog atau Narasi

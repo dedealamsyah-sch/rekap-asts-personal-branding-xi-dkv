@@ -1,0 +1,36 @@
+====================================================================================================
+ID R28 | XI DKV 3 | SELVI SIFA URIZQI
+URL: https://selviasifaurizqi.blogspot.com/2026/09/asts-personal-branding-selvi-sifa.html?m=1
+STATUS: 200  final=https://selviasifaurizqi.blogspot.com/2026/09/asts-personal-branding-selvi-sifa.html?m=1
+PAGE TITLE: ASTS PERSONAL BRANDING SELVI SIFA URIZKI XI DKV 3
+H1: 
+WORDS: 1701 | IMAGES: 5 | TABLES: 1
+LABELS: AI, Personal Branding, Portofolio, SMKN 9 Garut, Tugas Sekolah
+KW COUNTS: {'logo': 19, 'moodboard': 5, 'mockup': 6, 'naskah': 11, 'storyline': 2, 'shotlist': 3, 'storyboard': 4, 'mascot': 9, 'prompt': 8, 'tagline': 4, 'deskripsi': 4, 'by_nama': 0, 'color': 9, 'tipografi': 4}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+   P(3w): ASTS PERSONAL BRANDING
+   P(6w): SELVI SIFA URIZQI XI DKV 3
+   P(3w): SMKN 9 GARUT
+
+## HEADING [h3]: 1.BRANDING
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEircfGa3wrhU7tEdQXCeQN5imYShqN3Dk30nQ0eCR7jAVwW99oFLIKUjy8sjbZoMXNM8qGcS7QQMPY6fRIAV7iUlCPaX85i79sZWfKPqRlAe3rM8ThLaf6rI5v19TGtL1UjDMI5tjB78bo
+   [IMG#2] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgur3ZI6KTtYTX0BuMLMON3WNgn9OuctJSadOQlgk9nSxhV_TyLDqOxHSHD45RkktsmD_7ofhfhBXU2HrmLHdmhmRWry4QZA_P4upTciw9vD0OyU1ksVdGBJS8a0Ml-FH-24dsoSWcc15b
+   [IMG#3] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyuX4SCz7BgdqBVMhJtdoUxd2HMzpAii2ZFPFvRsfL2HR_arTtG_NJlOBx9zjztwwHSsZ-LJrpCw2czYXy1T8zMbRGkSXVyV0GAoD1xF0StIu3neJgi5QWCOByjccyhwTVn3Y-evjqzTS
+   [IMG#4] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnYF4m8-pjbZzCUH0Cmr2muWkkWLDJoyai9lZ5wqcxsIyo-oiOM6GQO2KHDLp0FeC8pJYfimyan4XhlfslMnjsfjKHuwEVvIcem6zcG6nQ4tLPHeyS_tjY9MG4gQZD12Fp7O0GuIoSyFp
+   [TABLE#1] rows=13 maxcols=6
+        r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi
+        r02: 1 || Kabin & suasana alam || Wide Shot || Eye Level || Slow Pan || 3 detik
+        r03: 2 || Sifau membawa kamera || Medium Shot || Eye Level || Slow Zoom In || 3 detik
+        r04: 3 || Detail kamera || Close Up || High Angle || Static || 2 detik
+        r05: 4 || Sifau menyapa penonton || Medium Close Up || Eye Level || Static || 3 detik
+        r06: 5 || Sifau mulai berjalan || Long Shot || Low Angle || Tracking || 3 detik
+        r07: 6 || Sifau mendaki || Wide Shot || Low Angle || Tracking Shot || 3 detik
+        r08: 7 || Menikmati camilan || Close Up || Eye Level || Slow Pan || 2 detik
+        r09: 8 || Membidik pemandangan || Over Shoulder Shot || Eye Level || Dolly In || 3 detik
+        r10: 9 || Pemandangan yang difoto || Extreme Wide Shot || Eye Level || Slow Tilt Up || 3 detik
+        r11: 10 || Melihat hasil foto || Close Up || Eye Level || Push In || 2 detik
+        r12: 11 || Kumpulan hasil karya || Medium Shot || Eye Level || Zoom Out || 1 detik
+        r13: 12 || Logo & tagline || Close Up || Eye Level || Static || 2 detik
+   [IMG#5] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV_2FwOerIw38Z2Ypt0dw87sgeQf8qTo_l62xdCTO0cWNINPbxzajvJwq3oG8sCFoAIoQuFl_uDeUk_htcICaFRhhNeOhO-l2RNvlmoFIMPK7fqE6iY_04ncnAn2gh8fa3a9KZCUy_Ra4

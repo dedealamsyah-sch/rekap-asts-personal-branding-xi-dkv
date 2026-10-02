@@ -1,0 +1,34 @@
+====================================================================================================
+ID R86 | XI DKV 1 | KAILA AROPATILAH
+URL: https://kailaaropatilah.blogspot.com/2026/10/asts-personal-branding-kaila-aropatilah.html
+STATUS: 200  final=https://kailaaropatilah.blogspot.com/2026/10/asts-personal-branding-kaila-aropatilah.html
+PAGE TITLE: ASTS PERSONAL BRANDING KAILA AROPATILAH XI DKV
+H1: 
+WORDS: 2042 | IMAGES: 5 | TABLES: 1
+LABELS: ASTS PERSONAL BRANDING KAILA AROPATILAH XI DKV, branding/logo, kegiatan praktikum tata cahaya di lab dkv, profil tugas sekolah
+KW COUNTS: {'logo': 14, 'moodboard': 7, 'mockup': 3, 'naskah': 14, 'storyline': 2, 'shotlist': 4, 'storyboard': 6, 'mascot': 11, 'prompt': 7, 'tagline': 7, 'deskripsi': 10, 'by_nama': 0, 'color': 8, 'tipografi': 3}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h4]: ASTS PERSONAL BRANDING KAILA AROPATILAH XI DKV
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCH6MHkv-OmJeRqkaqfznHUebxeAFLfg5qFm52dTcRhROnZiNjDlcqtucOjeVjHrfCbx0F8KaUCRuh-hDOnP1ruTFWFmtosKs9AKwr4BzrcSENoRbx1t_EQqnu8gzgbu47A5NcRHG0yuL
+   [IMG#2] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRenGB_9rDUQg_NrDOLI5ueGHgQJ1t5A4bI-HfHZ_vqTbEccKZbzM9REZOPCjxIsXj6S-Hl8gtTrRz2o22qRWyyUG0y4sLu96wFWeIejzyAs1GcsQ1uTQVQA5e85b7Z0qOfn7HlR3bw8R
+   [IMG#3] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnY5t3Xs004JBKLTvmLsNsV9ELuot51KlZUfChDwc1n8EUwlY0CdSGQ4B5s-U-NC4jTNlvX8o_frzWtkdrv8lnqYnOEhBci0ALL11GT-3fZwfsLjvsdUOHWypZWnltsU-DPhANtYGaiSY
+   [IMG#4] alt='' w=300 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA92YVTQwtqkFQRua8p51KSJRBXrgZ9Bh4HsCGh3wVZohPFRdkj6MF_tViog-63fhfY-gvnbzDC2R4rPY2j5k6aRYKVWa9Jco7q-AiKYizbaE-DlfVPtrJ_wY9IplZuetyRxNdvZMBwF4
+   [TABLE#1] rows=14 maxcols=7
+        r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+        r02: 1 || Pembukaan pegunungan || Extreme Wide Shot || Eye Level || Slow Push In || 4 detik || Pemandangan pegunungan saat pagi hari dengan cahaya matahari yang perlahan muncul.
+        r03: 2 || Kemunculan KA || Full Shot || Low Angle || Tilt Up || 4 detik || Maskot 3D KA muncul membawa backpack dan kamera dengan latar pegunungan.
+        r04: 3 || Persiapan perjalanan || Medium Shot || Eye Level || Slow Pan || 4 detik || KA memperbaiki tali backpack dan mempersiapkan kamera sebelum mulai hiking.
+        r05: 4 || Langkah perjalanan || Close Up || Low Angle || Tracking || 4 detik || Detail sepatu KA melangkah melewati jalur berbatu dan rerumputan.
+        r06: 5 || Menikmati pemandangan || Wide Shot || Back Angle || Slow Pull Out || 5 detik || KA berdiri di atas bukit memandang pemandangan dengan suasana cinematic.
+        r07: 6 || Mengambil kamera || Close Up || Eye Level || Push In || 4 detik || Tangan KA mengambil kamera dan mempersiapkannya untuk memotret.
+        r08: 7 || Memotret objek || Medium Shot || Side Angle || Dolly In || 5 detik || KA membidik menggunakan kamera, dengan cahaya matahari mengenai sisi wajahnya.
+        r09: 8 || Momen hampir terlewat || Over The Shoulder || Eye Level || Handheld / Follow || 5 detik || KA melihat perubahan cahaya dan segera mencari sudut terbaik untuk mendapatkan foto.
+        r10: 9 || Hasil fotografi || Insert / Close Up || Eye Level || Slow Zoom In || 4 detik || Layar kamera menampilkan hasil foto cinematic yang berhasil ditangkap KA.
+        r11: 10 || Kreativitas KA || Medium Shot || High Angle || Pan || 5 detik || Transisi menuju workspace; KA mengolah foto dan membuat desain dengan elemen pink, hijau, dan geometris.
+        r12: 11 || Aktivitas kreatif || Montage / Medium Shot || Eye Level || Quick Cuts || 5 detik || Potongan visual fotografi, desain, dan memasak yang menunjukkan berbagai sisi kreativitas KA.
+        r13: 12 || Closing branding || Full Shot → Logo Shot || Low Angle → Eye Level || Slow Pull Out || 7 detik || KA berdiri menghadap kamera saat golden hour. Logo KA – Kaila Aropatilah muncul dengan elemen lingkaran/lensa dan tagline “Capture. Create. Explore.”
+        r14: Total Durasi ±56 detik — Ritme: Tenang → Eksploratif → Intens → Inspiratif
+   [IMG#5] alt='' w=213 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8sBj1k0_ENw7cPcs0FlP4KbfIjb60jE5nwAOqOUeAA6C4eKBR9zfoz5G1KSDLBXM0v8ivAyRDFwtNQb8e6IfDP-7_ijERot779C6Q3mVa5v_H9ub8l7BdaQAqWtlwM1jl6lvgisKxFyk

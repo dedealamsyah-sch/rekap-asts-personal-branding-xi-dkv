@@ -1,0 +1,210 @@
+====================================================================================================
+ID R57 | XI DKV 2 | SYIFA HAIRA
+URL: https://syifahaira.blogspot.com/2026/10/personal-branding-syifa-haira-xi-dkv-2.html
+STATUS: 200  final=https://syifahaira.blogspot.com/2026/10/personal-branding-syifa-haira-xi-dkv-2.html
+PAGE TITLE: PERSONAL BRANDING SYIFA HAIRA XI DKV 2
+H1: 
+WORDS: 2752 | IMAGES: 6 | TABLES: 0
+LABELS: AI, CV, Tugas sekolah, branding, kegiatan sekolah, personal branding, portofolio
+KW COUNTS: {'logo': 28, 'moodboard': 4, 'mockup': 7, 'naskah': 22, 'storyline': 3, 'shotlist': 3, 'storyboard': 4, 'mascot': 13, 'prompt': 8, 'tagline': 13, 'deskripsi': 7, 'by_nama': 1, 'color': 16, 'tipografi': 7}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h1]: ASTS Personal Branding Syifa Haira XI DKV 2 SMKN 9 GARUT
+
+## HEADING [h2]: 1. PERSONAL BRANDING
+   [IMG#1] alt='' w=320 h=239 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHkyIyGxnbRzRtN7urRkoqwpkxl8eRkasALYjesjazv5fL61giC9-ZvOICjzhPQEKt7Izi3fZdzavmBHqJUvuKbjX8X6rpAsVs9vnegUkZariQgsUb6G8USLNuRNcJp2wa9rquHSTJ3Lz
+
+## HEADING [h3]: Deskripsi Logo Personal Branding
+   LIST[ul] n=5:
+        1. Inisial Monogram ("SH"): Karakter huruf "S" dan "H" dibuat bersambung (kaligrafi/script font) berwarna biru tua (navy) yang menjadi titik fokus utama logo.
+        2. Buku Terbuka: Terintegrasi di bagian bawah huruf "S", melambangkan hobi membaca, ilmu pengetahuan, imajinasi, dan kecintaan pada literatur.
+        3. Kamera dengan Lensa Aperture: Berada di belakang huruf "H", melambangkan kecintaan pada dunia fotografi, seni mengabadikan momen, serta kreativitas visual.
+        4. Pengocok Adonan (Whisk) & Hati: Terletak di bagian atas monogram, melambangkan hobi memasak/baking yang dilakukan dengan penuh rasa kasih sayang.
+        5. Bingkai Karangan Daun (Laurel Wreath): Melingkari seluruh elemen monogram, memberikan kesan prestasi, keharmonisan, keanggunan, serta pertumbuhan yang berkelanjutan.
+   LIST[ul] n=2:
+        1. Nama Brand ("SYIFA HAIRA"): Menggunakan huruf kapital berpembatas tegas (serif font) berwarna navy yang memberikan kesan profesional, terpercaya, dan berkelas.
+        2. Tagline ("CREATIVE HEARTS, CAPTURED MOMENTS"): Ditulis dengan gaya yang lebih halus berwarna rose gold/dusty pink, menegaskan visi untuk menciptakan dan mengabadikan setiap momen dengan kehangatan hati.
+   LIST[ul] n=3:
+        1. Biru Navy Tua (#0E2445): Melambangkan ketenangan, profesionalisme, kepercayaan, dan keanggunan.
+        2. Rose Gold / Dusty Pink (#E5B2AD): Melambangkan kelembutan, keceriaan, kasih sayang, dan kehangatan feminin.
+        3. Putih Gading / Cream (#F4ECE8): Digunakan sebagai latar belakang untuk memberikan kesan bersih, hangat, dan estetik
+
+## HEADING [h4]: PROMPT:
+
+## HEADING [h2]: 2. MOODBOARD BRANDING
+   [IMG#2] alt='' w=400 h=224 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVGGZiL02DePQpy57iLpXZuwco-SQKw-VwaEOlg7eTu5evyAzquQcTj-bTIbd_qDJEfrQjRE6kiTo2079lpsVG0p4dhyphenhyphenwtAy3GJjnQFe0NwpH4usVMykPXgJZFatXXeyXUG
+
+## HEADING [h3]: Deskripsi Moodboard
+
+## HEADING [h3]: 
+
+## HEADING [h4]: 1. Warna Utama Branding
+   LIST[ul] n=1:
+        1. Biru Navy Tua (#0E2445): Menjadi warna dominan yang memberikan kesan profesional, tenang, stabil, dan berkelas.
+   LIST[ul] n=1:
+        1. Rose Gold (#E5B2AD): Menambahkan sentuhan feminin, kelembutan, keceriaan, dan kehangatan.
+   LIST[ul] n=1:
+        1. Putih Gading (#F4ECE8): Berfungsi sebagai warna netral latar belakang untuk memberikan ruang bernapas yang bersih dan estetis
+
+## HEADING [h4]: 2. Tipografi
+   LIST[ul] n=1:
+        1. Font Judul (Serif): Digunakan untuk nama brand (Syifa Haira) dan judul utama, memberikan kesan tegas, klasik, dan terpercaya.
+   LIST[ul] n=1:
+        1. Lora (Body Text): Digunakan untuk teks narasi, paragraf, dan tagline, memberikan keterbacaan yang tinggi dengan sentuhan editorial yang hangat.
+
+## HEADING [h4]: 3. Style Visual
+   LIST[ul] n=1:
+        1. Foto-foto elemen kehidupan nyata seperti buku klasik berbahan kulit, kamera lensa vintage, peralatan dapur kayu, serta bunga kering (dried flowers).
+   LIST[ul] n=1:
+        1. Pencahayaan alami yang lembut (soft natural lighting) untuk menonjolkan tekstur dan detail objek.
+
+## HEADING [h4]: 4. Tone & Mood
+   LIST[ul] n=1:
+        1. Mimpi yang Elegan & Sophisticated: Berkesan canggih namun tetap anggun.
+   LIST[ul] n=1:
+        1. Authenticity (Otentisitas) & Kreatif: Menonjolkan karya dan momen yang jujur serta bernilai seni.
+   LIST[ul] n=1:
+        1. Cozy (Nyaman) & Memorable: Menghadirkan rasa hangat yang mudah diingat oleh audiens.
+
+## HEADING [h4]: 5. Elemen Grafis
+   LIST[ul] n=1:
+        1. Karangan Daun (Laurel Wreath): Simbol keharmonisan, estetika alami, dan pencapencapaian.
+   LIST[ul] n=1:
+        1. Ikon Hobi: Ilustrasi whisk (pengocok adonan), buku terbuka, kamera, serta ilustrasi ranting/bunga yang digambar dengan garis halus (line art).
+
+## HEADING [h4]: 6. Inspirasi Visual
+
+## HEADING [h4]: PROMPT:
+
+## HEADING [h2]: 3. MOCK UP BRANDING
+   [IMG#3] alt='' w=400 h=299 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbjixXv7EuXdeX7SXTV432fBugCnSEtFWnOeneHU-WFlFvQVdCaVYcWp_c3kr6HMV0gsSa_QVOMep9A7Pq34Yu9PoCGJlur9blN6CCIz4EtGAD2ZLP4Xiw8gDQALaru6u569P13MAxTrY
+
+## HEADING [h3]: Deskripsi Mock Up
+   LIST[ul] n=1:
+        1. Sisi Kiri Atas (Kartu Nama / Business Card): Tumpukan kartu nama berbahan kertas tebal warna putih gading (ivory). Bagian tengahnya menampilkan logo monogram "SH" yang dikelilingi karangan daun (wreath), tulisan "SYIFA HAIRA", serta tagline "CREATIVE
+   LIST[ul] n=1:
+        1. Sisi Kiri Bawah (Hoodie): Sweatshirt hoodie berwarna biru navy tua (dark navy) yang terlipat rapi. Di bagian dada, terdapat cetakan logo monokrom/putih "SYIFA HAIRA" berserta elemen grafik dan tagline-nya secara jelas.
+   LIST[ul] n=1:
+        1. Sisi Kanan (Tumbler Stainless Steel): Gelas tumbler berbahan stainless steel perak yang diletakkan di atas meja kayu hangat. Logo utama "SYIFA HAIRA" tercetak di permukaan depan gelas, lengkap dengan simbol monogram "SH", ikon buku, pengaduk adonan (
+
+## HEADING [h3]: PROMPT:
+
+## HEADING [h3]: 4. MASCOT
+   [IMG#4] alt='' w=400 h=299 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo69VYeY57ZLRlpYDRTALAFMKBLQAhtjrOklcGFlUXwsVQeuVkk5PnRX0qmY0IGx4l6i5mmItP1W4wxpLFquvfX4qtNP1YMcEnwHZtFLUcfKEulXx0ZSimr5fv02CN5VyIjTMsJbSkydy
+
+## HEADING [h4]: DESKRIPSI MASCOT:
+   LIST[ul] n=1:
+        1. Sisi Kiri (Tampilan Full-Body Standing Pose): Menampilkan karakter maskot Syifa secara utuh berdiri tegak. Karakter ini memiliki rambut hitam bergelombang panjang dengan aksesori daun di rambutnya, mengenakan gaun kombinasi warna rose gold/soft pink 
+   LIST[ul] n=1:
+        1. Tengah Atas (Tampilan Close-Up Wajah): Potret dekat fokus pada wajah karakter Syifa dengan ekspresi tersenyum ramah, mata berwarna cokelat hangat, serta detail riasan wajah dan perhiasan kalung.
+   LIST[ul] n=1:
+        1. Tengah Bawah (Logo Brand Utuh): Menampilkan logo resmi "SYIFA HAIRA" yang terdiri dari monogram "SH", ikon pengaduk adonan (whisk), hati, buku terbuka, kamera, serta lingkaran dedaunan (wreath) berwarna biru navy, dilengkapi tagline "CREATIVE HEARTS,
+   LIST[ul] n=1:
+        1. Sisi Kanan (Pose Aksi / Action Pose): Karakter Syifa memegang buku/novel terbuka di tangan kanan dan kamera SLR vintage di tangan kiri, dengan latar belakang logo monogram "SYIFA HAIRA" berukuran besar. Pose ini merepresentasikan elemen utama brand, 
+
+## HEADING [h3]: PROMPT:
+
+## HEADING [h3]: 5. NASKAH IKLAN
+
+## HEADING [h4]: NASKAH IKLAN TVC / DIGITAL (60 DETIK)
+
+## HEADING [h3]: PROMPT:
+
+## HEADING [h3]: 6. STORYLINE
+
+## HEADING [h4]: STORYLINE IKLAN TVC / DIGITAL: "Resep Cerita & Rasa" (60 DETIK)
+   LIST[ul] n=3:
+        1. Adegan: Dapur bergaya estetik dan rapi yang disinari cahaya pagi alami dari jendela kayu.
+        2. Aksi: Maskot anime Syifa Haira berdiri di dekat meja kayu, dengan teliti memilih bahan-bahan kue segar (tepung, buah berry, susu) sambil sesekali membaca buku resep klasik. Ia menatap bahan-bahan tersebut dengan senyum hangat dan mata berbinar-binar,
+        3. Fokus Suasana: Membangun imaji kehangatan, inspirasi awal, dan ketenangan ruang dapur yang menggugah selera.
+   LIST[ul] n=4:
+        1. Transisi Keceriaan: Syifa mengenakan celemek soft pink / rose gold berhiaskan logo "SH", lalu memulai proses memasak dengan riang gembira.
+        2. Aksi: Syifa mengayak tepung dengan cermat, menuangkan bahan cair, dan mengaduk adonan kue secara cekatan menggunakan whisk di dalam mangkuk kaca. Terdapat shot transisi adonan kue yang mengembang cantik di dalam oven (baking process).
+        3. Progresi Visual: Oven berdenting, Syifa mengeluarkan kue berry tart yang matang sempurna. Ia menghias bagian atas kue secara presisi dengan taburan gula halus dan potongan berry segar.
+        4. Fokus Suasana: Menggambarkan semangat berkreasi, ketelitian meracik rasa, dan cinta yang dituangkan dalam setiap proses memasak.
+   LIST[ul] n=3:
+        1. Titik Fokus Visual (Momen Puncak): Hidangan kue yang cantik dan lezat ini adalah karya kebanggaan yang momen keindahannya akan berlalu begitu saja jika tidak diabadikan.
+        2. Aksi Puncak: Syifa menata kue berry tart di samping buku resep dan cangkir teh. Ia lalu mengambil kamera SLR vintage-nya, mengarahkan lensa dari sudut pandang artistik (high angle), mengintip melalui viewfinder, dan menekan tombol shutter. Kilatan ca
+        3. Penyelesaian: Foto berhasil diambil. Layar memperlihatkan hasil foto estetis yang mengabadikan mahakarya kuliner tersebut secara abadi dalam satu bingkai.
+   LIST[ul] n=3:
+        1. Adegan Final: Transisi halus memperlihatkan jajaran mockup produk (kartu nama, tumbler stainless, dan hoodie navy), diikuti tampilan logo resmi SYIFA HAIRA pada latar polos yang elegan.
+        2. Aksi Maskot: Maskot Syifa Haira tampil penuh (full-body standing pose) sambil memegang buku resep dan kamera di samping logo, memberikan senyuman anggun dan hangat kepada penonton.
+        3. Elemen Akhir: Teks closing tagline muncul anggun di layar diiringi narasi penutup yang berkesan.
+
+## HEADING [h3]: PROMPT:
+
+## HEADING [h3]: 7. SHORTLIST
+   [IMG#5] alt='' w=400 h=299 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBSChjOjIznTegsii53FkBiUtDdBi_VlYeH9uJ3clOhWy0ZaDT88jtg6wTjMxW-U2zJ6Kn2uxvyoe3AzQSc5aiPzDnlu0AsvEdS6833Tm8R48w7oNbFicb7FjJ_-FhzoUneJtxwOYZpqK
+
+## HEADING [h4]: DESKRIPSI SHORTLIST
+   LIST[ul] n=2:
+        1. Visual & Adegan: Pembuka yang memperlihatkan sudut baca nyaman berlatar cahaya alami. Maskot Syifa sedang duduk santai membaca novel.
+        2. Teknis: Wide Shot (W), Eye Level, Static Camera Movement.
+   LIST[ul] n=2:
+        1. Visual & Adegan: Tampilan jarak dekat lembaran novel klasik yang terbuka berhiaskan ilustrasi halus.
+        2. Teknis: Medium Close-Up (MCU), Eye Level, Pan Right Camera Movement.
+   LIST[ul] n=2:
+        1. Visual & Adegan: Ekspresi gembira Syifa yang tersenyum lebar dengan mata berbinar-binar setelah mendapatkan ide dari bacaannya.
+        2. Teknis: Close-Up (CU), High Angle, Tilt Down Camera Movement.
+   LIST[ul] n=2:
+        1. Visual & Adegan: Syifa mengenakan celemek khas sambil mengaduk adonan kue secara ceria di dapur.
+        2. Teknis: Medium Shot (MS), Eye Level, Dolly In Camera Movement.
+   LIST[ul] n=2:
+        1. Visual & Adegan: Pengambilan gambar jarak dekat dari hidangan kue berry tart di atas piring estetik.
+        2. Teknis: Close-Up (CU), Eye Level, Dolly In Camera Movement.
+   LIST[ul] n=2:
+        1. Visual & Adegan: Tampilan fokus pada kamera SLR vintage berlogo monogram 'SH' di bagian lensanya.
+        2. Teknis: Close-Up (CU), Low Angle, Pan Left Camera Movement.
+   LIST[ul] n=2:
+        1. Visual & Adegan: Komposisi sudut pandang tinggi artistik yang memadukan tumpukan novel, kue, dan kamera dalam satu bingkai harmonis.
+        2. Teknis: High Angle (HA), Tilt Up Camera Movement.
+   LIST[ul] n=2:
+        1. Visual & Adegan: Syifa tersenyum puas saat melihat hasil jepretannya pada layar kamera.
+        2. Teknis: Medium Close-Up (MCU), Eye Level, Static Camera Movement.
+   LIST[ul] n=2:
+        1. Visual & Adegan: Menampilkan berbagai produk mock-up (kartu nama, tumbler, dan medali) yang tersemat logo resmi brand secara lengkap.
+        2. Teknis: Full Shot (FS), Eye Level, Static Camera Movement.
+   LIST[ul] n=2:
+        1. Visual & Adegan: Penutup yang menampilkan pose penuh maskot Syifa Haira memegang buku dan kamera di samping logo resmi, disertai teks tagline "CREATIVE HEARTS, CAPTURED MOMENTS".
+        2. Teknis: Full Shot (FS), Eye Level, Static Camera Movement.
+
+## HEADING [h3]: PROMPT:
+
+## HEADING [h3]: 8. STORYBOARD
+   [IMG#6] alt='' w=400 h=224 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh91uL7NTZnprf5_6gpPjZp_4torP1EoxdHhi02t89lutNJ7PhjGk0fb3Griyov6RHuqyQkSrpLbA7iMRD7I4VJKkHPst9DDkqYvREoraY-O5SP7jwm10oSmjUp26NeplwrqFxNDWKhnl4
+   LIST[ul] n=2:
+        1. Visual & Teks: Sudut baca hangat di pagi hari (MIMPI YANG ELEGAN. Kehangatan pagi di sudut baca...).
+        2. Teknis: Establishing Wide Shot, Eye Level, Static.
+   LIST[ul] n=2:
+        1. Visual & Teks: Syifa tersenyum sambil memegang novel favoritnya (...lembaran cerita yang menginspirasi.).
+        2. Teknis: Medium Shot, Eye Level, Pan Right, Transisi: CUT.
+   LIST[ul] n=2:
+        1. Visual & Teks: Tampilan dekat halaman novel klasik yang terbuka (Narasi V.O.: "Inspirasi bisa datang dari mana saja...").
+        2. Teknis: Close Up, High Angle, Static, Transisi: CUT.
+   LIST[ul] n=2:
+        1. Visual & Teks: Syifa tersenyum berbinar-binar mendapat ide kreatif (Syifa (Smile): "Aha!").
+        2. Teknis: Medium Close Up, Eye Level, Tilt Up, Transisi: CUT.
+   LIST[ul] n=2:
+        1. Visual & Teks: Syifa mengenakan celemek mengaduk adonan kue di dapur (...menjadi rahasia rasa penuh cinta.).
+        2. Teknis: Medium Shot, Eye Level, Dolly In, Transisi: CUT.
+   LIST[ul] n=2:
+        1. Visual & Teks: Tampilan detail kue tart berry segar yang baru selesai dibuat (Narasi V.O.: "Sempurna.").
+        2. Teknis: Close Up, Low Angle, Static, Transisi: DISSOLVE TO.
+   LIST[ul] n=2:
+        1. Visual & Teks: Syifa memegang kamera SLR vintage siap memotret (...momen indah yang tak terlupa.).
+        2. Teknis: Medium Close Up, Eye Level, Pan Left, Transisi: CUT.
+   LIST[ul] n=2:
+        1. Visual & Teks: Syifa membidikkan kamera ke arah depan (*Click* *Flash* (Sfx)).
+        2. Teknis: Close Up, Eye Level, Static, Transisi: CUT.
+   LIST[ul] n=2:
+        1. Visual & Teks: Syifa memegang buku dan kamera berlatar logo monogram SH (Narasi V.O.: "Abadikan setiap detik...").
+        2. Teknis: Medium Shot, Eye Level, Dolly Out, Transisi: FADE TO LOGO.
+   LIST[ul] n=2:
+        1. Visual & Teks: Tampilan penuh maskot Syifa Haira di samping logo resmi dan tagline brand (SYIFA HAIRA: Merajut Cerita, Meracik Rasa. CREATIVE HEARTS, CAPTURED MOMENTS).
+        2. Teknis: Full Shot, Eye Level, Static.
+
+## HEADING [h3]: PROMPT:
+
+## HEADING [h3]: 

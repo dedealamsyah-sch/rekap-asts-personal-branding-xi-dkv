@@ -1,0 +1,51 @@
+====================================================================================================
+ID R20 | XI DKV 3 | SOPA ANIDATUL AISAH
+URL: https://copaanidatul.blogspot.com/2026/09/personal-branding-sopa-anidatul-aisah.html
+STATUS: 200  final=https://copaanidatul.blogspot.com/2026/09/personal-branding-sopa-anidatul-aisah.html
+PAGE TITLE: Personal Branding Sopa Anidatul Aisah XI DKV 3 SMKN 9 GARUT
+H1: 
+WORDS: 1696 | IMAGES: 7 | TABLES: 2
+LABELS: AI, LAPORAN UJI KOMPETENSI: AI PROMOSI & DKV, MASKOT_SOPA ANIDATUL AISAH, MOCKUP_SOPA ANIDATUL AISAH, MOODBOARD_SOPA ANIDATUL AISAH, Mengasah_Kreativitas_Sopa, Personal Branding, Portofolio, Profil, SMKN 9 Garut, logo branding sopa, tugas sekolah
+KW COUNTS: {'logo': 15, 'moodboard': 11, 'mockup': 6, 'naskah': 24, 'storyline': 3, 'shotlist': 2, 'storyboard': 9, 'mascot': 35, 'prompt': 8, 'tagline': 7, 'deskripsi': 11, 'by_nama': 1, 'color': 10, 'tipografi': 6}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+   P(12w): Personal Branding ASTS Sopa Anidatul Aisah XI_DKV 3 SMKN 9 GARUT
+   P(3w): 1. Personal Branding
+   [IMG#1] alt='' w=279 h=279 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyAKWtiS9yt2IM1KaB-mzDc5-IxgOwfCOowLDY2rEwz3Mbb2yvbbPs96bKsLIevvpfeLQTijgfTG_MoUl7zqummSEc7FQab6Bd1QNuHO0DpqQy4OML93DWBaxc9fdO0pBAqllrrXDmqUp
+   P(13w): prompt yang digunakan: @Buat gambar MEMBUAT PERSONAL BRANDING Membuat identitas visual personal berdasarkan:
+   P(46w): • Inisial nama: SA • Karakter diri: ekstrovert • Hobi atau minat: fotografi • Bidang kreatif yang diminati: fotografi color palltet yang di gunakan warna soft pink dan soft blue yang sedikit di gradasi kan ••PNG/TRANSPARAN ••FORMAT 1:1 ••KUALITAS 4K • font yang di gunakan : cormorant Garamond. buatkan deskripsinya
+   P(2w): 2. Moodboard
+   [IMG#2] alt='' w=319 h=207 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguO5PwhqjzwW5y_RG799z3PIumNSc_hcZczIWg10W38F0eLc_LfD5gSb1E0wJcLglRyf3DbaFfc03X4FLQCGUaoljXOX9XCUb-0DGIEd2tSWhtxqg2NTNVsebyZiFNbuYaEIVtWf8IM2t
+   P(143w): Moodboard “SA” merupakan gambaran visual personal branding Sopa Anidatul Aisah yang fokus pada bidang fotografi. Moodboard menggunakan perpaduan soft pink dan soft blue dengan gradasi lembut, yang memberikan kesan hangat, ceria, tenang, modern, dan kreatif. Cormorant Garamond digunakan sebagai tipografi karena memiliki karakter elegan, klasik, dan artistik. Style visual yang digunakan adalah soft, elegan, dreamy, modern, dan minimalis, dengan referensi berupa logo SA, kamera, lensa, foto fotografi, film strip, pastel gradien, bunga, langit, serta ornamen kilauan dan garis. Tone & mood yang dit
+   P(33w): prompt yang digunakan: MEMBUAT MOODBOARD BRANDING. Buat visual moodboard yang menggambarkan identitas branding yang telah dibuat. Moodboard wajib memuat: • Warna utama branding • Tipografi • Style visual • Referensi desain • Tone & Mood • Elemen grafis • Inspirasi visual
+   P(5w): Output • 1 Moodboard • Format Lanskap
+   P(14w): isi dulu moodboard tsb sesuai kan. lalu buatkan deskripsi yang singkat banget intinya aja
+   P(2w): 3. Maket
+   [IMG#3] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYvBa8xREZ8kuTSd-n3QD5zDziWw-CU0Qtg10pT8UnUYzpfmjJnZbq7okR_hf777Fj8q137JFc-fPkMdX-3nz95f5Z05uZ6I2MZYoFzPiVPndK_eA2wdh14AiObIIr7FDgWs4aR9qeHmZ
+   LIST[ul] n=1:
+        1. Penjelasan Fungsi Media: Mockup 1 — Stiker SA
+   LIST[ul] n=1:
+        1. Penjelasan Fungsi Media: Mockup 2 — Kartu Nama
+   [IMG#4] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiojrZ8H1iodxxuP-UruDauBNs6jxZO2hZnur7JfyinC3eGotyApGkgzOfBBf5yvf7oK079Ez4Ogf2r25Z3sSC1pFhK02kRVzrcpmxpf8HWvyCur2xuHtc60IA1e5BFg8xWECapAGm3K3U
+   [IMG#5] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXYJGS1rSz__NIY3I7ZmDRQ9cmlnPF8q4y6SpJpUGLNrM13gHdqIc2sYyM7J6ommF1iZxGbkVcWX71rrDpbKwoHqKStQAv2m0rR1_RNcD_Bi891_1gGUHfTokoKNpHKJp_5Ka-NgcpyVb
+   LIST[ul] n=1:
+        1. Penjelasan Fungsi Media: Mockup 3 — Social Media Feed SA
+   [IMG#6] alt='' w=213 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWi9S9PqbJoMg8-mNbouPT8M0pjNW3iEVKJN9LgCWYA5Ctjehqzus7MET2KK54HJHdEMrRbY0C684lY9zF0-7HAJK7O1MPze8uqIrUQXawPW4KnGP_Y-k9weL_yVEPsawhZN-veOUeirh
+
+## HEADING [h2]: Shotlist Video Iklan "Capture Your Moment"
+   [TABLE#1] rows=12 maxcols=7
+        r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+        r02: 1 || Maskot muncul || Full Shot || Eye Level || Static || 3 detik || Maskot SA berdiri sambil membawa kamera.
+        r03: 2 || Memegang kamera || Medium Shot || Eye Level || Pan || 3 detik || Menampilkan kamera yang digunakan maskot.
+        r04: 3 || Menyiapkan kamera || Close Up || High Angle || Static || 2 detik || Memperlihatkan tangan maskot saat menyiapkan kamera.
+        r05: 4 || Mencari objek foto || Medium Shot || Eye Level || Follow || 3 detik || Maskot berjalan mencari objek yang menarik.
+        r06: 5 || Melihat objek || Close Up || Eye Level || Zoom In || 2 detik || Fokus pada ekspresi maskot saat menemukan objek.
+        r07: 6 || Mengarahkan kamera || Medium Close Up || Low Angle || Tilt Up || 3 detik || Maskot mengarahkan kamera ke objek.
+        r08: 7 || Mengambil foto || Close Up || Eye Level || Static || 2 detik || Menampilkan maskot saat menekan tombol kamera.
+        r09: 8 || Hasil foto || Close Up || Eye Level || Zoom In || 3 detik || Hasil foto ditampilkan dengan nuansa soft pink dan soft blue.
+        r10: 9 || Maskot dan hasil foto || Medium Shot || Eye Level || Pan || 3 detik || Maskot melihat hasil foto dengan ekspresi senang.
+        r11: 10 || Logo SA muncul || Close Up || Eye Level || Zoom Out || 3 detik || Logo SA dan identitas branding ditampilkan.
+        r12: 11 || Closing Tagline || Full Shot || Eye Level || Static || 3 detik || Logo SA dan tagline "Capture the beauty in every moment" menjadi penutup.
+   [TABLE#2] rows=0 maxcols=0
+   [IMG#7] alt='' w=320 h=292 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB9v2KGDT91aSoPmST57jRyoPxudKy_6iVSZ5khTu7-i9rrxoeUHOsO0Q_uS5n2rcykUv5BHSi-JFmgpPzwNaJsCAF4mS_ZnLeB5aYc-mNUaWNmuIMGJs7NUL4IqAkLaEm39Mb4W_ps5l

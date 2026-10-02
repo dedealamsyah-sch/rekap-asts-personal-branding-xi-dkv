@@ -1,0 +1,292 @@
+====================================================================================================
+ID R62 | XI DKV 2 | SRI AYU WAHYUNI
+URL: https://sriayuwahyunichil.blogspot.com/2026/10/asts-personal-branding-sri-ayu-wahyuni_061312112.html
+STATUS: 200  final=https://sriayuwahyunichil.blogspot.com/2026/10/asts-personal-branding-sri-ayu-wahyuni_061312112.html
+PAGE TITLE: Ayu's Blog: PERSONAL BRANDING: SRI AYU WAHYUNI - XI DKV 2 SMKN 9 GARUT
+H1: Ayu's Blog
+WORDS: 2552 | IMAGES: 6 | TABLES: 0
+LABELS: AI, BRANDING TUGAS SEKOLAH, CV, KEGIATAN MEMBERSIHKAN LAB, Personal Branding, Portofolio, SMKN 9 Garut, TUGAS SEKOLAH
+KW COUNTS: {'logo': 21, 'moodboard': 3, 'mockup': 3, 'naskah': 26, 'storyline': 5, 'shotlist': 3, 'storyboard': 4, 'mascot': 20, 'prompt': 8, 'tagline': 9, 'deskripsi': 24, 'by_nama': 0, 'color': 29, 'tipografi': 5}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h3]: 
+
+## HEADING [h1]: ASTS PERSONAL BRANDING: SRI AYU WAHYUNI - XI DKV 2 SMKN 9 GARUT
+
+## HEADING [h3]: 
+
+## HEADING [h3]: A. PERSONAL BRANDING
+   [IMG#1] alt='' w=320 h=174 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_fw65vRJirFicSYKPbKy__XGSWUJELrtGMlA8cHjbwxr43Nfh3isfMgEaja-JLA4uucWlRLbN3yddjoLigEVaTwdLVBIPdvvbjryabTBcxovWfV8roTKueNthXjfI3OknwD-M-mpxmhd
+   P(3w): DESKRIPSI PERSONAL BRANDING
+   P(5w): "Blossoming Creativity in Soft Hue"
+   P(154w): ​Brand personal Sri Ayu Wahyuni (SYW) dibangun di atas fondasi kelembutan, estetika visual modern, dan kehangatan kreativitas muda. Mengusung warna soft pink/pastel pink sebagai identitas utama, visual branding ini memancarkan kesan feminim yang tenang, approachable, dan estetik tanpa menghilangkan profesionalitasnya di bidang media kreatif. Warna merah muda melambangkan empati, imajinasi, dan kelembutan ekspresi artistik, yang dipadukan secara harmonis dengan elemen desain garis clean dan sentuhan cute yang tidak berlebihan. ​Identitas visual SYW mencerminkan jiwa seorang kreator serba bisa y
+   P(2w): Prompt Teks
+   P(20w): Haii berperanlah sebagai egxpert desainer i will make new personal branding/logo from my initial name Sri Ayu Wahyuni "SYW":
+   P(5w): • Karakter diri (feminim, aesthetic, cute)
+   P(5w): • Hobi: Menggambar, desain, dan foto
+   P(9w): • Bidang kreatif yang diminati: Fotografi, desain grafis, dan konten
+   P(17w): • Deskripsi konsep: Sri Ayu ini menyukai warna pink muda, dan aesthetic girl (buat deskripsi minimal 100 kata) .
+
+## HEADING [h3]: B. MOODBOARD BRANDING
+   [IMG#2] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCWmouJFlQjQ6oRR0Wq2K8mW1IjrzIorqQTbKVRO2BCf4nE1SM3CwtFJMLnYf0uQCv_kZAQT4ioBX4d5NcD6WGPGWoDlO9S4a08AR481V_47l7TlGB-NEaufVvdSHS_MUEO65LxHF5ETI
+   P(3w): Dekripsi MoodBoard Branding
+   LIST[ul] n=1:
+        1. Warna Utama: Pink pastel (`#F8C8DC`) yang manis/feminin, Rose Gold (`#E4B494`) yang hangat/mewah, dan Warm Cream (`#FFF9F5`) sebagai latar bersih.
+   LIST[ul] n=1:
+        1. Tipografi: Script kaligrafi tulisan tangan untuk kesan artistik, dipadu Sans-Serif bersih untuk nama dan tagline agar rapi.
+   LIST[ul] n=1:
+        1. Style Visual: Minimalis dan estetis dengan foto kamera, kuas lukis, serta ilustrasi garis bunga (floral line art).
+   LIST[ul] n=1:
+        1. Tone & Mood: Aesthetic, Cute, Calm, dan Elegant.
+   LIST[ul] n=1:
+        1. Elemen Grafis: Ikon kamera, buket bunga, kilau bintang, dan garis lengkung halus.
+   LIST[ul] n=1:
+        1. Inspirasi Visual: Komposisi feed foto bernuansa hangat, bunga-bunga pink, dan detail peralatan seni.
+   P(2w): Prompt Teks
+   P(11w): berdasarkan logo di atas buatkan moodboard nya sesuai dengan ketentuan berikut:
+   P(4w): 1. Warna utama branding
+   P(2w): 2. Tipografi
+   P(3w): 3. Style visual
+   P(3w): 4. Tone & mood
+   P(3w): 5. Elemen grafis
+   P(3w): 6. Inspirasi visual
+   P(1w): Output:
+   P(2w): Format landscape
+
+## HEADING [h3]: C. MOCK UP BRANDING
+   [IMG#3] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMingRvaOuhpGX1_3WBKAmOSWQXgP8rqMnon8_-EF3NPiE_AzYP1AUrP9kENlKwMY-xTXWjHfwkOoWYczkC-_u7XvsX6MkPc08oC12_PakXWhQDeodSnRJTDYPSw63gK6jSMoeqXCU4B4
+   P(5w): Deskripsi Mockup Personal Branding (SYW)
+   P(20w): Penerapan identitas visual logo "SYW" pada berbagai media merchandise dan platform digital ditampilkan dengan gaya yang konsisten, bersih, dan estetis:
+   P(3w): 1. Tumbler (Merchandise)
+   LIST[ul] n=3:
+        1. Desain: Logo "SYW" beserta nama lengkap dan tagline tercetak dengan presisi di bagian tengah botol dan mug stainless steel.
+        2. Warna & Bahan: Menggunakan warna dasar krem bernuansa doff/matte yang memberikan kesan premium, hangat, dan eksklusif.
+        3. Visual Context: Ditempatkan di studio kreatif bersama peralatan menggambar dan bunga-bunga lembut untuk memperkuat kesan feminin.
+   P(3w): 2. Kaos / Apparel
+   LIST[ul] n=4:
+        1. Desain: Logo ditempatkan di bagian dada depan secara proporsional.
+        2. Varian Warna: Dusty Rose / Muted Pink: Memberikan tampilan manis, elegan, dan aesthetic girl.
+        3. Soft Off-White / Cream: Memberikan opsi tampilan yang netral, minimalis, dan bersih.
+        4. Karakter: Menggunakan bahan katun lembut dengan cetakan logo berwarna kontras yang tetap ramah di mata.
+   P(6w): 3. Social Media Feed (Instagram Grid)
+   LIST[ul] n=6:
+        1. Konsep Layout: Mengusung tema aesthetic grid yang menggabungkan elemen kreativitas, peralatan fotografi, dan portofolio karya.
+        2. Foto Proses Berkarya: Menampilkan momen menggambar/sketsa di atas buku catatan.
+        3. Typography Quote: Desain teks motivasi "CREATE WITH PASSION" yang minimalis dengan sentuhan aksen bintang kilau.
+        4. Foto Studio & Peralatan: Menampilkan studio fotografi dan kamera untuk menegaskan profesionalisme di bidang konten & fotografi.
+        5. Edukasi / Microblog: Template postingan berbentuk catatan (notes) dengan logo mini "SYW" untuk membagikan tips atau cerita.
+        6. Portofolio Visual: Foto model/portrait bernuansa soft lighting yang hangat dan estetik.
+   P(2w): Prompt Teks
+   P(27w): Hebattt baik sekarang sudah sesuai sekarang buatkan/implementasi kan personal branding logo yang telah di buat sebelumnya mock up dalam bentuk Tumbler, Kaos, dan Social Media Feed.
+
+## HEADING [h3]: D. PERENCANAAN VIDEO IKLAN KOMERSIAL
+   P(4w): D.1 Naskah Iklan
+   P(4w): NASKAH IKLAN PERSONAL BRANDING
+   LIST[ul] n=5:
+        1. Judul Naskah: Jejak Rasa dalam Warna dan Lensa
+        2. Tema: Harmoni Seni Visual (Fotografi, Menggambar, dan Desain)
+        3. Target Durasi: 30 Detik
+        4. Pesan Utama: Setiap ide, cerita, dan momen indah dapat diabadikan serta dihidupkan kembali melalui karya seni visual yang penuh makna.
+        5. Karakter / Voice Over: Narator (Suara lembut, hangat, menginspirasi, dan penuh penghayatan)
+   P(1w): ---
+   P(6w): ### ALUR ADEGAN DAN AUDIO (30 DETIK)
+   P(7w): Detik 00:00 - 00:06 (Opening)
+   P(28w): Visual: Scene pembuka dengan close-up lensa kamera yang membidik pemandangan atau subjek, diselingi efek kilatan *shutter* yang lembut. Tampil karakter maskot/pemeran utama membawa kamera dengan percaya diri.
+   P(8w): Musik: Melodi piano lembut mengalun dengan tempo sedang.
+   P(13w): Narasi (VO): "Setiap detik menyimpan cerita... dan lewat lensa, waktu berhenti untuk dikenang."
+   P(6w): Detik 00:06 - 00:13
+   P(25w): Visual: Transisi ke sketsa tangan di atas kertas atau *drawing tablet*. Kuas dan pensil menggores garis-garis indah hingga perlahan berubah menjadi ilustrasi warna-warni yang hidup.
+   P(11w): Narasi (VO): "Lewat goresan dan warna, imajinasi yang senyap... menemukan jiwanya."
+   P(6w): Detik 00:13 - 00:21
+   P(25w): Visual: Tampilan layar monitor memperlihatkan proses penyusunan *layout* desain grafis yang rapi dan elegan, memadukan foto dan ilustrasi menjadi satu kesatuan karya branding yang utuh.
+   P(20w): Narasi (VO): "Menata ide menjadi visual yang bermakna, karena seni bukan hanya tentang apa yang dilihat, tapi apa yang dirasakan."
+   P(6w): Detik 00:21 - 00:25
+   P(16w): Visual: Maskot Ayu-chan tersenyum ramah sambil memegang kamera dan alat lukis, memberikan pesan ajakan yang hangat.
+   P(10w): Narasi (VO): "Abadikan momenmu, wujudkan kreasimu bersama Sri Ayu Wahyuni."
+   P(8w): Detik 00:25 - 00:30 (Closing Screen)
+   P(18w): Visual: Layar menampilkan logo utama "Syw - Sri Ayu Wahyuni (Creative | Design | Photography)" bersandingan dengan maskot di sisinya.
+   P(9w): Musik: Puncak melodi (crescendo) lalu meredup lembut (fade out).
+   P(11w): Closing Tagline (VO): "Merangkai Cerita dalam Lensa, Menghidupkan Rasa dalam Karya."
+   P(1w): ---
+   P(2w): ### RINGKASAN KETENTUAN
+   P(8w): 1. Judul: Jejak Rasa dalam Warna dan Lensa
+   P(6w): 2. Tema: Fotografi, Menggambar, dan Mendesain
+   P(13w): 3. Pesan Utama: Abadikan momen dan hidupkan kreasi visual bersama Sri Ayu Wahyuni.
+   P(16w): 4. Narasi / Dialog: Terdiri dari 53 kata, sangat pas dan pas untuk tempo pembacaan 30 detik.
+   P(11w): 5. Closing Tagline: "Merangkai Cerita dalam Lensa, Menghidupkan Rasa dalam Karya."
+   P(2w): Prompt Teks
+   P(12w): Sangattt kerenn, pertama saya ingin membuat naskah/scriptnya terlebih dahulu berikut ketentuannya:
+   P(3w): - Naskah iklan
+   P(2w): Wajib memuat:
+   P(9w): 1. Judul: sesuaikan dengan hobi"Fotografi, Menggambar, dan mendesain"
+   P(5w): 2. Tema: Sesuaikan dengan hobi
+   P(4w): 3. Pesan utama: Sesuaikan
+   P(9w): 4. Narasi/dialog: Sesuaikan untuk memenuhi durasi 30 detik
+   P(10w): 5. Closing tagline: Buatkan kata kata yang bermakna dan puitis
+   P(3w): D.2 Storyline
+   P(2w): Deskripsi Storyline
+   P(4w): ​STORYLINE IKLAN PERSONAL BRANDING
+   LIST[ul] n=2:
+        1. ​Judul: Jejak Rasa dalam Warna dan Lensa
+        2. Durasi: 30 Detik
+   P(3w): ​1. Pembukaan (Opening)
+   P(50w): ​Dunia Lensa & Momen yang Terhenti: Video dibuka dengan dunia penuh warna yang bergerak cepat. Tiba-tiba, fokus mengecil ke arah viewfinder kamera. Sosok karakter maskot/pemeran utama menekan tombol shutter. Suara krik shutter berbunyi nyaring, dan seketika suasana sekitar membeku menjadi satu bingkai foto yang indah dan bernuansa hangat (rose gold).
+   P(12w): ​Nuansa: Awal yang tenang, memikat, dan membawa penonton masuk ke dalam momen.
+   P(4w): ​2. Alur Cerita (Development)
+   P(33w): ​Dari Garis Menuju Imajinasi: Momen foto tersebut bertransisi secara halus ke lembaran kertas digital/gambar. Tangan mulai menggoreskan pensil, membentuk garis-garis sketsa. Garis tersebut secara ajaib berubah menjadi warna-warni hidup khas dunia ilustrasi.
+   P(36w): ​Proses Penggabungan / Harmoni: Alur berlanjut memperlihatkan karya sketsa dan foto tadi disatukan di layar desain. Elemen tata letak (layout), tipografi, dan warna disusun secara presisi hingga membentuk sebuah karya desain grafis yang utuh, rapi, dan estetis.
+   P(7w): ​3. Konflik / Fokus Visual (Climax & Visual Focus)
+   P(18w): ​Tantangan Visual: Menampilkan kontras antara ide yang masih acak/sepi dengan hasil akhir karya yang kaya akan rasa.
+   P(13w): ​Fokus Visual Utama: Penekanan pada tiga elemen utama hobi & keahlian yang saling melengkapi:
+   P(5w): ​Fotografi (Menangkap realita & emosi momen).
+   P(5w): ​Menggambar/Ilustrasi (Menciptakan imajinasi & karakter).
+   P(9w): ​Mendesain (Menyatukan cerita menjadi visual yang bernilai dan berkelas).
+   P(23w): ​Potret close-up maskot tersenyum percaya diri memegang kamera dan alat lukis, menunjukkan kesiapan untuk mengubah setiap ide sederhana menjadi karya yang luar biasa.
+   P(6w): ​4. Penutup (Ending & Call to Action)
+   P(25w): ​Simbolisasi Branding & Tagline: Layar bertransisi bersih (clean transition) menampilkan logo Syw - Sri Ayu Wahyuni (Creative | Design | Photography) bersandingan dengan maskot bergaya anime di sampingnya.
+   P(22w): ​Kesan Akhir: Kamera melakukan zoom out perlahan disertai musik yang meredup lembut. Suara voice over membacakan tagline puitis yang membakar semangat kreatif:
+   P(8w): “Merangkai Cerita dalam Lensa, Menghidupkan Rasa dalam Karya.”
+   P(2w): Prompt Teks
+   P(7w): Okeyy Terima kasih, Sekarang buatkan juga storyline.
+   P(1w): • Storyline
+   P(4w): Ini ketentuannya, wajib memuat:
+   P(2w): 1. Pembukaan
+   P(3w): 2. Alur cerita
+   P(4w): 3. Konflik/Fokus Visual
+   P(2w): 4. Penutup
+   P(3w): D.3 Shotlist
+   [IMG#4] alt='' w=320 h=175 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtI5XMpcuyGAra7qLZ7YHT7hYLBOycidlpGdzo8efCshhjhjhkU8MYUjiSw_os8C9-jLZ8amKcdQ-vXVF7XDLyggA5i8X79bxHFZRJ7zc9916f6OMbvKoJkPYTQankBCT3FUEiGl6nkvw
+   P(2w): Deskripsi Shotolist
+   P(6w): 1. Scene 1: Pembuka & Pengenalan Identitas
+   P(28w): Konsep Visual: Kamera foto klasik gaya vintage diletakkan di atas meja kerja yang rapi dengan latar belakang warna pastel lembut. Elemen merek (logo monogram "Syw") terlihat pada lensa.
+   P(20w): Teknis Kamera: Menggunakan Extreme Close-Up (ECU) sejajar mata (Eye Level). Teknik Fade In memberikan kesan pembuka yang tenang dan berkelas.
+   P(14w): Tujuan Pesan: Menarik perhatian penonton serta menetapkan tema utama visual: fotografi dan estetika cerita.
+   P(7w): 2. Scene 2: Detail Proses Kreatif Fotografi
+   P(26w): Konsep Visual: Tangan desainer/fotografer sedang menyesuaikan atau memutar cincin fokus pada lensa kamera antik. Terdapat ornamen bunga mawar merah muda yang menambah nuansa kelembutan feminin.
+   P(22w): Teknis Kamera: Menggunakan Close-Up (CU) dengan sudut dari atas (High Angle). Pengambilan gambar berfokus pada interaksi fisik antara subjek dan alat kerjanya.
+   P(11w): Tujuan Pesan: Menggambarkan presisi, ketelitian, dan dedikasi dalam menangkap momen detail.
+   P(7w): 3. Scene 3: Pengenalan Personal (Fotografer & Desainer)
+   P(20w): Konsep Visual: Karakter Sri Ayu Wahyuni memegang kamera di latar luar ruangan (taman) dengan latar daun dan tanaman yang asri.
+   P(21w): Teknis Kamera: Pengambilan gambar Medium Shot (MS) setara mata (Eye Level). Transisi menggunakan Match Cut diiringi efek suara shutter (SFX Klik).
+   P(13w): Tujuan Pesan: Memperkenalkan sosok kreator secara personal kepada penonton sebagai fotografer sekaligus desainer.
+   P(7w): 4. Scene 4: Sisi Ilustrasi & Desain Grafis
+   P(16w): Konsep Visual: Tangan karakter sedang menggambar ilustrasi bunga secara digital menggunakan stylus pen dan tablet grafis.
+   P(11w): Teknis Kamera: Menggunakan Close-Up (CU) sudut tegak lurus dari atas (Top-Down).
+   P(16w): Tujuan Pesan: Menunjukkan keahlian kedua dari Sri Ayu Wahyuni, yaitu seni gambar/desain grafis selain fotografi.
+   P(7w): 5. Scene 5: Identitas Brand & Estetika Visual
+   P(19w): Konsep Visual: Monogram nama "Syw" dengan hiasan dedaunan dan bunga yang indah dalam latar bertema warna merah muda pastel.
+   P(12w): Teknis Kamera: Medium Close-Up (MCU) Eye Level dengan efek transisi kelembutan (Morphing).
+   P(12w): Tujuan Pesan: Memperkuat citra merek (branding) yang anggun, estetik, dan penuh keimajinasian.
+   P(7w): 6. Scene 6: Proses Editing & Pemilihan Karya
+   P(18w): Konsep Visual: Sudut pandang dari belakang bahu (Over-The-Shoulder / OTS) memperlihatkan laptop yang menampilkan galeri foto dan aset desain.
+   P(12w): Teknis Kamera: Medium Shot (MS) dengan sedikit sudut tinggi (Slight High Angle).
+   P(14w): Tujuan Pesan: Memperlihatkan alur kerja profesional dalam mengorganisasi ide dan mengurasi hasil karya terbaik.
+   P(6w): 7. Scene 7: Portofolio & Hasil Akhir
+   P(17w): Konsep Visual: Tampilan layar komputer yang memperlihatkan susunan portofolio karya kreatif secara jelas, bersandingan dengan kamera fisik.
+   P(12w): Teknis Kamera: Medium Close-Up (MCU) dengan pergerakan kamera perlahan mendekat (Zoom In).
+   P(16w): Tujuan Pesan: Menegaskan bahwa karya seni buatan Sri Ayu Wahyuni dibuat dengan rasa dan kedalaman makna.
+   P(7w): 8. Scene 8: Karakter Kreatif & Elemen Multitalenta
+   P(21w): Konsep Visual: Karakter ilustrasi tampil penuh percaya diri dikelilingi alat-alat kreasinya yang melayang (kamera, kuas lukis, palet warna, dan pen tablet).
+   P(18w): Teknis Kamera: Medium Full Shot (MFS) dari sudut rendah (Low Angle) untuk memberikan kesan dinamis dan percaya diri.
+   P(13w): Tujuan Pesan: Menekankan kesiapan dan keahlian multitalenta dalam mengeksekusi berbagai kebutuhan proyek kreatif.
+   P(8w): 9. Scene 9: Ajakan Kolaborasi (Call to Action)
+   P(12w): Konsep Visual: Karakter fotografer tersenyum ramah mendekati kamera sambil memegang alat fotografinya.
+   P(9w): Teknis Kamera: Medium Close-Up (MCU) sejajar mata (Eye Level).
+   P(14w): Tujuan Pesan: Membangun koneksi emosional yang hangat dengan calon klien dan mengajak untuk berkolaborasi.
+   P(6w): 10. Scene 10: Penutup & Branding Lengkap
+   P(18w): Konsep Visual: Kartu nama/logo penutup berisi tulisan "SRI AYU WAHYUNI - CREATIVE | DESIGN | PHOTOGRAPHY" beserta tagline merek.
+   P(10w): Teknis Kamera: Full Screen Branding dengan transisi penutup Fade Out.
+   P(15w): Tujuan Pesan: Memberikan kesan akhir yang profesional, mempermudah pengenalan nama merek, dan menyimpulkan visi-misi layanan.
+   P(2w): Prompt Teks
+   P(13w): Selanjutnya, ayo lanjutkan ke projek implementasikan atau buatkan shotlistnya. Ke dalam bentuk image.
+   P(7w): ketentuan: Buat tabel shotlist minimal 10 shot.
+   P(8w): No | Adegan | Jenis Shot | Angle | Movement | Durasi | Deskripsi
+   P(3w): D.4 Storyboard
+   [IMG#5] alt='' w=320 h=175 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjurihVDP_Jnynur71pVczc6z1yLunIVA7rk1bZ4Nu_gqt6XoN6-wSR9XGmrGpculgVg_93LjWZOHtEOiDXfV1GsWw0CEau20bj3UCrcqvzdV7KABhsYji3ZtaGhzboalVr9QiAUOhIAaR
+   P(2w): Deskripsi Storyboard
+   P(5w): Deskripsi Visual Storyboard (10 Scene)
+   P(8w): ​Scene 1 (Extreme Close-Up | Eye Level | Fade In)
+   LIST[ul] n=2:
+        1. ​Visual: Kamera memfokuskan lensa ring dengan pantulan ukiran logo "Syw" yang halus pada permukaan kaca lensa.
+        2. ​Voice Over: "Setiap detik menyimpan cerita..."
+   P(6w): ​Scene 2 (Close-Up | High Angle | Dissolve)
+   LIST[ul] n=2:
+        1. ​Visual: Tangan dengan cincin simpel menekan tombol shutter kamera, memicu efek pancaran cahaya flash halus.
+        2. ​Voice Over: "...dan lewat lensa, waktu berhenti untuk dikenang."
+   P(8w): ​Scene 3 (Medium Shot | Eye Level | Match Cut)
+   LIST[ul] n=2:
+        1. ​Visual: Maskot Ayu-chan tampil anggun di area luar ruangan (taman) mengenakan pakaian rose gold, memegang kamera dengan percaya diri.
+        2. ​Voice Over & SFX: (SFX: Klik, Shutter) — "Sri Ayu Wahyuni, fotografer dan desainer."
+   P(6w): ​Scene 4 (Close-Up | Top-Down | Motion Blur)
+   LIST[ul] n=2:
+        1. ​Visual: Tangan mengoperasikan stylus pen di atas drawing tablet, menggoreskan sketsa bunga dan ornamen halus.
+        2. ​Voice Over: "Lewat goresan dan warna..."
+   P(7w): ​Scene 5 (Medium Close-Up | Eye Level | Morphing)
+   LIST[ul] n=2:
+        1. ​Visual: Sketsa bunga bertransisi warna menjadi logo bernuansa rose gold yang mekar dan bercahaya lembut.
+        2. ​Voice Over: "...imajinasi yang senyap, menemukan jiwanya."
+   P(10w): ​Scene 6 (Medium Shot / OTS | Slight High Angle | Cross Fade)
+   LIST[ul] n=2:
+        1. ​Visual: Tampilan dari sudut pandang bahu memperlihatkan layar laptop yang sedang memproses susunan layout galeri dan tipografi.
+        2. ​Voice Over: "Menata ide menjadi visual yang bermakna..."
+   P(8w): ​Scene 7 (Medium Close-Up | Eye Level | Zoom In)
+   LIST[ul] n=2:
+        1. ​Visual: Layar monitor laptop menampilkan hasil akhir portofolio desain dan foto yang tersusun rapi di samping kamera.
+        2. ​Voice Over: "...karena seni bukan hanya tentang apa yang dilihat, tapi apa yang dirasakan."
+   P(9w): ​Scene 8 (Medium Full Shot | Low Angle | Fast Pan)
+   LIST[ul] n=2:
+        1. ​Visual: Maskot Ayu-chan tampil penuh percaya diri di tengah ikon alat melukis, kuas, dan kamera yang melayang estetik.
+        2. ​Voice Over: "Abadikan momenmu..."
+   P(9w): ​Scene 9 (Medium Close-Up | Eye Level | Fade to Pink)
+   LIST[ul] n=2:
+        1. ​Visual: Maskot Ayu-chan menatap ramah ke arah penonton, tersenyum hangat sambil memegang kamera di dadanya.
+        2. ​Voice Over: "...wujudkan kreasimu bersama Sri Ayu Wahyuni."
+   P(9w): ​Scene 10 (Full Screen Branding | Eye Level | Fade Out)
+   LIST[ul] n=2:
+        1. ​Visual: Tampilan layar penutup bernuansa rose gold yang menampilkan logo resmi "Syw - SRI AYU WAHYUNI (Creative | Design | Photography)".
+        2. ​Voice Over Tagline: "Merangkai Cerita dalam Lensa, Menghidupkan Rasa dalam Karya."
+   P(2w): Prompt Teks
+   P(9w): Amazing, Yang terakhir, implementasikan kedalam storyboard nya. Dengan ketentuan:
+   P(3w): 1. 10 scene
+   P(3w): 2. Visual adegan
+   P(3w): 3. Keterangan shot
+   P(3w): 4. Angle kamera
+   P(2w): 5. Transisi
+   P(4w): 6. Dialog atau narasi
+
+## HEADING [h3]: E. MASCOT CHARACTER
+   [IMG#6] alt='' w=320 h=175 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWtP5q8A1YBN1WZDRJpomzz5qxQaNvFZD0_OCORH0DrPVLwpdfM7LqF4309BlCkcZuM_sQHvB2iM0pcVi2EVorWziBB50WyvUzuTzMoZiw6Ytf8eOinSJ2x_atIssTD1yaH2YEWZGPEb
+   P(3w): Deskripsi Mascot Character
+   P(7w): Deskripsi maskot personal branding Sri Ayu Wahyuni:
+   P(4w): 1. Konsep & Identitas Maskot
+   P(3w): Nama Maskot: Ayuchil
+   P(3w): Gaya Visual: Anime
+   P(4w): Aesthetic / Soft Manga Style
+   P(19w): Palet Warna: Rose Gold, Dusty Pink, Soft Bronze, dan Pearl White (diselaraskan secara presisi dengan warna utama logo "Syw").
+   P(10w): Karakter & Kepribadian: Ramah, kreatif, profesional, ceria, dan berjiwa seni tinggi.
+   P(6w): 2. Detail Tampilan Maskot (3 Output)
+   P(5w): -Panel 1: Maskot Full Body
+   P(2w): Postur & Pakaian:
+   LIST[ul] n=4:
+        1. Maskot tampil berdiri anggun mengenakan gaun bergaya vintage-modern bertingkat warna rose gold yang dihiasi ornamen bunga di bagian bawahnya.
+        2. Aksesori Kreatif: Memegang kamera ringkas dengan percaya diri, mencerminkan keahlian Photography.
+        3. Di bagian latar belakang/samping terdapat alat-alat seni seperti kuas lukis, pen tablet/fountain pen, dan palet warna, melambangkan bidang Creative & Design.
+        4. Hiasan bunga mekar di rambut cokelat bergelombangnya menambah kesan feminim dan estetik.
+   P(5w): -Panel 2: Maskot Portrait (Close-up)
+   LIST[ul] n=4:
+        1. Fokus Visual: Sorot mata bernuansa hangat dan senyuman manis yang memberikan kesan ramah serta mudah didekati (approachable).
+        2. Detail Branding: Kerah baju dirancang khusus dengan bordiran logo monogram "Syw".
+        3. Memegang kamera didepan dada, siap mengabadikan momen.
+        4. Latar belakang memiliki pendaran cahaya lembut (soft glow) yang menonjolkan elemen kecantikan dan profesionalisme.
+   P(6w): -Panel 3: Maskot Bersama Logo Branding
+   LIST[ul] n=2:
+        1. Komposisi: Maskot berdiri secara harmonis di atas logo utama "Sri Ayu Wahyuni - Creative | Design | Photography".
+        2. Fungsi Visual: Format ini sangat ideal digunakan sebagai watermark, banner.
+   P(2w): Prompt Teks
+   P(15w): Sekarang buatkan Mascout dari personil branding/logo yang telah dibuat,buat Mascout dengan style anime.
+   P(1w): Output:
+   P(4w): 1. Mascout full body
+   P(3w): 2. Mascout potrait
+   P(5w): 3. Mascout bersama logo branding

@@ -1,0 +1,39 @@
+====================================================================================================
+ID R58 | XI DKV 4 | RISMAYANTI
+URL: https://riesmaww.blogspot.com/2026/10/asts-personal-branding-rismayanti-xi.html
+STATUS: 200  final=https://riesmaww.blogspot.com/2026/10/asts-personal-branding-rismayanti-xi.html
+PAGE TITLE: ASTS PERSONAL BRANDING RISMAYANTI XI DKV 4 SMKN 9 GARUT
+H1: 
+WORDS: 2855 | IMAGES: 5 | TABLES: 0
+LABELS: AI, BRANDING FORTOFOLIO, PERSONAL, SMKN9GARUT, TUGAS SEKOLAH
+KW COUNTS: {'logo': 23, 'moodboard': 10, 'mockup': 8, 'naskah': 3, 'storyline': 1, 'shotlist': 0, 'storyboard': 1, 'mascot': 22, 'prompt': 5, 'tagline': 6, 'deskripsi': 26, 'by_nama': 0, 'color': 23, 'tipografi': 8}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h2]: ASTS PERSONAL BRANDING RISMAYANTI XI DKV 4 SMKN 9 GARUT
+
+## HEADING [h2]: 1. LOGO PERSONAL
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikjjjT5FBsCt6xNHaxVLrx_oHGyd6PZGYenvtIw-GWeiBnFF2RUCxgdDfRUiGLzGpo8OsYqygHS_C7R_ocBFAPINYHsAdw0RMKhtNa0Odh9O-Ck8lC-0ouL7I7DFmWsAzYFby6jherJJs
+
+## HEADING [h2]: 2. MOODBOARD
+   [IMG#2] alt='' w=300 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsz7UvrxvQi4V59RU1Q4jL8DvH-IYbQcWE0mGPhILTspzXVirKEO__EA57kZ97OpX3zurLjZdq2X7pU26Jt8_RazUj_ewnfUhqZ5LsW3vvEKTl_ABwjfGHieFfWGg2KkC05JGaR7w3Gq_
+
+## HEADING [h2]: 3. MOCKUP
+   [IMG#3] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBoqeAJm0KvW8BKFvuGVpUDtcdAmOirShmbm8GH4PslOa18-e-K4Js4JlhSdrpZzXp6nnrmG-1pzuonB6giJNGrXKCUmZMCPcYD7-ipdiuE58dKLyuQH9q3UKg6KfhwLUIFyMTwendJo1
+
+## HEADING [h2]: 4. MASKOT
+   [IMG#4] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhktFnJrCCWCiuYeTJhpqnzhFpHMcgO0uC1TMSQoqQjgsQO1LdbCayQQwqk9VkMaxo6uEZlQRiyFHnVT_P8rYU93PdqreDr9ueHvA2RwWuXllaxZo9U5ANQYZ4c0DGz8l9tD5lrTw-yFVD
+
+## HEADING [h2]: 5. KONSEP VIDEO
+   [IMG#5] alt='' w=300 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ILAKfvhcPBiSh6cS-fGp2uAaEnFa4HuOFwq4UU6DMH6Vz-KKDbFiFIOpVhDToRe2bActqyg8cKtXJmuYaCcGuUWJsAnSn0OtRb6rmF3nA-tX-uzbzvNn0MOGKDtRI0cxGkB7g0EtJX8
+
+## HEADING [h2]: 6. STORYLINE
+
+## HEADING [h2]: 7. STORYLIST
+
+## HEADING [h2]: 8. STORYBOARD
+
+## HEADING [h2]: 9. PROMPT YANG DIGUNAKAN
+
+## HEADING [h2]: 10. PENJELASAN RINCI

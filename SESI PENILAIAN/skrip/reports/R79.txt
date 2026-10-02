@@ -1,0 +1,43 @@
+====================================================================================================
+ID R79 | XI DKV 4 | NADIRA MEGA RIZKIA
+URL: https://nadiramegarizkia.blogspot.com/2026/10/personal-branding-nadira-mega-rizkia.html
+STATUS: 200  final=https://nadiramegarizkia.blogspot.com/2026/10/personal-branding-nadira-mega-rizkia.html
+PAGE TITLE: Personal Branding Nadira Mega Rizkia
+H1: 
+WORDS: 1645 | IMAGES: 7 | TABLES: 0
+LABELS: 
+KW COUNTS: {'logo': 22, 'moodboard': 7, 'mockup': 7, 'naskah': 20, 'storyline': 5, 'shotlist': 4, 'storyboard': 3, 'mascot': 9, 'prompt': 1, 'tagline': 1, 'deskripsi': 8, 'by_nama': 9, 'color': 13, 'tipografi': 4}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h1]: ASTS PERSONAL BRANDING NADIRA MEGA RIZKIA XI DKV 4 SMKN 9 GARUT
+
+## HEADING [h2]: 
+
+## HEADING [h3]: 1. Logo Persona Branding
+   [IMG#1] alt='' w=320 h=320 src=https://lh3.google.com/u/1/d/1XqWDJ3yzrCdpOmMqxy0HnONupl4nOslS=s320?auditContext=thumbnail
+
+## HEADING [h3]: 2.Moodboard
+   [IMG#2] alt='' w=320 h=240 src=https://lh3.google.com/u/1/d/1dPhb6W3uCh4ZOOGldDkmm9n-qnhUPxNw=s320?auditContext=thumbnail
+
+## HEADING [h3]: 3.Mockup
+   [IMG#3] alt='' w=320 h=213 src=https://lh3.google.com/u/1/d/1tPjvHIPiwdX9HnIda59LMJn-Ggk1xWoJ=s320?auditContext=thumbnail
+
+## HEADING [h3]: 4.Mascot
+   [IMG#4] alt='' w=320 h=213 src=https://lh3.google.com/u/1/d/1sSExd-N_K9vnYt7QXK9yjOqiwjaLPWRy=s320?auditContext=thumbnail
+
+## HEADING [h3]: 5.Naskah Iklan
+   [IMG#5] alt='' w=320 h=213 src=https://lh3.google.com/u/1/d/1zG5YaWQUAwx99_Wd-l-D5Hlajq-NCYFw=s320?auditContext=thumbnail
+
+## HEADING [h3]: 6. Storyline
+
+## HEADING [h3]: 7. Shotlist
+   [IMG#6] alt='' w=320 h=50 src=https://lh3.google.com/u/1/d/1nY-mcpBlCVUXvpHmYcP84A6BQ1_hBnAF=s320?auditContext=thumbnail
+
+## HEADING [h3]: 8. Storyboard
+   [IMG#7] alt='' w=320 h=124 src=https://lh3.google.com/u/1/d/1a-YDWhxiOlvCYGYYPtl-yvaruMyJgxxT=s320?auditContext=thumbnail
+
+## HEADING [h3]: 9. Penjelasan Konsep
+
+## HEADING [h3]: 10. Prompt yang di gunakan

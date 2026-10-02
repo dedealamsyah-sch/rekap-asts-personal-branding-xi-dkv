@@ -1,0 +1,169 @@
+====================================================================================================
+ID R16 | XI DKV 2 | NURJIHAN
+URL: https://nurjihansa01.blogspot.com/2026/09/personal-branding-nurjihan.html
+STATUS: 200  final=https://nurjihansa01.blogspot.com/2026/09/personal-branding-nurjihan.html
+PAGE TITLE: PERSONAL BRANDING NURJIHAN
+H1: 
+WORDS: 3445 | IMAGES: 6 | TABLES: 0
+LABELS: AI, Branding logo, CV, kegiatan bersih bersih, personal branding, portofolio, tugas sekolah
+KW COUNTS: {'logo': 30, 'moodboard': 8, 'mockup': 3, 'naskah': 19, 'storyline': 3, 'shotlist': 3, 'storyboard': 6, 'mascot': 21, 'prompt': 7, 'tagline': 16, 'deskripsi': 8, 'by_nama': 0, 'color': 23, 'tipografi': 10}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+   P(3w): Oktober 01,2026
+
+## HEADING [h1]: ASTS Personal Branding Nurjihan XI DKV 2 SMKN NEGERI 9 GARUT
+
+## HEADING [h2]: 1.PERSONAL BRANDING
+   [IMG#1] alt='' w=320 h=240 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjholDOn80kKLrCF3lofR8wpNhYG2FInnhq3REJJ9LXGeTl10cqO9yJOGhGEuAOcIZadpglq-P0c4xJYa-xP4d8YvD-igD9xzLlIS6AzuNfUs8ECKAweJCmUQCAp3E-Z1omcT2_02zgmBN
+
+## HEADING [h4]: DESKRIPSI
+   P(218w): Sebuah gambar logo yang lucu, berkarakter, dan penuh warna dengan gaya ilustrasi kartun yang hangat, berlatar belakang krem muda yang lembut. Logo ini mengusung nama "Nurjihan". Di bagian atas, terdapat inisial besar "NJ" dalam huruf kapital yang tebal, membulat, dan tumpang tindih, berwarna krem dan cokelat tua. Sebuah mahkota emas kecil terletak di atas huruf "J". Lingkaran swoosh emas melingkari "NJ". Di sekitar inisial terdapat elemen-elemen yang berkaitan dengan memasak dan fotografi. Di sebelah kiri terdapat topi koki putih, panci masak merah muda dengan sendok kayu dan dekorasi hati, se
+
+## HEADING [h3]: 2.MEMBUAT MOODBOARD BRANDING
+   [IMG#2] alt='' w=320 h=180 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSQx3D0qAOyQOWzLAhIzl3aeBksxZk5EIgxKRAkZLXkDCYAf9AwSDvQri2LWModBu4VBw9YITkuiBtm4TSveUU41_rrcvlnxWfLq1aCBfnqA5hrZf78WzevQteVMBj3D6ZvPh_IDX7XhH
+
+## HEADING [h4]: DESKRIPSI :
+
+## HEADING [h4]: 2. Bagian Papan Pedoman (7 Poin Utama)
+
+## HEADING [h4]: 1.Logo Utama: Menampilkan bentuk logo lengkap yang menggabungkan inisial "NJ", topi koki, panci masak, kamera DSLR, foto cetak, serta nama "Nurjihan" dan tagline.
+
+## HEADING [h4]: 2.Tipografi: Membagikan 3 jenis gaya font yang digunakan:
+
+## HEADING [h4]: 3. Palet Warna: Menyajikan 5 kode warna utama beserta namanya:
+
+## HEADING [h4]: 7. Inspirasi Visual / Moodboard: Kolase foto-foto estetis yang menggambarkan suasana keseharian (makanan lezat, kamera DSLR, pemandangan matahari terbenam, bunga tulip, dan ruang kerja) dilengkapi tulisan "Good Food, Good Photo, Good Mood 🙂♡".
+
+## HEADING [h4]: 3.Kutipan Motivasi (Sticky Note Kanan Bawah)
+
+## HEADING [h4]: Prompt :
+   [IMG#3] alt='' w=320 h=292 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz3c8emsy2pFeWbrQHrelbB-m_zmJXQYpcGAvvd3x0rfqOMyS1Sga4H8-O-tVPGnd_j8wl3c0oGx2EZKvpVy-FozfTTqB-2-BAUMvgmAj3RkZFKgiY3ipzlGGLkvqDooWscgByIPDNRXk
+
+## HEADING [h4]: DESKRIPSI :
+
+## HEADING [h4]: 1. Tata Letak Utama (Setup Meja Kerja / Real Life Workspace)
+
+## HEADING [h4]: C. Kamera & Aksesori: Kamera DSLR merk Canon diletakkan di samping laptop bersama tetikus (mouse) merah muda, cangkir es kopi, lembaran stiker, serta catatan bertuliskan "Dream Plan Do ♡".
+
+## HEADING [h4]: D. Sisi Kiri: Vas kaca berisi bunga kering dengan label "Better Things Ahead ♡", tumpukan buku (berjudul Cooking, Photography, Better Me), serta wadah alat tulis.
+
+## HEADING [h4]: 2. Bagian Bawah (Preview Produk & Detail Item)
+
+## HEADING [h4]: 1. Banner:
+
+## HEADING [h4]: Keterangan: Banner custom dengan desain logo dan tagline, cocok untuk dekorasi ruang kerja, studio, atau event.
+
+## HEADING [h4]: 3. Stiker Vinyl:
+   P(18w): • Palet Warna Ringkas: Di sudut kanan bawah terdapat lingkaran sampel warna utama beserta kalimat "Same Vibe, Same Dream".
+   P(10w): Kategori Fokus: Bagian paling bawah menampilkan 4 pilar utama brand:
+
+## HEADING [h4]: Prompt :
+   P(103w): hai bro tolong buatkan mockup produk yang bersih untuk kit personal brand yang serasi. Set ini mencakup sebuah [banner, misal: banner desain komunikasi visual ], [ laptop yang bagus dan aesthetic] yang serasi, dan selembar [STIKER vinyl]. Warna tema: [WARNA : chocolate brown, soft pink, golden yellow, olive green]. Logo kustom yang menampilkan nama '[NURJIHAN ]' dan slogan '[SMALL STPES,BIG DREAMS ]'. Sertakan ikon garis halus kecil yang berkaitan dengan [TOPIK/NICHE, misal: memasak, fotografi]. Disusun di atas meja kerja yang ditata rapi dengan pencahayaan lembut, bunga kering, dan properti e
+
+## HEADING [h3]: 4.MASCOT
+   [IMG#4] alt='' w=320 h=293 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAGqlUEVDTAAQBEiM1ZV3mGPVVvKIdUQbJkAHusmXbBMm6t9cshyphenhyphenjRByKAzQFbGtv5vSRaL54l2gHhaRiRRuxo-VUmisOXV2HtfQjgoEwwAmQsijLL0WRe8jFXTDZsXh-4Z
+
+## HEADING [h4]: DESKRIPSI:
+
+## HEADING [h3]: Gambar ini adalah presentasi komprehensif dari maskot personal brand "Nurjihan", yang dirancang dalam gaya seni anime yang lucu, detail, dan penuh warna. Maskot ini memvisualisasikan identitas brand yang berfokus pada kuliner dan fotografi, dengan tone yang hangat dan ramah seperti yang terlihat pada moodboard sebelumnya. Presentasi ini dibagi menjadi tiga bagian utama:
+   P(52w): Gambar ini adalah presentasi komprehensif dari maskot personal brand "Nurjihan", yang dirancang dalam gaya seni anime yang lucu, detail, dan penuh warna. Maskot ini memvisualisasikan identitas brand yang berfokus pada kuliner dan fotografi, dengan tone yang hangat dan ramah seperti yang terlihat pada moodboard sebelumnya. Presentasi ini dibagi menjadi tiga bagian utama:
+
+## HEADING [h3]: 1. MASCOT FULL BODY (Karakter Utuh)
+
+## HEADING [h4]: • Penampilan & Pakaian:
+
+## HEADING [h4]: Karakter ini memiliki rambut cokelat bergelombang sebahu dengan jepit rambut hati merah muda. Ia mengenakan kemeja koki krem bergaris dengan pin mahkota emas kecil di kerah, apron kanvas cokelat tua yang custom-branded dengan logo "NJ", serta sabuk utilitas berisi alat masak (baking) dan kamera. Bawahan berupa celana kargo utilitas cokelat yang nyaman dan sepatu kets merah muda-cokelat dengan hati.
+
+## HEADING [h4]: • Aksesori: Di tangan kanannya ia memegang pengocok telur (whisk), dan di tangan kirinya ia memegang kamera DSLR Canon yang sama dengan yang ada di brand kit asli.
+
+## HEADING [h4]: • Latar Belakang: Latar belakang adalah sudut workshop atau studio yang kreatif dan nyaman, dipenuhi rak kayu dengan buku-buku, globe, teleskop, berbagai kamera antik, dan tanaman hijau pot. Logo "NJ Nurjihan" versi penuh terlihat di dinding belakang.
+
+## HEADING [h3]: 2. MASCOT PORTRAIT (Detail Wajah & Ekspresi)
+
+## HEADING [h4]: • Ekspresi: Karakter ini tersenyum lebar dengan mata berbinar bahagia, memegang kamera Canon di depan wajahnya seolah sedang membidik foto.
+
+## HEADING [h4]: • Detail: Pin "NJ" di kerah kemeja dan jepit rambut hati terlihat jelas. Latar belakang adalah bokeh hangat dari lampu-lampu peri (fairy lights) dan tanaman, menciptakan suasana yang intim dan inspiratif.
+
+## HEADING [h3]: 3. MASCOT BERSAMA LOGO BRANDING (Integrasi Karakter & Logo)
+
+## HEADING [h4]: • Komposisi: Maskot (kali ini berpose mid-body dengan tangan kanan memegang kamera dan tangan kiri terbuka) berdiri di samping spanduk kanvas besar.
+
+## HEADING [h4]: • Spanduk logo : spanduk tersebut menampilkan logo utama "NJ Nurjihan" secara utuh, lengkap dengan mahkota emas, topi koki, panci, tomat, kamera, dan foto cetak. Teks "Personal Brand" dan tagline "— small steps, big dreams —" tertulis di bawahnya, sama persis dengan desain asli di guide.
+
+## HEADING [h3]: Elemen Pendukung & Footer
+
+## HEADING [h4]: • Latar Belakang Paper: Seluruh presentasi diletakkan di atas latar belakang kertas bertekstur krem hangat dengan sedikit efek pudar.
+
+## HEADING [h4]: • Penamaan Bagian: Masing-masing dari ketiga bagian diberi label teks cokelat muda yang bersih: "MASCOT FULL BODY", "MASCOT PORTRAIT", dan "MASCOT BERSAMA LOGO BRANDING" dalam huruf kapital.
+
+## HEADING [h4]: • Footer: Bagian paling bawah menampilkan teks "Nurjihan Personal Brand Kit" dan tanda tangan tulisan tangan "Nurjihan ♡" di pojok kanan, memastikan konsistensi dengan presentasi produk sebelumnya.
+
+## HEADING [h4]: Prompt :
+
+## HEADING [h3]: 5.NASKAH IKLAN
+
+## HEADING [h4]: NASKAH IKLAN SHORT MOVIE (30 DETIK)
+   P(33w): Judul: Mahakarya Kecil dari DapurTema: Pengejaran Mimpi, Kehangatan, dan DedikasiPesan Utama: Setiap masakan lezat dan karya indah selalu berawal dari niat tulus serta langkah-langkah kecil yang konsisten.Closing Tagline: Small steps, big dreams.
+   P(2w): ADEGAN & NARASI
+   P(8w): Detik 00:06 - 00:13 (Sentuhan Fotografi):
+   P(13w): Voice Over: "...tapi bagiku, ini cara mengabadikan kebahagiaan dan cinta dalam setiap rasa."
+   P(8w): Detik 00:13 - 00:20 (Proses & Kepuasan):
+   P(9w): Voice Over: "Percaya pada prosesmu, rayakan setiap karya kecilmu."
+   P(7w): Detik 00:25 - 00:30 (Penutup):
+   P(7w): Voice Over: "Nurjihan. Small steps, big dreams."
+   P(1w): Prompt :
+   P(26w): Baik terimakasih, nah sekarang saya ingin membuat naskah iklan short movie 30detik, membuat naskah ini, ketentuannya wajib memuat : judul,tema,pesan utama, narasi/dialog, closing tagline.
+
+## HEADING [h3]: 6.storyline
+
+## HEADING [h3]: STORYLINE IKLAN SHORT MOVIE (30 DETIK)
+   [IMG#5] alt='' w=320 h=180 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrs0IzBRcxVVdz06_ZZyqHnf3u7qjSYS7c9o8WOOhyphenhyphenfjpM9uaQZEnGNM3EYwNoSPGyvKvcWXb99cxzLGkyR2tuJdw6huxkLdmRWjsZxfbRJyCE0v-QX1SCtCsg8ycgsUR-H
+
+## HEADING [h3]: 1. Memotong Sayur
+
+## HEADING [h3]: 2.Memasak di Panci
+
+## HEADING [h3]: 3.Wajah Ceria Koki
+
+## HEADING [h3]: 4.Menata Hidangan
+
+## HEADING [h2]: 5.Foto Makanan
+
+## HEADING [h2]: 6.Melihat Foto
+
+## HEADING [h2]: 7.Mengambil Spatula
+
+## HEADING [h2]: 8.Pose 'Action' Koki
+
+## HEADING [h2]: 9.Spanduk Banner
+
+## HEADING [h2]: 10.Closing Logo
+
+## HEADING [h3]: 1. Fungsi Utama Lembar Panduan
+
+## HEADING [h3]: Sentuhan Visual & Elemen Dekoratif:
+   [IMG#6] alt='' w=320 h=240 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimlGymBqxeigqVtj7j2jeu8tUZw54qpTFArHOSV5jrusND-0OdqUuU-CsCtM_tA1K2I3OLu0QSJSzcEylwyqPbFxuDI8Wd9OkQEUnddekuqVBUyHJgBoy3UiS_sqXHULSswuQV8rPUqS0
+   P(7w): Penjelasan Setiap Panel Storyboard (Scene 1–10)
+
+## HEADING [h3]: 1. Scene 1 (Memotong Bahan):
+
+## HEADING [h3]: 2. Scene 2 (Proses Memasak):
+
+## HEADING [h3]: 3. Scene 3 (Maskot Koki Ceria):
+
+## HEADING [h3]: 4. Scene 4 (Menata Makanan):
+
+## HEADING [h3]: 5. Scene 5 (Fotografi Kuliner):
+
+## HEADING [h3]: 6. Scene 6 (Membidik Kamera):
+
+## HEADING [h3]: 7.Scene 7 (Aksesori & Perlengkapan):
+
+## HEADING [h3]: 8.Scene 8 (Pose Hero/Maskot):
+
+## HEADING [h3]: 9.Scene 9 (Workspace & Spanduk):
+
+## HEADING [h3]: 10.Scene 10 (Closing Branding):
+
+## HEADING [h4]: Nilai Utama Storyboard Ini

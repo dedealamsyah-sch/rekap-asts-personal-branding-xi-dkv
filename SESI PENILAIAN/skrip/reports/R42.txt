@@ -1,0 +1,243 @@
+====================================================================================================
+ID R42 | XI DKV 2 | AUPA AZNIA
+URL: https://aupaaznia2227.blogspot.com/2026/09/personal-branding-aupa-aznia-xi-dkv-2.html
+STATUS: 200  final=https://aupaaznia2227.blogspot.com/2026/09/personal-branding-aupa-aznia-xi-dkv-2.html
+PAGE TITLE: Personal Branding Aupa Aznia XI DKV 2
+H1: 
+WORDS: 2188 | IMAGES: 6 | TABLES: 0
+LABELS: AI, Personal Branding, Portofolio, Tugas Sekolah
+KW COUNTS: {'logo': 26, 'moodboard': 8, 'mockup': 7, 'naskah': 18, 'storyline': 3, 'shotlist': 3, 'storyboard': 7, 'mascot': 54, 'prompt': 7, 'tagline': 10, 'deskripsi': 13, 'by_nama': 0, 'color': 15, 'tipografi': 6}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+   P(8w): ASTS Personal Branding Aupa Aznia Xl DKV 2
+   P(3w): SMKN 9 GARUT
+   P(3w): 1.PERSONAL BRANDING
+   [IMG#1] alt='' w=400 h=400 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOhfoSQIn8PyMFc27NNzN8EGCJis6nbKDxHAUKXzoizWA-y-BywYlqQF9VW3S-D_3UWJFMZWM3I6mR4vHLWvE4iZ9eQOUh6tgdwk18OmoiOs4Bx6sG5OmuY28Jv59ajsGCG849oMvO0nN
+   P(33w): Logo personal branding Aupa Aznia (AA) menggunakan konsep visual yang menggambarkan kreativitas, literasi, fotografi, dan karakter feminin yang lembut. Logo didominasi oleh warna soft blue yang memberikan kesan tenang, elegan, lembut, dan modern.
+   P(34w): Elemen utama logo berupa inisial “AA” yang menjadi identitas dari nama Aupa Aznia. Di bagian tengah terdapat ilustrasi buku terbuka, yang melambangkan minat terhadap membaca dan menulis serta kecintaan terhadap dunia literasi dan kreativitas.
+   P(33w): Elemen pena/bulu yang mengelilingi huruf AA menjadi simbol kegiatan menulis, ide, dan kebebasan dalam menuangkan kreativitas. Sementara itu, elemen bintang dan kilauan memberikan kesan inspiratif dan menggambarkan ide-ide kreatif yang terus berkembang.
+   P(23w): Tipografi nama “Aupa Aznia” dibuat dengan gaya dekoratif dan elegan sehingga memberikan karakter yang feminin, personal, dan artistik. Di bagian bawah terdapat tagline:
+   P(4w): “menuliskan cahaya, mengabadikan cerita.”
+   P(24w): Tagline tersebut menggambarkan identitas Aupa Aznia sebagai seseorang yang tertarik pada menulis dan fotografi, yaitu menyampaikan cerita melalui kata-kata sekaligus mengabadikan momen melalui visual.
+   P(2w): Makna Keseluruhan
+   P(39w): Secara keseluruhan, logo Aupa Aznia (AA) merepresentasikan sosok yang kreatif, lembut, imajinatif, dan menyukai dunia literasi serta visual. Perpaduan warna soft blue, buku, pena, inisial AA, dan elemen dekoratif membuat logo memiliki kesan calm poetry, feminin, dan warm minimalis.
+   P(2w): Konsep singkat:
+   P(3w): AA = identitas diri
+   P(3w): Buku = membaca & menulis
+   P(4w): Pena/Bulu = kreativitas & cerita
+   P(3w): Bintang = inspirasi & ide
+   P(5w): Soft Blue = tenang, lembut & elegan
+   P(5w): Tagline = menuliskan cahaya, mengabadikan cerita
+   P(1w): PROMT
+   P(19w): hai berperanlah sebagai expert designer, saya ingin membuat personal branding atau logo, inisial nama Aupa Aznia "AA" dengan ketentuan
+   P(5w): Buat identitas visual personal berdasarkan:
+   P(3w): • Inisial nama: AA
+   P(5w): • Karakter diri: soft and feminim
+   P(6w): • Hobi atau minat: membaca dan menulis
+   P(5w): • Bidang kreatif yang diminati: fotografi
+   P(1w): Output
+   P(3w): • Logo Personal Branding
+   P(2w): • Nama Branding
+   P(1w): • Tagline
+   P(6w): • Deskripsi konsep branding minimal 100 kata
+   P(3w): 2. MOODBOARD BRANDING
+   [IMG#2] alt='' w=400 h=266 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-LRivD-AZs8OLmLwIqjmruA8x_fq5pQlyK8YuRCo96_nttVGskHjFVGUzFLS2zokh8AeXvLehyTN77x7ldgUxFbLAZCoW0HY6WwDfyn4fyRsicVdzXtUR9l-lrP53XmdpfospTJAp23h
+   P(43w): Moodboard Aupa Aznia menampilkan identitas visual yang lembut, feminin, tenang, dan puitis. Konsep keseluruhannya menggabungkan warna soft blue dan putih dengan elemen buku, pena, bulu, bunga, langit, laut, dan cahaya alami untuk menggambarkan pribadi yang kreatif dan menyukai dunia membaca, menulis, serta fotografi.
+   P(2w): 1. Warna
+   P(26w): Warna utama yang digunakan adalah soft blue (#A7C8E7) yang dipadukan dengan putih, krem, dan abu-abu muda. Perpaduan ini memberikan kesan tenang, bersih, lembut, elegan, dan nyaman.
+   P(2w): 2. Tipografi
+   P(28w): Moodboard menggunakan Playfair Display sebagai primary font. Gaya serif-nya memberikan kesan elegan, klasik, feminin, dan artistik, sedangkan tulisan script digunakan sebagai aksen yang memberikan nuansa personal dan puitis.
+   P(3w): 3. Style Visual
+   P(29w): Gaya visual yang digunakan adalah Warm Minimalis, dengan karakter clean, simple, cozy, dan natural light. Visual dibuat tidak terlalu ramai sehingga identitas Aupa Aznia tetap terlihat sederhana dan elegan.
+   P(3w): 4. Referensi Desain
+   P(31w): Referensi desain mengarah pada konsep Feminim Blue White, dengan penggunaan warna biru muda, putih, buku, pita, bunga, dan material yang terlihat lembut. Hal ini memperkuat karakter branding yang feminin dan kreatif.
+   P(3w): 5. Tone & Mood
+   P(25w): Moodboard memiliki tone Calm Poetry, yaitu suasana yang tenang, lembut, damai, inspiratif, dan penuh harapan. Visual langit, awan, laut, dan cahaya alami mendukung kesan tersebut.
+   P(3w): 6. Elemen Grafis
+   P(33w): Elemen grafis utama terdiri dari buku terbuka, bulu pena, bintang, garis lengkung, bunga, dan ornamen kecil. Buku dan bulu merepresentasikan membaca serta menulis, sedangkan bintang dan garis dekoratif melambangkan ide, kreativitas, dan imajinasi.
+   P(3w): 7. Inspirasi Visual
+   P(30w): Inspirasi visual berasal dari buku, fotografi, alam, langit, laut, bunga, dan suasana yang lembut. Semua elemen tersebut menggambarkan dunia kreatif Aupa Aznia yang dekat dengan kata-kata, gambar, kenangan, dan cerita.
+   P(1w): Kesimpulan
+   P(39w): Secara keseluruhan, moodboard ini menggambarkan personal branding Aupa Aznia sebagai identitas yang feminin, kreatif, lembut, sederhana, dan penuh imajinasi. Perpaduan soft blue, tipografi elegan, serta elemen buku dan fotografi menciptakan karakter visual yang tenang namun tetap memiliki sisi artistik.
+   P(2w): Konsep utama:
+   P(5w): “Calm, gentle, poetic, and creative.”
+   P(6w): Aupa Aznia — menuliskan cahaya, mengabadikan cerita.
+   P(1w): PROMPT
+   P(10w): Buat moodboard visual yang menggambarkan identitas branding yang telah dibuat.
+   P(3w): Moodboard wajib memuat:
+   P(5w): • Warna utama branding: soft blue
+   P(3w): • Typography: primary font
+   P(4w): • Style visual: warm minimalis
+   P(5w): • Referensi desain: feminim blue white
+   P(4w): • Tone & Mood: calm poetry
+   P(2w): • Elemen grafis
+   P(2w): • Inspirasi visual
+   P(1w): Output
+   P(2w): • 1 Moodboard
+   P(2w): • Format Landscape
+   P(3w): 3. MOCKUP BRANDING
+   [IMG#3] alt='' w=400 h=365 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRUEQIGGRKwTGv511oFW4jyq4V9Gx4KzfEDeVXSzt3UuCXmEXJh3F6k4k1SZjXOB97XProGwftYxlmm2oCBx7h22W_sPyCesRzQNnq5JDQ2iNHQengYm4oJfvGsbTYM3otk11n8YcEcSs
+   P(3w): 1. Mockup Kaos
+   P(61w): Kaos digunakan sebagai media promosi yang praktis dan mudah dikenakan dalam berbagai aktivitas. Desain kaos menggunakan warna putih dengan logo AA – Aupa Aznia berwarna soft blue sebagai elemen utama. Ilustrasi lumba-lumba, bintang, dan gelombang memberikan kesan lembut, kreatif, dan dekat dengan alam. Kaos ini berfungsi untuk memperkenalkan identitas personal branding Aupa Aznia kepada orang-orang di lingkungan sekolah, komunitas, maupun kegiatan sehari-hari.
+   P(4w): 2. Mockup Gelas Kopi
+   P(58w): Gelas kopi menjadi media promosi yang dapat digunakan dalam aktivitas sehari-hari. Logo AA dan nama Aupa Aznia ditempatkan pada bagian depan gelas dengan perpaduan warna soft blue dan putih. Elemen gelombang dan lumba-lumba memperkuat karakter visual branding. Penggunaan gelas sebagai media promosi membuat identitas brand dapat terlihat secara berulang dan mudah diingat, sekaligus memberikan kesan modern dan estetik.
+   P(3w): 3. Mockup Packaging
+   P(51w): Packaging digunakan untuk memperkuat identitas visual dan memberikan pengalaman yang lebih profesional. Desain menggunakan box dan paper bag bernuansa soft blue dan putih yang dilengkapi logo AA, nama Aupa Aznia, serta elemen lumba-lumba dan gelombang. Tambahan kartu ucapan dan tag memberikan sentuhan personal sehingga packaging terasa lebih elegan, hangat, dan berkesan.
+   P(1w): Kesimpulan:
+   P(43w): Ketiga mockup tersebut menggunakan identitas visual yang konsisten melalui logo AA, warna soft blue, putih, ilustrasi lumba-lumba, dan elemen gelombang. Penggunaan pada kaos, gelas kopi, dan packaging membantu memperluas penerapan personal branding Aupa Aznia sehingga identitasnya lebih mudah dikenali, diingat, dan terlihat profesional
+   P(1w): PROMPT
+   P(17w): buatkan branding ke media promosi nyata, yang berbentuk mockup dengan 3 media yang saya pilih dibawah ini
+   P(1w): • Kaos
+   P(1w): • Packaging
+   P(2w): • Gelas Kopi
+   P(1w): Output
+   P(4w): • Minimal 3 Mockup Branding
+   P(2w): • Resolusi tinggi
+   P(4w): • Disertai penjelasan fungsi media
+   P(2w): 4. MASCOT
+   [IMG#4] alt='' w=400 h=400 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu-0D6FPWSq6ZAzas4MRD2G8yaaBinLZpv70j6VBa2CiU1-vbD847sc41l2GbDI5U8scDRauiY5TPUUv344ecWliOcu8R8lusw2HWiqqI-EmGYn0VgJwza5Yxb2Yt1ua-ena_B795LVXf
+   P(2w): Deskripsi Maskot
+   P(33w): Maskot Aupa Aznia (AA) dibuat dengan gaya 3D cartoon yang memiliki kesan feminin, lembut, modern, dan friendly. Maskot menggunakan pakaian bernuansa soft blue dan putih yang disesuaikan dengan identitas visual logo branding AA.
+   P(41w): Karakter maskot dilengkapi dengan beberapa elemen yang menggambarkan minat dan identitas kreatif, seperti buku sebagai simbol membaca dan menulis serta kamera sebagai simbol ketertarikan pada fotografi. Ekspresi wajah dibuat ramah dengan senyum lembut sehingga memberikan kesan hangat, kreatif, dan mudah didekati.
+   P(32w): Warna soft blue memberikan kesan tenang dan elegan, sedangkan elemen minimalis membuat maskot tetap terlihat sederhana dan tidak berlebihan. Maskot juga dipadukan dengan logo AA (Aupa Aznia) sebagai penguat identitas personal branding.
+   P(2w): Makna maskot:
+   P(24w): Maskot menggambarkan sosok kreatif yang senang membaca, menulis, dan mengabadikan cerita melalui fotografi, dengan karakter yang lembut, sederhana, dan memiliki semangat untuk terus berkembang.
+   P(1w): PROMPT
+   P(10w): tolong buatkan saya mascot, Ubah foto diri menjadi karakter 3D
+   P(3w): Pilihan style: 3D
+   P(1w): Output
+   P(4w): 1. Mascot Full Body
+   P(3w): 2. Mascot Portrait
+   P(5w): 3. Mascot Bersama Logo Branding
+   P(3w): 5. NASKAH IKLAN
+   P(1w): Judul
+   P(4w): “Menuliskan Cahaya, Mengabadikan Cerita”
+   P(1w): Tema
+   P(6w): Personal Branding Kreatif Aupa Aznia (AA)
+   P(2w): Pesan Utama
+   P(27w): Setiap cerita memiliki makna dan setiap momen memiliki keindahan. Melalui membaca, menulis, dan fotografi, Aupa Aznia hadir untuk mengabadikan berbagai cerita dengan cara yang kreatif dan bermakna.
+   P(2w): Narasi/Dialog
+   P(7w): [Scene 1 – Mascot berjalan sambil membawa buku]
+   P(1w): Narator:
+   P(12w): “Dari sebuah halaman, lahir sebuah cerita. Dari sebuah cerita, lahir sebuah inspirasi.”
+   P(7w): [Scene 2 – Mascot membuka buku dan tersenyum]
+   P(1w): Mascot:
+   P(12w): “Aku percaya, setiap kata punya cerita dan setiap cerita layak untuk dikenang.”
+   P(8w): [Scene 3 – Mascot mengambil kamera dan mulai memotret]
+   P(1w): Narator:
+   P(13w): “Bukan hanya melalui tulisan, tetapi juga melalui sebuah gambar yang mampu menyimpan kenangan.”
+   P(7w): [Scene 4 – Mascot tersenyum bersama logo AA]
+   P(1w): Mascot:
+   P(17w): “Aku adalah Aupa Aznia. Seorang pembelajar, penulis, dan pencinta fotografi yang terus menciptakan cerita dengan caraku sendiri.”
+   P(9w): [Scene 5 – Logo AA muncul dengan nuansa soft blue]
+   P(1w): Narator:
+   P(13w): “Karena sebuah cerita tidak hanya untuk dibaca, tetapi juga untuk dirasakan dan dikenang.”
+   P(2w): Closing Tagline
+   P(6w): “Aupa Aznia — Menuliskan Cahaya, Mengabadikan Cerita.”
+   P(1w): PROMPT
+   P(5w): Naskah Iklan dari mascot tersebut
+   P(2w): Wajib memuat:
+   P(1w): • Judul
+   P(1w): • Tema
+   P(2w): • Pesan Utama
+   P(2w): • Narasi/Dialog
+   P(2w): • Closing Tagline
+   P(2w): 6.STORYLINE
+   P(4w): STORYLINE MASCOT AUPA AZNIA
+   P(2w): 1. Pembukaan
+   P(14w): Visual: Latar berwarna soft blue. Maskot Aupa Aznia muncul sambil membawa buku dan kamera.
+   P(1w): Narasi:
+   P(16w): “Setiap hari adalah kesempatan untuk menemukan cerita baru. Dari membaca, menulis, hingga mengabadikan momen melalui fotografi.”
+   P(17w): Visual: Kamera perlahan menyorot buku dan kamera yang dibawa maskot, kemudian mengarah ke wajah maskot yang tersenyum.
+   P(3w): 2. Alur Cerita
+   P(14w): Visual: Maskot duduk membaca buku. Setelah mendapatkan inspirasi, ia mulai menulis di buku catatan.
+   P(1w): Narasi:
+   P(10w): “Dari sebuah buku, muncul inspirasi. Dari inspirasi, lahirlah sebuah tulisan.”
+   P(13w): Visual: Maskot kemudian mengambil kamera dan berjalan mencari objek yang menarik untuk difoto.
+   P(1w): Narasi:
+   P(16w): “Namun, tidak semua cerita cukup hanya dituliskan. Ada momen yang perlu diabadikan agar tetap menjadi kenangan.”
+   P(4w): 3. Konflik/Fokus Visual
+   P(15w): Visual: Maskot melihat sebuah momen indah yang terjadi dengan cepat. Ia mencoba mengabadikannya dengan kamera.
+   P(1w): Narasi:
+   P(16w): “Kadang, momen terbaik datang hanya dalam sekejap. Jika tidak diperhatikan, ia bisa saja berlalu begitu saja.”
+   P(18w): Visual: Maskot berhasil mengambil foto. Layar kamera menampilkan hasil foto tersebut. Ekspresi maskot berubah menjadi senang dan bangga.
+   P(2w): Fokus visual:
+   P(12w): Perpaduan buku, tulisan, kamera, dan hasil fotografi sebagai simbol kreativitas Aupa Aznia.
+   P(2w): 4. Penutup
+   P(24w): Visual: Maskot berdiri di tengah layar sambil membawa buku dan kamera. Logo AA – Aupa Aznia muncul di sampingnya dengan nuansa soft blue dan putih.
+   P(1w): Narasi:
+   P(10w): “Karena setiap kata memiliki cerita, dan setiap gambar menyimpan kenangan.”
+   P(8w): Visual: Logo branding tampil penuh dengan efek lembut.
+   P(1w): Closing:
+   P(6w): “Aupa Aznia — Menuliskan Cahaya, Mengabadikan Cerita.”
+   P(1w): Akhir:
+   P(13w): Maskot tersenyum dan melambaikan tangan sebelum layar perlahan berubah menjadi warna soft blue.
+   P(1w): PROMPT
+   P(4w): selanjutnya, buatkan saya Storyline
+   P(2w): Wajib memuat:
+   P(1w): • Pembukaan
+   P(2w): • Alur Cerita
+   P(3w): • Konflik/Fokus Visual
+   P(1w): • Penutup
+   P(2w): 7.SHOTLIST
+   [IMG#5] alt='' w=400 h=365 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS___x-dKQx20rlKcJSj-HQ-lHRc1wrn-MgmsF259MkBxuFpgkpvdRf8CIM01eWqLL4p7sJiF-doGnt9aTk1TkxmGDxYDcuNRyCS6p7yVY9ixqcixfvbjE20OQ1w_d0TyPg5AQtvX3mMp
+   P(7w): buatkan deskripsi dari logo personal branding tersebut
+   P(5w): 1. Shot 1 – Maskot Muncul
+   P(19w): Maskot Aupa diperlihatkan secara utuh sambil membawa buku dan kamera. Shot ini berfungsi sebagai pembuka dan memperkenalkan karakter utama.
+   P(5w): 2. Shot 2 – Maskot Tersenyum
+   P(18w): Kamera mengambil bagian tubuh atas dan wajah maskot. Senyum digunakan untuk memberikan kesan ramah, lembut, dan mudah didekati.
+   P(5w): 3. Shot 3 – Membawa Buku
+   P(19w): Kamera berfokus pada buku yang dibawa maskot. Buku menjadi simbol membaca dan menulis sebagai bagian dari identitas Aupa Aznia.
+   P(5w): 4. Shot 4 – Membaca Buku
+   P(17w): Maskot terlihat sedang membaca dengan suasana tenang. Adegan ini menggambarkan kecintaan terhadap literasi dan proses mencari inspirasi.
+   P(5w): 5. Shot 5 – Mendapat Inspirasi
+   P(18w): Close-up memperlihatkan ekspresi maskot ketika mendapatkan sebuah ide. Elemen lampu atau simbol ide memperkuat makna kreativitas dan imajinasi.
+   P(5w): 6. Shot 6 – Mengambil Kamera
+   P(21w): Maskot mengambil kamera sebagai simbol ketertarikan terhadap fotografi. Perpindahan dari buku ke kamera menunjukkan bahwa kreativitas dapat disampaikan melalui berbagai media.
+   P(4w): 7. Shot 7 – Memotret
+   P(17w): Maskot mengarahkan kamera untuk mengabadikan sebuah objek atau momen. Adegan ini menjadi fokus utama dari kegiatan fotografi.
+   P(5w): 8. Shot 8 – Hasil Foto
+   P(23w): Kamera diperlihatkan dari jarak dekat dengan hasil foto pada layarnya. Shot ini menunjukkan bahwa sebuah momen telah berhasil diabadikan menjadi sebuah cerita visual.
+   P(6w): 9. Shot 9 – Maskot Bersama Branding
+   P(21w): Maskot tampil bersama elemen visual branding seperti warna soft blue, bintang, dan dekorasi. Adegan ini memperkuat identitas personal branding Aupa Aznia.
+   P(6w): 10. Shot 10 – Logo dan Tagline
+   P(25w): Bagian akhir menampilkan logo AA – Aupa Aznia bersama maskot dan tagline “Menuliskan Cahaya, Mengabadikan Cerita.” Shot ini berfungsi sebagai penutup sekaligus memperkuat pesan utama iklan.
+   P(1w): Kesimpulan
+   P(41w): Secara keseluruhan, shotlist memiliki alur memperkenalkan maskot → membaca → mendapatkan inspirasi → menggunakan kamera → mengabadikan momen → memperkenalkan branding → penutup dengan logo dan tagline. Dengan total durasi sekitar 36 detik, iklan dibuat singkat tetapi tetap mampu memperkenalkan karakter dan identitas personal branding Aupa Aznia.
+   P(1w): PROMPT
+   P(9w): selanjutnya, tolong buatkan saya tabel shotlist minimal 10 shot.
+   P(8w): No, Adegan, Jenis Shot, Angle Movement, Durasi Deskripsi
+   P(2w): 8. STORYBOARD
+   [IMG#6] alt='' w=400 h=266 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzyi9w9mM5c-rXaFLgnsMalq8o5mItxSWMBAoy8VuUBMYZt4tIQ1zx-4Zxq6Kf-Gw2dDxuzp0uroc-9tsogS35UVWcE3Jls7KIKJZ2PJN5q9ZPBQsPQaFkDzgrZnRs7iVKvsPd4Eyejw4
+   P(6w): Deskripsi Storyboard Iklan Mascot Aupa Aznia
+   P(32w): Storyboard tersebut menggambarkan alur iklan personal branding Aupa Aznia (AA) menggunakan karakter maskot 3D. Konsep visual yang digunakan adalah soft blue, feminin, kreatif, dan calm poetry, sesuai dengan identitas branding Aupa Aznia.
+   P(18w): Storyboard terdiri dari 6 scene yang menceritakan perjalanan maskot dari menemukan inspirasi hingga mengabadikan sebuah cerita melalui fotografi.
+   P(3w): 1. Scene Pembukaan
+   P(41w): Maskot Aupa tampil membawa buku dan kamera dengan latar pemandangan yang lembut. Adegan ini berfungsi sebagai pengenalan karakter sekaligus memperlihatkan dua elemen utama personal branding, yaitu membaca/menulis dan fotografi. Digunakan Full Shot dengan angle eye level dan transisi fade in.
+   P(3w): 2. Scene Membaca
+   P(32w): Maskot sedang membaca buku dengan suasana yang tenang. Buku menjadi simbol kecintaan terhadap literasi, membaca, dan menulis. Pengambilan menggunakan Medium Shot dengan slow zoom in dan transisi dissolve untuk menciptakan suasana lembut.
+   P(4w): 3. Scene Mendapat Inspirasi
+   P(33w): Setelah membaca, maskot mendapatkan sebuah ide yang digambarkan dengan simbol lampu dan bintang. Adegan menggunakan Close Up untuk menonjolkan ekspresi wajah dan momen munculnya inspirasi. Transisi cut membuat perpindahan adegan terasa lebih dinamis.
+   P(3w): 4. Scene Fotografi
+   P(37w): Maskot mengambil kamera dan mulai mencari objek yang menarik untuk difoto. Adegan ini menunjukkan sisi kreatif Aupa dalam bidang fotografi. Pengambilan menggunakan Medium Close Up hingga Medium Shot, dengan low angle dan tracking untuk mengikuti pergerakan maskot.
+   P(4w): 5. Scene Mengabadikan Momen
+   P(34w): Maskot memotret pemandangan, kemudian diperlihatkan hasil foto melalui layar kamera. Adegan ini menjadi inti pesan bahwa sebuah momen dapat disimpan dan dikenang melalui fotografi. Digunakan Over Shoulder Shot dan Close Up dengan flash transition.
+   P(3w): 6. Scene Penutup
+   P(28w): Maskot berdiri bersama logo AA – Aupa Aznia. Logo menjadi fokus utama sebagai penguat identitas personal branding. Adegan menggunakan Full Shot kemudian fokus pada logo, diakhiri dengan fade out.
+   P(1w): Kesimpulan
+   P(5w): Secara keseluruhan, storyboard menceritakan alur:
+   P(10w): Membuka cerita → Membaca → Mendapat inspirasi → Memotret → Mengabadikan momen → Memperkenalkan branding.
+   P(24w): Storyboard ini memperlihatkan bahwa personal branding Aupa Aznia tidak hanya berfokus pada satu bidang, tetapi menggabungkan kata-kata, kreativitas, dan fotografi menjadi satu identitas visual.
+   P(2w): Tagline penutup:
+   P(6w): “Aupa Aznia — Menuliskan Cahaya, Mengabadikan Cerita.”
+   P(1w): PROMPT
+   P(3w): selanjutnya, buatkan storyboard
+   P(1w): Ketentuan:
+   P(1w): Minimal:
+   P(2w): • 6 Scene
+   P(2w): • Visual Adegan
+   P(2w): • Keterangan Shot
+   P(2w): • Angle Kamera
+   P(1w): • Transisi
+   P(3w): • Dialog atau Narasi

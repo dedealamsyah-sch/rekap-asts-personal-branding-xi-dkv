@@ -1,0 +1,219 @@
+====================================================================================================
+ID R37 | XI DKV 3 | HARUM NURAULIA SRI KAMILA
+URL: https://harumnuraulia.blogspot.com/2026/09/asts-harum-nuraulia-sri-kamila.html
+STATUS: 200  final=https://harumnuraulia.blogspot.com/2026/09/asts-harum-nuraulia-sri-kamila.html
+PAGE TITLE: Personal Branding Harum Nuraulia Sri Kamila XI DKV 3
+H1: 
+WORDS: 1921 | IMAGES: 7 | TABLES: 1
+LABELS: AI, Branding logo, Kegiatan praktikum, Maskot, MockUp, Moodboard, Profil, SMKN 9 Garut, personal branding, portfolio, tugas sekolah
+KW COUNTS: {'logo': 15, 'moodboard': 10, 'mockup': 5, 'naskah': 14, 'storyline': 1, 'shotlist': 1, 'storyboard': 3, 'mascot': 14, 'prompt': 9, 'tagline': 5, 'deskripsi': 7, 'by_nama': 4, 'color': 19, 'tipografi': 3}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h2]: ASTS Personal Branding Harum Nuraulia Sri kamila XI DKV 3 SMKN 9 Garut
+
+## HEADING [h2]: 
+
+## HEADING [h2]: LOGO BRANDING
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVS6Vr0BgYoMU4HGvT4ei7bp7kwd26xpjcn0uyuYGygxgi4jliHmZFUHOWvwcruSHv5pZ7WvcJpDXMVAt64EUlzurOC3q4HZwoCljfAC3t4K0LEBKfQC8SsMtSxGRabu-nI9zNp05nP-9
+   P(154w): Logo identitas visual untuk Harum Nuraulia Sri kamila ini dirancang secara khusus untuk merepresentasikan esensi profesionalisme dan kreativitas yang mengalir dari seorang seniman dan ilustrator berbakat dengan inisial HN. Desain logo ini menampilkan perpaduan harmonis dan artistik antara bentuk kaligrafi modern yang meliuk indah dengan elemen visual yang tenang namun tetap ekspresif, secara langsung mencerminkan karakter plegmatis yang artistik, elegan, serta berdedikasi tinggi dalam dunia seni rupa, terutama dalam bidang menggambar dan ilustrasi. Skema warna yang digunakan menggunakan gradas
+
+## HEADING [h4]: Prompt:
+   P(29w): Buat identitas visual personal berdasarkan, Inisial nama= HN, Karakter diri= ekspresif, plegmatis, Hobi atau minat=menggambar/desain, Bidang kreatif yang diminati=Artist dan illustrator, pallet warna=biru gradasi ungu
+   P(4w): Logo wajib menyertakan tulisan:
+   P(5w): "by Harum Nuraulia Sri kamila"
+   P(2w): PNG/TRANSPARAN
+   P(3w): format 1:1
+   P(2w): kualitas 4k
+
+## HEADING [h2]: MOODBOARD
+   [IMG#2] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXC8Le6yTeHRTx0kzF-vHdrDxgTwldaOoNblCfKT3j0Do1rYhBqSUVsDhtFZPJZ44TUtXq4i9suCDj-XrZ1mGRKLk8A_ymmYu9DEAkPfi5Sehrzu4eesPodYZQWrqxL33WpxXaGZHvhsA
+   P(118w): Moodboard berformat landscape ini menyajikan panduan identitas visual yang utuh dan artistik untuk Harum Nuraulia Sri Kamila (Artist & Illustrator). Desain ini menampilkan logo monogram "HN" berwujud brush script dengan skema warna utama bergradasi dari Deep Cerulean, Periwinkle, Lavender, hingga Amethyst yang dipadukan secara seimbang dengan warna netral Soft Gray dan White. Elemen tipografinya menggabungkan font sans-serif yang bersih (Montserrat/Inter) untuk kesan profesional dengan huruf sekunder yang elegan. Secara keseluruhan, style visual dan tone & mood mengusung garis cair (fluid line
+
+## HEADING [h4]: Prompt:
+   P(8w): sekarang buatkan deskripsi singkat moodboard minimal 100 kata
+
+## HEADING [h2]: 
+
+## HEADING [h2]: Mock-up
+
+## HEADING [h3]: 1.Kartu Nama (Business Card)
+   [IMG#3] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNrRt-HDcwpq37KCbglHGAH0rINImkedwXVubTLt4eaY9w0-LVoiELHPDVOlKmRtbRMrL80vyGptMBsJYxWcbILqe0XNCVMZ2ZpuXUVIGBu16wQIxORzEQlNr3FSCgB9MvB1RxK7Bz2IF
+
+## HEADING [h4]: Penjelasan Fungsi Media:
+
+## HEADING [h4]: Prompt:
+   P(11w): Implementasikan berdasarkan logo branding/moodboard tdi tuangkan kedalam mock-up: kartu nama
+   P(3w): Dengan resolusi tinggi.
+
+## HEADING [h3]: 2.Stiker (Sticker Sheet)
+   [IMG#4] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8qBzE1bDsngVyq8nQnDt9on-N9o6bddL0vXUoo0VLJdjstfR_x8Bni76-DnpnPhKcX7RBNUGVC3bbjILDZdvJOo7fgbwj_wwOs_R1x8dW1_8I-tE2SDTXLDh3jI1Ebkj_vi9cwfG83sO
+
+## HEADING [h4]: Penjelasan Fungsi Media:
+
+## HEADING [h4]: Prompt:
+   P(13w): implementasikan berdasarkan logo branding dan moodboard di atas tuangkan kedalam mock up: sticker
+   P(3w): Dengan resolusi tinggi.
+
+## HEADING [h3]: 3.Kemasan (Packaging)
+   [IMG#5] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhakp2NEVd-xgI9P9xoxrkejXF42t1xpOum6QeEIDI32P2PgPtCPQeZwxbzy-rf6QCy04SQQbVGXUl8PkQn2wzRAiU04FoDc1aQC0E3jSVN6iTjmiJndynPQGc1hdJqVQPgswUwiDFyDBb
+
+## HEADING [h4]: Penjelasan Fungsi Media:
+
+## HEADING [h4]: Prompt:
+   P(10w): Implementasikan berdasarkan logo branding/moodboard tdi tuangkan kedalam mock-up: packaging
+   P(3w): Dengan resolusi tinggi.
+
+## HEADING [h4]: Prompt:
+   P(13w): Buatkan deskripsi penjelasan fungsi media dari setiap masing-masing mock-up(kartu nama, sticker, packaging).
+
+## HEADING [h2]: MASKOT
+   [IMG#6] alt='' w=215 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl5OBs6o_9BMdugDCnoPuHZtwTZHdJAfS0wVZ33lua7rrpGYfwUt3MbBsejaPzBG_DZ01rpJjTlagEcLzzq3eee04QDrbJ-4Y__OmUin3hwXAeYy9Kteu8ndd6rGz2sthT6orl3hzp3zV
+   P(97w): Maskot ini merupakan representasi visual dari sosok Harum Nuraulia Sri Kamila sebagai seorang Artist & Illustrator. Mengusung karakter laki-laki bergaya anime/manhwa, desain maskot ini secara sempurna memadukan kepribadian yang tenang (plegmatis) dengan imajinasi yang meluap (ekspresif). Ciri khas visualnya terpancar dari rambut biru bergradasi ungu lembut (Periwinkle & Lavender) serta sorot mata ungu (Amethyst) yang tajam namun penuh kedalaman. Tampil kasual dan profesional berbalut jaket soft gray, ia digambarkan memegang kuas melukis yang mengalirkan jejak cat fluida biru-ungu serta membawa
+
+## HEADING [h4]: Prompt:
+   P(21w): Buatkan maskot saya, dengan style anime karakter laki laki, full body, potrait bersama logo branding, sertakan deskripsi paragraf tentang maskot nya.
+
+## HEADING [h2]: NASKAH IKLAN
+
+## HEADING [h4]: Judul:
+   P(3w): Garis yang Bicara
+
+## HEADING [h4]: Tema:
+   P(6w): Eksplorasi Seni & Cerita Melalui Ilustrasi Merek
+
+## HEADING [h4]: Pesan Utama:
+   P(24w): Setiap karya ilustrasi bukan sekadar visual, melainkan sebuah cerita tak tersampaikan (The Silent Story) yang menghidupkan rasa, rasa percaya, dan identitas profesional sebuah merek.
+
+## HEADING [h2]: SUSUNAN NASKAH
+
+## HEADING [h3]: [00:00 - 00:05] INTRO
+
+## HEADING [h4]: Visual:
+   P(17w): Close-up kuas besar memancarkan pendar tinta cair bergradasi Deep Cerulean dan Amethyst di dalam studio seni modern.
+
+## HEADING [h4]: Audio (Backsound):
+   P(11w): Denting piano lembut dengan suara alir air atau gesekan kuas halus.
+
+## HEADING [h4]: Narasi (VO):
+   P(10w): "Ada cerita yang terlalu dalam jika hanya disampaikan dengan kata-kata..."
+
+## HEADING [h3]: [00:05 - 00:15] ISI / ADEGAN UTAMA
+
+## HEADING [h4]: Visual:
+   P(33w): Transisi menampilkan maskot ilustrator berambut periwinkle yang tersenyum tenang di tengah studio. Kamera menelusuri detail di sekitarnya: tablet digital dengan tampilan moodboard, stiker-stiker orisinal di laptop, serta poster "THE SILENT STORY" di dinding.
+
+## HEADING [h4]: Audio (Backsound):
+   P(7w): Musik berangsur semakin hangat, mengalir, dan menginspirasi.
+
+## HEADING [h4]: Dialog / Narasi (VO):
+   P(19w): "Dari setiap goresan garis, sentuhan warna, hingga konsep karakter yang bernyawa, kami merajut imajinasi menjadi identitas visual yang otentik."
+
+## HEADING [h3]: [00:15 - 00:25] IMPLEMENTASI BRANDING
+
+## HEADING [h4]: Visual:
+   P(26w): Tampilan produk fisik: kotak kemasan premium (art box) yang dibuka perlahan, kartu nama bertuliskan monogram HN dengan sentuhan warna di tepi kertas, dan tas portofolio profesional.
+
+## HEADING [h4]: Audio (Backsound):
+   P(11w): Nada musik mencapai puncak yang jernih, mengalun elegan, dan berkesan profesional.
+
+## HEADING [h4]: Narasi (VO):
+   P(13w): "Untuk setiap karya, karakter, dan merek yang ingin berbicara lebih jujur kepada dunianya."
+
+## HEADING [h3]: [00:25 - 00:30] CLOSING
+
+## HEADING [h4]: Visual:
+   P(23w): Tampilan full shot maskot bersama logo monogram HN melayang di bagian atas lengkap dengan teks "by Harum Nuraulia Sri Kamila - ARTIST & ILLUSTRATOR".
+
+## HEADING [h4]: Audio (Backsound):
+   P(8w): Nada musik penutup (chime) yang tenang dan berkesan.
+
+## HEADING [h3]: Closing Tagline (VO & Teks di Layar):
+   P(6w): "Harum Nuraulia: Merajut Rasa, Menceritakan yan
+   P(3w): g Tak Terucap."
+
+## HEADING [h4]: Prompt:
+   P(13w): Buatlah naskah Iklan, Wajib memuat: Judul, Tema, Pesan Utama, Narasi/Dialog, Closing Tagline.
+
+## HEADING [h2]: STORYLINE
+
+## HEADING [h4]: Judul:
+   P(3w): Garis yang Bicara
+
+## HEADING [h4]: Durasi:
+   P(2w): 30 Detik
+
+## HEADING [h3]: 1. Pembukaan (00:00 - 00:05)
+
+## HEADING [h4]: Visual:
+   P(32w): Kamera melakukan extreme close-up pada ujung kuas melukis basah. Tinta cair berwarna gradasi Deep Cerulean dan Amethyst mengalir lembut di atas kertas putih bertekstur, membentuk pola garis cair (fluid lines) yang elegan.
+
+## HEADING [h4]: Audio:
+   P(18w): Suara denting piano solo yang lembut dan lambat, diiringi efek suara gesekan kuas (soft brush stroke) yang halus.
+
+## HEADING [h4]: Teks di Layar:
+   P(3w): "The Silent Story"
+
+## HEADING [h4]: Suara Narator (VO):
+   P(10w): "Ada cerita yang terlalu dalam jika hanya disampaikan dengan kata-kata..."
+
+## HEADING [h3]: 2.Alur Cerita (00:05 - 00:15)
+
+## HEADING [h4]: Visual:
+   P(57w): Transisi fade-in memperlihatkan studio seni yang tenang dan diterangi cahaya alami dari jendela. Karakter maskot (seorang ilustrator laki-laki berambut periwinkle) berdiri dengan anggun memegang kuas besar yang memancarkan pendar tinta bergradasi. Kamera panning perlahan mengelilingi ruang kerja: memamerkan tablet digital yang menampilkan moodboard branding, cangkir berlogo HN, serta poster "THE SILENT STORY" yang terpasang rapi di dinding.
+
+## HEADING [h4]: Audio:
+   P(13w): Musik piano berangsur semakin hangat, diiringi alunan instrumen gesek (strings) yang mengalir inspiratif.
+
+## HEADING [h4]: Suara Narator (VO):
+   P(19w): "Dari setiap goresan garis, sentuhan warna, hingga konsep karakter yang bernyawa... kami merajut imajinasi menjadi identitas visual yang otentik."
+
+## HEADING [h3]: 3. Konflik / Fokus Visual (00:15 - 00:25)
+
+## HEADING [h4]: Visual:
+   P(16w): Montage cepat (fast-cut sequence) yang menunjukkan transformasi karya seni dari ide abstrak hingga produk fisik premium:
+   P(8w): Jemari menggambar sketsa karakter anime di atas tablet.
+   P(14w): Jemari membuka hard box packaging bernuansa abu-abu lembut yang dibungkus kertas tisu berpola watercolor.
+   P(13w): Close-up kartu nama bertekstur dengan colored edges warna lavender dan cetakan monogram HN.
+   P(13w): Sorotan pada tas portofolio dan lukisan kanvas bergaya lanskap puitis di atas easel.
+
+## HEADING [h4]: Audio:
+   P(16w): Nada musik mencapai puncaknya (crescendo) dengan alunan yang jernih, menggelegar elegan, dan memberikan kesan sangat profesional.
+
+## HEADING [h4]: Suara Narator (VO):
+   P(13w): "Untuk setiap karya, karakter, dan merek... yang ingin berbicara lebih jujur kepada dunianya."
+
+## HEADING [h3]: 4. Penutup (00:25 - 00:30)
+
+## HEADING [h4]: Visual:
+   P(45w): Kamera mundur (zoom-out) menampilkan full-shot maskot studio yang tersenyum tenang. Logo monogram HN melayang megah di bagian atas layar dengan gradasi warna biru-ungu, dilengkapi teks nama "by Harum Nuraulia Sri Kamila - ARTIST & ILLUSTRATOR". Latar belakang perlahan berubah menjadi warna netral Soft Gray yang bersih.
+
+## HEADING [h4]: Audio:
+   P(11w): Musik diakhiri dengan nada penutup (chime) yang bergema lembut dan menenangkan.
+   P(6w): Teks di Layar & VO (Closing Tagline):
+   P(5w): "Harum Nuraulia: Merajut Rasa, Menceritakan
+   P(3w): yang Tak Terucap."
+
+## HEADING [h2]: SHOTLIST
+   [TABLE#1] rows=11 maxcols=7
+        r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+        r02: 1 || Pembukaan (Intro) || Extreme Close-Up (ECU) || High Angle || Static || 3 detik || Sorotan dekat pada ujung kuas basah yang menggoreskan tinta cair bergradasi Deep Cerulean dan Amethyst di atas kertas bertekstur.
+        r03: 2 || Teks Judul || Medium Close-Up (MCU) || Eye Level || Zoom In || 2 detik || Tinta mengalir membentuk pola garis cair (fluid lines) lembut dengan tampilan teks judul "The Silent Story".
+        r04: 3 || Pengenalan Studio || Long Shot (LS) || Eye Level || Pan Right || 3 detik || Menampilkan suasana studio seni yang tenang, memperlihatkan maskot ilustrator memegang kuas besar di dekat jendela.
+        r05: 4 || Pengenalan Maskot || Medium Shot (MS) || Eye Level || Static || 3 detik || Maskot berambut periwinkle tersenyum tenang ke arah kamera dengan latar belakang studio dan peralatan lukis.
+        r06: 5 || Proses Kreatif Digital || Close-Up (CU) || High Angle || Tilt Down || 2 detik || Layar tablet digital yang menampilkan susunan moodboard branding dan sketsa karakter anime.
+        r07: 6 || Detail Aset Studio || Close-Up (CU) || Eye Level || Pan Left || 2 detik || Tampilan cangkir kopi berlogo HN dan tumpukan buku sketsa di atas meja kerja.
+        r08: 7 || Karya Pameran / Poster || Medium Close-Up (MCU) || Eye Level || Static || 3 detik || Sorotan pada poster "THE SILENT STORY" dan karya lukisan fisik bergaya lanskap puitis di atas easel.
+        r09: 8 || Unboxing Packaging || Medium Close-Up (MCU) || High Angle || Zoom In || 3 detik || Jemari membuka hard box packaging bernuansa abu-abu lembut yang dibungkus wrapping paper berpola watercolor.
+        r10: 9 || Kartu Nama & Portofolio || Close-Up (CU) || Low Angle || Static || 4 detik || Menampilkan kartu nama bertekstur dengan purple edge painting berlogo HN di sebelah tas portofolio profesional.
+        r11: 10 || Penutup (Outro / Branding) || Full Shot (FS) || Eye Level || Zoom Out || 5 detik || Maskot berdiri berdampingan dengan logo monogram HN melayang di atas, dilengkapi teks "by Harum Nuraulia Sri Kamila - ARTIST & ILLUSTRATOR" dan tagline.
+
+## HEADING [h2]: 
+
+## HEADING [h2]: Storyboard
+   [IMG#7] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1m5ha4E1X2AgN8qT12t035ZSI32Ae5YOajDIiSU0o67RxN66exxIIxyxwfcakrsYQJ13zaL_7FOrNOxIpfRsxAnBRa5P3mATdaJXz8okq8ebwYRedjWxHqxbKj60ZnzL4Qmh34aBVG9H
+   P(121w): Storyboard iklan digital "Garis yang Bicara" karya Harum Nuraulia dirancang secara runut dalam enam panel visual yang memadukan keindahan teknis dan sisi emosional pembuatan ilustrasi. Diawali dari gerakan presisi ujung kuas yang melukiskan logo monogram HN bergradasi warna Deep Cerulean dan Amethyst, visual kemudian membawa penonton melintasi suasana studio tempat sang maskot ilustrator berkarya, melihat susunan moodboard digital, hingga mengintip kehangatan ruang kerja melalui buku sketsa dan cangkir kopi personal. Keunggulan branding dan nilai eksklusif produk ditunjukkan lewat adegan unbox
+
+## HEADING [h4]: Prompt:
+   P(6w): buatkan deskripsi paragraf tentang storyboard nya

@@ -1,0 +1,384 @@
+====================================================================================================
+ID R74 | XI DKV 1 | SITI KHOIRIYAH
+URL: https://sitikhoiriyah09.blogspot.com/2026/09/personal-branding-siti-khoiriyah-dkv-1.html
+STATUS: 200  final=https://sitikhoiriyah09.blogspot.com/2026/09/personal-branding-siti-khoiriyah-dkv-1.html
+PAGE TITLE: PERSONAL BRANDING SITI KHOIRIYAH DKV 1
+H1: 
+WORDS: 3709 | IMAGES: 11 | TABLES: 0
+LABELS: AI, personal branding, portofolio, smkn 9 garut, tugas, tugas sekolah
+KW COUNTS: {'logo': 57, 'moodboard': 15, 'mockup': 8, 'naskah': 9, 'storyline': 1, 'shotlist': 7, 'storyboard': 14, 'mascot': 20, 'prompt': 38, 'tagline': 20, 'deskripsi': 36, 'by_nama': 9, 'color': 51, 'tipografi': 9}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h1]: ASTS Personal Branding Siti KhoiriyahXI DKV 1 SMKN 9 GARUT
+
+## HEADING [h2]: A. PERSONAL BRANDING
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ8iCxk6GVoYJXN7CkBuJAc_TqJwNflHpCz4gi4ApSknBIGGezFsgC2pbcRICLzzaV08oHH-hMV9jv7vPoULFk8lNbz4m80A0spweAsSJ7wzPAb-pR3_Aa56zHoqMSBcEGf8kHRC0Ejem
+
+## HEADING [h3]: 1. Konsep Logo
+   P(12w): Logo menggunakan gabungan huruf SK dengan elemen kupu-kupu bergaya modern dan elegan.
+   LIST[ul] n=3:
+        1. Nama Branding: SK Creative
+        2. Tagline: “Berkarya dengan Kreativitas”
+        3. By: by Siti Khoiriyah
+   P(2w): Filosofi Logo:
+   LIST[ul] n=4:
+        1. S (Siti) melambangkan identitas diri, kelembutan, kreativitas, dan kepribadian yang ramah.
+        2. K (Khoiriyah) melambangkan kebaikan, pertumbuhan, dan semangat untuk terus berkembang.
+        3. Kupu-kupu melambangkan perubahan, perkembangan diri, keindahan, dan kreativitas tanpa batas.
+        4. Bentuk logo yang elegan menunjukkan karakter yang percaya diri, kreatif, dan profesional
+
+## HEADING [h3]: 2. Nama Branding
+
+## HEADING [h3]: 3. Tagline
+
+## HEADING [h3]: 4. Deskripsi Konsep Branding (100+ Kata)
+
+## HEADING [h2]: B. MOODBOARD BRANDING — SK CREATIVE
+   [IMG#2] alt='' w=320 h=292 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoGfaTR4lWayOzwG7wN1eRmzru3vOK32v66iczzhI33X8QnhiO_Ro3lAn4EZBrlBVABQDPUkUYmPdZcBDIPwqTm5EtzT-hJIozVVgNIEfwRoi5nZyUYXLNT5HQh1FIYz2VNnuDMP2XB68
+
+## HEADING [h3]: 1. Warna Utama Branding
+   LIST[ul] n=5:
+        1. Cream/Putih: melambangkan kesederhanaan, kebersihan, dan ketenangan.
+        2. Cokelat muda: memberikan kesan hangat dan natural.
+        3. Khaki: memberikan kesan lembut dan elegan.
+        4. Hitam: melambangkan profesionalitas dan ketegasan.
+        5. Emas lembut: melambangkan kreativitas, keistimewaan, dan nilai premium.
+
+## HEADING [h3]: 2. Typography
+
+## HEADING [h3]: 3. Style Visual
+
+## HEADING [h3]: 4. Tone & Mood
+
+## HEADING [h3]: 5. Referensi Desain
+
+## HEADING [h3]: 6. Elemen Grafis
+   LIST[ul] n=6:
+        1. Logo SK
+        2. Kupu-kupu 🦋
+        3. Garis tipis elegan
+        4. Bentuk melengkung
+        5. Ornamen sederhana
+        6. Sparkle/bintang kecil
+
+## HEADING [h3]: 7. Inspirasi Visual
+   LIST[ul] n=6:
+        1. Logo minimalis
+        2. Desain Canva modern
+        3. Fotografi dan editing
+        4. Unsur alam dan kupu-kupu
+        5. Peralatan kreatif seperti kamera dan laptop
+        6. Nuansa dunia Desain Komunikasi Visual
+
+## HEADING [h3]: 8. Konsep Keseluruhan
+
+## HEADING [h2]: C. MEMBUAT MOCKUP BRANDING — SK CREATIVE
+   [IMG#3] alt='' w=320 h=292 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvX4rzZlmAb1udzE2H3hjkBkXRXGHafBdLFkdg4S3Ahp19SCnPOp3yVef94qy6jbYFwlijkfVdDUC0NY8bA9FDnpkEwf6Ch_9HjvYMq-ip4hINzsGx5Dc5HOgJp6bcDDGeL9Gr54dDHMB
+
+## HEADING [h3]: 1. kartu nama
+   LIST[ul] n=2:
+        1. Fungsi: sebagai identitas profesional dan media perkenalan.
+        2. Isi: logo SK Creative, nama Siti Khoiriyah, tagline, dan informasi kontak.
+
+## HEADING [h3]: 2. Sticker
+   LIST[ul] n=2:
+        1. Fungsi: sebagai media promosi sekaligus memperkuat identitas visual.
+        2. Desain: logo SK + kupu-kupu, warna cream, cokelat, dan emas lembut.
+
+## HEADING [h3]: 3. Social Media Feed
+   LIST[ul] n=2:
+        1. Fungsi: menampilkan karya desain dan membangun personal branding di media sosial.
+        2. Desain: menggunakan logo, tagline, warna brand, dan konten bertema kreativitas.
+   LIST[ul] n=5:
+        1. Brand: SK Creative
+        2. Tagline: “Berkarya dengan Kreativitas”
+        3. Warna: cream, cokelat muda, khaki, hitam, emas lembut
+        4. Elemen: SK + kupu-kupu
+        5. Gaya: elegan, modern, minimalis, profesional
+
+## HEADING [h2]: D. PERENCANAAN VIDEO IKLAN KOMERSIAL
+
+## HEADING [h3]: D. 1. Naskah Iklan
+   LIST[ul] n=4:
+        1. Judul:“Berkarya dengan Kreativitas”
+        2. Tema: Perjalanan seorang pelajar DKV dalam menemukan ide dan mengubahnya menjadi karya kreatif.
+        3. Pesan Utama: Setiap ide memiliki nilai jika dikembangkan dengan kreativitas dan keberanian untuk berkarya.
+        4. Durasi: ± 45–60 detik
+
+## HEADING [h2]: D.2. STORYLINE — SK CREATIVE
+
+## HEADING [h3]: 1. Pembukaan
+
+## HEADING [h3]: 2. Alur Cerita
+
+## HEADING [h3]: 3. Konflik/Fokus Visual
+
+## HEADING [h3]: 4. Pengembangan Karya
+
+## HEADING [h3]: 5. Penutup Cerita
+
+## HEADING [h3]: 6. Closing
+
+## HEADING [h2]: D.3 SHOTLIST — SK CREATIVE
+   [IMG#4] alt='' w=320 h=262 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJYlLgs5STM8kN2Wv7hqe5tY9iMW6tTbo1OrfCL85okcIMgDURNzILk2_N0-zUqksaqaY8mDQLVWkGnFxmBha0h5mZnB262P04DAnNw6kg4YjUUc8PQkwen3sLMvT6hSCW2BAgpbTFQkG
+
+## HEADING [h2]: D.4 STORYBOARD — 6 SCENE
+
+## HEADING [h3]: Scene 1 — Mencari Inspirasi
+   [IMG#5] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPc3Lkgd0SQvU24f4cpWFTjmbxKtiuyhHupfSyJ79GtHPUvLVNVzyq-sWpmtba-fnpCrRYbjqx7KRVqeNpD0M2eFdkIwYvfAP478s9GSeCSz9FQEHhn8b9myKmp5OuprrR5xiDCoea6sY
+   LIST[ul] n=4:
+        1. Visual: Pelajar duduk di meja dengan buku sketsa, pensil, laptop, dan kamera.
+        2. Keterangan Shot: Wide Shot, eye level.
+        3. Angle: Sejajar dengan mata.
+        4. Narasi: “Setiap karya selalu dimulai dari sebuah ide.”
+
+## HEADING [h3]: Scene 2 — Membuat Sketsa
+   [IMG#6] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLVt_-fMqQkDDobTniuvteQ4LjUy0cZm6oZxM65aTkt6pybyIjA5srlpaBznaKwTKwDTZ-5fujqHITFAmC04MHj8zshw_cbUKEKG9djNVjvviA80N3R1YTOLW5Y9i6QMB7izpwwdS56oJ
+   LIST[ul] n=4:
+        1. Visual: Tangan menggambar konsep logo SK Creative di buku.
+        2. Keterangan Shot: Close Up.
+        3. Angle: High Angle.
+        4. Narasi: “Dari sebuah sketsa, warna, dan imajinasi…”
+
+## HEADING [h3]: Scene 3 — Mengembangkan Ide
+   [IMG#7] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV_sTvpxg13_PTx7-M3ut-59QF0F_-zoWUo5AuJfCE3Itk3AUkM1o8gM7zPWYeGv7NhcXkuYPL6Ggdv6AsDevoSt3j6B4BmAD8011FYXSXKPeI5D3CrKwmRb-ZHvn3o-gRK-zaMfi6qLy
+   LIST[ul] n=4:
+        1. Visual: Pelajar mulai mengedit desain di laptop.
+        2. Keterangan Shot: Over Shoulder.
+        3. Angle: Eye Level.
+        4. Narasi: “Sebuah ide mulai berkembang.”
+
+## HEADING [h3]: Scene 4 — Proses Kreatif
+   [IMG#8] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJpjq031OKNQFX6IiMvhAluQ902tgzxog-Tqp3QuWxfTpVeCtCpUjAUHtYvmCTd07hKGROrnulDSoW2nrUliT_szoaNwmYWDyAHp1f_B4Rbu7M3-y9VSD85TTtSgxgc9M8bfrvM0Tc7OI
+   LIST[ul] n=4:
+        1. Visual: Beberapa pilihan warna dan elemen kupu-kupu terlihat di layar.
+        2. Keterangan Shot: Close Up.
+        3. Angle: High Angle.
+        4. Narasi: “Kreativitas adalah tentang berani mencoba dan terus berkembang.”
+
+## HEADING [h3]: Scene 5 — Hasil Karya
+   [IMG#9] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiss8ePQ1Efk3V3JKEvcnAH_mq0Wg0HHeXvNWHU3hr_jlMRFrn2kheWSS2CsB6PvwRjBSpqtZ65d2NfQODwv97zYI20-0PMSXsixZ7qMzHoF0WkOFYc3GWbEaM6VzUYaWWs21pSECGJcqB
+   LIST[ul] n=4:
+        1. Visual: Logo SK Creative selesai dan ditampilkan pada laptop atau layar.
+        2. Keterangan Shot: Medium Shot.
+        3. Angle: Eye Level.
+        4. Narasi: “Inilah SK Creative, ruang untuk menuangkan ide menjadi karya.”
+
+## HEADING [h3]: Scene 6 — Closing
+   [IMG#10] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKC2ZBI-o_wvs5sVofO8gojFozjiSpoNAoEpHO5hShY8CxakiNRMxEgYnzItiEFURgZqwdAyfQM7rzVFm1WUuU-VQTI994SL19ikiIKR5W9jqRV8oj8335wRpbJkvKkPOWgYgGvaTQxZF
+   LIST[ul] n=4:
+        1. Visual: Logo SK Creative memenuhi layar dengan tagline.
+        2. Keterangan Shot: Full Frame.
+        3. Angle: Front View.
+        4. Narasi: “Terus berkarya, terus berkembang, dan jangan takut menciptakan sesuatu yang baru.
+
+## HEADING [h3]: E. MEMBUAT AI MASCOT CHARACTER
+   [IMG#11] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9UTFdRj4A0C_VUV6HcMl5Dk8H0FIIzWtsTyOkESxsNoP8brixMx1ly9BqEdcF-Fw5D3awzJzYWQlmk4s7aEPfZU6TBOMY-MPrOptaFOFcwZ-8nia6rvI7lj0ZctQBHkPiGIqOYnrvEtU
+
+## HEADING [h3]: 1. Nama Mascot
+
+## HEADING [h3]: 2. Konsep Mascot
+
+## HEADING [h3]: 3. Filosofi Mascot
+   LIST[ul] n=6:
+        1. Kupu-kupu: melambangkan kreativitas, perubahan, dan perkembangan.
+        2. Hijab dan pakaian: menggambarkan karakter yang rapi, sederhana, dan elegan.
+        3. Laptop: melambangkan dunia desain digital dan teknologi.
+        4. Buku sketsa: melambangkan ide dan proses menggambar.
+        5. Kamera: melambangkan ketertarikan pada fotografi dan bidang DKV.
+        6. Tote bag SK Creative: memperkuat identitas brand.
+
+## HEADING [h3]: 4. Warna Mascot
+   LIST[ul] n=4:
+        1. Cream
+        2. Khaki
+        3. Cokelat
+        4. Emas lembut
+
+## HEADING [h3]: 5. Ekspresi Mascot
+   LIST[ul] n=4:
+        1. Senang — menunjukkan rasa bahagia dalam berkarya.
+        2. Berpikir — menggambarkan proses mencari ide.
+        3. Semangat — menunjukkan motivasi untuk terus berkarya.
+        4. Tenang — memberikan kesan ramah dan percaya diri.
+
+## HEADING [h3]: 6. Pose Mascot
+   LIST[ul] n=4:
+        1. Mencari inspirasi — membawa kamera.
+        2. Membuat sketsa — menggambar di buku.
+        3. Mengerjakan di laptop — menunjukkan proses desain digital.
+        4. Menunjukkan hasil karya — memegang hasil desain SK Creative.
+
+## HEADING [h3]: 7. Makna Keseluruhan
+
+## HEADING [h1]: DESKRIPSI KONSEP BRANDING SK CREATIVE
+
+## HEADING [h2]: 1. Identitas Brand
+   P(16w): Nama Brand: SK Creative Pemilik: Siti Khoiriyah Bidang: Desain Komunikasi Visual (DKV) Tagline: “Berkarya dengan Kreativitas”
+   P(43w): SK Creative merupakan personal branding yang dibuat untuk memperkenalkan identitas dan kemampuan kreatif Siti Khoiriyah sebagai pelajar SMKN 9 Garut jurusan Desain Komunikasi Visual. Brand ini menggambarkan seseorang yang memiliki ketertarikan terhadap dunia desain, seni visual, fotografi, editing, ilustrasi, serta berbagai kegiatan kreatif.
+   P(22w): Konsep SK Creative dibuat dengan menggabungkan unsur elegan, modern, kreatif, sederhana, dan profesional sehingga dapat digunakan sebagai identitas dalam menampilkan karya-karya DKV.
+
+## HEADING [h2]: 2. Konsep Logo Personal
+   P(31w): Logo SK Creative menggunakan gabungan huruf S dan K yang berasal dari nama Siti Khoiriyah. Kedua huruf tersebut dibuat sebagai monogram untuk menciptakan identitas yang mudah dikenali dan memiliki karakter tersendiri.
+
+## HEADING [h3]: Makna Huruf S
+   P(26w): Huruf S berasal dari nama Siti. Huruf ini melambangkan identitas, jati diri, dan karakter pribadi. Bentuk lengkung pada huruf S memberikan kesan lembut, fleksibel, dan elegan.
+
+## HEADING [h3]: Makna Huruf K
+   P(24w): Huruf K berasal dari nama Khoiriyah. Huruf ini melambangkan kebaikan, perkembangan, semangat, dan keteguhan dalam mencapai tujuan. Bentuknya memberikan kesan kuat tetapi tetap sederhana.
+
+## HEADING [h3]: Makna Kupu-Kupu
+   P(18w): Logo dipadukan dengan elemen kupu-kupu. Kupu-kupu melambangkan perubahan, perkembangan, kreativitas, kebebasan, dan proses menjadi pribadi yang lebih baik.
+   P(29w): Kupu-kupu juga menggambarkan proses kreatif seorang desainer. Sebuah karya tidak langsung menjadi sempurna, tetapi melalui proses mencari ide, membuat sketsa, mencoba berbagai konsep, melakukan revisi, hingga menghasilkan karya akhir.
+
+## HEADING [h3]: Makna Keseluruhan Logo
+   P(22w): Gabungan SK dan kupu-kupu menggambarkan Siti Khoiriyah sebagai pribadi yang terus berkembang, berani mencoba hal baru, dan menuangkan ide melalui karya kreatif.
+
+## HEADING [h2]: 3. Konsep Warna
+   P(12w): Warna yang digunakan dalam SK Creative menggunakan warna yang lembut dan elegan.
+   LIST[ul] n=5:
+        1. Cream/Putih: melambangkan kesederhanaan, kebersihan, dan keterbukaan terhadap ide baru.
+        2. Cokelat: memberikan kesan hangat, stabil, dan natural.
+        3. Khaki: memberikan kesan tenang, modern, dan sederhana.
+        4. Soft Gold: memberikan kesan elegan, berkelas, dan kreatif.
+        5. Hitam: digunakan sebagai warna pendukung untuk memberikan kesan tegas dan profesional.
+   P(20w): Kombinasi warna tersebut dipilih agar identitas SK Creative terlihat harmonis, tidak terlalu ramai, tetapi tetap memiliki karakter visual yang kuat.
+
+## HEADING [h2]: 4. Konsep Tipografi
+   P(10w): Tipografi menggunakan perpaduan antara jenis huruf dekoratif dan sans serif.
+   P(18w): Font bergaya elegan seperti Playfair Display atau Cinzel dapat digunakan untuk judul dan logo agar memberikan kesan berkelas.
+   P(18w): Font seperti Poppins atau Montserrat digunakan untuk teks pendukung karena memiliki bentuk yang sederhana, modern, dan mudah dibaca.
+   P(12w): Perpaduan tersebut menghasilkan identitas visual yang elegan tetapi tetap modern dan komunikatif.
+
+## HEADING [h2]: 5. Konsep Moodboard
+   P(14w): Moodboard SK Creative berisi kumpulan referensi visual yang menjadi dasar dalam menentukan identitas brand.
+   P(5w): Elemen yang digunakan antara lain:
+   LIST[ul] n=8:
+        1. Warna cream, cokelat, khaki, dan soft gold.
+        2. Bentuk kupu-kupu.
+        3. Logo SK.
+        4. Peralatan desain seperti laptop, pensil, sketchbook, kamera, dan drawing tablet.
+        5. Contoh desain grafis dan ilustrasi.
+        6. Tekstur kertas dan elemen natural.
+        7. Ruang kerja kreatif.
+        8. Bentuk garis lengkung dan ornamen sederhana.
+   P(10w): Moodboard tersebut menggambarkan suasana hangat, kreatif, elegan, tenang, dan profesional.
+
+## HEADING [h2]: 6. Konsep Mockup Branding
+   P(12w): Mockup digunakan untuk menunjukkan bagaimana identitas SK Creative diterapkan pada berbagai media.
+   P(5w): Media yang digunakan antara lain:
+
+## HEADING [h3]: Kartu Nama
+   P(19w): Kartu nama digunakan sebagai identitas profesional. Logo SK Creative ditempatkan sebagai elemen utama dengan warna dan tipografi yang konsisten.
+
+## HEADING [h3]: Sticker
+   P(21w): Sticker digunakan sebagai media pendukung untuk memperkuat identitas visual SK Creative. Elemen kupu-kupu dan logo SK dapat digunakan sebagai ciri khas.
+
+## HEADING [h3]: Media Sosial
+   P(19w): Identitas SK Creative diterapkan pada tampilan media sosial untuk menampilkan portofolio desain, hasil ilustrasi, fotografi, maupun karya DKV lainnya.
+   P(17w): Tujuan mockup adalah memperlihatkan bahwa logo dan identitas SK Creative dapat diterapkan secara konsisten pada berbagai media.
+
+## HEADING [h2]: 7. Konsep Mascot Character
+   P(14w): Mascot SK Creative dibuat sebagai karakter yang mewakili kepribadian dan aktivitas kreatif pemilik brand.
+   P(20w): Karakter digambarkan sebagai pelajar perempuan yang kreatif dan aktif dalam bidang DKV, menggunakan pakaian dengan warna cream, khaki, dan cokelat.
+   P(4w): Beberapa properti yang digunakan:
+   LIST[ul] n=5:
+        1. Laptop: melambangkan desain digital.
+        2. Sketchbook: melambangkan ide, menggambar, dan proses membuat konsep.
+        3. Pensil: melambangkan proses menggambar dan membuat sketsa.
+        4. Kamera: melambangkan fotografi sebagai bagian dari DKV.
+        5. Kupu-kupu: menjadi ciri khas SK Creative dan simbol kreativitas serta perkembangan.
+   P(16w): Mascot dibuat dengan gaya modern agar mudah digunakan dalam poster, media sosial, video, maupun materi promosi.
+
+## HEADING [h2]: 8. Konsep Iklan Video
+   P(9w): Iklan video SK Creative menggunakan tema “Berkarya dengan Kreativitas”.
+   P(19w): Video menceritakan proses seorang pelajar DKV dalam menghasilkan sebuah karya, mulai dari mencari inspirasi hingga menghasilkan logo SK Creative.
+   P(4w): Alur visual terdiri dari:
+   LIST[ol] n=10:
+        1. Mencari inspirasi.
+        2. Membuat sketsa.
+        3. Mengembangkan ide.
+        4. Mencari referensi.
+        5. Mengembangkan desain secara digital.
+        6. Memilih warna.
+        7. Menyelesaikan desain.
+        8. Menampilkan hasil karya.
+        9. Menunjukkan identitas SK Creative.
+        10. Closing dengan logo dan tagline.
+   P(20w): Pesan utama video adalah bahwa sebuah karya yang baik membutuhkan ide, proses, kreativitas, keberanian mencoba, dan kemauan untuk terus berkembang.
+
+## HEADING [h2]: 9. Konsep Storyboard
+   P(10w): Storyboard digunakan untuk merencanakan visual video sebelum proses produksi dilakukan.
+   P(8w): Storyboard SK Creative terdiri dari 6 scene utama:
+
+## HEADING [h3]: Scene 1 — Mencari Inspirasi
+   P(16w): Menampilkan karakter sedang berada di meja kerja sambil mencari ide. Terdapat laptop, sketchbook, pensil, dan kamera.
+
+## HEADING [h3]: Scene 2 — Membuat Sketsa
+   P(13w): Karakter mulai menuangkan ide ke dalam sketchbook dengan menggambar rancangan logo SK Creative.
+
+## HEADING [h3]: Scene 3 — Mengembangkan Ide
+   P(9w): Sketsa mulai dikembangkan dengan melihat berbagai referensi dan moodboard.
+
+## HEADING [h3]: Scene 4 — Proses Kreatif
+   P(11w): Desain dikembangkan secara digital dan mulai menentukan warna serta bentuk logo.
+
+## HEADING [h3]: Scene 5 — Hasil Karya
+   P(10w): Logo SK Creative telah selesai dan ditampilkan pada layar laptop.
+
+## HEADING [h3]: Scene 6 — Closing
+   P(13w): Logo SK Creative ditampilkan bersama tagline “Berkarya dengan Kreativitas” dan nama Siti Khoiriyah.
+
+## HEADING [h2]: 10. Konsep Shotlist
+   P(19w): Shotlist digunakan sebagai panduan pengambilan gambar agar setiap adegan memiliki jenis shot, angle, pergerakan kamera, dan durasi yang jelas.
+   P(6w): Shotlist terdiri dari 10 shot, yaitu:
+   LIST[ol] n=10:
+        1. Pembukaan — memperlihatkan suasana meja kerja.
+        2. Mencari Ide — karakter mencari inspirasi.
+        3. Membuat Sketsa — proses menggambar logo.
+        4. Detail Sketsa — memperlihatkan detail logo SK dan kupu-kupu.
+        5. Mencari Referensi — melihat moodboard.
+        6. Desain Digital — mengembangkan desain menggunakan laptop.
+        7. Memilih Warna — menentukan warna identitas brand.
+        8. Logo Selesai — menampilkan hasil desain.
+        9. Menampilkan Karya — menunjukkan karya SK Creative.
+        10. Closing — menampilkan logo, tagline, dan nama pemilik.
+   P(15w): Dengan adanya shotlist, proses produksi video menjadi lebih terarah dan memudahkan dalam menentukan komposisi visual.
+
+## HEADING [h2]: 11. Konsep Keseluruhan Branding
+   P(27w): Secara keseluruhan, SK Creative dibuat sebagai identitas personal yang menggambarkan Siti Khoiriyah sebagai pelajar DKV yang kreatif, terus belajar, dan berani mengembangkan ide menjadi sebuah karya visual.
+   P(39w): Setiap elemen memiliki hubungan satu sama lain. Logo SK menjadi identitas utama, kupu-kupu menjadi simbol kreativitas dan perkembangan, warna cream-cokelat-khaki-soft gold memberikan karakter elegan, mascot memperkuat identitas karakter, sedangkan storyboard dan video memperlihatkan proses kreatif di balik sebuah karya.
+   P(21w): Konsep tersebut menghasilkan personal branding yang elegan, modern, kreatif, sederhana, dan profesional, sekaligus tetap menunjukkan karakter pribadi sebagai seorang pelajar DKV.
+
+## HEADING [h3]: Kesimpulan
+   P(48w): SK Creative bukan hanya sebuah nama atau logo, tetapi merupakan gambaran dari proses kreatif Siti Khoiriyah dalam mengembangkan kemampuan di bidang Desain Komunikasi Visual. Melalui tagline “Berkarya dengan Kreativitas”, brand ini menyampaikan pesan bahwa setiap ide dapat dikembangkan menjadi karya melalui proses belajar, mencoba, berkreasi, dan terus berkembang.
+
+## HEADING [h2]: PROMPT YANG DIGUNAKAN DALAM PEMBUATAN BRANDING SK CREATIVE
+
+## HEADING [h3]: 1. Prompt Logo Personal SK Creative
+
+## HEADING [h3]: 2. Prompt Moodboard Branding
+
+## HEADING [h3]: 3. Prompt Mockup Branding
+
+## HEADING [h3]: 4. Prompt AI Mascot Character
+
+## HEADING [h3]: 5. Prompt Scene 1 — Mencari Inspirasi
+
+## HEADING [h3]: 6. Prompt Scene 2 — Membuat Sketsa
+
+## HEADING [h3]: 7. Prompt Scene 3 — Mengembangkan Ide
+
+## HEADING [h3]: 8. Prompt Scene 4 — Proses Kreatif Digital
+
+## HEADING [h3]: 9. Prompt Scene 5 — Hasil Karya
+
+## HEADING [h3]: 10. Prompt Scene 6 — Closing
+
+## HEADING [h3]: 11. Prompt Konsep Storyboard Keseluruhan
+
+## HEADING [h3]: 12. Prompt Shotlist
+
+## HEADING [h2]: Kesimpulan Penggunaan Prompt

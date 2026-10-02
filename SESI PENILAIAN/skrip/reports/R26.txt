@@ -1,0 +1,69 @@
+====================================================================================================
+ID R26 | XI DKV 3 | DHEA EKA KHOERUNNISA
+URL: https://dheaekadhey.blogspot.com/2026/09/personal-branding-dhea-eka-khoerunnisa.html?m=1
+STATUS: 200  final=https://dheaekadhey.blogspot.com/2026/09/personal-branding-dhea-eka-khoerunnisa.html?m=1
+PAGE TITLE: Personal Branding Dhea Eka Khoerunnisa XI DKV 3
+H1: 
+WORDS: 1999 | IMAGES: 5 | TABLES: 1
+LABELS: AI, Branding, Profil, SMKN 9 Garut, kegiatan sekolah, label, logo, maskot branding, maskot logo, mockup, moodboard, moodboard logo, personal branding, portofolio, tugas sekolah
+KW COUNTS: {'logo': 20, 'moodboard': 4, 'mockup': 4, 'naskah': 22, 'storyline': 5, 'shotlist': 4, 'storyboard': 5, 'mascot': 12, 'prompt': 8, 'tagline': 13, 'deskripsi': 22, 'by_nama': 12, 'color': 17, 'tipografi': 9}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h2]: ASTS PERSONAL BRANDING DHEA EKA XI DKV 3 SMKN 9 GARUT
+
+## HEADING [h3]: 1. Logo
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmmrKxifNBz2U47X6O5wpcLKkN4iRlDaE94G474LAePfJoH9mS2-AuVs0-OzLh2AwQ3v4SoGBHAVFtkkMhPyIfhWaNtHjTEGTN9fEZxNZBBmNHSAjYjYET7YLi6Arm7aWusmq28Lhg6kE
+   LIST[ul] n=1:
+        1. Sky blue melambangkan ketenangan, kepercayaan, dan profesionalisme.
+   LIST[ul] n=1:
+        1. Putih melambangkan kesederhanaan, kebersihan, dan keterbukaan.
+   LIST[ul] n=1:
+        1. Transparan menggambarkan fleksibilitas, kreativitas, dan keterbukaan terhadap ide baru, sedangkan silver memberikan kesan modern, elegan, dan profesional.
+
+## HEADING [h3]: 2. Moodboard
+   [IMG#2] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf-C6pUKEtWZOriwRLAqF3H9zlcPFCGuInJIS0isS1q0UVXQnYUgeni6Levbr0w8hwqQ4DnxoHMrwVGLHvGDZIPs_mJWxeqqoYgzbEbW14318HjKLo2J7IRNNM_TLq9Z6bH_Fp-lbgm9H
+
+## HEADING [h3]: 3. Mockup
+   [IMG#3] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhb6vHenyhqWnw6YjmVZNptlLbG05UHivC0XKScqIA6Ab7KAz1X8lKMtnVdeGxdNyve_-Bk1i6uVVReqT4pFkwB1g4KHwp9c9AfGL8fEkDaasuCnsLEr9I2l_I0de2u5Zcvl3YX6zD65
+   LIST[ul] n=1:
+        1. Pada sticker, logo DK dan beberapa elemen grafis seperti sparkle, stylus, cursor, serta bentuk kaca digunakan sebagai dekorasi yang memperkuat karakter kreatif.
+   LIST[ul] n=1:
+        1. Feed Instagram menggunakan layout yang clean dan teratur dengan kombinasi konten desain, foto, quote, serta elemen visual berbentuk glass effect sehingga tampilan akun terlihat konsisten dan profesional.
+   LIST[ul] n=1:
+        1. Sementara itu, kartu nama menggunakan desain minimalis dengan logo DK sebagai fokus utama dan informasi identitas seperti nama, profesi, serta kontak.
+
+## HEADING [h3]: 4. Maskot
+   [IMG#4] alt='' w=213 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHRMU_9v-CgV0A7B9J63ecCRAq0L-Mww2POLfzzbpd-5QE_riY7VzK4wcE9cEvUgtD0Qem0X7W8hHoCnF2voRuPW6BujYSAnPZxfF4SAKjBUkLw_GpshRi90jXJI0Kw1MR3YSlK-g-U8K
+
+## HEADING [h3]: 5. Naskah
+
+## HEADING [h3]: 6. Storyline
+
+## HEADING [h3]: 7. Shotlist
+   [TABLE#1] rows=13 maxcols=7
+        r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+        r02: 1 || Logo DK muncul || Extreme Close Up || Eye Level || Fade In + Zoom In || 3 detik || Logo DK muncul dengan efek glass dan cahaya lembut.
+        r03: 2 || Karakter Dhea diperkenalkan || Full Shot || Eye Level || Slow Zoom Out || 4 detik || Maskot Dhea terlihat full body dengan tablet di tangan.
+        r04: 3 || Dhea mencari inspirasi || Medium Shot || Eye Level || Pan Right || 4 detik || Dhea melihat berbagai floating interface dan referensi desain.
+        r05: 4 || Ide mulai muncul || Close Up || Slight Low Angle || Push In || 3 detik || Fokus pada ekspresi dan tablet ketika Dhea mendapat ide.
+        r06: 5 || Membuat sketsa || Over Shoulder Shot || High Angle || Tilt Down || 5 detik || Layar tablet berisi sketsa dan rancangan awal desain.
+        r07: 6 || Memilih warna || Close Up || Eye Level || Slide Left || 4 detik || Palet warna sky blue, putih, transparan, dan silver muncul.
+        r08: 7 || Menentukan typography || Insert Shot || Top Angle || Slow Pan || 4 detik || Pilihan typography muncul dan dipilih untuk melengkapi desain.
+        r09: 8 || Desain belum sesuai || Medium Shot || Eye Level || Slight Zoom In || 4 detik || Elemen desain berubah karena konsep masih belum sesuai.
+        r10: 9 || Memperbaiki desain || Close Up || Over Shoulder || Push In || 5 detik || Dhea menyusun ulang elemen hingga komposisinya harmonis.
+        r11: 10 || Desain selesai || Wide Shot || Eye Level || Pull Out || 4 detik || Hasil desain muncul dengan efek glassmorphism dan cahaya futuristik.
+        r12: 11 || Maskot + branding || Full Shot || Low Angle || Slow Orbit || 4 detik || Dhea berdiri bersama elemen branding dan logo DK.
+        r13: 12 || Closing tagline || Close Up || Eye Level || Fade Out || 4 detik || Logo DK tampil dengan tagline “Dream. Design. Create.”
+   P(51w): Shotlist iklan personal branding DK dibuat untuk mengatur alur visual video dari awal hingga akhir agar proses produksi lebih terarah. Setiap shot disusun secara berurutan mulai dari pengenalan logo dan maskot, proses mencari inspirasi, membuat sketsa dan konsep, memilih warna serta typography, menghadapi kendala dalam proses desain, hingga menampilkan hasil akhir.
+   P(76w): Penggunaan variasi jenis shot, angle kamera, movement, dan durasi bertujuan untuk menciptakan visual yang lebih dinamis serta memperjelas setiap tahap dalam proses kreatif. Perpindahan antar adegan juga dibuat secara teratur agar cerita mudah dipahami dan tetap memiliki kesinambungan visual. Keseluruhan shot menggunakan konsep modern, clean, futuristik, dan glassmorphism yang sesuai dengan identitas branding Dhea sebagai graphic designer. Shot terakhir menampilkan logo DK by Dhea Khoerunnisa dan tagline “Dream. Design. Create.” sebagai penutup sekaligus penguat identitas brand.
+
+## HEADING [h3]: 8. Storyboard
+   [IMG#5] alt='' w=300 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrPzWgcowNoO5A-5u9No-kGM1bKxrMFMsAVnCFDsFmvYIPERCkHcC13aWLCcA8O7q5nc_hXJLGCgish_m8_tI84-RCaGu3z0lRYMxxg09vMIq-KYc4hI0ycT70W7-riMvom4xNC2Ofj4A
+   P(59w): Storyboard iklan DK by Dhea Khoerunnisa dibuat untuk menggambarkan alur visual dari proses munculnya sebuah ide hingga menjadi sebuah karya desain. Storyboard terdiri dari delapan scene yang memiliki alur berurutan, mulai dari kemunculan logo, pengenalan karakter Dhea sebagai graphic designer, pencarian inspirasi, pembuatan konsep, menghadapi kendala dalam proses desain, melakukan perbaikan, hingga menampilkan hasil akhir dan logo sebagai penutup.
+   P(50w): Setiap scene menggunakan visual bernuansa futuristik, modern, dan glassmorphism dengan dominasi warna sky blue, putih, transparan, dan silver. Karakter maskot Dhea ditampilkan sebagai seorang desainer yang kreatif, tenang, dan humble. Elemen seperti tablet, floating interface, typography, palet warna, stylus, serta berbagai ikon desain digunakan untuk memperkuat suasana dunia graphic design.
+   P(54w): Storyboard juga mencantumkan jenis shot, angle kamera, transisi, serta dialog atau narasi pada setiap scene agar proses produksi dapat dilakukan dengan lebih terarah. Perpindahan visual dibuat secara smooth untuk menjaga kesan modern dan elegan. Pada bagian akhir, logo DK by Dhea Khoerunnisa ditampilkan bersama tagline “Dream. Design. Create.” sebagai penutup sekaligus penguat identitas brand.
+   P(1w): • Prompt:
+   P(50w): "Buatkan storyboard iklan personal branding DK minimal 6 scene berdasarkan storyline dan shotlist yang telah dibuat. Setiap scene wajib memuat visual adegan, keterangan shot, angle kamera, transisi, serta dialog atau narasi. Gunakan konsep futuristik, glassmorphism, maskot graphic designer, branding DK, dan tagline “Dream. Design. Create.” agar seluruh visual tetap konsisten."
+   P(4w): "Deskripsikan minimal 100 kata"

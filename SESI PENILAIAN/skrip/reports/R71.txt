@@ -1,0 +1,156 @@
+====================================================================================================
+ID R71 | XI DKV 2 | SYABINA AYAT EL AKHROS
+URL: https://syabinaayatelakhros.blogspot.com/2026/10/personal-branding-syabina-ayat-el.html
+STATUS: 200  final=https://syabinaayatelakhros.blogspot.com/2026/10/personal-branding-syabina-ayat-el.html
+PAGE TITLE: PERSONAL BRANDING - SYABINA AYAT EL AKHROS XI DKV 2
+H1: 
+WORDS: 3547 | IMAGES: 8 | TABLES: 1
+LABELS: AI, Personal Branding, Portofolio, Tugas Sekolah
+KW COUNTS: {'logo': 40, 'moodboard': 8, 'mockup': 13, 'naskah': 18, 'storyline': 3, 'shotlist': 4, 'storyboard': 5, 'mascot': 56, 'prompt': 10, 'tagline': 9, 'deskripsi': 15, 'by_nama': 0, 'color': 16, 'tipografi': 5}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h1]: 
+
+## HEADING [h1]: PROJECT ASTS PERSONAL BRANDING - SYABINA AYAT EL AKHROS XI DKV 2 SMKN 9 GARUT
+
+## HEADING [h2]: 
+
+## HEADING [h2]: 1. Personal Branding (Logo)
+
+## HEADING [h4]: 
+   [IMG#1] alt='' w=612 h=332 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgikTCyWm9GJn-n2gZpl8gqs6HdUCLDCKnn2-0E4D_-mc_WwqGvU0c_9baDvw__H8cnuEFs4RJpAfYM8ns9L20ENMIethmXu8Cv27I3uKDz1gwW7luZtvE5Den66Fs2tRuxtp8m-8qR0NL
+   [TABLE#1] rows=0 maxcols=0
+
+## HEADING [h4]: Deskripsi Konsep Personal Branding: Syabina Ayat El Akhros
+   LIST[ul] n=1:
+        1. Inisial "SAEA" (Tipografi Utama): Menggunakan gaya serif modern dengan garis yang bersih dan proporsional. Tipografi ini mencerminkan karakter yang elegan, profesional, serta pemikiran desain yang terstruktur dan matang.
+   LIST[ul] n=1:
+        1. Simbol Buku Terbuka (Fondasi Ide): Diletakkan tepat di bawah inisial nama sebagai simbol ketertarikan mendalam pada dunia literasi dan novel. Buku ini melambangkan wawasan, imajinasi, dan cerita yang menjadi sumber inspirasi utama dalam setiap proses
+   LIST[ul] n=1:
+        1. Aksen Ornamental Dedaunan (Pertumbuhan & Kelembutan): Ranting dan daun yang melengkung simetris di bagian atas memberikan sentuhan organik yang anggun. Elemen ini menyimbolkan ide-ide kreatif yang terus berkembang secara alami dan berkesinambungan.
+   LIST[ul] n=1:
+        1. Rose-Bronze & Mahogany Tone: Pemilihan paduan warna bumi (earthy tone) dengan nuansa rose-bronze dan cokelat hangat menghadirkan kesan mewah yang tenang (subtle luxury), berkelas, serta ramah.
+   LIST[ul] n=1:
+        1. Gaya Minimalis Elegan: Garis-garis yang simpel memastikan logo mudah dikenali, fleksibel diterapkan di berbagai media, serta tidak lekang oleh waktu (timeless).
+
+## HEADING [h4]: PROMPT :
+
+## HEADING [h2]: 2. Mascot Character
+   [IMG#2] alt='' w=640 h=358 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqqK_E_faQy5ypdz9OkkqZAFA17QFLWgMj5ORJgGV57i_lp0OfqMhLlbY4_GHUbcO73Rx7sG1w3XVJY7CSrA2N2GwBxSpQnuxZa-dS7F-huggiiF6AbQ76tPl_XpEliA645db7jHqSSDb
+
+## HEADING [h4]: Deskripsi dan Filosofi Maskot SAEA
+   P(66w): Maskot SAEA merupakan karakter 3D yang menggambarkan sosok perempuan berhijab dengan pembawaan anggun, cerdas, kreatif, dan penuh makna. Perpaduan warna maroon, krem, dan emas memberikan kesan hangat, elegan, sekaligus berkarakter. Buku yang dipeluk menjadi simbol utama ilmu pengetahuan, proses belajar, dan perjalanan untuk terus berkembang. Logo SAEA yang terletak pada bagian dada memperkuat identitas visual sekaligus menunjukkan bahwa ilmu dan kreativitas menjadi bagian dari karakter maskot.
+   P(42w): 1. Mascot Full BodyTampilan full body menggambarkan maskot secara utuh sebagai sosok yang percaya diri dan siap melangkah. Busana panjang melambangkan kesopanan dan keanggunan, sedangkan motif daun menggambarkan pertumbuhan, harapan, dan perkembangan. Buku menjadi filosofi bahwa setiap perjalanan selalu memiliki proses belajar.
+   P(41w): 2. Mascot PortraitTampilan portrait menonjolkan wajah, senyum, dan ekspresi maskot. Ekspresi yang lembut melambangkan keramahan, optimisme, dan keterbukaan terhadap ide baru. Detail hijab dan ornamen daun memperkuat kesan bahwa karakter SAEA tidak hanya mengutamakan penampilan, tetapi juga memiliki nilai dan cerita.
+   P(64w): 3. Mascot Bersama Logo BrandingPada tampilan ini, maskot berdampingan dengan logo SAEA untuk menunjukkan hubungan yang kuat antara karakter dan identitas brand. Logo dengan simbol buku terbuka melambangkan ilmu dan kreativitas, sedangkan daun di atasnya melambangkan pertumbuhan. Secara keseluruhan, maskot dan logo menyampaikan filosofi “A Little Art, A Lot of Meaning”: sebuah karya mungkin terlihat sederhana, tetapi dapat membawa banyak nilai, cerita, dan makna.
+
+## HEADING [h4]: PROMPT :
+
+## HEADING [h4]: bagus, sekarang buatkanlah saya mascot character dengan menggunakan gaya 3D character, dengan ketentuan hasil output mascot sebagai berikut:
+
+## HEADING [h2]: 3. Moodboard Branding
+   [IMG#3] alt='' w=640 h=426 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBWxFHmhKvBckCvVW4uwPNEPDELGgh0lsXZo9DNRQLL1dUhWkx5Zyx3q0tWgs9Zh1lTlEEj-BkCTBWmG_1fbiXtz50VUpFkCrhgwwxKZei9qXN8V8IDaSc0gmdLncF2SbzhotPhdJMQ9h
+
+## HEADING [h3]: Deskripsi Moodboard SAEA
+
+## HEADING [h4]: PROMPT :
+
+## HEADING [h2]: 4. Mockup Branding
+
+## HEADING [h4]: 4.1 Mockup Branding Social Media Feed
+   [IMG#4] alt='' w=640 h=426 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQUXP1PJc2jL1R3nzIdXA0oGORlPlSzbE1EPTNaacMyMIotqzqwO2ePcL7QcLb2eMzWSaKVPlxCL_T2BGV_3wUwcWzZ1NB9Soyv7b8ijU1R760k_8erpzfrOL-Il0xghAx0rhGYDdGFtO
+
+## HEADING [h3]: Penjelasan Fungsi Media Sosial Branding SAEA
+
+## HEADING [h4]: PROMPT :
+
+## HEADING [h4]: 4.2 Mockup Branding Baju
+   [IMG#5] alt='' w=640 h=426 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTyaKzoa3zQuVprdEBqqrvujBe7CconC7zsz_oWi7YWxq6SNPtgVgq0t2aOB_BedxjsyvsfJlgTwW092qFFB5QevRK6za2U9AR7P4OzgXRPd1R9ODRW5rw-5oTkIrcc0k8_IDUzqT_58O
+
+## HEADING [h3]: Penjelasan Fungsi Mockup Branding Baju SAEA
+
+## HEADING [h4]: PROMPT :
+
+## HEADING [h4]: 4.3 Mockup Branding Kartu Nama
+   [IMG#6] alt='' w=640 h=426 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTYwOT6vwbCGiSyhu1b6UkKbtvz0hjuaIoRs49IA0-UqPdunB8bf_HykIf5cDfYd8ihwxF7sZQ1bUfCQ0aBCLxcHaHV-hloBCvKUvIG0Jm_ldphmpgAzDc7QuD8ggmtcB9ab18rtXFOWS
+
+## HEADING [h4]: Deskripsi dan Fungsi Mockup Branding Kartu Nama SAEA
+   P(59w): Mockup branding kartu nama SAEA – Syabina Ayat El Akhros berfungsi sebagai gambaran penerapan identitas visual SAEA pada media profesional yang dapat digunakan dalam berbagai kesempatan. Kartu nama ini dirancang dengan perpaduan warna burgundy, ivory, beige, dan gold yang memberikan kesan elegan, anggun, hangat, dan mewah. Logo SAEA menjadi elemen utama yang memperkuat identitas serta membuat brand lebih mudah dikenali.
+   P(41w): Selain sebagai media untuk memperkenalkan identitas, kartu nama juga berfungsi sebagai sarana untuk menyampaikan informasi kontak dan profil secara ringkas. Penggunaan ornamen daun, garis dekoratif, serta motif buku terbuka memperkuat karakter SAEA yang berkaitan dengan seni, kreativitas, ilmu, dan proses berkarya.
+   P(54w): Mockup ini juga membantu menunjukkan bagaimana desain kartu nama akan terlihat ketika benar-benar digunakan atau dicetak. Dengan tampilan yang konsisten, kartu nama dapat membangun kesan profesional sekaligus personal. Lebih dari sekadar media informasi, kartu nama SAEA menjadi bagian kecil dari sebuah cerita, yaitu tentang identitas, karya, dan nilai yang ingin dibawa dalam setiap pertemuan.
+
+## HEADING [h4]: PROMPT :
+
+## HEADING [h2]: 5. Naskah Iklan Komersial
+   P(6w): 🎬 Naskah Iklan Komersial Short Movie — SAEA
+   P(3w): Durasi: ±60 detik
+
+## HEADING [h3]: 1. Judul
+   P(4w): “Sebuah Cerita Bernama SAEA”
+
+## HEADING [h3]: 2. Tema
+   P(10w): Perjalanan sederhana dalam menemukan, menciptakan, dan memberikan makna melalui seni.
+
+## HEADING [h3]: 3. Pesan Utama
+   P(32w): Setiap karya memiliki cerita. SAEA hadir sebagai representasi dari kreativitas, keberanian untuk mencoba, dan proses untuk terus berkembang. Tidak harus sempurna, yang terpenting adalah karya tersebut dibuat dengan hati dan memiliki makna.
+
+## HEADING [h3]: 4. Narasi / Dialog
+
+## HEADING [h3]: 5. Closing Tagline
+
+## HEADING [h4]: PROMPT :
+
+## HEADING [h2]: 6. Storyline
+   P(4w): 🎬 Storyline Short Movie SAEA
+
+## HEADING [h4]: 1. Pembukaan — 0–10 detik
+   P(29w): Layar dibuka dengan suasana tenang. Terlihat sebuah buku kosong, alat gambar, dan beberapa elemen visual dengan warna khas SAEA. Logo SAEA muncul secara perlahan, kemudian mascot hadir membawa buku.
+
+## HEADING [h4]: 2. Alur Cerita — 11–35 detik
+   P(27w): Mascot membuka buku dan menemukan halaman kosong. Kemudian mulai muncul sketsa, tulisan, warna, dan berbagai ide kreatif. Visual berlanjut pada proses pembuatan desain hingga terbentuk sebuah karya.
+   P(16w): Logo dan branding SAEA mulai muncul pada beberapa media seperti media sosial, pakaian, dan kartu nama.
+
+## HEADING [h4]: 3. Konflik / Fokus Visual — 36–48 detik
+   P(24w): Halaman yang awalnya kosong kembali terlihat. Beberapa sketsa tampak belum sempurna dan mascot terlihat berpikir sejenak. Namun, mascot kembali mengambil pensil dan melanjutkan karyanya.
+   P(10w): Visual kemudian berubah menjadi karya yang selesai dan lebih tertata.
+
+## HEADING [h4]: 4. Penutup — 49–60 detik
+   P(20w): Mascot berdiri di samping karya yang telah selesai. Kamera perlahan memperlihatkan keseluruhan identitas SAEA, kemudian logo tampil sebagai fokus utama.
+
+## HEADING [h4]: ✨ Closing Tagline
+
+## HEADING [h4]: PROMPT :
+
+## HEADING [h2]: 7. Shortlist
+   [IMG#7] alt='' w=640 h=360 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju3e4y6pOHHITij0ebcAlh762bAyjREju_TrU2tBBTfUvkNLDDczI4gIByfKO6_Da0dP9uRthkGsUwkuiggVSWVqqYLCGNWr8OZATigNqcCEJmnE_hfM2klCcLEVxNT1d2ZT8LX42LakS
+
+## HEADING [h4]: Penjelasan Rinci Shotlist Short Movie SAEA
+
+## HEADING [h4]: PROMPT :
+
+## HEADING [h2]: 8. Storyboard
+   [IMG#8] alt='' w=640 h=426 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLpVkMC9CHhvQ28u-_dz-ptfbv8OnckpxUnp1Ze0CTPTcWJ3l5L10uCAOitDhWgx9xZHU-DmKI7dBI3dUcN2qRqYAgWdYl1iJZdykDeG5BXEcxYfQtg6YoG88iWgaC-DMXS_G16UZE27z
+
+## HEADING [h4]: Deskripsi Storyboard Short Movie SAEA
+
+## HEADING [h4]: “Sebuah Cerita Bernama SAEA”
+   P(37w): Storyboard ini menggambarkan perjalanan SAEA dari sebuah ide sederhana hingga menjadi sebuah karya yang memiliki identitas dan makna. Setiap scene dibuat saling berhubungan sehingga membentuk alur cerita yang lembut, inspiratif, dan mudah dipahami. Berikut deskripsi masing-masing scene:
+   P(35w): Cerita dimulai dengan suasana yang tenang dan elegan. Logo SAEA perlahan muncul di atas permukaan kertas dengan pencahayaan hangat. Scene ini berfungsi sebagai pengenalan identitas sekaligus membangun rasa penasaran penonton terhadap cerita yang akan dimulai.
+   P(34w): Penonton diperlihatkan sebuah meja dengan buku kosong dan alat-alat menggambar. Halaman yang masih kosong menjadi simbol dari sebuah awal. Belum ada karya yang terbentuk, tetapi terdapat ruang yang luas untuk menuangkan ide dan kreativitas.
+   P(35w): Mascot SAEA muncul dengan membawa sebuah buku. Kehadirannya menjadi penghubung antara penonton dan cerita. Mascot tidak hanya menjadi elemen visual branding, tetapi juga menggambarkan sosok yang sedang menjalani proses untuk menemukan dan mengembangkan sebuah ide.
+   P(37w): Mascot membuka buku dan melihat halaman yang masih kosong. Perlahan muncul sebuah sketsa dan gagasan. Scene ini menggambarkan momen ketika sebuah inspirasi muncul dari sesuatu yang sederhana. Sebuah ide kecil mulai menjadi langkah pertama menuju sebuah karya.
+   P(34w): Cerita kemudian masuk ke dalam proses penciptaan. Terlihat aktivitas menggambar, menulis, memilih warna, dan menyusun berbagai elemen visual. Scene ini menekankan bahwa sebuah karya tidak muncul secara instan, melainkan membutuhkan waktu, kreativitas, dan ketelitian.
+   P(39w): Tidak semua proses berjalan dengan mudah. Sketsa terlihat belum sempurna dan mascot berhenti untuk memperhatikan hasil pekerjaannya. Scene ini menjadi konflik utama dalam cerita, yaitu ketika seseorang menghadapi keraguan atau merasa bahwa hasil yang dibuat belum sesuai dengan harapan.
+   P(41w): Mascot kemudian memilih untuk melanjutkan proses. Ia kembali mengambil alat gambar dan mencoba memperbaiki karyanya. Scene ini menyampaikan pesan bahwa kesalahan dan kegagalan merupakan bagian dari perjalanan. Yang terpenting bukan selalu menghasilkan sesuatu yang sempurna, tetapi memiliki keberanian untuk mencoba kembali.
+   P(39w): Setelah melewati proses tersebut, karya akhirnya selesai. Berbagai penerapan identitas SAEA ditampilkan, seperti logo, pakaian, kartu nama, media sosial, dan mascot. Scene ini memperlihatkan bagaimana sebuah ide yang awalnya sederhana dapat berkembang menjadi identitas visual yang utuh dan konsisten.
+   P(44w): Mascot berdiri di samping karya yang telah selesai sambil melihat hasil akhirnya. Logo SAEA menjadi fokus utama. Scene ini merupakan bagian reflektif yang mengajak penonton memahami bahwa karya bukan hanya tentang hasil akhir, tetapi juga tentang proses, pengalaman, dan cerita yang ada di baliknya.
+   P(36w): Cerita ditutup dengan tampilan logo SAEA dan mascot secara utuh. Visual dibuat sederhana, bersih, dan elegan agar identitas brand mudah diingat. Tagline “A Little Art, A Lot of Meaning” menjadi pesan terakhir yang merangkum keseluruhan cerita.
+
+## HEADING [h4]: Kesimpulan
+   P(36w): Secara keseluruhan, storyboard “Sebuah Cerita Bernama SAEA” menggambarkan perjalanan kreatif yang sederhana namun memiliki makna. Cerita dimulai dari sebuah halaman kosong, berkembang menjadi sebuah ide, melewati proses dan kesulitan, kemudian menghasilkan sebuah karya yang memiliki identitas.
+   P(43w): Penggunaan mascot, logo, warna burgundy dan ivory, elemen buku, daun, serta visual yang elegan membantu memperkuat karakter SAEA sebagai brand yang dekat dengan seni, kreativitas, ilmu, dan proses pembelajaran. Setiap scene memiliki fungsi untuk membawa penonton semakin dekat dengan nilai yang ingin disampaikan.
+   P(8w): Pada akhirnya, short movie ini ingin menyampaikan bahwa
+
+## HEADING [h4]: PROMPT :

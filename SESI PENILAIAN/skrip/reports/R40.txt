@@ -1,0 +1,41 @@
+====================================================================================================
+ID R40 | XI DKV 4 | NENG SRI RAHAYU
+URL: https://whosrirhyu.blogspot.com/2026/09/personal-branding-neng-sri-rahayu.html
+STATUS: 200  final=https://whosrirhyu.blogspot.com/2026/09/personal-branding-neng-sri-rahayu.html
+PAGE TITLE: Personal Branding Neng Sri Rahayu
+H1: 
+WORDS: 1401 | IMAGES: 7 | TABLES: 0
+LABELS: AI, PERSONAL BRANDING, PORTOFOLIO, SMKN9GARUT, TUGAS SEKOLAH
+KW COUNTS: {'logo': 21, 'moodboard': 7, 'mockup': 6, 'naskah': 7, 'storyline': 1, 'shotlist': 1, 'storyboard': 3, 'mascot': 9, 'prompt': 9, 'tagline': 7, 'deskripsi': 12, 'by_nama': 0, 'color': 13, 'tipografi': 1}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h1]: ASTS PERSONAL BRANDING NENG SRI RAHAYU XI DKV 4 SMKN 9 GARUT
+
+## HEADING [h3]: 1. LOGO PERSONAL BRANDING
+   [IMG#1] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQUAukFLxYEKruLONvkHmn5g7d87tOMcjMT7Q6EuXrqn4b0Gk6tqgNKhr9Fssp63zupX8PiEYwGfOgXUwki54F6fWjLgy2BCuxHDJ96EGsODCL30h4J0GZnzdDIepg_DNN3Ub1cJc4ZDs
+
+## HEADING [h3]: 2.MOOD BOARD
+   [IMG#2] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvhwaYUVGS3YqiEW8QYxiGZDpWbMtx-rF6e2j6-OXGzpWkbjEIQJoWD2jv3NA-7gnrfAbcCDE1VCBKveiM2uZVoIHM84da5tpLduBFIWnEuHWSldsHDB_2qbAA7aKNl1NPkCqER7fUaj-
+
+## HEADING [h3]: 3. MOCKUP
+   [IMG#3] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCCOERKVrbRuA7Y5d4baTTc2M9RRcZajFeKVkTpTAB19VKEtw97GMU5iEGNucG-jD6RL77C2yVZhBHtjMdFQLCIzyMXuPeYAqtdAIyXmhh0iiHISzJsiOKZz9DYRpTqYO8ttq5HyhcY3L
+
+## HEADING [h3]: 4. MASKOT
+   [IMG#4] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqVfopGjS6DRpHgtKSBG3vj5maViNUs6sikCibh8g_ZUDGreX2Wnz0TXfN33OyMg_gRbLgLtfRUuj_6_Eg5me5TCh8sJ0iFyUQO7u5U5HbjrUzdN4EfrbVE9ne4PiwqTMPspb8lV3s1Ye
+
+## HEADING [h3]: 5. KONSEP VIDEO IKLAN
+   [IMG#5] alt='' w=320 h=292 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6T31HQhp11cst1QOxtkHOtwdCZpzzl4FB8JJ91np7cS5UYhbbIOrSg5F1TySQR618LozJ4udbo_iTv4iCgjkmIc8TMaHHIwiKP2_oH6hm1S7KBu6_bmI8f6jfy2OD5xdTXTgCfVprgs0
+
+## HEADING [h3]: 6. STORYLINE
+
+## HEADING [h3]: 7. SHOTLIST
+   [IMG#6] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikshpcVLXYBUMcYXbGzJBQVwNFl4ZpmYWJZuVCamLudiENa9_xEqfBr3jf9dOZDPPBLcsFEMTZKrYDzmHz3JSot8fn06uGsJvhyphenhyphenj-GqgM73hc9bDUY0Oc3Fq5TyzsuUtGAd
+
+## HEADING [h3]: 8. STORYBOARD
+   [IMG#7] alt='' w=320 h=127 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7HgK1fIBRAcEnBIJTXOC1elcnEtp8wF_Nvva_HL4aK_aMXl62tP3u1JZGYnami2Zy-tHJ4b27BqN-NSidD0vhU94DHG89-wIOnnC_qynnwb59xT7ZiGs2-Vjs8PHVIjzDxczuT7v2x4s
+
+## HEADING [h3]: 9. PENJELASAN KONSEP
+
+## HEADING [h3]: 10. PROMPT YANG DIGUNAKAN

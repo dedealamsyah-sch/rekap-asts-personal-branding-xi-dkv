@@ -1,0 +1,62 @@
+====================================================================================================
+ID R30 | XI DKV 3 | INDRI FITRIYANI
+URL: https://indriifitriyani.blogspot.com/2026/09/personal-branding-indri-fitriyani-xi.html?m=1
+STATUS: 200  final=https://indriifitriyani.blogspot.com/2026/09/personal-branding-indri-fitriyani-xi.html?m=1
+PAGE TITLE: Personal Branding Indri Fitriyani XI DKV 3
+H1: 
+WORDS: 2172 | IMAGES: 5 | TABLES: 2
+LABELS: AI, CV, Personal Branding, Portofolio, SMKN 9 Garut, TUGAS, Tugas sekolah
+KW COUNTS: {'logo': 36, 'moodboard': 14, 'mockup': 16, 'naskah': 15, 'storyline': 4, 'shotlist': 2, 'storyboard': 3, 'mascot': 22, 'prompt': 8, 'tagline': 7, 'deskripsi': 10, 'by_nama': 0, 'color': 24, 'tipografi': 4}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h2]: ASTS PERSONAL BRANDING
+
+## HEADING [h2]: INDRI FITRIYANI XI DKV 3
+
+## HEADING [h2]: SMKN 9 GARUT
+
+## HEADING [h3]: 1.BRANDING
+   [IMG#1] alt='' w=400 h=400 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiortFdixl7B5AE8eEP-g4MY51d0LKPMg1Lcu9h7_yiht-A91PFp5dbPizG6-rLX5AtglS_swNOd982wQyDO_98ZKqYpfLzuX73xuW1Rq1H6KTkWqAUBbHCon6yuw3W0eyvVc6EEdRajBv
+
+## HEADING [h3]: prompt yang di gunakan :
+
+## HEADING [h3]: 2.MOODBOARD
+   [IMG#2] alt='' w=400 h=224 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4ZgRh3XNTP_3IRCU5IPZtR5grAtL8MXjbhjnj-aEsD3kFIXawamh5OFnUeYK-WV10-hWK9z2kbCr1vFReB_xB0xFDzW5-2B93vcb001Cz725ApqEUz8g4G9e34-54Me_FA9JbNiobdhU
+
+## HEADING [h3]: prompt yang di gunakan :
+
+## HEADING [h3]: 3.MOCK UP
+   [IMG#3] alt='' w=400 h=266 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrnQ8v7wNqJIeMTzN6TbmMCK-NO7bPeBuc4Yfpp4uDsz4ISuJuD2PPYrT12q0ySv0TqSXwPwQR1BJSEr2Qk1zy8DWwmY3i5Vb24SZKeHBoMVsfdc3RtSYbc4QVvcsHHuxRqYL3lOaU-2_
+
+## HEADING [h3]: prompt yang di gunakan :
+
+## HEADING [h3]: 4.MASKOT
+   [IMG#4] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw3Yc6wel8T7s-jshwmu_jJB0RzCZTi2VdXpHNQmbRMaPmZyVpITjw58COfyMBWGhImgEMBAL719F0b7hw-il_FOSIoMOef1FRWSsy_nJVhYYtoCF1XjXvzwxqplfBSn7j20d8CrFjhQX
+
+## HEADING [h3]: 
+
+## HEADING [h3]: prompt yang di gunakan :
+
+## HEADING [h3]: NASKAH
+
+## HEADING [h3]: STORYLINE
+
+## HEADING [h3]: SHOTLIST
+   [TABLE#1] rows=0 maxcols=0
+   [TABLE#2] rows=11 maxcols=7
+        r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+        r02: 1 || Kamera dan lensa berada di meja || Extreme Close Up || Eye Level || Static || 2 detik || Pembukaan dengan menampilkan detail kamera sebagai identitas fotografer.
+        r03: 2 || Tangan mengambil kamera || Close Up || High Angle || Tilt Down || 3 detik || Menunjukkan persiapan sebelum melakukan pemotretan.
+        r04: 3 || Fotografer mempersiapkan kamera || Medium Shot || Eye Level || Dolly In || 3 detik || Menampilkan fotografer yang siap mengambil gambar.
+        r05: 4 || Fotografer melihat objek || Medium Close Up || Eye Level || Slow Pan || 3 detik || Menunjukkan fokus fotografer dalam menentukan objek dan komposisi foto.
+        r06: 5 || Jari menekan tombol kamera || Close Up || Eye Level || Tracking || 3 detik || Menampilkan proses pengambilan gambar dengan kamera.
+        r07: 6 || Hasil foto muncul || Close Up || Eye Level || Zoom In || 3 detik || Menampilkan hasil foto yang telah berhasil diambil.
+        r08: 7 || Proses editing di laptop || Over The Shoulder || High Angle || Static || 3 detik || Menampilkan proses editing foto sebagai bagian dari identitas Photographer dan Editor.
+        r09: 8 || Detail hasil editing || Close Up || Eye Level || Pan || 3 detik || Menunjukkan perubahan warna, pencahayaan, dan detail pada foto.
+        r10: 9 || Before dan After foto || Medium Shot || Eye Level || Slide || 3 detik || Menampilkan perbedaan hasil foto sebelum dan sesudah proses editing.
+        r11: 10 || Logo, maskot, dan tagline || Full Shot || Center || Zoom Out || 4 detik || Penutup dengan identitas INDRI FITRIYANI, logo IF, maskot, dan tagline “Capture Your Story, Create Your Memory.
+
+## HEADING [h3]: STORYBOARD
+   [IMG#5] alt='' w=400 h=266 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsPMvZazQIS-s4yOEvtw9WwlEEARBEPjdjIBX8xqwNlzmznXVkkEhmaN16bxr7ApENRndw0jGgq8N5zLuAjbiP3ECtGZv2knai5-VrTlJCozwjNkrTG3kuxoY0_dd9hIh7OQRuKK4y7og

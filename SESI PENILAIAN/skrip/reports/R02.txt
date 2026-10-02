@@ -1,0 +1,78 @@
+====================================================================================================
+ID R02 | XI DKV 1 | WULAN SUNDARI
+URL: https://wulansundariii.blogspot.com/2026/09/asts-personal-branding-wulan-sundari-xi_01701389558.html
+STATUS: 200  final=https://wulansundariii.blogspot.com/2026/09/asts-personal-branding-wulan-sundari-xi_01701389558.html
+PAGE TITLE: ASTs Personal Branding Wulan Sundari XI DKV 1 SMKN 9 GARUT
+H1: 
+WORDS: 2445 | IMAGES: 6 | TABLES: 2
+LABELS: personal branding
+KW COUNTS: {'logo': 27, 'moodboard': 5, 'mockup': 3, 'naskah': 10, 'storyline': 2, 'shotlist': 2, 'storyboard': 2, 'mascot': 33, 'prompt': 0, 'tagline': 7, 'deskripsi': 5, 'by_nama': 2, 'color': 42, 'tipografi': 6}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h3]: ASTs Personal Branding Wulan Sundari XI DKV 1 SMKN 9 GARUT
+   [IMG#1] alt='' w=400 h=None src=https://blogger.googleusercontent.com/img/a/AVvXsEjqMMANwQDDFGxnhe81Vl5b2h8KXfb9dnWEkmK02IO8ZLoZkMVt6xYaJLsjcEn5LhanTUahcKp7TrSYsqUmLV_NYI0kuMeInqB5de5TKa4i7jao5_U3_CjLQoD-Uny2VeabXQsu0PtzKDTpVEXM1qxF
+   [IMG#2] alt='' w=400 h=None src=https://blogger.googleusercontent.com/img/a/AVvXsEi8BC2cyISQLKBhakJm4XVZFZx9JKToF7t6Pgck3I44PAasC6sxkuPji8TtoDVu3_iLv1PHRgzMsarunJaeM1fq_Uf5h9LMxdWNt-6YRNqw1m5UA0Lixesznc8uT9ZeXXiJzJScPy96-a5ct-z6lgo0
+   [IMG#3] alt='' w=400 h=None src=https://blogger.googleusercontent.com/img/a/AVvXsEiF2UnoPOKXNSNs8uOfeHhbW7hwUpgvV_78msuZTeWd9BjCFZYAgmBP56moj2es1PXi8j7K-cyGAgdMjiL92G2usjDZLv55njhRqQjuM0Z_rJwzuuWAPylAvIX9LxZg6Rou77BdGXnX5Cgd10y_WdgN
+   [IMG#4] alt='' w=400 h=None src=https://blogger.googleusercontent.com/img/a/AVvXsEgNuNJFRZsdEPmeOk7PA5zObzZ7Z2gldr1j1Zq1aLU3qmwsKp8eg0uK57TfkDgcCPuXnh6x4TGkD-m_1oq696iS2xZysyLjRNSHpPMlp49YMj4aUFSjxGLq3V09WRVqNgeSUqHUdHhDSadCSPQip0UR
+
+## HEADING [h2]: NASKAH SHORT MOVIE — 60 DETIK
+
+## HEADING [h3]: Judul
+   P(4w): “Setiap Karya Punya Cerita”
+
+## HEADING [h3]: Tema
+   P(13w): Perjalanan seorang kreator dalam menemukan dan mengekspresikan identitas dirinya melalui seni dan desain.
+
+## HEADING [h3]: Pesan Utama
+   P(25w): Jangan takut untuk mencoba hal baru. Karena dari setiap proses, ide, dan karya yang dibuat, kita dapat menemukan jati diri serta ciri khas kita sendiri.
+
+## HEADING [h2]: Narasi/Dialog + VO
+   [TABLE#1] rows=8 maxcols=4
+        r01: Durasi || Visual/Adegan || Narasi/Dialog || VO
+        r02: 0–8 detik || Maskot Wulan berjalan di taman, melihat bunga dan lingkungan sekitar. || — || “Setiap hari, selalu ada sesuatu yang baru untuk ditemukan.”
+        r03: 8–16 detik || Wulan berhenti, memperhatikan bunga, cahaya, dan detail di sekitarnya. || Wulan: “Ternyata, inspirasi bisa datang dari mana saja.” || “Dari hal sederhana, sebuah ide mulai tumbuh.”
+        r04: 16–27 detik || Wulan mulai menggambar/sketsa. Muncul elemen bunga, daun, dan bentuk logo WS. || — || “Aku menuangkan apa yang aku lihat, apa yang aku rasakan, dan apa yang aku bayangkan… menjadi sebuah karya.”
+        r05: 27–39 detik || Proses kreatif: menggambar, mengedit, menyusun warna dan elemen desain. || Wulan: “Aku ingin menciptakan sesuatu yang bukan hanya indah, tapi juga punya cerita.” || “Karena bagiku, desain bukan sekadar bentuk dan warna. Desain adalah cara untuk menyampaikan diri.”
+        r06: 39–50 detik || Logo WS mulai terbentuk. Maskot berdiri di samping logo dengan elemen bunga dan daun. || — || “Dari perjalanan itu, lahirlah identitasku: Wulan Sundari, Creative Art & Design.”
+        r07: 50–56 detik || Tampilan branding lengkap: logo, warna, maskot, dan berbagai penerapan visual. || — || “Tenang dalam proses, bebas dalam berkarya, dan berani mengeksplorasi hal baru.”
+        r08: 56–60 detik || Logo WS muncul penuh di tengah layar. Fade out. || — || “Karena setiap karya punya cerita. Dan ini adalah ceritaku.”
+
+## HEADING [h3]: Closing Tagline
+   P(11w): “Wulan Sundari — Creative Art & Design” “Create with Calm, Express with Art.”
+
+## HEADING [h3]: VO Final
+   P(8w): “Setiap karya punya cerita. Dan ini adalah ceritaku.”
+
+## HEADING [h3]: Konsep alur singkat
+   P(8w): Eksplorasi → Menemukan Inspirasi → Berkarya → Menemukan Identitas → Personal Branding
+   P(53w): Dengan alur ini, maskot tidak hanya menjadi karakter pajangan, tetapi berperan sebagai representasi Wulan sebagai seorang kreator. Elemen bunga menggambarkan inspirasi dan pertumbuhan, warna peach memberikan kesan hangat dan ceria, sedangkan soft teal memberikan kesan tenang dan kreatif. Logo WS menjadi titik akhir perjalanan ketika seluruh elemen tersebut menyatu menjadi identitas personal branding.
+   [IMG#5] alt='' w=400 h=None src=https://blogger.googleusercontent.com/img/a/AVvXsEjYgkAs0MDjPN6cJ0OyIcYXcsFs36GzW4zBQrk6eLukiWKff_KgEDIX_z4pLaVgaPuNcAwKKngNASyK2sZiqNiCNU3c4hMO9Za-32MXyVqu8siwi9hnYbtCazI297qubmd4riX7-iM6kZ3KTPY2LKmJ
+   P(37w): Siap bro. Berdasarkan seluruh gambar branding Wulan Sundari – Creative Art & Design, moodboard, mockup produk, maskot, dan logo yang kamu kirim, berikut shotlist untuk video 60 detik. Alurnya dibuat dari pengenalan suasana → proses kreatif → maskot → penerapan branding → penutup.
+
+## HEADING [h3]: Shotlist Video Branding Wulan Sundari – 60 Detik
+   [TABLE#2] rows=13 maxcols=6
+        r01: No. Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+        r02: 1 || ELS (Extreme Long Shot) || Eye Level || Slow Zoom In || 5 detik || Membuka video dengan suasana taman/alam yang tenang seperti pada visual maskot. Menampilkan kesan calm, elegant, dan creative.
+        r03: 2 || LS (Long Shot) || Eye Level || Slow Pan || 5 detik || Memperlihatkan maskot Wulan secara full body sedang berada di lingkungan yang penuh bunga dan unsur alam.
+        r04: 3 || MS (Medium Shot) || Eye Level || Tracking In || 5 detik || Beralih ke maskot dari bagian tubuh hingga pinggang. Menonjolkan pakaian bermotif floral dan karakter yang menjadi identitas visual Wulan.
+        r05: 4 || CU (Close Up) || Eye Level || Slow Push In || 5 detik || Close-up wajah maskot. Menampilkan ekspresi ramah dan ceria sebagai representasi karakter personal branding.
+        r06: 5 || ECU (Extreme Close Up) || Top/High Angle || Static → Slight Zoom || 4 detik || Fokus pada logo WS, elemen bunga, daun, dan bintang. Menunjukkan detail simbol utama branding.
+        r07: 6 || FS (Full Shot) || Eye Level || Slide/Pan || 6 detik || Menampilkan moodboard Wulan Sundari secara keseluruhan: warna Peach Coral, Soft Teal, Silver Grey, typography, tone, dan referensi visual.
+        r08: 7 || OTS (Over The Shoulder) || Eye Level || Slow Pan || 5 detik || Seolah-olah melihat proses kreatif Wulan dari belakang saat mengamati moodboard dan konsep desain.
+        r09: 8 || CU (Close Up) || Slight High Angle || Slow Pan || 5 detik || Menampilkan penerapan identitas visual pada produk: pakaian floral, sepatu, kartu, sticker, dan merchandise dengan logo WS.
+        r10: 9 || MCU (Medium Close Up) || Eye Level || Slow Zoom Out || 5 detik || Menampilkan maskot bersama logo branding Wulan Sundari – Creative Art & Design. Menegaskan hubungan antara karakter dan identitas brand.
+        r11: 10 || CU (Close Up) || Slight High Angle || Slide Left → Right || 5 detik || Fokus pada beberapa elemen branding seperti logo WS, sticker, floral pattern, dan warna khas.
+        r12: 11 || LS (Long Shot) || Eye Level || Zoom Out || 5 detik || Menampilkan keseluruhan komposisi maskot, logo, dan elemen floral sebagai satu kesatuan identitas visual.
+        r13: 12 || ECU → CU || Eye Level || Slow Zoom In || 5 detik || Penutup dengan logo WS kemudian muncul tulisan “WULAN SUNDARI – CREATIVE ART & DESIGN”. Diakhiri fade out.
+   P(4w): Total durasi: 60 detik.
+
+## HEADING [h3]: Urutan visual videonya
+   P(9w): Pembukaan (0–10 detik) Suasana alam → maskot full body.
+   P(11w): Pengenalan karakter (10–25 detik) Maskot → portrait → ekspresi dan detail karakter.
+   P(11w): Proses & identitas branding (25–40 detik) Logo WS → moodboard → proses kreatif.
+   P(10w): Penerapan branding (40–50 detik) Produk/merchandise → maskot bersama logo.
+   P(15w): Penutup (50–60 detik) Detail elemen branding → keseluruhan identitas → logo Wulan Sundari Creative Art & Design.
+   P(31w): Dengan susunan ini, video terasa seperti perjalanan dari karakter → ide → proses kreatif → hasil branding, sehingga gambar-gambar yang kamu buat tidak hanya ditampilkan satu per satu, tetapi memiliki alur cerita yang jelas.
+   [IMG#6] alt='' w=400 h=None src=https://blogger.googleusercontent.com/img/a/AVvXsEjpeu9ELMrC4WNsLH1y6ItCrj8z-0Xa0IZz7f8pPx-Mcao0LAsi7W5J58M5XGYEBlc-M4za-NrfWZ8b5j-21ujdB1oNEnl9L9BVQrY_7KHRzizgih7bxvGqj142Ia_RoX8YC7YJ82PZWECjFBok-k6x

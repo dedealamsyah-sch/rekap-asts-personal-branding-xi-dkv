@@ -1,0 +1,10 @@
+====================================================================================================
+ID R17 | XI DKV 2 | SINDIA SAPUTRI
+URL: https://www.blogger.com/blog/post/edit/5651927338979487239/2915016707387024877
+STATUS: 200  final=https://accounts.google.com/v3/signin/identifier?continue=https://www.blogger.com/blog/post/edit/5651927338979487239/2915016707387024877&followup=https://www.blogger.com/blog/post/edit/5651927338979487239/2915016707387024877&passive=1209600&service=blogger&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2097933300:1790913341714961
+PAGE TITLE: None
+H1: 
+WORDS: None | IMAGES: None | TABLES: 0
+LABELS: 
+KW COUNTS: None
+!! NOT ACCESSIBLE: URL editor Blogger (butuh login) - tidak dapat diakses publik

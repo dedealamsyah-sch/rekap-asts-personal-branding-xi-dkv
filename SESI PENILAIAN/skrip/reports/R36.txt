@@ -1,0 +1,284 @@
+====================================================================================================
+ID R36 | XI DKV 3 | MUTIA ANITA SARI
+URL: https://mutialune.blogspot.com/2026/09/asts-personal-branding-nama-mutia.html
+STATUS: 200  final=https://mutialune.blogspot.com/2026/09/asts-personal-branding-nama-mutia.html
+PAGE TITLE: ASTS personal branding nama Mutia
+H1: 
+WORDS: 10844 | IMAGES: 7 | TABLES: 6
+LABELS: AI, SMKN 9 GARUT, Tugas sekolah, personal branding, portofolio
+KW COUNTS: {'logo': 130, 'moodboard': 38, 'mockup': 11, 'naskah': 75, 'storyline': 7, 'shotlist': 6, 'storyboard': 7, 'mascot': 14, 'prompt': 0, 'tagline': 25, 'deskripsi': 41, 'by_nama': 10, 'color': 81, 'tipografi': 62}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+   [IMG#1] alt='' w=320 h=175 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr2VKTWhIZHuc96ALdYiqWGjES6W3GUXR4Nm9GTkxoDR565oTjafJyhuuwY0ZET5amEdk8nI8odZaumCltMm-lz4KcZ6WQMdkNLHHDh7PPMCeYjc4JAIzDr5XNv2ap-leUBWKvfmmRmtL
+   P(3w): Percakapan dengan Gemini
+   P(4w): Deskripsi kan logo tersebut
+   P(13w): Berikut adalah deskripsi lengkap mengenai konsep dan makna dari logo personal branding tersebut:
+   P(4w): 1. Elemen Visual & Tipografi
+   P(25w): Inisial Monogram 'M': Terbentuk dari garis halus bergaya continuous line art (garis bersambung) yang membentuk huruf M. Kelokan garis memberikan kesan elegan, mengalir, dan dinamis.
+   P(27w): Ornamen Kelopak & Bunga: Di bagian atas huruf M terdapat aksen daun dan kelopak bunga yang tumbuh melingkar. Elemen ini menjadi focal point yang menambah sentuhan keindahan alami.
+   P(28w): Teks Nama & Profesi: Di bawah logo monokrom terdapat tulisan MUTIA menggunakan huruf kapital berserif tipis (sans-serif clean), diikuti deskripsi profesi "CREATIVE STRATEGIST & DESIGNER" yang memberikan kejelasan identitas profesional.
+   P(4w): 2. Makna & Komposisi Warna
+   P(21w): Mewakili Kreativitas & Pertumbuhan: Bentuk bunga dan daun yang mekar melambangkan ide-ide kreatif yang terus berkembang, inovasi, dan jiwa seni yang dinamis.
+   P(21w): Warna Rose Gold / Warm Copper: Efek metallic rose gold pada monogram memberikan kesan mewah, hangat, modern, dan eksklusif tanpa terlihat berlebihan.
+   P(21w): Latar Belakang Netral: Penggunaan warna latar krem (off-white) dengan tekstur halus memberikan kontras yang lembut, memperkuat kesan profesional, bersih, dan estetik.
+   P(4w): 3. Karakter Personal Branding
+   P(14w): Sederhana & Elegan: Desain tidak rumit namun langsung menarik perhatian berkat proporsi garis yang seimbang.
+   P(22w): Modern & Personal: Kombinasi gaya hand-drawn line dan tipografi modern mencerminkan karakter kepribadian yang ramah, kreatif, percaya diri, dan berdedikasi tinggi pada kualitas.
+   P(3w): 2. Moodboard branding
+   [IMG#2] alt='' w=320 h=175 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZmqNHFn3EVaZSL8uLb1ff2dcShYe1v3RhiuFqud6hIe6x_78saJW90tirW1TEqIRtNyLV_PLWKpfRD8G9MvJ2dpDYoqaLRzFGRNoONb8msNtbTIf-kYXUiT6sK-MdMbzMT2VkxdeGkBB
+   P(7w): Konsep Moodboard Branding: Modern Minimalist Earthy Photography
+   P(5w): 1. Palette Warna (Soft & Elegant)
+   P(14w): Sage Green (Muted Earth): Menghubungkan visual secara langsung dengan alam tanpa terlihat terlalu mencolok.
+   P(10w): Warm Sand / Beige: Memberikan sentuhan kehangatan, kelembutan, dan keanggunan organik.
+   P(16w): Soft Off-White / Linen: Menjadi warna latar belakang utama untuk memberikan space visual yang bersih dan minimalis.
+   P(19w): Muted Charcoal / Deep Slate: Digunakan untuk teks dan aksen garis tipis agar kontras tetap profesional, tegas, dan mudah dibaca.
+   P(4w): 2. Tipografi (Modern & Professional)
+   P(26w): Header / Logo (Serif Elegant): Gunakan font serif bergaya modern dengan garis stroke yang kontras (contoh: Cormorant Garamond atau Cinzel). Ini memberikan kesan estetis, artistik, dan berkelas.
+   P(26w): Body Text (Sans-Serif Clean): Gunakan font sans-serif yang simpel dan memiliki letter-spacing sedikit renggang (contoh: Montserrat atau Inter). Ini menjaga keterbacaan tetap optimal dan berkesan modern.
+   P(4w): 3. Elemen Visual & Tekstur
+   P(22w): Aksen Garis Tipis (Fine Line Art): Gunakan ilustrasi garis sederhana bertema alam, seperti sketsa daun tunggal, siluet gunung, atau cangkang kerang minimalis.
+   P(22w): Tekstur Alami: Integrasikan latar belakang bertekstur kertas daur ulang, kain linen, atau bayangan lembut (soft shadows) dari dedaunan di atas permukaan polos.
+   P(20w): Ruang Kosong (Negative Space): Sisakan banyak area polos dalam setiap tata letak tata visual untuk memperkuat kesan eksklusif dan tenang.
+   P(4w): 4. Arahan Fotografi & Filter
+   P(18w): Pencahayaan: Utamakan golden hour yang lembut atau overcast light (cahaya redup alami) untuk menghindari bayangan yang terlalu tajam.
+   P(13w): Tone Warna: Gunakan gradasi low contrast dengan sentuhan desaturated green dan warm undertone.
+   P(25w): Komposisi: Fokus pada detail-detail kecil alam (tekstur kayu, embun, pola dedaunan) atau lanskap luas dengan objek manusia yang terbingkai secara proporsional di tengah keagungan alam.
+   P(5w): 5. Contoh Penerapan Media Branding
+   P(3w): Media Konsep Desain
+   P(18w): Kartu Nama Kertas tebal bertekstur linen warna Sand, tulisan warna Charcoal dengan cetak emboss / deboss tipis pada logo.
+   P(18w): Feed Instagram Tata letak bergrid bersih dengan kombinasi foto lanskap bersuhu hangat dan elemen kutipan tipografi berlatar Off-White.
+   P(16w): Website Portfolio Desain full-screen minimalis, navigasi tersembunyi (hamburger menu), dan transisi foto yang lambat serta halus.
+   P(2w): 3. Mockup
+   [TABLE#1] rows=1 maxcols=1
+        r01: Berikut adalah deskripsi dari gambar branding kaos di atas:Subjek Utama: Lipatan kaos berwarna hitam (flat lay) yang diletakkan secara rapi di atas meja kayu bernuansa alami.Desain Logo & Nama Brand:Pada bagian dada kaos, terdapat cetakan nama brand "MUTIA" dengan tipografi serif yang elegan dan bersih.Di atas tulisan "MUTIA", terdapat logo berupa lingkaran bermotif dedaunan (botanical wreath) yang mengelilingi inisial huruf "M".Di bawah nama brand, terdapat detail teks pelengkap bertuliskan "EST. 2024" dan "PREMIUM APPAREL".Detail Brand/Label: Bagian kerah dalam kaos (neck tag) juga dicetak nama brand "MUTIA" secara konsisten.Latar Belakang & Suasana:Mengusung estetika minimalist-aesthetic dengan latar meja kayu bertekstur kasar (rustic wooden table).Di latar belakang, terlihat gantungan baju kayu (wooden hanger), t
+   [IMG#3] alt='' w=320 h=175 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitPvNrtSV-ysxwS3VbK9URAWFmO4Fo-yWWEXKMO0T8e-srgWaw3a9_TzeC8nVCBcPe6pgOeFIHTj5UNQjxdGzNEREFoZzig5itr0455rAfJDO6KY6TCnYr0FzjKwppm6Bzf0vQHN1MhAX
+   [TABLE#2] rows=1 maxcols=1
+        r01: *1. Logo & Identitas:*- Logo ikon gelombang + matahari terbit di atas tulisan serif tebal. Kesannya tenang, premium, dan natural.- Tagline: _'ELEVATE YOUR HYDRATION'_*2. Palet Warna (5 warna):*- *Deep Ocean Blue #1A4F75* - Biru tua untuk warna utama tumbler- *Sandy Beige #D2B48C* - Beige pasir, kesan hangat- *Moss Green #558B2F* - Hijau lumut, kesan eco- *White Coral #FDF5E6* - Putih gading untuk background- *Matte Black #2B202B* - Hitam doff untuk aksen*3. Keyword / Value Brand:*- Minimalist Design, Durability, Sustainable Style, Eco-Friendly Materials, Conscious Living, Active Lifestyle, Nature-Inspired, Community*4. Visual & Produk:*- Tumbler stainless steel warna Deep Ocean Blue, Sandy Beige, dan Moss Green dengan logo MUTIA- Foto lifestyle: dipegang di alam, di meja kerja, dan flatlay dengan daun-daun hijau- Inspirasi alam: foto danau pegunungan berkabut yang super tenang- Tekstur material yang terlihat durable dan matte
+   [IMG#4] alt='' w=320 h=175 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZsNUviF5HHFHobwLJcOwrq-qJy_R7cQtmu1xW5cKdAchXAi-VeFnszYXHWO0HC_YxyTCGZEDNi73iz_dzPG09jweo8vwdS2lUX3scMxMBa2E-bu4WuWSI5GoXhk-MCyLyeiuIvFXcX9S
+   [TABLE#3] rows=0 maxcols=0
+   [IMG#5] alt='' w=320 h=175 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihdY0Qm5rDkjLKJST7ZMMxIDg-OwBJV7m1PMOr1hEcDp45CiWQpn-U9Zs_r1CqE54HtugKdM2GLQdaN63QkdPC60PXszh_VzLr4ex-c5AVC4-TSmv6O-XHM4e2j490j7u2JnX5Q_ynGsh
+   [TABLE#4] rows=1 maxcols=1
+        r01: A candid, high-resolution photograph showcasing a professional branding mockup of a cotton t-shirt featuring the "MUTIA" logo, set against a stylish, minimalist background. The black, premium cotton t-shirt is neatly folded on a rustic, light-wood shelf in a modern creative studio environment, without any humans present. The custom-designed logo "MUTIA" is prominently and sharply screen-printed in white across the chest of the folded black t-shirt. The logo itself is elegant, modern, and artistic: it reads "MUTIA" in a sophisticated, bespoke serif font (a mix of organic curves and modern style) in white. Below "MUTIA" in a smaller, delicate sans-serif font are the words "EST. 2024" and "PREMIUM APPAREL" in white. Above "MUTIA," a subtle emblem depicting abstract olive branches and a stylized initial 'M' within an elegant circle is also printed. The folded t-shirt shows the natural fabric texture, subtle creases, and a woven neck label reading "MUTIA" with "100% COTTON | MADE IN INDONESIA | size M" visible inside the collar. The background features a blurred workspace: a concrete wall, a small potted eucalyptus plant, a leather notebook, a wooden hanger hanging casually, and another softly folded beige shirt with a small branding detail. The t-shirt is centered on the textured wood surface, sharply focused. Natural daylight illuminates the scene from a nearby window, highlighting the quality of the fabric and the crisp white screen print of the "MUTIA" logo. The wood grain, plant leaves, and fabric texture are tactile and clear. The photo is shot at a natural angle (slightly elevated 45 degrees), with a shallow depth of field (f/4.0), natural daylight, and a sharp focus on the logo on the black t-shirt. The setting is clean, aesthetic, and professional. The t-shirt is perfectly folded, showing the logo clearly. The photograph has natural grain, high resolution (ISO 400, f/5.6, 1/160 sec), and is well-lit., AI generated, buatan AIDeskripsi kanBerikut adalah deskripsi dari gambar branding kaos di atas:Subjek Utama: Lipatan kaos berwarna hitam (flat lay) yang diletakkan secara rapi di atas meja kayu bernuansa alami.Desain Logo & Nama Brand:Pada bagian dada kaos, terdapat cetakan nama brand "MUTIA" dengan tipografi serif yang elegan dan bersih.Di atas tulisan "MUTIA", terdapat logo berupa lingkaran bermotif dedaunan (botanical wreath) yang mengelilingi inisial huruf "M".Di bawah nama brand, terdapat detail teks pelengkap bertuliskan "EST. 2024" dan "PREMIUM APPAREL".Detail Brand/Label: Bagian kerah dalam kaos (neck tag) juga dicetak nama brand "MUTIA" secara konsisten.Latar Belakang & Suasana:Mengusung estetika minimalist-aesthetic dengan latar meja kayu bertekstur kasar (rustic wooden table).Di latar belakang, terlihat gantungan baju kayu (wooden hanger), tanaman hias hijau dalam pot, serta kaos berwarna krem (beige) yang terlipat rapi untuk memberi impresi lini produk pakaian yang elegan.Sekarang buatkan moodboard branding Tumbler yang bagusA meticulously arranged branding moodboard for a premium, sustainable tumbler brand named 'AURA', displayed on a natural, light wood surface with soft, diffused daylight. The central focus is a collection of images and elements conveying the brand's identity. In the upper left, a beautifully designed logo for 'AURA' featuring minimalist typography (sans-serif) with a subtle wave and sun motif. Below the logo is the tagline: 'ELEVATE YOUR HYDRATION'. The color palette is clearly defined in a grid: Deep Ocean Blue (#1A4F76), Sandy Beige (#D2B48C), Moss Green (#556B2F), White Coral (#FDF5E6), and Matte Black (#2B2B2B). A key section features photographs of the tumblers: a matte, reusable stainless steel tumbler in Ocean Blue with the engraved AURA logo being held by a hand on a sunlit hike (Text: ECO-FRIENDLY MATERIALS); another photograph shows the Sandy Beige tumbler in a modern office setting (Text: SUSTAINABLE STYLE). Surrounding elements include: an inspiring landscape photo of misty mountains and a calm lake at dawn (Text: INSPIRED BY NATURE); a close-up texture of the durable, matte finish of the tumblers; an AURA tumbler with botanical elements (leaf, branch) (Text: CONSCIOUS LIVING); a small glass vial with fresh water and leaves; a swatch of recycled cardboard packaging with the AURA logo; a linen fabric sample; and typographic examples of the brand's sleek serif and sans-serif fonts (AURA, Hydrate, Repeat, Sustainable, Wellness). The moodboard includes handwritten notes: "Minimalist Design", "Durability", "Active Lifestyle", "Nature-Inspired", "Community". The overall composition is harmonious, creative, and organic, with the materials (metal, wood, fabric, photos, color swatches) artfully arranged. The lighting is soft and natural, emphasizing the textures and the thoughtful presentation., AI generated, buatan AISekarang buatkan moodboard branding cardigan yang bagusA curated and visually sophisticated moodboard for a premium, sustainable cardigan branding concept, titled "M O S S & P E T A L | Cardigan Branding Moodboard" in elegant serif font. The moodboard is a collection of high-quality images, textures, colors, and typography arranged organically on a textured, light linen background. The core aesthetic is minimalist, organic, cozy, and sophisticated. Top Row: A close-up texture shot of soft, chunky knit wool (cream color) and a delicate mohair-silk blend (sage green). A photo of a woman in a relaxed, beige cashmere cardigan enjoying natural light in a cozy living room with a book. A beautifully designed logo for "MOSS & PETAL - Slow Knitwear" (a refined, botanical emblem combining an 'M' with leaves and a flower petal). Middle Row: The color palette (swatches of Cream, Oatmeal, Sage Green, Deep Teal, Burnt Orange, Earthy Brown) with a natural eucalyptus branch. A photo of a rustic, woven label featuring the "Moss & Petal" logo on a dark green knit. A landscape photo of rolling hills and forests during autumn. A stack of natural cardigans in various shades on a wooden shelf. A photograph of dried petals and moss on a stone surface. Bottom Row: Flat-lay photo of a sage green cardigan styled with a silk scarf, gold necklace, and a ceramic mug on wood. Typography samples: "ELEVATED COZY" (main serif font), "SUSTAINABLE | TIMELESS | CRAFT" (secondary font). Inspiration photos: A ceramic artist workshop, a hand-knitted cable pattern, and a model wearing a burnt orange cardigan in a serene natural setting. The layout is balanced, cohesive, and tactile, featuring natural wood elements, linen, fabrics, sketches, and printed materials pinned and layered with a hand-curated feel. The overall mood is warm, inviting, ethical, and elegant with natural lighting and soft textures., AI generated, buatan AISekarang buatkan maskotnya dengan orientasi potrait, dan full body dengan gaya kartunSorry, I can't edit images for you yet. Can I generate an image instead, or help with something else?Yes generate it, buatan AISekarang buatkan deskripsi nyaDeskripsi Branding Tumbler "MUTIA"Filosofi:Branding Tumbler "MUTIA" mengusung konsep minimalis, elegan, dan fungsional. Desainnya yang sederhana namun estetik mencerminkan gaya hidup modern yang menghargai kualitas dan keindahan dalam hal-hal kecil.Visual:Tumbler "MUTIA" hadir dalam warna hitam pekat dengan tekstur matte yang memberikan kesan eksklusif dan tahan lama. Logo dan tulisan "MUTIA" dicetak dengan warna perak yang berkilau, menciptakan kontras yang menarik dan mudah dibaca.Detail Desain:Logo: Logo "MUTIA" yang merupakan inisial huruf "M" dalam lingkaran bermotif dedaunan memberikan sentuhan alami dan organik pada branding.Tulisan: Tipografi serif yang digunakan untuk tulisan "MUTIA" memberikan kesan klasik dan terpercaya.Pesan Tambahan: Tulisan "Premium Quality" dan "Est. 2024" menegaskan kualitas produk dan tahun berdirinya brand.Material:Tumbler ini terbuat dari bahan stainless steel berkualitas tinggi yang tahan karat dan aman untuk digunakan. Bagian dalamnya dilapisi dengan bahan isolasi yang dapat menjaga suhu minuman (panas atau dingin) selama beberapa jam.Fungsionalitas:Tumbler "MUTIA" dirancang dengan fitur-fitur praktis, seperti:Tutup anti bocor: Memastikan minuman tidak tumpah saat dibawa bepergian.Pegangan yang nyaman: Memudahkan untuk membawa tumbler.Ukuran yang pas: Pas dipegang dan muat di tempat minum mobil.Target Pasar:Branding Tumbler "MUTIA" ditujukan untuk individu yang aktif, dinamis, dan menghargai gaya hidup yang sehat dan berkelanjutan. Tumbler ini cocok digunakan untuk berbagai aktivitas, mulai dari bekerja, berolahraga, hingga bepergian.Pesan Merek:Branding Tumbler "MUTIA" ingin menyampaikan pesan bahwa kualitas dan keindahan dapat ditemukan dalam hal-hal sederhana. Tumbler ini tidak hanya sebagai wadah minuman, tetapi juga sebagai cerminan gaya hidup dan kepribadian pemiliknya.Implementasi:Branding ini dapat diimplementasikan pada berbagai media, seperti:Kemasan produk: Kotak kado, tas belanja.Materi promosi: Brosur, flyer, media sosial.Website: Untuk informasi produk dan pembelian online.Kesimpulan:Branding Tumbler "MUTIA" adalah perpaduan yang harmonis antara desain minimalis, fungsionalitas, dan kualitas yang tinggi. Branding ini diharapkan dapat menarik perhatian dan membangun loyalitas pelanggan.
+   [IMG#6] alt='' w=179 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimWpyPFQ85Jo8plRG4fJX7vXYlGZOjUJI0ryka8EFxPNWugDcB6TbKxS-rKYHPmiEdjXBHQSVXBHc-tTKgvZGDkDQFDQEWvIpjx3UzqAbPquepFAFo-r8BDcGvERnu2ZAGlYO02h09ZoU
+   [TABLE#5] rows=12 maxcols=7
+        r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+        r02: 1 || Pengenalan Suasana Kafe || Wide Shot (WS) || Eye Level || Static || 3 detik || Menampilkan suasana kafe outdoor yang asri dengan tanaman hijau, meja kayu, dan jalur pejalan kaki.
+        r03: 2 || Kemunculan Mutia || Full Shot (FS) || Eye Level || Pan Right || 3 detik || Mutia berjalan santai di jalan setapak kafe sambil melambaikan tangan kanan dengan senyum ramah.
+        r04: 3 || Sapaan & Interaksi Awal || Medium Shot (MS) || Eye Level || Static || 2 detik || Mutia menyapa kamera dengan gestur hangat dan bersiap membagikan ceritanya.
+        r05: 4 || Sorotan Pakaian || Medium Long Shot (MLS) || Eye Level || Tracking In || 3 detik || Menampilkan padu padan busana Mutia secara keseluruhan: cardigan biru, kaos putih, dan celana gelap.
+        r06: 5 || Detail Cardigan & Logo || Medium Close-Up (MCU) || Low Angle || Tilt Up || 3 detik || Kamera menyorot tekstur kain cardigan rajut biru dan detail presisi logo "M - MUTIA" di bagian dada.
+        r07: 6 || Memperlihatkan Tumbler || Medium Shot (MS) || High Angle || Static || 2 detik || Mutia mengangkat tumbler terakota estetik bermotif dedaunan untuk diperlihatkan ke kamera.
+        r08: 7 || Detail Tumbler Matte || Close-Up (CU) || Eye Level || Zoom In || 2 detik || Fokus memperjelas tekstur matte, kualitas bahan, dan grafis motif alami pada tumbler.
+        r09: 8 || Aktivitas Jalan Santai || Full Shot (FS) || High Angle || Tracking Back || 3 detik || Mutia berjalan melintasi area taman kafe sambil memegang tumblernya dengan percaya diri.
+        r10: 9 || Reaksi & Senyuman Bahagia || Medium Close-Up (MCU) || Eye Level || Static || 2 detik || Ekspresi dekat wajah Mutia yang tersenyum puas dan menikmati harinya dengan nyaman.
+        r11: 10 || Ajakan Gaya Hidup Hijau || Medium Shot (MS) || Eye Level || Tracking In || 3 detik || Mutia kembali berbicara ke arah kamera menyampaikan pesan gaya hidup praktis dan ramah lingkungan.
+        r12: 11 || Closing & Branding Logo || Wide Shot (WS) || Eye Level || Static || 3 detik || Mutia berdiri secara utuh (full body), dilanjutkan dengan kemunculan logo resmi MUTIA dan tagline di layar.
+   P(5w): Tulis teks kamu di sini...
+   P(3w): Percakapan dengan Gemini
+   P(20w): Sekrang buatkan mockup branding kaos ada nama Mutia yang sesuai dengan logo buatkan dengan bagus dan jangan ada manusia nya
+   P(313w): A candid, high-resolution photograph showcasing a professional branding mockup of a cotton t-shirt featuring the "MUTIA" logo, set against a stylish, minimalist background. The black, premium cotton t-shirt is neatly folded on a rustic, light-wood shelf in a modern creative studio environment, without any humans present. The custom-designed logo "MUTIA" is prominently and sharply screen-printed in white across the chest of the folded black t-shirt. The logo itself is elegant, modern, and artistic: it reads "MUTIA" in a sophisticated, bespoke serif font (a mix of organic curves and modern style
+   P(2w): Deskripsi kan
+   P(9w): Berikut adalah deskripsi dari gambar branding kaos di atas:
+   P(18w): Subjek Utama: Lipatan kaos berwarna hitam (flat lay) yang diletakkan secara rapi di atas meja kayu bernuansa alami.
+   P(4w): Desain Logo & Nama Brand:
+   P(16w): Pada bagian dada kaos, terdapat cetakan nama brand "MUTIA" dengan tipografi serif yang elegan dan bersih.
+   P(17w): Di atas tulisan "MUTIA", terdapat logo berupa lingkaran bermotif dedaunan (botanical wreath) yang mengelilingi inisial huruf "M".
+   P(14w): Di bawah nama brand, terdapat detail teks pelengkap bertuliskan "EST. 2024" dan "PREMIUM APPAREL".
+   P(16w): Detail Brand/Label: Bagian kerah dalam kaos (neck tag) juga dicetak nama brand "MUTIA" secara konsisten.
+   P(3w): Latar Belakang & Suasana:
+   P(12w): Mengusung estetika minimalist-aesthetic dengan latar meja kayu bertekstur kasar (rustic wooden table).
+   P(30w): Di latar belakang, terlihat gantungan baju kayu (wooden hanger), tanaman hias hijau dalam pot, serta kaos berwarna krem (beige) yang terlipat rapi untuk memberi impresi lini produk pakaian yang elegan.
+   P(7w): Sekarang buatkan moodboard branding Tumbler yang bagus
+   P(272w): A meticulously arranged branding moodboard for a premium, sustainable tumbler brand named 'AURA', displayed on a natural, light wood surface with soft, diffused daylight. The central focus is a collection of images and elements conveying the brand's identity. In the upper left, a beautifully designed logo for 'AURA' featuring minimalist typography (sans-serif) with a subtle wave and sun motif. Below the logo is the tagline: 'ELEVATE YOUR HYDRATION'. The color palette is clearly defined in a grid: Deep Ocean Blue (#1A4F76), Sandy Beige (#D2B48C), Moss Green (#556B2F), White Coral (#FDF5E6), and
+   P(7w): Sekarang buatkan moodboard branding cardigan yang bagus
+   P(296w): A curated and visually sophisticated moodboard for a premium, sustainable cardigan branding concept, titled "M O S S & P E T A L | Cardigan Branding Moodboard" in elegant serif font. The moodboard is a collection of high-quality images, textures, colors, and typography arranged organically on a textured, light linen background. The core aesthetic is minimalist, organic, cozy, and sophisticated. Top Row: A close-up texture shot of soft, chunky knit wool (cream color) and a delicate mohair-silk blend (sage green). A photo of a woman in a relaxed, beige cashmere cardigan enjoying natural light in
+   P(12w): Sekarang buatkan maskotnya dengan orientasi potrait, dan full body dengan gaya kartun
+   P(19w): Sorry, I can't edit images for you yet. Can I generate an image instead, or help with something else?
+   P(3w): Yes generate it
+   P(2w): , buatan AI
+   P(4w): Sekarang buatkan deskripsi nya
+   P(4w): Deskripsi Branding Tumbler "MUTIA"
+   P(1w): Filosofi:
+   P(26w): Branding Tumbler "MUTIA" mengusung konsep minimalis, elegan, dan fungsional. Desainnya yang sederhana namun estetik mencerminkan gaya hidup modern yang menghargai kualitas dan keindahan dalam hal-hal kecil.
+   P(1w): Visual:
+   P(34w): Tumbler "MUTIA" hadir dalam warna hitam pekat dengan tekstur matte yang memberikan kesan eksklusif dan tahan lama. Logo dan tulisan "MUTIA" dicetak dengan warna perak yang berkilau, menciptakan kontras yang menarik dan mudah dibaca.
+   P(2w): Detail Desain:
+   P(19w): Logo: Logo "MUTIA" yang merupakan inisial huruf "M" dalam lingkaran bermotif dedaunan memberikan sentuhan alami dan organik pada branding.
+   P(13w): Tulisan: Tipografi serif yang digunakan untuk tulisan "MUTIA" memberikan kesan klasik dan terpercaya.
+   P(15w): Pesan Tambahan: Tulisan "Premium Quality" dan "Est. 2024" menegaskan kualitas produk dan tahun berdirinya brand.
+   P(1w): Material:
+   P(33w): Tumbler ini terbuat dari bahan stainless steel berkualitas tinggi yang tahan karat dan aman untuk digunakan. Bagian dalamnya dilapisi dengan bahan isolasi yang dapat menjaga suhu minuman (panas atau dingin) selama beberapa jam.
+   P(1w): Fungsionalitas:
+   P(7w): Tumbler "MUTIA" dirancang dengan fitur-fitur praktis, seperti:
+   P(10w): Tutup anti bocor: Memastikan minuman tidak tumpah saat dibawa bepergian.
+   P(7w): Pegangan yang nyaman: Memudahkan untuk membawa tumbler.
+   P(11w): Ukuran yang pas: Pas dipegang dan muat di tempat minum mobil.
+   P(2w): Target Pasar:
+   P(30w): Branding Tumbler "MUTIA" ditujukan untuk individu yang aktif, dinamis, dan menghargai gaya hidup yang sehat dan berkelanjutan. Tumbler ini cocok digunakan untuk berbagai aktivitas, mulai dari bekerja, berolahraga, hingga bepergian.
+   P(2w): Pesan Merek:
+   P(31w): Branding Tumbler "MUTIA" ingin menyampaikan pesan bahwa kualitas dan keindahan dapat ditemukan dalam hal-hal sederhana. Tumbler ini tidak hanya sebagai wadah minuman, tetapi juga sebagai cerminan gaya hidup dan kepribadian pemiliknya.
+   P(1w): Implementasi:
+   P(8w): Branding ini dapat diimplementasikan pada berbagai media, seperti:
+   P(6w): Kemasan produk: Kotak kado, tas belanja.
+   P(6w): Materi promosi: Brosur, flyer, media sosial.
+   P(7w): Website: Untuk informasi produk dan pembelian online.
+   P(1w): Kesimpulan:
+   P(25w): Branding Tumbler "MUTIA" adalah perpaduan yang harmonis antara desain minimalis, fungsionalitas, dan kualitas yang tinggi. Branding ini diharapkan dapat menarik perhatian dan membangun loyalitas pelanggan.
+   P(2w): Naskah Iklan
+   P(2w): Wajib memuat:
+   P(1w): • Judul
+   P(1w): • Tema
+   P(2w): • Pesan Utama
+   P(2w): • Narasi/Dialog
+   P(2w): • Closing Tagline
+   P(7w): Berikut naskah iklan untuk maskot karakter MUTIA:
+   P(5w): Judul: Teman Setia Aktivitas Harianmu
+   P(5w): Tema: Casual, Energetic & Eco-Friendly Lifestyle
+   P(16w): Pesan Utama: Tampil gaya dan tetap terhidrasi sepanjang hari bersama koleksi pakaian serta tumbler dari MUTIA.
+   P(2w): Narasi & Dialog
+   P(19w): (Scene 1: Visual memperlihatkan karakter Mutia tersenyum ramah sambil melambaikan tangan, mengenakan cardigan rajut biru dan memegang tumbler estetiknya.)
+   P(4w): Mutia (Voice Over / Dialog):
+   P(34w): "Hai! Menjalani hari yang padat bikin kita harus tetap nyaman dan siap di segala situasi. Rahasia aku? Selalu pakai cardigan favorit yang hangat tapi tetap stylish, plus bawa tumbler kesayangan ke mana pun pergi!"
+   P(17w): (Scene 2: Zoom in ke detail cardigan dan tumbler yang dipegang Mutia, memperlihatkan logo M khas MUTIA.)
+   P(3w): Mutia (Voice Over):
+   P(23w): "Nggak cuma bikin tampilan makin percaya diri, bawa tumbler sendiri juga bantu jaga bumi tetap hijau. Nyaman dipakai, keren dipandang, dan ramah lingkungan!"
+   P(2w): Closing Tagline
+   P(8w): "MUTIA: Comfort in Style, Care in Every Step."
+   P(1w): Storyline
+   P(2w): Wajib memuat:
+   P(1w): • Pembukaan
+   P(2w): • Alur Cerita
+   P(3w): • Konflik/Fokus Visual
+   P(1w): •penutup
+   P(8w): Berikut adalah Storyline iklan untuk maskot karakter MUTIA:
+   P(3w): 1. Pembukaan (Opening)
+   P(35w): Visual: Latar berlokasi di sebuah kafe luar ruangan (outdoor) yang asri dengan deretan tanaman hijau. Karakter Mutia berdiri di area pejalan kaki berlantai batu, tersenyum hangat ke arah kamera sambil melambaikan tangan kanan dengan ramah.
+   P(13w): Audio / Suasana: Musik latar ceria dan instrumental lembut khas suasana pagi yang segar.
+   P(13w): Fokus: Memperkenalkan karakter Mutia sebagai sosok yang ramah, dinamis, dan bergaya hidup modern.
+   P(6w): 2. Alur Cerita (Plot / Narrative Arc)
+   P(1w): Visual:
+   P(29w): Mutia berjalan santai dengan percaya diri. Ia mengenakan cardigan rajut berwarna biru muda bertuliskan logo "M - MUTIA" di bagian dada, dipadukan dengan kaos putih dan celana panjang gelap.
+   P(13w): Di tangan kirinya, Mutia memegang erat tumbler berdesain elegan dengan motif dedaunan alami.
+   P(17w): Di latar belakang, terlihat aktivitas kafe yang tenang dan gantungan baju kayu yang menampilkan koleksi pakaian lainnya.
+   P(17w): Audio: Suara narasi Mutia yang ramah menjelaskan bagaimana ia menjalani aktivitas hariannya dengan nyaman tanpa mengesampingkan penampilan.
+   P(6w): 3. Konflik / Fokus Visual (Visual Highlight)
+   P(3w): Visual (Close-up & Detail):
+   P(22w): Kamera menyorot ke detail cardigan rajut yang dikenakan Mutia, memperlihatkan tekstur kain yang lembut, rapi, dan logo MUTIA yang terjangkit dengan presisi.
+   P(21w): Kamera kemudian berfokus pada tumbler yang dipegang Mutia, menegaskan fungsi tumbler yang tahan lama serta desainnya yang estetik dan ramah lingkungan.
+   P(20w): Pesan Utama: Mengatasi tantangan aktivitas harian yang padat dengan pakaian yang nyaman (comfortable knitwear) dan kebiasaan ramah lingkungan (sustainable lifestyle).
+   P(3w): 4. Penutup (Closing)
+   P(24w): Visual: Mutia kembali tersenyum ke arah kamera dengan latar belakang kafe dan pepohonan yang cerah. Di layar muncul logo resmi MUTIA beserta teks tagline.
+   P(11w): Teks & Audio Tagline: "MUTIA: Comfort in Style, Care in Every Step."
+   P(1w): Shotlist
+   P(6w): Buat tabel shotlist minimal 10 shot.
+   P(1w): Adegan
+   P(2w): Jenis Shot
+   P(1w): Angle
+   P(1w): Movement
+   P(1w): Durasi
+   P(1w): Deskripsi
+   P(3w): D.4 Storyboard
+   P(4w): Buat storyboard menggunakan AI.
+   P(1w): Ketentuan:
+   P(1w): Minimal:
+   P(2w): • 6 Scene
+   P(2w): • Visual Adegan
+   P(2w): • Keterangan Shot
+   P(2w): • Angle Kamera
+   P(1w): • Transisi
+   P(3w): • Dialog atau Narasi
+   P(12w): Berikut adalah Shotlist dan Storyboard berdasarkan naskah serta visual maskot karakter MUTIA:
+   P(3w): D.3 Shotlist
+   P(8w): No Adegan Jenis Shot Angle Movement Durasi Deskripsi
+   P(22w): 1 Pengenalan Suasana Wide Shot (WS) Eye Level Static 3 detik Menampilkan suasana kafe outdoor yang asri di pagi hari dengan pepohonan.
+   P(24w): 2 Kemunculan Mutia Full Shot (FS) Eye Level Pan Right 3 detik Mutia berjalan santai di jalan setapak kafe sambil melambaikan tangan ke kamera.
+   P(21w): 3 Sapaan Mutia Medium Shot (MS) Eye Level Static 2 detik Mutia tersenyum ramah dan mulai menyapa penonton dengan gestur hangat.
+   P(26w): 4 Detail Cardigan Medium Close-Up (MCU) Low Angle Tilt Up 3 detik Kamera menyorot bahan cardigan rajut biru dan detail logo "M - MUTIA" di dada.
+   P(22w): 5 Gestur Memegang Tumbler Medium Shot (MS) High Angle Static 2 detik Mutia memperlihatkan tumbler estetik berwarna terakota bermotif daun yang dipegangnya.
+   P(21w): 6 Detail Tumbler Close-Up (CU) Eye Level Zoom In 2 detik Fokus memperjelas tekstur matte dan detail grafis alami pada tumbler.
+   P(25w): 7 Aktivitas Luar Ruangan Full Shot (FS) High Angle Tracking Back 3 detik Mutia berjalan menikmati udara segar di sekitar taman kafe dengan percaya diri.
+   P(18w): 8 Reaksi & Senyuman Medium Close-Up (MCU) Eye Level Static 2 detik Ekspresi Mutia tersenyum bahagia sambil menikmati minumannya.
+   P(24w): 9 Pesan Kebersamaan Medium Shot (MS) Eye Level Tracking In 3 detik Mutia kembali menyapa kamera, menyampaikan ajakan gaya hidup nyaman dan ramah lingkungan.
+   P(27w): 10 Penutup & Logo Wide Shot (WS) Eye Level Static 2 detik Mutia berdiri secara utuh (full body), lalu muncul teks tagline dan logo resmi MUTIA di layar.
+   P(3w): D.4 Storyboard
+   P(12w): Visual storyboard berikut mengacu pada karakter maskot MUTIA yang telah dibuat sebelumnya:
+   P(2w): +------------------------------------+ +------------------------------------+
+   P(4w): | SCENE 1 | | SCENE 2 |
+   P(8w): | [ Visual: Suasana kafe & Mutia ] | | [ Visual: Mutia tersenyum & sapa ] |
+   P(0w): | | | |
+   P(8w): | Shot : Full Shot (FS) | | Shot : Medium Shot (MS) |
+   P(6w): | Angle : Eye Level | | Angle : Eye Level |
+   P(5w): | Transisi : Fade In | | Transisi : Cut |
+   P(10w): | Dialog/VO : "Hai! Menjalani hari | | Dialog/VO : "...bikin kita harus |
+   P(4w): | yang padat..." | | tetap nyaman!" |
+   P(2w): +------------------------------------+ +------------------------------------+
+   P(2w): +------------------------------------+ +------------------------------------+
+   P(4w): | SCENE 3 | | SCENE 4 |
+   P(7w): | [ Visual: Close-up cardigan & logo]| | [ Visual: Detail Tumbler ] |
+   P(0w): | | | |
+   P(7w): | Shot : Medium Close-Up (MCU) | | Shot : Close-Up (CU) |
+   P(6w): | Angle : Low Angle | | Angle : Eye Level |
+   P(4w): | Transisi : Cut | | Transisi : Wipe |
+   P(10w): | Dialog/VO : "Rahasia aku? Cardigan | | Dialog/VO : "...plus bawa tumbler |
+   P(5w): | favorit yang hangat..."| | kesayangan ini!" |
+   P(2w): +------------------------------------+ +------------------------------------+
+   P(2w): +------------------------------------+ +------------------------------------+
+   P(4w): | SCENE 5 | | SCENE 6 |
+   P(9w): | [ Visual: Mutia jalan di taman ] | | [ Visual: Full body + Logo ] |
+   P(0w): | | | |
+   P(8w): | Shot : Full Shot (FS) | | Shot : Wide Shot (WS) |
+   P(6w): | Angle : High Angle | | Angle : Eye Level |
+   P(5w): | Transisi : Cut | | Transisi : Fade Out |
+   P(10w): | Dialog/VO : "Nggak cuma stylish, | | Dialog/VO : "MUTIA: Comfort in |
+   P(7w): | tapi jaga bumi!" | | Style, Care in Step." |
+   P(2w): +------------------------------------+ +------------------------------------+
+   P(2w): Scene 1
+   P(18w): Visual Adegan: Latar kafe outdoor bernuansa alami dengan tanaman hijau. Mutia berjalan memasuki frame dengan pakaian kasual elegan.
+   P(5w): Keterangan Shot: Full Shot (FS)
+   P(4w): Angle Kamera: Eye Level
+   P(3w): Transisi: Fade In
+   P(8w): Dialog / Narasi: (VO) "Hai! Menjalani hari yang padat..."
+   P(2w): Scene 2
+   P(14w): Visual Adegan: Mutia berdiri tegak, melambaikan tangan kanan dengan senyum hangat ke arah kamera.
+   P(5w): Keterangan Shot: Medium Shot (MS)
+   P(4w): Angle Kamera: Eye Level
+   P(2w): Transisi: Cut
+   P(13w): Dialog / Narasi: (VO) "...bikin kita harus tetap nyaman dan siap di segala situasi."
+   P(2w): Scene 3
+   P(16w): Visual Adegan: Sorotan fokus pada cardigan rajut warna biru muda bersulam logo ikonik "M - MUTIA".
+   P(5w): Keterangan Shot: Medium Close-Up (MCU)
+   P(4w): Angle Kamera: Low Angle
+   P(2w): Transisi: Cut
+   P(14w): Dialog / Narasi: (VO) "Rahasia aku? Selalu pakai cardigan favorit yang hangat tapi tetap stylish..."
+   P(2w): Scene 4
+   P(13w): Visual Adegan: Tangan Mutia memegang tumbler terakota dengan motif dedaunan estetik secara jelas.
+   P(4w): Keterangan Shot: Close-Up (CU)
+   P(4w): Angle Kamera: Eye Level
+   P(2w): Transisi: Wipe
+   P(11w): Dialog / Narasi: (VO) "...plus bawa tumbler kesayangan ke mana pun pergi!"
+   P(2w): Scene 5
+   P(19w): Visual Adegan: Mutia berjalan santai di area pejalan kaki batu, memancarkan aura percaya diri dan gaya hidup ramah lingkungan.
+   P(5w): Keterangan Shot: Full Shot (FS)
+   P(4w): Angle Kamera: High Angle
+   P(2w): Transisi: Cut
+   P(13w): Dialog / Narasi: (VO) "Nyaman dipakai, keren dipandang, dan bantu jaga bumi tetap hijau."
+   P(2w): Scene 6
+   P(20w): Visual Adegan: Posisi full body karakter Mutia memegang tumbler, lalu grafis logo MUTIA beserta tagline muncul di layar secara elegan.
+   P(5w): Keterangan Shot: Wide Shot (WS)
+   P(4w): Angle Kamera: Eye Level
+   P(3w): Transisi: Fade Out
+   P(12w): Dialog / Narasi: (VO / Text) "MUTIA: Comfort in Style, Care in Every Step."
+   P(5w): Yang nomor 7 buatkan tabelnya
+   P(14w): Berikut adalah tabel untuk D.4 Storyboard (berdasarkan 6 scene yang telah dirancang sebelumnya):
+   P(10w): Scene Visual Adegan Keterangan Shot Angle Kamera Transisi Dialog / Narasi
+   P(30w): 1 Latar kafe outdoor bernuansa alami dengan tanaman hijau. Mutia berjalan memasuki frame dengan pakaian kasual elegan. Full Shot (FS) Eye Level Fade In (VO) "Hai! Menjalani hari yang padat..."
+   P(30w): 2 Mutia berdiri tegak, melambaikan tangan kanan dengan senyum hangat ke arah kamera. Medium Shot (MS) Eye Level Cut (VO) "...bikin kita harus tetap nyaman dan siap di segala situasi."
+   P(36w): 3 Sorotan fokus pada cardigan rajut warna biru muda bersulam logo ikonik "M - MUTIA" di bagian dada. Medium Close-Up (MCU) Low Angle Cut (VO) "Rahasia aku? Selalu pakai cardigan favorit yang hangat tapi tetap stylish..."
+   P(26w): 4 Tangan Mutia memegang tumbler terakota dengan motif dedaunan estetik secara jelas. Close-Up (CU) Eye Level Wipe (VO) "...plus bawa tumbler kesayangan ke mana pun pergi!"
+   P(35w): 5 Mutia berjalan santai di area pejalan kaki batu, memancarkan aura percaya diri dan gaya hidup ramah lingkungan. Full Shot (FS) High Angle Cut (VO) "Nyaman dipakai, keren dipandang, dan bantu jaga bumi tetap hijau."
+   P(21w): 6 Posisi full body karakter Mutia memegang tumbler, lalu grafis logo MUTIA beserta tagline muncul di layar secara elegan. Wide Shot (
+   P(2w): 8.storyboard
+   [TABLE#6] rows=1 maxcols=1
+        r01: | Scene | Visual Adegan | Keterangan Shot | Angle Kamera | Transisi | Dialog / Narasi || --- | --- | --- | --- | --- | --- || **1** | Latar kafe *outdoor* bernuansa alami dengan tanaman hijau. Mutia berjalan memasuki frame dengan pakaian kasual elegan. | Full Shot (FS) | Eye Level | Fade In | *(VO)* "Hai! Menjalani hari yang padat..." || **2** | Mutia berdiri tegak, melambaikan tangan kanan dengan senyum hangat dan ramah ke arah kamera. | Medium Shot (MS) | Eye Level | Cut | *(VO)* "...bikin kita harus tetap nyaman dan siap di segala situasi." || **3** | Sorotan fokus pada cardigan rajut warna biru muda bersulam logo ikonik "M - MUTIA" di bagian dada. | Medium Close-Up (MCU) | Low Angle | Cut | *(VO)* "Rahasia aku? Selalu pakai cardigan favorit yang hangat tapi tetap *stylish*..." || **4** | Tangan Mutia memegang tumbler terakota dengan motif dedaunan estetik secara jelas dan dekat. | Close-Up (CU) | Eye Level | Wipe | *(VO)* "...plus bawa tumbler kesayangan ke mana pun pergi!" || **5** | Mutia berjalan santai di area pejalan kaki batu, memancarkan aura percaya diri dan gaya hidup ramah lingkungan. | Full Shot (FS) | High Angle | Cut | *(VO)* "Nyaman dipakai, keren dipandang, dan bantu jaga bumi tetap hijau." || **6** | Posisi *full body* karakter Mutia memegang tumbler, lalu grafis logo **MUTIA** beserta *tagline* muncul di layar secara elegan. | Wide Shot (WS) | Eye Level | Fade Out | *(VO / Text)* "MUTIA: Comfort in Style, Care in Every Step." |
+   [IMG#7] alt='' w=320 h=175 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2eANCTxRp_8zUISRCblI3uJ6rtT8KUOSORcSX9mtkJc9C1Z_2Oz0m8rbxY8EquDXCzQ-SV-0jDBZ7fLyGjiTWDXg3pJp_4b2SVo53M7DRPh55j0AxeGsxhCCDQ_dHA575WghAiljDbix

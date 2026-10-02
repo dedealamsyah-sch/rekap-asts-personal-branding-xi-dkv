@@ -1,0 +1,278 @@
+====================================================================================================
+ID R08 | XI DKV 1 | SILVI BUDIA PUTRI
+URL: https://silvibudiaputri.blogspot.com/2026/09/personal-branding-silvi-budia-putri-xi.html
+STATUS: 200  final=https://silvibudiaputri.blogspot.com/2026/09/personal-branding-silvi-budia-putri-xi.html
+PAGE TITLE: Personal Branding Silvi Budia Putri XI DKV 1
+H1: 
+WORDS: 4224 | IMAGES: 6 | TABLES: 0
+LABELS: Ai- Silvi Budia Putri, personal branding, portofolio SMKN 9 Garut, tugas sekolah
+KW COUNTS: {'logo': 37, 'moodboard': 9, 'mockup': 11, 'naskah': 16, 'storyline': 3, 'shotlist': 1, 'storyboard': 6, 'mascot': 34, 'prompt': 8, 'tagline': 14, 'deskripsi': 23, 'by_nama': 1, 'color': 28, 'tipografi': 6}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h1]: ASTS Personal Branding Silvi Budia Putri XI DKV 1 SMKN 9 Garut
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyTC4te4cD0FR7_Yirj8aO8rMnVQ1S8RqMidc9SXgs_ptRw_mkdJ8hhQBAPGmwKr-uj98h9F2apQt9c3pIcbmsePhLJ7d2lIOhWO4sUZJHOStESK5GKvN5ZFsxHLwqoLBSWpmhF3is1cQ
+
+## HEADING [h2]: Konsep Logo Personal Branding
+
+## HEADING [h3]: Logo Personal Branding: Silvi Budia Putri
+   P(44w): Setiap karya visual yang berkesan selalu lahir dari paduan cerita, ketelitian rasa, dan karakter kuat pemiliknya. Logo personal branding ini dirancang khusus untuk merepresentasikan identitas Silvi Budia Putri, menyatukan inisial nama "SBP" ke dalam sebuah monogram emas yang sarat makna, keanggunan, dan kedalaman narasi.
+   P(71w): Perjalanan visual logo ini dimulai dari kecintaan Silvi terhadap seni dan eksplorasi diri melalui berbagai hobi yang dijalaninya. Seni menari tradisional memberikan fondasi keanggunan dan dinamika; gerakan tubuh yang leluasa namun penuh ke presisian menginspirasi lekukan huruf besar "S" di bagian atas logo, yang secara halus membentuk siluet seorang penari. Hal ini melambangkan karakter diri yang santai, luwes dalam beradaptasi, namun tetap menjaga harmoni dan keindahan alur dalam setiap langkah kehidupan.
+   P(66w): Kecintaan pada dunia membaca buku dan narasi dihadirkan melalui elemen buku terbuka dengan pena bulu di sisi kiri monogram. Gambar ini tidak hanya mencerminkan minat mendalam terhadap ilmu pengetahuan dan cerita, tetapi juga mempertegas karakter pribadi yang teliti, penuh pertimbangan, serta selalu menghargai detail-detail kecil yang sering kali terlewatkan oleh orang lain. Setiap halaman yang terbuka melambangkan kesiapan untuk terus belajar dan mengamati fenomena di sekitar.
+   P(57w): Seluruh ketelitian dan kepekaan rasa tersebut bermuara pada bidang kreatif utama yang menjadi fokusnya, yaitu fotografi. Diintegrasikan ke dalam lengkungan huruf "B" dan "P", terdapat bentuk lensa kamera dengan aperture atau diafragma presisi. Lensa ini melambangkan kemampuan menangkap momen, fokus pada detail terkecil (detail-oriented), serta keberhasilan mengubah sudut pandang biasa menjadi karya visual yang bernilai seni tinggi.
+   P(57w): Balutan warna emas murni di atas latar belakang bersih memberikan kesan profesional, eksklusif, dan abadi, sekaligus menegaskan komitmen tinggi terhadap kualitas karya yang dihasilkan. Secara keseluruhan, logo ini bukan sekadar lambang inisial nama, melainkan cerminan jiwa seorang kreator yang mampu memadukan ketenangan rasa, keanggunan seni tradisional, dan ketajaman sudut pandang lensa fotografi dalam satu identitas yang utuh.
+   P(7w): Tagline: Capture the Beauty of Detail & Grace
+   P(4w): By: Silvi Budia Putri
+
+## HEADING [h2]: Prompt Logo Personal Branding
+   P(24w): hai bro berperan lah sebagai ahli designer,disini saya akan membuat personal logo Branding dari inisial namaa saya = Silvi Budia Putri dengan ketentuan berikut:
+   P(5w): •Inisial nama :Silvi Budia Putri
+   P(7w): • Karakter diri:santai, memperhatikan hal hal kecil,
+   P(8w): • Hobi atau minat:menari tradisional, membaca buku, fotografi
+   P(8w): •bidang kreatif yang diminati: fotografi, dengan ketentuan output:
+   P(14w): output Logo Personal Branding rasio 1.1 kualitas 4k tanpa background,dengan warna gold
+   P(5w): • Nama Branding :Silvi Budia Putri
+   P(2w): • Tagline:sesuaikan
+   P(5w): tambahkan deskripsinya minimal 100 kata
+
+## HEADING [h2]: 2.Moodboard
+   [IMG#2] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr9TsUt08QsvMZUkBUVucezxv5yHlUK4_0ckneVhdChlwMHY1H9yfeqmtmNd9B5F7mLVwyHBHlAiSUWL1j4Xuw4T5BmmlXU6L6OXdfTfrLOphWWbiXsRximOIyyg19EYSmw9B1tSsuhVy
+
+## HEADING [h2]: Deskripsi Moodboard
+   P(26w): Mood board profesional ini dirancang khusus untuk merepresentasikan identitas visual personal branding Silvi Budia Putri, yang memadukan keanggunan seni tradisional dengan estetika fotografi modern yang elegan.
+   P(56w): Pada bagian sudut kiri atas, terdapat logo monogram utama berbalut warna emas mewah yang tidak hanya menampilkan inisial SBP, tetapi juga menyimpan makna visual yang mendalam. Bentuk ukiran yang terjalin erat melambangkan harmoni antara kecintaan pada dunia tari, sastra, dan fotografi, di mana warna emas itu sendiri merepresentasikan kualitas tinggi, prestise, serta dedikasi penuh pada detail.
+   P(49w): Palet warna utama (main branding colors) memadukan warm gold, deep blue, krem hangat, soft grey, serta terracotta untuk menciptakan kesan yang profesional, hangat, dan autentik. Dari sisi tipografi dan gaya visual, penggunaan huruf berjenis serif memberikan sentuhan klasik yang berkelas, selaras dengan karakter personal yang tenang, artistik, dan detail-oriented.
+   P(41w): Selain itu, elemen grafis seperti diafragma kamera, buku terbuka, dan siluet penari tradisional berpadu sempurna dengan deretan inspirasi visual yang kaya akan nuansa kultural. Keseluruhan elemen dalam mood board ini berhasil merangkum sebuah narasi visual yang kuat, estetik, dan penuh inspirasi.
+
+## HEADING [h2]: Konsep Moodboard
+
+## HEADING [h3]: 1. Konsep Dasar & Identitas Brand
+   P(5w): •Nama Brand: Silvi Budia Putri
+   P(7w): •Tagline: "Capture the Beauty of Detail & Grace"
+   P(39w): •Filosofi Utama: Brand ini lahir dari perpaduan harmonis antara ketelitian dalam fotografi, kecintaan pada sastra (membaca dan menulis), serta keanggunan seni tari tradisional. Konsep ini menonjolkan karakter personal yang tenang (santai), teliti (detail-oriented), kreatif, dan menjunjung tinggi nilai budaya.
+
+## HEADING [h3]: 2. Palet Warna Utama (Main Branding Colors)
+   P(10w): Palet warna dipilih untuk memancarkan kesan hangat, elegan, dan profesional:
+   P(9w): •Warm Gold (#D1A25E): Melambangkan kemewahan, prestasi, dan kualitas tinggi.
+   P(10w): •Deep Blue (#2D4C63): Memberikan fondasi yang profesional, stabil, dan tepercaya.
+   P(10w): •Cream (#E8E0D2): Menciptakan latar belakang yang lembut, bersih, dan klasik.
+   P(9w): •Soft Grey (#C2C8D0): Menghadirkan kesan modern, netral, dan minimalis.
+   P(12w): •Terracotta (#734F40): Merepresentasikan sentuhan bumi, kehangatan, dan kedekatan dengan unsur kultural lokal.
+
+## HEADING [h3]: 3. Tipografi & Gaya Visual (Typography & Visual Style)
+   P(18w): •Judul & Nama Utama: Menggunakan huruf jenis serif (seperti EB Garamond) untuk memberikan kesan klasik, anggun, berwibawa, dan abadi.
+   P(21w): •Sub-teks & Detail: Menggunakan sans-serif (seperti Montserrat) yang dipadukan dengan gaya modern calligraphy untuk menonjolkan sisi artistik yang dinamis serta mudah dibaca.
+   P(18w): •Gaya Visual: Mengusung estetika clean, artistic, and candid, dengan pencahayaan alami yang menonjolkan gerakan estetis dan kedalaman emosi.
+
+## HEADING [h3]: 4. Filosofi & Makna Visual Logo
+   P(15w): •Bentuk Monogram (Inisial SBP): Dirancang menyatu dengan elemen artistik yang melambangkan keseimbangan hidup dan karya.
+   P(14w): •Siluet Penari Tradisional: Melambangkan keluwesan, ekspresi jiwa, dan kecintaan mendalam terhadap seni budaya bangsa.
+   P(14w): •Buku Terbuka & Pena: Menyimbolkan wawasan, kecintaan pada dunia literasi, serta ketelitian dalam merangkai cerita.
+   P(15w): •Diafragma Kamera: Mewakili profesi dan hobi utama di bidang fotografi untuk "menangkap" setiap momen berharga.
+   P(15w): •Aura Warna Emas: Menggambarkan dedikasi penuh, prestise, serta fokus yang tajam terhadap detail-detail kecil (detail-oriented).
+
+## HEADING [h3]: 5. Elemen Grafis & Inspirasi Visual
+   P(14w): •Elemen Pendukung: Ikon diafragma, buku, siluet penari, garis kurva organik, serta tekstur kertas klasik.
+   P(21w): •Inspirasi Visual: Fotografi potret candid, dokumentasi ekspresi penari tradisional dengan kostum berdetail emas, serta tekstur kain dan halaman buku yang hangat.
+
+## HEADING [h2]: Prompt Moodboard
+   P(14w): Baikk sekarangg tolongg buatkan mood board nya dengan ketentuan sebagai berikut Moodboard wajib memuat:
+   P(3w): • Warna utama branding
+   P(1w): • Typography
+   P(2w): • Style visual
+   P(2w): • Referensi desain
+   P(2w): • Tone & Mood
+   P(2w): • Elemen grafis
+   P(2w): • Inspirasi visual
+   P(4w): •Tambahkan logo personal branding
+   P(1w): Output
+   P(2w): • 1 Moodboard
+   P(2w): • Format Landscape
+
+## HEADING [h2]: 3.Mockup
+   [IMG#3] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjupsvXOqEmC5Djwm7PE2CdoBGfz1ArzlOhvdihS8l8-NvN-HxZl55oXIwQB1oc9Tu5Xy-BhC__DdjnuTp2cRieaRUVfYNfB22xEP4FxpfN7fRe8baKmrQaD97BvnesySK0eo0CgusSy6N
+
+## HEADING [h2]: Deskripsi Mockup
+   P(72w): Implementasi mockup identitas visual Silvi Budia Putri dirancang untuk mengaplikasikan elemen branding pada berbagai media apparel dan perangkat kerja fisik secara konsisten serta profesional. Pada media apparel seperti kaos dan hoodie, logo monogram SBP bernuansa emas metalik diaplikasikan dengan teknik bordir presisi tinggi di atas bahan kain berwarna deep navy blue. Penggunaan warna gelap ini memberikan kesan elegan, kasual, sekaligus mempertegas karakter visual maskot saat dikenakan dalam kegiatan operasional maupun acara resmi.
+   P(82w): Sementara itu, pada perangkat kerja seperti laptop, logo SBP diaplikasikan dalam bentuk stiker decal eksklusif yang dipasang pada bagian penutup atas. Tampilan emas yang berkilau di atas material laptop menciptakan nuansa modern dan premium, mencerminkan identitas seorang fotografer profesional. Selain itu, terdapat pula mockup stiker cetak berbentuk die-cut kustom yang sangat fleksibel untuk ditempelkan pada berbagai peralatan fotografi, seperti lens cap, cangkir, hingga buku jurnal harian. Keseluruhan rangkaian mockup ini berfungsi untuk memperkuat kehadiran merek Silvi Budia Putri pada atri
+
+## HEADING [h2]: Konsep Dan Filosofi Mockup Stiker Hodie Dan Laptop
+   P(53w): •Mockup Stiker (Sticker Pack): Dirancang dengan sentuhan estetika mewah berwarna emas (warm gold) dan finishing bertekstur, menampilkan berbagai variasi bentuk mulai dari logo monogram SBP bundar, label nama eksklusif, hingga siluet penari tradisional. Stiker ini sangat ideal untuk menghiasi perlengkapan hobi seperti bodi kamera, sampul buku catatan, atau sebagai penanda visual yang artistik.
+   P(40w): •Mockup Hoodie (Jaket): Menggunakan warna dasar Deep Blue yang elegan, memberikan kesan kasual namun tetap berkelas. Pada bagian dada sebelah kiri, disematkan logo monogram SBP berukuran proporsional dengan cetakan warna emas mewah, memancarkan karakter yang santai, hangat, dan berjiwa seni.
+   P(40w): •Mockup Laptop: Menampilkan bagian penutup laptop dengan balutan warna krem lembut atau soft grey yang bersih. Logo monogram SBP emas diletakkan di bagian tengah dengan efek visual yang rapi, menegaskan identitas perangkat kerja seorang kreator yang sangat memperhatikan detail (detail-oriented).
+
+## HEADING [h2]: Prompt Mockup
+   P(17w): Baik sekarang berdasarkan branding di atas implementasikan ke dalam bentuk mock up dalam bentuk: stiker, hodie, laptop
+
+## HEADING [h2]: 4.Maskot
+   [IMG#4] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpvnHKO2MRYfaAIma4z7J5Vx4DDdMrkS00aXGtUwfpaasCCNzFSPIOCcdpLupIf1D1KU2KyN9xuffox224ItQfLW-2rYiVvRFG6GYHuXVBlL-wBEgdt-WBoydexnUJMdBJ6QHPGZxMPLa
+
+## HEADING [h2]: Deskripsi Maskot
+   P(44w): Papan presentasi branding ini dirancang secara khusus untuk merepresentasikan identitas visual Silvi Budia Putri dengan mengusung tema utama "Capturing Cultural Stories | Photography". Konsep visual ini memadukan unsur estetika modern dan kearifan budaya tradisional Indonesia secara harmonis ke dalam tiga panel utama yang saling terhubung.
+   P(59w): Pada Panel Pertama (Mascot Full Body), karakter maskot 3D tampil mengenakan hijab putih bersih dan hoodie biru tua (navy blue) beraksen bordir logo emas. Maskot ini digambarkan berdiri penuh sambil memegang kamera mirrorless dan sebilah keris tradisional, dikelilingi oleh properti budaya seperti alat musik gamelan dan kain tenun di atas lantai kayu hangat untuk memperkuat identitas kreatif dan kulturalnya.
+   P(47w): Selanjutnya, Panel Kedua (Mascot Portrait) menampilkan fokus close-up pada wajah maskot dengan ekspresi ramah dan senyum hangat. Potret ini dibingkai dalam lingkaran elegan bergaya laras lensa kamera bernuansa biru dan emas, lengkap dengan tipografi nama "SILVI" yang tegas di bagian bawah guna memberikan kesan profesional serta premium
+   P(74w): Terakhir, Panel Ketiga (Mascot with Logo Branding) menonjolkan logo monogram "SBP" utama di bagian atas, yang secara artistik memadukan elemen penari tradisional, buku, pena, dan diafragma lensa kamera. Di bawah logo tersebut, tertera nama lengkap serta tagline profesional, disertai figur maskot berdiri memegang buku di atas hamparan kain tenun tradisional. Secara keseluruhan, palet warna yang konsisten—meliputi biru tua, emas metalik, dan warna krem—berhasil menciptakan kesan portofolio yang elegan, detail, serta berkelas tinggi.
+
+## HEADING [h2]: 1. Konsep Visual
+   P(31w): Konsep visual papan branding ini dirancang menggunakan gaya ilustrasi karakter 3D modern yang dipadukan dengan estetika tradisional yang elegan. Tata letaknya dibagi menjadi tiga panel sejajar yang saling terhubung secara harmonis:
+   P(64w): •Panel Kiri (Mascot Full Body): Menampilkan karakter maskot "Silvi" secara penuh (full-body) yang berdiri tegak dengan postur percaya diri. Maskot mengenakan hijab putih bersih, hoodie berwarna deep navy blue berlogo SBP emas, celana hitam, dan sepatu kasual. Ia memegang kamera mirrorless dan sebilah keris tradisional, dikelilingi oleh properti studio bernuansa budaya seperti alat musik gamelan, wadah kuningan, dan kain tenun di atas lantai kayu.
+   P(41w): •Panel Tengah (Mascot Portrait): Berfokus pada close-up wajah maskot yang ramah dan ekspresif. Wajah dibingkai dalam lingkaran elegan bergaya laras lensa kamera yang memadukan warna biru tua dan aksen emas, dilengkapi tipografi nama "SILVI" di bagian bawah untuk menonjolkan karakter personal.
+   P(37w): •Panel Kanan (Mascot with Logo Branding): Menempatkan logo utama monogram "SBP" di bagian atas, diikuti oleh nama lengkap dan tagline profesional. Di bawah teks, maskot kembali ditampilkan berdiri memegang buku di atas hamparan kain tenun tradisional Nusantara.
+
+## HEADING [h2]: 2. Filosofi Desain dan Elemen
+
+## HEADING [h3]: 
+   P(15w): Setiap elemen visual dalam branding ini memiliki makna mendalam yang merepresentasikan identitas serta nilai-nilai personal:
+   P(28w): •Karakter Maskot (Silvi): Mewakili representasi diri yang ramah, kreatif, detail-oriented, dan santai, namun tetap profesional di bidang kreatif. Penggunaan hijab putih melambangkan ketulusan, kesucian niat, dan identitas personal.
+   P(16w): •Logo Monogram "SBP": Logo utama yang sangat kaya makna karena merangkum empat bidang utama secara artistik:
+   P(13w): •Siluet Penari Tradisional: Melambangkan kecintaan terhadap seni dan budaya tradisional (seperti tari daerah).
+   P(13w): •Buku dan Pena: Menggambarkan kegemaran membaca, literasi, serta ketelitian dalam merencanakan sebuah karya.
+   P(16w): •Diafragma Lensa Kamera: Mewakili dunia fotografi sebagai bidang kreatif utama dan profesionalisme dalam menangkap setiap momen.
+   P(14w): Palet Warna:•Deep Navy Blue (Biru Tua): Melambangkan profesionalisme, kepercayaan, kedalaman berpikir, dan stabilitas.
+   P(12w): •Emas (Gold): Melambangkan keanggunan, prestasi, kualitas premium, dan nilai budaya yang luhur.
+   P(14w): •Krim / Gading (Cream): Memberikan kesan hangat, ramah, klasik, dan estetika kertas portofolio yang elegan.
+   P(29w): •Atribut Budaya (Keris, Gamelan, dan Kain Tenun): Menunjukkan kebanggaan lokal serta komitmen untuk melestarikan dan menceritakan kisah budaya Nusantara melalui lensa kamera, sejalan dengan tagline "Capturing Cultural Stories | Photography".
+
+## HEADING [h2]: Prompt Mascot
+   P(18w): Okey sekarang dari branding yang telah dibuat implementasikan/buat maskotnya dengan style 3D character Style dengan ketentuan Output:
+   P(4w): 1. Mascot Full Body
+   P(3w): 2. Mascot Portrait
+   P(5w): 3. Mascot Bersama Logo Branding
+
+## HEADING [h2]: 5.Naskah Iklan Komersial
+
+## HEADING [h2]: Konsep & Pendekatan Narasi Video
+   P(80w): Video Short berdurasi 60 detik ini mengusung format vertikal (9:16) yang dirancang khusus untuk platform seperti Instagram Reels, TikTok, atau YouTube Shorts. Menggunakan gaya animasi 3D karakter khas Pixar, video ini menampilkan maskot Silvi dalam balutan busana santai berupa hoodie deep blue berlogo SBP, celana santai, serta sepatu sneakers. Karakter visual ini memadukan kesan kasual, ramah, dan siap beraktivitas di lapangan dengan latar belakang serta elemen ornamen budaya tradisional yang anggun, seperti ukiran kayu, pola batik, dan arsitektur Nusantara.
+
+## HEADING [h2]: Alur Cerita & Naskah Narasi (00:00 - 00:60)
+   P(58w): Video dibuka pada delapan detik pertama dengan hook yang hangat. Maskot 3D Silvi tampak duduk santai di dekat jendela sembari memegang kamera. Ia tersenyum ramah ke arah penonton sebelum melirik ke luar jendela yang menampilkan keindahan momen budaya, diiringi petikan gitar akustik dan narasi: "Bagi banyak orang, foto cuma soal momen. Tapi buat aku? Foto adalah cara bercerita."
+   P(47w): Memasuki detik ke-8 hingga ke-20, transisi kamera bergeser secara dinamis. Silvi terlihat memegang sebuah buku literatur, lalu suasana di sekitarnya bertransformasi secara halus menampilkan elemen tarian tradisional dan ornamen batik yang mengalir indah. Narasi berlanjut: "Aku suka membaca, menari tradisional, dan memperhatikan detail-detail kecil yang sering terlewatkan."
+   P(61w): Pada detik ke-20 hingga ke-38, fokus beralih ke proses kreatif di balik lensa. Silvi mengangkat kameranya dan membingkai pemandangan melalui viewfinder. Tampilan sudut pandang kamera memperlihatkan detail gerakan tari yang elegan serta tekstur kain lokal, diselingi efek suara shutter release kamera. Narasi menyampaikan: "Setiap gerakan tari punya ritme, setiap sudut budaya punya cerita. Dan lewat lensa ini, aku membingkai keindahan itu."
+   P(55w): Memasuki detik ke-38 hingga ke-50, alur memasuki bagian pengenalan brand. Silvi berdiri dengan percaya diri menampilkan detail hoodie SBP yang dikenakannya. Di sampingnya, muncul grafis monogram emas SBP yang elegan. Dengan latar musik yang bernuansa upbeat perpaduan gamelan modern yang lembut, narasi terdengar: "Aktivitas santai, tapi penuh makna. Inilah cara aku mengabadikan cerita budaya kita."
+   P(51w): Video ditutup pada detik ke-50 hingga ke-60 dengan Call to Action (CTA). Maskot Silvi melambaikan tangan dengan ramah ke arah penonton sementara layar menampilkan logo lengkap dan tagline "Silvi Budia Putri - Capturing Cultural Stories | Photography". Silvi menutup video dengan narasi yang mengajak: "Halo, aku Silvi. Mari jelajahi cerita visual bersamaku!"
+
+## HEADING [h2]: PEREKAMAN VOICE OVER (VO)
+   P(6w): •00:00 - 00:08 (Opening)
+   P(16w): °Teks VO: "Bagi banyak orang, foto cuma soal momen. Tapi buat aku? Foto adalah cara bercerita."
+   P(9w): °Intonasi/Gaya Bicara: Kasual, hangat, ramah, dan sedikit reflektif
+   P(8w): •00:08 - 00:20 (Development - Passions)
+   P(14w): °Teks VO: "Aku suka membaca, menari tradisional, dan memperhatikan detail-detail kecil yang sering terlewatkan.
+   P(10w): °Intonasi/Gaya Bicara: Santai, antusias, dan bercerita dengan artikulasi jernih.
+   P(9w): •00:20 - 00:38 (Climax - Visual Focus)
+   P(20w): °Teks VO: "Setiap gerakan tari punya ritme, setiap sudut budaya punya cerita. Dan lewat lensa ini, aku membingkai keindahan itu."
+   P(14w): °Intonasi/Gaya Bicara: Mantap, inspiratif, dan berbobot (penekanan pada kata ritme, cerita, dan membingkai).
+   P(7w): •00:38 - 00:50 (Brand Identity)
+   P(14w): °Teks VO: "Aktivitas santai, tapi penuh makna. Inilah cara aku mengabadikan cerita budaya kita
+   P(8w): °Intonasi/Gaya Bicara: Percaya diri, elegan, dan grounded.
+   P(9w): •00:50 - 01:00 (Closing & Call to Action)
+   P(10w): °Teks VO: "Halo, aku Silvi. Mari jelajahi cerita visual bersamaku!"
+   P(12w): °Intonasi/Gaya Bicara: Ceria, mengajak, dan memberikan kesan ramah di akhir kalimat.
+
+## HEADING [h2]: prompt naskah iklan
+   P(22w): nah dari maskot maskot yang di buat rencananya saya mau membuat short 60 detik sama naskah iklan,tolong bantu saya membuat dokumennya
+
+## HEADING [h2]: 6. STORYLINE VIDEO SHORT (60 DETIK)
+
+## HEADING [h2]: 1. Pembukaan (Opening)
+   P(35w): °Visual & Suasana: Video diawali di sebuah ruangan yang hangat dengan pencahayaan alami. Maskot 3D Silvi tampak duduk santai dekat jendela sambil memegang kamera digitalnya. Ia melihat ke luar jendela tempat suasana budaya lokal terasa tenang.
+   P(14w): °Narasi/Aksi: Silvi tersenyum ramah ke arah kamera, lalu mengangkat kameranya seolah menyapa penonton
+   P(19w): °Pesan Utama: Menarik perhatian penonton (hook) serta mengenalkan sosok Silvi sebagai kreator yang ramah, santai, dan menyukai dunia fotografi.
+
+## HEADING [h2]: 2. Alur Cerita (Development)
+   P(42w): •Visual & Suasana: Transisi berjalan halus memperlihatkan sisi personal Silvi. Latar belakang berganti menampilkan rak-rak buku literatur dan elemen ornamen batik yang mengalir lembut. Silvi terlihat membaca buku sejenak sebelum langkah kakinya membawanya ke luar ruangan menuju area luar ruangan berlatar arsitektur tradisional.
+   P(18w): • Narasi/Aksi: Silvi mengamati sekelilingnya dengan cermat, memperhatikan riak gerakan penari tradisional dan detail ukiran budaya di sekitarnya.
+   P(18w): •Pesan Utama: Memperlihatkan keterkaitan erat antara minat Silvi dalam membaca (literatur), tarian tradisional, dan kepekaannya terhadap detail estetika
+
+## HEADING [h2]: 3. Konflik / Fokus Visual (Climax & Visual Focus)
+   P(29w): •Visual & Suasana: Ritme visual meningkat dan menjadi pusat perhatian utama. Kamera memfokuskan pandangan pada gerakan tari tradisional yang dinamis. Silvi mengangkat kamera, membingkai momen tersebut melalui sudut pandang viewfinder.
+   P(27w): •Narasi/Aksi: Layar menampilkan sudut pandang kamera (POV viewfinder), menangkap detail gerakan selendang tari dan tekstur kain batik secara sempurna, diiringi efek suara jepretan kamera (shutter release).
+   P(19w): •Pesan Utama: Menonjolkan keahlian fotografi Silvi dalam menangkap esensi dan cerita di balik setiap momen budaya (Capturing Cultural Stories).
+
+## HEADING [h2]: 4. Penutup (Closing & Call to Action)
+   P(38w): •Visual & Suasana: Momen berlanjut ke area terbuka dengan latar belakang gapura dan rumah adat yang megah. Silvi berdiri percaya diri mengenakan hoodie deep blue berlogo SBP. Grafis logo monogram emas Silvi Budia Putri muncul dengan elegan di sampingnya.
+   P(20w): •Narasi/Aksi: Silvi melambaikan tangan dengan senyum hangat ke arah penonton saat teks nama dan tagline merek ditampilkan secara utuh.
+   P(18w): Pesan Utama: Memperkuat identitas personal branding dan mengajak audiens untuk mengikuti perjalanan visual budaya bersama Silvi Budia Putri.
+
+## HEADING [h2]: prompt story line :
+   P(8w): baik tolong buatkan story line nya wajib memuat:
+   P(1w): • Pembukaan
+   P(2w): • Alur Cerita
+   P(3w): • Konflik/Fokus Visual
+   P(1w): • Penutup
+
+## HEADING [h2]: 7.short list
+   [IMG#5] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK8wuCahEsbhNKR9mTPbKXlodgFRj5wIgaEb568YAunPyHdLuDh9RVXLCMtDyI1hZFE8Cneb_1Skc5ZaKrUC2KKXYTOq7tVMVulb2He9_y94iSG5RcQUQP7KXtNeUgNGUaZyjKHeCfs4R
+
+## HEADING [h2]: Deskripsi Rinci & Konsep Produksi Video Short (60 Detik)
+   P(88w): Dokumen shot list di atas dirancang secara khusus untuk memandu tim animasi 3D, pengarah visual, serta pengisi suara (voice over artist) dalam mengeksekusi video pendek personal branding berdurasi 60 detik. Video berformat vertikal (9:16) ini mengusung pendekatan gaya estetika animasi 3D khas Pixar yang hangat, ramah, dan kaya akan detail. Setiap shot disusun secara terstruktur untuk membangun koneksi emosional dengan audiens, memadukan sisi personal Silvi sebagai individu yang santai dan detail-oriented, sekaligus memperkuat peran utamanya sebagai fotografer yang mendedikasikan karyanya pada 
+   P(90w): Pada bagian Opening & Hook (Shot 1–3), alur cerita dimulai dari ruang personal yang tenang. Shot dibuka dengan teknik Medium Close-Up saat maskot Silvi duduk di dekat jendela memegang kamera. Pencahayaan alami (soft natural lighting) memberikan efek hangat yang merefleksikan karakter santai dan bersahabat. Transisi ke Shot 2 dan 3 memperlihatkan sisi personal Silvi yang menyukai literatur dan tarian tradisional. Elemen-elemen budaya seperti ornamen batik dan kain tenun lokal dimunculkan secara halus mengalir di sekitarnya, menegaskan bahwa inspirasi fotografinya berakar kuat dari kecintaannya 
+   P(97w): Memasuki bagian Klimaks Visual & Aksi Foto (Shot 4–7), fokus utama bergerak pada keahlian teknis dan sudut pandang artistik Silvi di lapangan. Pengambilan gambar bergeser dari dinamika gerakan tari tradisional (Full Shot) menuju momen persiapan membidik dengan sudut kamera Low Angle untuk menciptakan kesan percaya diri. Puncak visual dihadirkan pada Shot 6 melalui tampilan Point of View (POV) Viewfinder kamera, membawa audiens merasakan secara langsung bagaimana Silvi mengunci komposisi, tekstur, serta estetika kain dan gerakan tari sebelum tombol shutter ditekan. Efek kilatan cahaya (shutter 
+   P(72w): berfungsi sebagai penyimpulan identitas merek (personal branding). Shot 8 menonjolkan kostum kasual khas berupa hoodie deep blue berlogo SBP, dipadukan dengan kemunculan logo monogram emas Silvi Budia Putri beserta tagline resmi "Capture the Beauty of Detail & Grace" pada Shot 9 secara elegan. Video ditutup dengan gestur ramah Silvi melambaikan tangan berlatar arsitektur Nusantara, memberikan ajakan terbuka (Call to Action) kepada audiens untuk menjelajahi keindahan cerita visual budaya Nusantara bersama Silvi Budia Putri.
+
+## HEADING [h2]: ALUR VISUAL VIDEO SHORT:
+
+## HEADING [h2]: BABAK 1: Pengenalan & Koneksi Personal (Detik 00-15)
+   P(7w): Gaya Visual: Hangat, Tenang, Intim, Pencahayaan Alami.
+
+## HEADING [h3]: 1. Scene 1 (Hook)
+   P(54w): °Visual: Layar fade in menampilkan maskot 3D Silvi (berhijab putih, hoodie navy SBP) duduk santai di kursi rotan dekat jendela besar. Cahaya matahari sore yang lembut (golden hour) masuk, menciptakan suasana hangat. Silvi sedang memegang kamera DSLR, tersenyum ramah ke arah penonton, lalu menoleh singkat ke luar jendela menikmati pemandangan arsitektur tradisional di kejauhan.
+   P(15w): Kamera: Medium Close-Up (MCU), Eye Level. Slow push in (kamera perlahan mendekat) untuk membangun keintiman.
+
+## HEADING [h3]: 2. Scene 2 (Transisi Minat)
+   P(58w): •Visual: Kamera berpindah secara halus (smooth dissolve) ke sudut lain. Silvi kini terlihat berdiri memegang buku bacaan dengan gestur tenang di dalam ruangan bergaya rumah adat (ukiran kayu minimalis terlihat di latar). Tiba-tiba, elemen visual berupa pola batik emas yang artistik mengalir lembut dari buku tersebut dan menyelimuti udara di sekitarnya, merepresentasikan imajinasi dan kecintaannya pada detail budaya.
+   P(10w): •Kamera: Medium Shot (MS), Slight Low Angle (memberikan kesan elegan).
+
+## HEADING [h2]: BABAK 2: Eksplorasi & Inspirasi Budaya (Detik 15-35)
+   P(8w): Gaya Visual: Dinamis, Estetik, Kaya Warna, Budaya Hidup.
+
+## HEADING [h3]: 1. Scene 3 (Observasi)
+   P(57w): •Visual: Transisi match cut membawa penonton ke area pelataran candi/rumah adat yang megah. Silvi berdiri di sisi layar, mengamati seorang penari tradisional (berpakaian lengkap khas daerah) yang sedang menari dengan gerakan anggun dan ritmis. Silvi terlihat terpesona dan mulai mengangkat kameranya perlahan. Elemen visual seperti alat musik gamelan dan kris daggers diletakkan rapi di latar belakang.
+   P(21w): •Kamera: Full Shot (FS), Eye Level. Kamera melakukan gerakan melingkar pelan (orbit movement) mengelilingi penari dan Silvi untuk memperlihatkan keindahan lingkungan.
+
+## HEADING [h3]: 2. Scene 4 (Klimaks - Membidik)
+   P(64w): •Visual: Quick cut. Kamera menampilkan sudut pandang Silvi membidik. Layar berubah total menjadi holographic viewfinder (tampilan dalam lensa kamera). Di dalam viewfinder, fokus terkunci secara tajam pada detail ukiran emas di pintu gerbang candi dan tekstur halus kain batik yang dikenakan penari. Parameter kamera (aperture, shutter speed) terlihat di sudut layar. Terdengar suara shutter (klik!) diiringi kilatan cahaya lembut (camera flash cut) di layar.
+   P(5w): •Kamera: POV / Extreme Close-Up (ECU).
+
+## HEADING [h2]: BABAK 3: Identitas & Branding (Detik 35-50)
+   P(7w): Gaya Visual: Percaya Diri, Modern-Etnik, Elegan, Premium.
+
+## HEADING [h3]: 1. Scene 5 (Brand Reveal):
+   P(60w): Visual: Setelah kilatan cahaya, layar fade back menampilkan Silvi berdiri percaya diri dengan pose santai. Ia memperlihatkan detail hoodie navy yang dikenakannya (logo SBP terlihat jelas). Dari samping Silvi, muncul logo embossed gold 3D (gabungan siluet menari, buku, pena, lensa) dan teks nama "Silvi Budia Putri" serta tagline "Capture the Beauty of Detail & Grace" yang materialisasinya terlihat elegan di udara.
+   P(13w): Kamera: Medium Close-Up (MCU). Kamera bergerak naik perlahan (pedestal up) mengikuti kemunculan logo.
+
+## HEADING [h2]: BABAK 4: Penutup & CTA (Detik 50-60)
+   P(6w): Gaya Visual: Ceria, Mengajak, Ramah, Memorable.
+
+## HEADING [h3]: Scene 6 (Outro):
+   P(52w): Visual: Silvi kembali berdiri di pelataran arsitektur tradisional yang indah (gapura candi dan rumah adat terlihat utuh). Ia melambaikan tangan dengan ceria dan tersenyum lebar ke arah penonton sebagai tanda perpisahan. Latar belakang perlahan menjadi sedikit blur, sementara teks logo dan tagline penuh muncul kembali dengan jelas di bagian tengah bawah layar.
+   P(25w): Kamera: Full Shot (FS). Kamera melakukan gerakan mundur perlahan (slow push back/zoom out) untuk memberikan kesan luas dan menutup video. Fade out to black.
+
+## HEADING [h2]: Prompt Short List
+   P(17w): bagus sekarang buat kan dokumen short list dengan ketentuan berikut buatkan tabel short list minimal 10 shot
+   P(8w): no, adegan, jenis shot,angle ,movement ,durasi, deskripsi
+
+## HEADING [h2]: Storyboard
+
+## HEADING [h2]: 
+   [IMG#6] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkNXNaGm-Gu5wVC2g_p9QF6TH17sdhMCL0P5t4wb2dOOBBYV0LvYi850iVAbMQlLxVYe3hCWmES1cJOXr9QFIB6cYw0kZUxfIYCRiBWKlkvGTOPWsXDaIS0QnD_a455sR_gSEo_e9dCO3
+
+## HEADING [h2]: Deskripsi Rinci Storyboard Video Short (60 Detik)
+   P(59w): Rangkaian storyboard 6 scene ini disusun khusus sebagai panduan visual dan naratif untuk memproduksi video short (9:16) berdurasi 60 detik dalam merancang personal branding Silvi Budia Putri. Mengusung gaya animasi 3D yang hangat, estetik, dan penuh detail, alur cerita menggambarkan perjalanan emosional Silvi dari seorang individu yang mengagumi seni hingga menjadi fotografer yang berdedikasi mengabadikan warisan budaya Nusantara.
+   P(65w): Perjalanan dimulai pada Scene 1 (Opening & Hook) dan Scene 2 (Sisi Personal) yang mengenalkan karakter maskot Silvi dalam suasana hangat di dalam ruangan. Dengan pendekatan Medium Close-Up dan pencahayaan lembut, Silvi diperlihatkan sedang memegang kamera serta buku sketsa, merefleksikan kepribadiannya yang santai, gemar membaca, dan sangat memperhatikan detail-detail kecil. Elemen ukiran kayu dan ornamen etnik di latar belakang memperkuat minat terpendamnya pada kekayaan tradisi lokal.
+   P(65w): Berlanjut ke Scene 3 (Inspirasi Budaya) dan Scene 4 (Klimaks - Membidik Detail), alur berpindah ke area luar ruangan yang megah. Silvi mengamati gerakan anggun penari tradisional di pelataran candi sebelum akhirnya mengarahkan kamera. Puncak visual (climax) ditunjukkan lewat sudut pandang viewfinder kamera (POV) yang mengunci fokus pada detail tekstur kain batik dan ukiran seni, disempurnakan dengan efek kilatan shutter yang menegaskan momen pengabadian visual.
+   P(57w): Video diakhiri pada Scene 5 (Brand Reveal) dan Scene 6 (Outro & CTA) yang mengukuhkan identitas profesional Silvi. Tampilan logo emas monogram SBP dan tagline resmi "Capture the Beauty of Detail & Grace" muncul secara elegan, sebelum ditutup dengan gestur ramah maskot Silvi yang melambaikan tangan serta mengajak audiens untuk terus menjelajahi dan merawat cerita visual budaya Nusantara bersama.
+
+## HEADING [h2]: Konsep Dasar Storyboard
+   P(9w): Judul Proyek: Personal Branding Video Short – Silvi Budia Putri
+   P(11w): •Durasi & Format: 60 Detik (Vertikal 9:16 untuk Reel/Shorts/TikTok)
+   P(16w): •Gaya Visual: Animasi 3D berestetika hangat, ramah, dan detail (gaya animasi modern khas Pixar/3D character).
+   P(23w): •Karakter Utama: Maskot 3D Silvi berhijab putih, mengenakan hoodie navy blue dengan detail logo SBP, berkarakter santai (relaxed), ramah, dan mengamati detail (detail-oriented).
+
+## HEADING [h2]: Pilar Utama Cerita (Story Arc)
+
+## HEADING [h2]: Struktur 6 Scene Utama
+
+## HEADING [h2]: Prompt Story Board
+
+## HEADING [h2]: Hasil Vidio Iklan Komersial

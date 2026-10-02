@@ -1,0 +1,35 @@
+====================================================================================================
+ID R21 | XI DKV 3 | JAJANG M HUSNI MUBAROK
+URL: https://jajangmhusnimubarok.blogspot.com/2026/09/personal-branding-jajang-m-husni.html?m=1
+STATUS: 200  final=https://jajangmhusnimubarok.blogspot.com/2026/09/personal-branding-jajang-m-husni.html?m=1
+PAGE TITLE: Personal Branding JAJANG M HUSNI MUBAROK XI DKV 3
+H1: 
+WORDS: 1308 | IMAGES: 5 | TABLES: 1
+LABELS: AI, Branding logo, Fortofolio, Label, Maskot, Mengasah kreatifitas di lab DKV SMKN 9 garut, Moodboard, Profil, branding, logo, smkn 9 garut, tugas sekolah
+KW COUNTS: {'logo': 13, 'moodboard': 7, 'mockup': 4, 'naskah': 17, 'storyline': 5, 'shotlist': 5, 'storyboard': 5, 'mascot': 32, 'prompt': 8, 'tagline': 5, 'deskripsi': 2, 'by_nama': 3, 'color': 3, 'tipografi': 2}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h2]: 
+
+## HEADING [h2]: ASTS Personal Branding JAJANG M HUSNI MUBAROK XI DKV 3 SMKN 9 Garut
+   [IMG#1] alt='' w=240 h=240 src=https://blogger.googleusercontent.com/img/a/AVvXsEikWsFD8LMe1w97z16BNgYrnCnalQ92z4vtHep80oVQUHoj4n79VZZ65__LJnLwuypOUGtOy9-ebw5cbzpSEA4LKaxsfSHYMdDaEhdA3i_ARDKtlbIjnVD01B_M9x0kzHsfnC6ll199SnsLtNCd7_RU
+   [IMG#2] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/a/AVvXsEjPR1wosoTTo0Zg-yOvTVfC0wBkmI2C071sDljNhw7vZl_Tc_IFKkKqUQ9GSf-F58PtiP61tLTmLo2dvamTp5NuM65pzhMVeUQdgTZiPoyqI9yPZyNzhoWRejGjB2jwuKRFWbSi55grA9VC7tC0BtsM
+   [IMG#3] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/a/AVvXsEjnj0zMwfXAR4yRoR9De_8J_KNfCVxPkyOaVg8XWD9fP43n_EOPkNCjpBQ81xSnxEtiZtSI4DI7wRrEBsBqraq1HOmfTG1w1SXnuDGTmxcMgHtBOiJl9NGD0T-R87JBuMbiM4qaH1dylI5SPXm7tX7P
+   [IMG#4] alt='' w=240 h=240 src=https://blogger.googleusercontent.com/img/a/AVvXsEhgqyahVL2wqEtMz2OsHUElYYjCHDJhshvT46dyuEHIlL8nW0Ddsphkn9YuHtT7ZMtEZQZYfyOoiMvZqRAPsK1b1ddGNWAszn9R3LI23xLQXWhDRh8LGBUhstHVvUX18FFa_QS6yEYav_3WA9gsfpT0
+   [TABLE#1] rows=13 maxcols=7
+        r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+        r02: 1 || Opening pegunungan || Extreme Wide Shot (EWS) || Eye Level || Slow Pan || 4 detik || Menampilkan pegunungan dengan suasana tenang dan cahaya biru cinematic.
+        r03: 2 || Maskot muncul || Full Shot (FS) || Low Angle || Slow Push In || 5 detik || Maskot JHM berjalan membawa kamera dan tas hiking.
+        r04: 3 || Langkah perjalanan || Close Up (CU) || Low Angle || Tracking || 3 detik || Close-up sepatu maskot saat berjalan melewati jalur pegunungan.
+        r05: 4 || Perjalanan maskot || Medium Long Shot (MLS) || Eye Level || Tracking Shot || 5 detik || Maskot berjalan menyusuri jalur sambil mengamati lingkungan sekitar.
+        r06: 5 || Menemukan pemandangan || Medium Shot (MS) || Back Angle || Slow Pan || 4 detik || Maskot berhenti dan melihat pemandangan dari ketinggian.
+        r07: 6 || Ekspresi fokus || Close Up (CU) || Eye Level || Slow Push In || 3 detik || Wajah maskot terlihat fokus dan tenang sebelum mengambil foto.
+        r08: 7 || Kamera dan lensa || Extreme Close Up (ECU) || Side Angle || Static || 3 detik || Detail tangan memegang kamera dan lensa yang terkena blue lighting.
+        r09: 8 || Mengambil foto || Over The Shoulder (OTS) || High Angle || Slow Push In || 4 detik || Kamera diarahkan ke pemandangan; maskot menekan tombol shutter.
+        r10: 9 || Hasil foto || Close Up (CU) || Eye Level || Zoom In || 4 detik || Hasil foto muncul dan menjadi fokus utama layar.
+        r11: 10 || Proses desain || Medium Shot (MS) || High Angle || Slow Pan || 5 detik || Foto masuk ke proses editing/desain dengan garis geometris dan aksen biru.
+        r12: 11 || Hero shot JHM || Full Shot (FS) || Low Angle || Slow Orbit || 5 detik || Maskot berdiri tegap membawa kamera dengan background hitam dan blue lighting.
+        r13: 12 || Logo & tagline || Extreme Close Up / Graphic Shot || Front || Slow Zoom Out || 5 detik || Logo JHM by jajang muncul disertai tagline “Explore. Capture. Create. Be Better.” lalu fade to black.
+   [IMG#5] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/a/AVvXsEjn0kDdAUPPU8jXXOj_RjETXjbiiGNYWg3wKVu4irg7C9Iyeru4sYb5roe6wHKpN8j8N8zRKuqxDtLuq5cts0V-s0N7WVVwNfQ70l6ncOpXRb43Wofr2fqTGS5IPPNyJ4NLJ4zH-6V45GDGBoUB9x01

@@ -1,0 +1,41 @@
+====================================================================================================
+ID R82 | XI DKV 4 | NANI YULIYANI
+URL: https://naniyuliyani.blogspot.com/2026/10/perdonal-branding-nani-yuliyani-xi-dkv-4.html
+STATUS: 200  final=https://naniyuliyani.blogspot.com/2026/10/perdonal-branding-nani-yuliyani-xi-dkv-4.html
+PAGE TITLE: Perdonal Branding Nani Yuliyani XI DKV 4
+H1: 
+WORDS: 1633 | IMAGES: 7 | TABLES: 0
+LABELS: AI, Portofolio, SMKN 9 GARUT, Tugas sekolah, personal branding
+KW COUNTS: {'logo': 11, 'moodboard': 6, 'mockup': 6, 'naskah': 15, 'storyline': 3, 'shotlist': 7, 'storyboard': 8, 'mascot': 6, 'prompt': 1, 'tagline': 2, 'deskripsi': 5, 'by_nama': 0, 'color': 16, 'tipografi': 3}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h1]: ASTS PERSONAL BRANDING NANI YULIYANI XI DKV 4 SMKN 9 GARUT
+
+## HEADING [h3]: 1.Logo Personal Branding
+
+## HEADING [h3]: 
+   [IMG#1] alt='' w=320 h=215 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKsYaXOUTrIB6vzNg6wTmCdGhBhOhIapnhA1swlhhVWTkSXV0rVUvE6ccHYqxfgIAR4_2qS_0sIXlHXSmx-56rDrn54PZBBxn61XzMbPDtmhgKDA33gdDbszhEKy2cae8QzuqVLq9BUQl
+
+## HEADING [h3]: Desain pertama merupakan logo personal branding Nani Yuliyani dengan inisial “NY” sebagai identitas utama. Logo menggunakan bentuk lingkaran yang dipadukan dengan elemen bunga dan daun. Warna hijau melambangkan pertumbuhan dan kesan alami, sedangkan bunga berwarna pink memberikan kesan kreatif dan feminin. Logo dilengkapi dengan nama “Nani Yuliyani” serta tagline “Create • Learn • Grow” yang menggambarkan semangat untuk terus berkarya, belajar, dan berkembang.
+
+## HEADING [h3]: 2.Moodboard
+   [IMG#2] alt='' w=320 h=212 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-XDR3CDEu0atOMlflk8MlLg1MYv4fgO904yM98ebJXVIqXesPP37MjRRfGeZQPhfaJmp-9ORWPOOfrjx4ojIwMTsiU7ywNNeH21oduBeIHsInydzQ2cORXHDL3Dg1-KjvFauyi5sjlH_
+   [IMG#3] alt='' w=320 h=215 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifMn4QpGXqCV-DMYw8gU37DeP8k_OsFZg5PGpbw6g5rMQDtWbqeD3BcD3iKCXtSBb_oX0g3wSWxTdkKlGPI9nj-q9hXhxrqYDAs7jA7_4potlM8GQfqndjc-v39JJ68eezZ2iuZ-BQr7m
+   [IMG#4] alt='' w=320 h=215 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9p-g1iFnhuDe8MnOhSNYPDW3ndTGEApsXjuEOwuLnoyUJrO-UpRpzKUhDh6m-49clQK0gIXmROgOxfzw48PsORJS2choKVzQOR2T7wsXYTDYQH-jTe1UPk40brThonvuhi1jJVkSwxEx
+   [IMG#5] alt='' w=320 h=212 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDw3LvKW6rk5HEjk8mcwxY5hJ0XmK-lWJdU7YYPpMeuo6VutfLiEORG87ABlcgSmbBWj1odGV2YDWge-vZi72RcKnAtYulK1unEu8jESg5O4Sw6m_POSCEuk6ME-hiKpcHy6Q6b5VcCfC
+   [IMG#6] alt='' w=320 h=194 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQh1XYNtBsr5p192X2Vz3PIR6CtzwLNbd8lPp54BBPI52_gRUX3fzlTd_iqxxEbgLROQanMZ_DULABjhbWs9WhcbgUcp7RBhEanzPiYL9wD-JtbA0HRTwpl5hrr-veXvwyC94QVHc9E85
+   [IMG#7] alt='' w=320 h=236 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1cPTzEN1fK5hGnRiWP5yocqeeQ3Hd-u86bhB1lAmrPSeax2UKc5kC1di_7bjXhLG83YkKXAzs5jZZkzFVwycSt3zi3G9AclNNiWF7PMXQNy4OcvkF43dBgiPIv8hTz9_Y_8PrGaVG0Yq
+
+## HEADING [h3]: 10.Prompt yang Digunakan
+   P(36w): Logo menggunakan inisial “NY” dari nama Nani Yuliyani sebagai identitas utama. Desain dibuat sederhana, elegan, dan mudah dikenali. Warna hijau memberikan kesan segar, tenang, dan profesional, sedangkan nama Nani Yuliyani digunakan untuk memperkuat identitas personal branding.
+   P(30w): Moodboard berisi kumpulan warna, foto, font, dan referensi visual yang menjadi dasar pembuatan personal branding. Konsepnya menggunakan warna yang lembut dan natural agar memberikan kesan elegan, kreatif, sederhana, dan profesional.
+   P(35w): Mockup digunakan untuk menunjukkan bagaimana logo Nani Yuliyani jika diterapkan pada benda atau media nyata, seperti kemasan, kartu nama, notebook, dan perlengkapan branding lainnya. Tujuannya agar identitas visual terlihat lebih nyata dan mudah dibayangkan penggunaannya.
+   P(32w): Maskot dibuat dalam bentuk karakter perempuan yang menggambarkan sosok Nani Yuliyani. Karakter dibuat dengan gaya ilustrasi yang lucu, ramah, dan menarik. Maskot berfungsi sebagai identitas tambahan agar personal branding lebih mudah diingat.
+   P(32w): Naskah iklan berisi alur percakapan atau narasi yang digunakan untuk memperkenalkan personal branding Nani. Isi iklan menonjolkan semangat, kreativitas, kerja keras, dan keinginan untuk berkembang sehingga karakter Nani dapat dikenal oleh audiens.
+   P(34w): Storyline menjelaskan urutan cerita dalam video iklan dari awal sampai akhir. Ceritanya dimulai dari Nani yang sedang menjalani aktivitas sebagai pelajar, kemudian menunjukkan kegiatan dan kemampuan yang dimiliki, sampai akhirnya memperlihatkan identitas dan cita-citanya.
+   P(34w): Shotlist berisi daftar pengambilan gambar yang diperlukan saat proses produksi video. Di dalamnya terdapat informasi seperti scene, jenis shot, angle kamera, gerakan kamera, lokasi, dan keterangan adegan. Shotlist membantu proses shooting agar lebih terarah.
+   P(36w): Storyboard merupakan gambaran visual dari setiap adegan yang akan dibuat dalam video. Setiap gambar menunjukkan posisi karakter, suasana, aktivitas, dan arah pengambilan kamera. Storyboard digunakan sebagai panduan agar hasil video sesuai dengan konsep yang sudah direncanakan.
+
+## HEADING [h3]: 

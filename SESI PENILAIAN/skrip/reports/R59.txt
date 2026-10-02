@@ -1,0 +1,89 @@
+====================================================================================================
+ID R59 | XI DKV 2 | MOH PIKRI
+URL: https://pikrislebew.blogspot.com/2026/10/personal-branding-mohpikri-xi-dkv2.html
+STATUS: 200  final=https://pikrislebew.blogspot.com/2026/10/personal-branding-mohpikri-xi-dkv2.html
+PAGE TITLE: PERSONAL BRANDING MOH.PIKRI XI DKV2
+H1: 
+WORDS: 1810 | IMAGES: 6 | TABLES: 0
+LABELS: AI, BRANDING, CV, KEGIATAN SEKOLAH, PORTOFOLIO, Personal Branding, SMKN 9 Garut, tugas sekolah
+KW COUNTS: {'logo': 16, 'moodboard': 7, 'mockup': 5, 'naskah': 17, 'storyline': 2, 'shotlist': 3, 'storyboard': 3, 'mascot': 29, 'prompt': 0, 'tagline': 6, 'deskripsi': 15, 'by_nama': 0, 'color': 11, 'tipografi': 3}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h1]: ASTS PERSONAL BRANDING MOH PIKRI XI DKV2 SMKN 9 GARUT
+
+## HEADING [h2]: A. PERSONAL BRANDING
+
+## HEADING [h1]: 
+   [IMG#1] alt='' w=553 h=305 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoZlVce8DIQVV_GI4z8fFz3OVyBD15Fr7NEbH98x_GY0JTfEM2Xf0X2yL88A3mBgqYAPwxKHY82iLOOc0oISWJvItdOn6KOJbuVNXa_XlcXxF5JdG51PN-8Vem5XDPvS2cO2_EB-S93Yt
+   P(33w): promft : Hi berperanlah sebagai Sebagai desainer ahli, saya akan membuat personal branding/logo dari nama inisial saya Moh Fikri"MF" buat dengan kualitas 4k, buat dengan warna full hitam and simple dengan ketentuan:
+   P(18w): •Inisial nama = MF• Karakter diri = Plegmatis•Hobi atau minat = fotegrafer an desainer• Bidang kreatif yang diminati = desain / fotografer
+
+## HEADING [h3]: 1. Logo Personal Branding
+   P(21w): Logo dengan inisial “MF” (Moh Fikri) yang menggabungkan unsur fotografi dan desain, menggunakan bentuk kamera/lensa yang sederhana, modern, dan elegan.
+
+## HEADING [h3]: 2. Nama Branding
+   P(3w): MOH FIKRIMF Visual
+   P(2w): 3. Tagline
+   P(3w): "DESIGNER AND FOTOGRAFER "
+   P(4w): 4. Deskripsi Konsep Branding
+   P(124w): Personal branding MF Visual merupakan identitas visual dari Moh Fikri yang memiliki karakter plegmatis, yaitu tenang, sabar, stabil, dan mampu bekerja dengan penuh ketelitian. Logo menggunakan inisial “MF” sebagai identitas utama yang mudah dikenali dan diingat. Unsur visual fotografi seperti bentuk lensa atau kamera dipadukan dengan gaya desain minimalis untuk menggambarkan minat Moh Fikri dalam bidang fotografi dan desain. Konsep logo dibuat sederhana, modern, dan profesional agar dapat digunakan pada berbagai media, seperti watermark foto, portofolio, media sosial, kartu nama, hingga karya 
+
+## HEADING [h2]: B. MOODBOARD BRANDING
+   [IMG#2] alt='' w=558 h=330 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieR3PZtfjuaPH2AWkWCL1btY_Ba3E00Goz3lMGjkvcW09atm0DDwsqb5K2didyhYFdRj9ZUMbYHpkZ1FcJxvtjxeTDOVbCTWMhAobeU-KohUAsrjPxlGOWyaHpgwR_NrnnBhreH3fVdpR
+
+## HEADING [h3]: DESKRIPSI :
+
+## HEADING [h2]: C. Mockup Branding
+   [IMG#3] alt='' w=616 h=343 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihNOfRxuH1hIex6JbtheA6q483l72z-LtM7S0VTPosodhT1oYpAkjLRx5mhq1BjNp5g8LQAGuld3aK-MrYlRtCaO99FakgvT9cZM9C1kw43gozXLLFtc-zxefoCgwV69wXAlufwHbAI2_
+   P(17w): Promft : Wow amazing, nah sekarang buatkan saya mascot dengan style 3d carachter, dengan kualitas 4k, dan ketentuannya :
+   P(4w): 1. Mascot Full Body
+   P(3w): 2. Mascot Portrait
+   P(5w): 3. Mascot Bersama Logo Branding
+
+## HEADING [h3]: Deskripsi Mockup Personal Branding Moh Fikri
+   P(41w): Mockup ini menampilkan konsep personal branding Moh Fikri sebagai seorang desainer dan fotografer dengan gaya visual yang modern, profesional, dan minimalis. Identitas utama menggunakan logo inisial “MF” dengan dominasi warna hitam dan putih, sehingga memberikan kesan elegan, tegas, dan mudah dikenali.
+   P(6w): Mockup terdiri dari tiga media utama:
+   P(3w): 1.Kaos Merchandise
+   P(26w): Menampilkan logo “MF” dan tulisan “MOH FIKRI – DESIGNER | PHOTOGRAPHER”. Kaos ini berfungsi sebagai media untuk meningkatkan visibilitas merek dalam kegiatan sehari-hari, acara, maupun sebagai identitas tim.
+   P(3w): 2.Hoodie Premium
+   P(33w): Hoodie menggunakan logo MF pada bagian dada serta tulisan “MOH FIKRI – DESIGNER | PHOTOGRAPHER” pada bagian lengan. Desain ini menggambarkan citra profesional sekaligus memberikan kenyamanan saat digunakan dalam aktivitas desain, fotografi, maupun kegiatan studio.
+   P(4w): 3.Feed Media Sosial
+   P(27w): Tampilan Instagram digunakan sebagai portofolio digital untuk memperkenalkan karya desain dan fotografi. Feed dibuat konsisten dengan identitas hitam-putih sehingga memperkuat branding dan membuat akun terlihat lebih profesional.
+
+## HEADING [h2]: D. Mascot Character
+   [IMG#4] alt='' w=560 h=313 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHCyO3A9AM_-iSobZiG7WN1KElzxx2ERLENi6KcjWCMkrnMBzzeMnFyTnVwVteAVDbbj74Zq5nFv3pbS9YoRfeEOfVHdMn0zT46PbQLz_xriildWtvDPviuxFT_try8DfkPdtO-wp2tn2
+   P(30w): promft : Wow amazing, nah sekarang buatkan saya mascot dengan style 3d carachter, dengan kualitas 4k, dan ketentuannya : Mascot Full Body, Mascot Portrait, Mascot Bersama Logo Branding saya yang di atas.
+
+## HEADING [h3]: Deskripsi Maskot Personal Branding Moh Fikri
+   P(32w): Maskot pada gambar merupakan karakter visual yang dirancang untuk merepresentasikan personal branding Moh Fikri sebagai seorang desainer dan fotografer. Karakter ini memiliki bentuk seperti figur 3D dengan gaya modern, minimalis, dan futuristik.
+   P(38w): Maskot menggunakan kamera sebagai bagian utama dari desain kepala, yang secara langsung menggambarkan bidang fotografi. Karakter juga mengenakan hoodie hitam dengan logo MF, celana cargo, serta membawa kamera, sehingga memberikan kesan seorang fotografer yang aktif, kreatif, dan profesional.
+   P(33w): Warna yang digunakan didominasi hitam, abu-abu, dan putih. Kombinasi tersebut membuat maskot terlihat elegan, sederhana, dan konsisten dengan identitas visual Moh Fikri. Logo MF pada pakaian memperkuat hubungan antara maskot dan personal branding.
+   P(47w): Secara keseluruhan, maskot ini berfungsi sebagai identitas visual yang unik dan mudah dikenali, sekaligus menggambarkan karakter Moh Fikri sebagai pribadi yang berkecimpung dalam dunia desain dan fotografi. Konsepnya diperkuat dengan slogan “Simplicity in Design, Elegance in Photography”, yang menggambarkan pendekatan sederhana dalam desain dan elegan dalam fotografi.
+
+## HEADING [h2]: E. PERENCANAAN VIDEO IKLAN KOMERSIAL
+
+## HEADING [h3]: E1. Naskah Iklan Komersial: Moh Fikri Personal Branding
+   P(10w): promft : Sekarang tolong buatkan saya Naskah Iklan yang Wajib memuat:
+
+## HEADING [h4]: Judul Iklan : Esensi dalam Ketenangan (The Essence of Calm)
+
+## HEADING [h4]: ​Tema : Minimalisme Akromatik & Keseimbangan Kreatif (Desain & Fotografi)
+
+## HEADING [h4]: ​Narasi & Visual (Script Detail) :
+
+## HEADING [h3]: 
+
+## HEADING [h3]: E2. Storyline Iklan Komersial: "Esensi dalam Ketenangan"
+
+## HEADING [h3]: 
+
+## HEADING [h3]: E3. Shotlis
+   [IMG#5] alt='' w=536 h=293 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtjOXT-ZHimKcOth8_znWvcVpHa-P1jIyXacGzH3y2H83Lxf0f4P1vWMQMeLdFVd-fL7gRhyvUu71rAJqrFPl70htxxvU6E1pjtOwVgFoXiDH-mZKbttuWnFYO0Ul278ITUfLTDUE6Plu
+
+## HEADING [h3]: E4. STORYBOARD
+   [IMG#6] alt='' w=552 h=309 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6beLTRbw80G-yyPmenopZbjecbqX6SoNOWm7WhecGxF92YijQSXlWGeshyejb-4b926tXaPEmqdNb28vxiOzx8P5wAsyupdkpZlXuLVjfcRNpKCQ4D0SufPuFyJSY7bLAO64i6vsuGCh
+
+## HEADING [h4]: Naskah Narasi (Voice Over) Storyboard Moh Fikri
+   P(3w): Scene 1: Pembukaan

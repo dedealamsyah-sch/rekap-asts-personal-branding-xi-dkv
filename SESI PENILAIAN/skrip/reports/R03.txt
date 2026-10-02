@@ -1,0 +1,226 @@
+====================================================================================================
+ID R03 | XI DKV 1 | WILDA AZKIA
+URL: https://wildaazkia.blogspot.com/2026/09/personal-branding.html
+STATUS: 200  final=https://wildaazkia.blogspot.com/2026/09/personal-branding.html
+PAGE TITLE: PERSONAL BRANDING
+H1: 
+WORDS: 1749 | IMAGES: 10 | TABLES: 0
+LABELS: AI, Personal Branding, Portofolio, SMKN 9 GARUT, Tugas Branding, Tugas CV, Tugas Praktikum Lighting, Tugas Sekolah
+KW COUNTS: {'logo': 11, 'moodboard': 7, 'mockup': 7, 'naskah': 15, 'storyline': 2, 'shotlist': 3, 'storyboard': 3, 'mascot': 14, 'prompt': 7, 'tagline': 6, 'deskripsi': 10, 'by_nama': 4, 'color': 31, 'tipografi': 6}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h1]: ASTS Personal Branding Wilda Azkia XI DKV 1 SMKN 9 Garut
+
+## HEADING [h2]: A. Personal Branding
+   [IMG#1] alt='' w=452 h=247 src=https://blogger.googleusercontent.com/img/a/AVvXsEiATT0NaKK28v0ZBcGSNxpa_VB_BISjqD8DLwj29gBc1aj1Yjw71PKy1Zv35iaoSd7WdaaR43DZFzCFddCZ_yLPRmrgoOVhovYnxVzzfFALkwZB617DT5U62-jVtylZV8_mTXKU6zYQ5voPdnKXuAr1
+
+## HEADING [h3]: Identitas Personal Branding
+   LIST[ul] n=2:
+        1. Nama Branding: Wilda Azkia
+        2. Tagline: "Creating Rhythm in Every Design"
+   P(4w): Nama Branding: Wilda Azkia
+   P(6w): Tagline: "Creating Rhythm in Every Design"
+
+## HEADING [h3]: Deskripsi Konsep Branding
+   P(82w): Konsep identitas visual untuk Wilda Azkia dirancang khusus untuk memancarkan aura yang ramah (friendly), dinamis, dan penuh energi kreatif. Penggabungan inisial WA memadukan struktur grafis yang tajam dengan lengkungan garis yang mengalir lincah. Inspirasi utama bentukan logo ini diambil dari gerakan tari (dance), di mana setiap lekukan huruf mewakili fleksibilitas, irama, dan ekspresi kebebasan dalam berkarya. Sebagai seorang desainer grafis, elemen visual ini menunjukkan kemampuan Wilda dalam mengolah komposisi yang tidak hanya estetis, tetapi juga bernyawa dan memiliki irama visual yang har
+   P(75w): Pemilihan warna-warna yang hangat, cerah, dan ramah seperti gradasi koral, magenta, dan sentuhan kuning keemasan memberikan kesan hangat, terbuka, dan mudah didekati—sangat selaras dengan karakter personal Wilda yang friendly. Tipografi nama "Wilda Azkia" menggunakan gaya sans-serif yang bersih, modern, dan seimbang, menegaskan profesionalisme di bidang desain tanpa menghilangkan sisi humanisnya. Secara keseluruhan, identitas visual ini memosisikan Wilda Azkia sebagai desainer grafis yang kreatif, energik, dan mampu menghidupkan setiap ide menjadi karya visual bernilai tinggi.
+   P(65w): Prompt yang digunakan (haii bro, berperanlah sebagai designer, tolong buatkanlah saya logo personal branding dengan ketentuan berikut berdasarkan: Inisial nama = WA ,Karakter diri= Friendly, Hobi atau minat =Dance ,Bidang kreatif yang diminati = Desain Grafis dengan Output ,Logo Personal Branding, Nama Branding = Wilda Azkia , Tagline, Deskripsi konsep branding minimal 100 kata juga kasih watermark BY WILDA AZKIA, kasih watermark BY WILDA AZKIA, beri background putih juga)
+
+## HEADING [h2]: B. Moodboard
+   [IMG#2] alt='' w=513 h=287 src=https://blogger.googleusercontent.com/img/a/AVvXsEhV81FnvNU7fzw1jdu37vP1x6Ie1BlFwuDpRxxG2h-r3FPZlglKpYJceRuScl0rvg36le5YTByXxF2TcOd1Rhrhn-e_1NZGk03qHKG_qRyKsIVqs0dPY1NZ-Aj-bB-G6e9WyhmqrPfPATWniw7HxU6O
+
+## HEADING [h3]: Deskripsi Moodboard Personal Branding – Wilda Azkia
+   P(25w): Moodboard ini disusun sebagai acuan visual (visual guide) untuk membangun identitas personal branding Wilda Azkia sebagai seorang desainer grafis yang energik, ramah, dan berkarakter unik.
+
+## HEADING [h4]: 1. Color Palette (Palet Warna)
+   LIST[ul] n=2:
+        1. Komposisi Warna: Kombinasi warna koral hangat, pink pastel, magenta, dan kuning keemasan.
+        2. Filosfi Warna: Warna-warna ini memancarkan kesan ramah (friendly), ceria, dan penuh semangat. Palet ini memberikan keseimbangan antara energi kebebasan berekspresi dan kehangatan dalam berinteraksi dengan audiens atau klien.
+   P(12w): Komposisi Warna: Kombinasi warna koral hangat, pink pastel, magenta, dan kuning keemasan.
+   P(28w): Filosfi Warna: Warna-warna ini memancarkan kesan ramah (friendly), ceria, dan penuh semangat. Palet ini memberikan keseimbangan antara energi kebebasan berekspresi dan kehangatan dalam berinteraksi dengan audiens atau klien.
+
+## HEADING [h4]: 2. Typography (Tipografi)
+   LIST[ul] n=2:
+        1. Primary Typeface (Modern Sans-Serif): Menggunakan font bersih seperti Poppins atau Montserrat untuk keterbacaan yang tinggi pada headline, sub-headline, dan teks utama. Ini mencerminkan profesionalisme dan kerapian sebagai desainer grafis.
+        2. Secondary Typeface (Expressive Brush Script): Gaya tulisan tangan yang luwes dan dinamis untuk memberikan sentuhan personal, artistik, dan kesan custom-crafted.
+   P(29w): Primary Typeface (Modern Sans-Serif): Menggunakan font bersih seperti Poppins atau Montserrat untuk keterbacaan yang tinggi pada headline, sub-headline, dan teks utama. Ini mencerminkan profesionalisme dan kerapian sebagai desainer grafis.
+   P(20w): Secondary Typeface (Expressive Brush Script): Gaya tulisan tangan yang luwes dan dinamis untuk memberikan sentuhan personal, artistik, dan kesan custom-crafted.
+
+## HEADING [h4]: 3. Visual Style & Reference (Gaya Visual & Referensi)
+   LIST[ul] n=2:
+        1. Konsep Utama: Menggabungkan bentuk-bentuk fluida (fluid shapes), komposisi abstrak yang penuh warna, serta pergerakan garis yang elegan.
+        2. Inspirasi Seni Tari (Dance): Elemen visual terinspirasi dari kebebasan, fleksibilitas, dan ritme gerakan tari. Garis-garis yang mengalir tanpa putus merepresentasikan bagaimana Wilda menciptakan irama visual dalam setiap karya desainnya.
+   P(17w): Konsep Utama: Menggabungkan bentuk-bentuk fluida (fluid shapes), komposisi abstrak yang penuh warna, serta pergerakan garis yang elegan.
+   P(29w): Inspirasi Seni Tari (Dance): Elemen visual terinspirasi dari kebebasan, fleksibilitas, dan ritme gerakan tari. Garis-garis yang mengalir tanpa putus merepresentasikan bagaimana Wilda menciptakan irama visual dalam setiap karya desainnya.
+
+## HEADING [h4]: 4. Tone & Mood (Suasana & Karakter Visual)
+   LIST[ul] n=2:
+        1. Karakter: Friendly, Creative, Energetic, Approachable, & Passionate.
+        2. Aura Visual: Memberikan kesan studio kreatif yang hangat, terbuka untuk kolaborasi, serta selalu membawa keceriaan dan ide-ide segar.
+   P(6w): Karakter: Friendly, Creative, Energetic, Approachable, & Passionate.
+   P(18w): Aura Visual: Memberikan kesan studio kreatif yang hangat, terbuka untuk kolaborasi, serta selalu membawa keceriaan dan ide-ide segar.
+
+## HEADING [h4]: 5. Graphic Elements (Elemen Grafis)
+   LIST[ul] n=2:
+        1. Icon & Monogram: Logotype inisial WA bergaris lengkung dinamis.
+        2. Aksen Pendukung: Sapuan kuas (watercolor splash), ornamen berkilau (sparkles), serta watermark identitas "BY WILDA AZKIA" yang playful dan artistik untuk memperkuat kepemilikan karya.
+   P(8w): Icon & Monogram: Logotype inisial WA bergaris lengkung dinamis.
+   P(23w): Aksen Pendukung: Sapuan kuas (watercolor splash), ornamen berkilau (sparkles), serta watermark identitas "BY WILDA AZKIA" yang playful dan artistik untuk memperkuat kepemilikan karya.
+
+## HEADING [h2]: C. Mockup Branding
+
+## HEADING [h3]: 1. Mockup Stiker
+   [IMG#3] alt='' w=410 h=224 src=https://blogger.googleusercontent.com/img/a/AVvXsEicpw5SyHBSqEG2T4QxTu96ZKpoZ1sJGGiQwpywi_zG11LdB0g8UwidqfcFCJK1R9nuF4CttQ2Ld7uD4EbilzdA-_ULlF_yJTKxj4RFh8aTDqSR29nmdxXpF2p7wSjeEmu_l4aQfzKqOGcPXegqxby8
+
+## HEADING [h3]: Penjelasan Fungsi Media: Stiker Personal Branding
+   P(13w): Penggunaan stiker sebagai media pengaplikasian personal branding memiliki beberapa fungsi strategis, antara lain:
+   LIST[ol] n=4:
+        1. Meningkatkan Brand Visibility & Kesadaran Visual (Brand Awareness)Stiker merupakan media promosi bergerak (portable branding) yang efektif. Ketika ditempelkan pada barang-barang harian yang sering terlihat di ruang publik—seperti laptop, sketchbook, 
+        2. Persona dan Sentuhan Personal (Personal Touch)Mengaplikasikan stiker pada perangkat kerja profesional mencerminkan identitas seorang desainer grafis yang kreatif, detail, dan bangga akan karya sendiri. Ini memperkuat impresi friendly dan pendekatan y
+        3. Merchandise & Gift Promosional (Client Giveaway)Stiker dapat dijadikan sebagai bonus merchandise atau freebies saat menyerahkan hasil proyek, kartu nama, maupun bentuk apresiasi kepada klien. Media sederhana ini efektif membina hubungan baik (client 
+        4. Konsistensi Identitas Visual (Unified Brand Identity)
+   P(7w): Meningkatkan Brand Visibility & Kesadaran Visual (Brand Awareness)
+   LIST[ul] n=1:
+        1. Stiker merupakan media promosi bergerak (portable branding) yang efektif. Ketika ditempelkan pada barang-barang harian yang sering terlihat di ruang publik—seperti laptop, sketchbook, atau botol minum—logo Wilda Azkia dapat menjangkau audiens secara 
+   P(37w): Stiker merupakan media promosi bergerak (portable branding) yang efektif. Ketika ditempelkan pada barang-barang harian yang sering terlihat di ruang publik—seperti laptop, sketchbook, atau botol minum—logo Wilda Azkia dapat menjangkau audiens secara alami tanpa terkesan memaksa.
+   P(6w): Persona dan Sentuhan Personal (Personal Touch)
+   LIST[ul] n=1:
+        1. Mengaplikasikan stiker pada perangkat kerja profesional mencerminkan identitas seorang desainer grafis yang kreatif, detail, dan bangga akan karya sendiri. Ini memperkuat impresi friendly dan pendekatan yang hangat kepada calon klien atau kolaborator
+   P(32w): Mengaplikasikan stiker pada perangkat kerja profesional mencerminkan identitas seorang desainer grafis yang kreatif, detail, dan bangga akan karya sendiri. Ini memperkuat impresi friendly dan pendekatan yang hangat kepada calon klien atau kolaborator.
+   P(5w): Merchandise & Gift Promosional (Client Giveaway)
+   LIST[ul] n=1:
+        1. Stiker dapat dijadikan sebagai bonus merchandise atau freebies saat menyerahkan hasil proyek, kartu nama, maupun bentuk apresiasi kepada klien. Media sederhana ini efektif membina hubungan baik (client relationship) sekaligus membuat identitas merek 
+   P(35w): Stiker dapat dijadikan sebagai bonus merchandise atau freebies saat menyerahkan hasil proyek, kartu nama, maupun bentuk apresiasi kepada klien. Media sederhana ini efektif membina hubungan baik (client relationship) sekaligus membuat identitas merek selalu diingat (top-of-mind).
+   P(6w): Konsistensi Identitas Visual (Unified Brand Identity)
+   LIST[ul] n=1:
+        1. Dengan variasi ukuran dan elemen (seperti variasi logo utama dan watermark khusus "BY WILDA AZKIA"), stiker membantu menjaga konsistensi gaya visual di berbagai medium fisik, mempertegas pesan bahwa setiap elemen dirancang dengan irama dan estetika y
+   P(37w): Dengan variasi ukuran dan elemen (seperti variasi logo utama dan watermark khusus "BY WILDA AZKIA"), stiker membantu menjaga konsistensi gaya visual di berbagai medium fisik, mempertegas pesan bahwa setiap elemen dirancang dengan irama dan estetika yang selaras.
+
+## HEADING [h3]: 2. Mockup Kartu Nama
+   [IMG#4] alt='' w=503 h=275 src=https://blogger.googleusercontent.com/img/a/AVvXsEh9wAoDGXA0ekPzNOG5TrlrgIPi4JMCL1Ph4GYsB90JdyeRc9b1rrAQlVz_H5r2HpNCBkPSZZFUXRxu2Ne1fDXlBaqxXNa0io2xzSxia8LhJpoxMrd3Ff7h7qGFq1-F_-uGqcC4v0dI2AFGszaT9SbF
+
+## HEADING [h3]: Penjelasan Fungsi Media: Kartu Nama (Business Card)
+   P(20w): Kartu nama tetap menjadi salah satu media komunikasi fisik paling penting dalam dunia profesional dan industri kreatif. Berikut fungsi utamanya:
+   LIST[ol] n=4:
+        1. Alat Networking & Komunikasi ProfesionalKartu nama mempermudah proses pertukaran informasi kontak secara langsung, cepat, dan berkesan saat bertemu dengan klien, mitra bisnis, atau sesama desainer di acara industri maupun networking event.
+        2. Membangun Kredibilitas & Kesan Pertama (First Impression)Kartu nama berdesain rapi dengan material berkualitas mencerminkan profesionalisme tinggi. Tampilan visual yang konsisten dengan logo WA dan palet warna pastel memberikan kesan bahwa Wilda adal
+        3. Representasi Fisik Identitas Merek (Physical Touchpoint)Di era digital, memiliki media fisik yang dapat disentuh (tactile experience) memberikan nilai tambah tersendiri. Kartu nama menjadi pengingat nyata bagi calon klien terhadap identitas dan layan
+        4. Penguatan Pesan Personal & Aksesibilitas
+   P(4w): Alat Networking & Komunikasi Profesional
+   LIST[ul] n=1:
+        1. Kartu nama mempermudah proses pertukaran informasi kontak secara langsung, cepat, dan berkesan saat bertemu dengan klien, mitra bisnis, atau sesama desainer di acara industri maupun networking event.
+   P(27w): Kartu nama mempermudah proses pertukaran informasi kontak secara langsung, cepat, dan berkesan saat bertemu dengan klien, mitra bisnis, atau sesama desainer di acara industri maupun networking event.
+   P(6w): Membangun Kredibilitas & Kesan Pertama (First Impression)
+   LIST[ul] n=1:
+        1. Kartu nama berdesain rapi dengan material berkualitas mencerminkan profesionalisme tinggi. Tampilan visual yang konsisten dengan logo WA dan palet warna pastel memberikan kesan bahwa Wilda adalah desainer yang serius dan memperhatikan setiap detail k
+   P(34w): Kartu nama berdesain rapi dengan material berkualitas mencerminkan profesionalisme tinggi. Tampilan visual yang konsisten dengan logo WA dan palet warna pastel memberikan kesan bahwa Wilda adalah desainer yang serius dan memperhatikan setiap detail karya.
+   P(6w): Representasi Fisik Identitas Merek (Physical Touchpoint)
+   LIST[ul] n=1:
+        1. Di era digital, memiliki media fisik yang dapat disentuh (tactile experience) memberikan nilai tambah tersendiri. Kartu nama menjadi pengingat nyata bagi calon klien terhadap identitas dan layanan desain grafis yang ditawarkan oleh Wilda Azkia.
+   P(34w): Di era digital, memiliki media fisik yang dapat disentuh (tactile experience) memberikan nilai tambah tersendiri. Kartu nama menjadi pengingat nyata bagi calon klien terhadap identitas dan layanan desain grafis yang ditawarkan oleh Wilda Azkia.
+   P(4w): Penguatan Pesan Personal & Aksesibilitas
+   LIST[ul] n=1:
+        1. Menyajikan informasi utama—seperti nama lengkap, profesi (Designer & Content Creator), nomor kontak, dan email—secara ringkas dan mudah dibaca, sehingga memudahkan klien untuk menghubungi Wilda kapan saja tanpa perlu mencari di platform digital.
+   P(33w): Menyajikan informasi utama—seperti nama lengkap, profesi (Designer & Content Creator), nomor kontak, dan email—secara ringkas dan mudah dibaca, sehingga memudahkan klien untuk menghubungi Wilda kapan saja tanpa perlu mencari di platform digital.
+
+## HEADING [h3]: 3. Mockup Social Media Feed
+   [IMG#5] alt='' w=499 h=273 src=https://blogger.googleusercontent.com/img/a/AVvXsEgD_Qj200KY2IFmsMcCQ_jEgkQf8hzEk6gd6UexYsih5nJCftn0oLPgz5sophI3xvM_2GwIk6moWDvXvwJPdgLwIbjWdnK3nNjQ-1INTR5P10jefckikMExcmHXKfVqnTV462RVtzeSM_508AmYMx1L
+
+## HEADING [h3]: Penjelasan Fungsi Media: Social Media Feed (Instagram/Portfolio Grid)
+   P(23w): Di era digital, media sosial—khususnya Instagram—berfungsi sebagai galeri utama, portofolio interaktif, dan etalase profesional bagi seorang desainer grafis. Berikut fungsi utamanya:
+   LIST[ol] n=4:
+        1. Portofolio Digital & Showcasing Karya (Digital Showcase)Feed media sosial menjadi tempat utama untuk memamerkan proyek desain, case study, proses kreatif, hingga branding asset. Ini memudahkan calon klien untuk melihat kualitas dan konsistensi karya 
+        2. Membangun Konsistensi & Estetika Merek (Brand Cohesion)Menyusun tata letak grid dengan pola warna pastel yang selaras (pink, koral, magenta, dan kuning) menciptakan tampilan visual yang rapi, profesional, dan menyenangkan saat dilihat (aesthetic harm
+        3. Interaksi & Engagement dengan AudiensMelalui konten edukasi, kutipan desain (design quotes), serta cuplikan balik layar (behind the scenes), media sosial menjadi jembatan untuk berkomunikasi secara personal dan ramah (friendly) dengan komunitas maupu
+        4. Kanal Konversi & Lead Generation
+   P(6w): Portofolio Digital & Showcasing Karya (Digital Showcase)
+   LIST[ul] n=1:
+        1. Feed media sosial menjadi tempat utama untuk memamerkan proyek desain, case study, proses kreatif, hingga branding asset. Ini memudahkan calon klien untuk melihat kualitas dan konsistensi karya Wilda Azkia secara langsung.
+   P(31w): Feed media sosial menjadi tempat utama untuk memamerkan proyek desain, case study, proses kreatif, hingga branding asset. Ini memudahkan calon klien untuk melihat kualitas dan konsistensi karya Wilda Azkia secara langsung.
+   P(6w): Membangun Konsistensi & Estetika Merek (Brand Cohesion)
+   LIST[ul] n=1:
+        1. Menyusun tata letak grid dengan pola warna pastel yang selaras (pink, koral, magenta, dan kuning) menciptakan tampilan visual yang rapi, profesional, dan menyenangkan saat dilihat (aesthetic harmony). Konsistensi ini memperkuat persepsi bahwa Wilda a
+   P(39w): Menyusun tata letak grid dengan pola warna pastel yang selaras (pink, koral, magenta, dan kuning) menciptakan tampilan visual yang rapi, profesional, dan menyenangkan saat dilihat (aesthetic harmony). Konsistensi ini memperkuat persepsi bahwa Wilda adalah desainer yang tepercaya dan terorganisir.
+   P(4w): Interaksi & Engagement dengan Audiens
+   LIST[ul] n=1:
+        1. Melalui konten edukasi, kutipan desain (design quotes), serta cuplikan balik layar (behind the scenes), media sosial menjadi jembatan untuk berkomunikasi secara personal dan ramah (friendly) dengan komunitas maupun potensial klien.
+   P(30w): Melalui konten edukasi, kutipan desain (design quotes), serta cuplikan balik layar (behind the scenes), media sosial menjadi jembatan untuk berkomunikasi secara personal dan ramah (friendly) dengan komunitas maupun potensial klien.
+   P(4w): Kanal Konversi & Lead Generation
+   LIST[ul] n=1:
+        1. Profil media sosial yang terstruktur rapi dilengkapi informasi bio yang jelas (Designer & Creator) memudahkan pengunjung untuk langsung menghubungi Wilda via Direct Message (DM) atau tautan kontak untuk konsultasi proyek baru.
+   P(30w): Profil media sosial yang terstruktur rapi dilengkapi informasi bio yang jelas (Designer & Creator) memudahkan pengunjung untuk langsung menghubungi Wilda via Direct Message (DM) atau tautan kontak untuk konsultasi proyek baru.
+
+## HEADING [h2]: D. PERENCANAAN VIDEO IKLAN KOMERSIAL
+
+## HEADING [h3]: D.1 Naskah Iklan
+
+## HEADING [h3]: Judul: Turning Concepts into Colors
+
+## HEADING [h3]: Tema: Kreativitas, Transformasi Visual, dan Identitas Brand
+
+## HEADING [h3]: Pesan Utama: Sebuah konsep bisnis tidak boleh berhenti hanya sebagai ide abstrak; melalui desain yang dinamis dan berani, ide tersebut dapat bertransformasi menjadi identitas visual yang hidup dan berkarakter.
+
+## HEADING [h3]: Narasi / Dialog:(Voice Over - Suara ramah, penuh percaya diri, dan bersemangat)
+
+## HEADING [h3]: "Pernahkah kamu merasa ide besar dalam kepalamu sulit untuk dijelaskan? Kadang, ide butuh lebih dari sekadar kata-kata. Ide butuh bentuk yang berani, karakter yang kuat, dan warna yang bicara. Di sini, setiap garis dirancang dengan tujuan, dan setiap warna menghidupkan jiwa bisnismu."
+
+## HEADING [h3]: Closing Tagline: "Wilda Azkia — Turning Concepts into Colors."
+
+## HEADING [h3]: D.2 Storyline
+
+## HEADING [h3]: Pembukaan (Opening): Dimulai dengan suasana ruang kerja desain yang redup dan kanvas digital putih polos. Tampilan visual memperlihatkan momen kebingungan saat mencari bentuk visual yang tepat untuk sebuah ide.
+
+## HEADING [h3]: Alur Cerita (Development): Desainer menyentuhkan stylus ke tablet grafis. Seiring goresan pertama, ruang kerja perlahan berubah dipenuhi percikan cat air ekspresif dan gelombang pita berwarna cerah (magenta, koral, dan kuning).
+
+## HEADING [h3]: Konflik / Fokus Visual (Climax): Proses pembentukan elemen visual utama: huruf monogram "WA" yang meliuk dinamis bagai pita, penyusunan palet warna Pantone, serta perpaduan font Modern Sans-Serif dan Expressive Brush Script. Visual mencapai puncaknya saat semua elemen menyatu secara harmonis.
+
+## HEADING [h3]: Penutup (Closing): Ruang kerja kembali rapi dan terang benderang. Logo utama Wilda Azkia terpampang anggun di layar, diikuti munculnya tagline dan informasi kontak.
+
+## HEADING [h3]: D.3 Shotlist (10 shot)
+   [IMG#6] alt='' w=566 h=316 src=https://blogger.googleusercontent.com/img/a/AVvXsEhpOo15ZVgi6wM_emsov88gjSIy8V9eR5Oue5ABEYAmF8TGwcu7B48F760N8OJDfvmUPLubo4GnDsDjcZZ3iJvHgIaleQEvjAcjF-rWcvcGOD7cNMWmTuAySalo5sQ5Vs8_Y7xq68jwnfEW-lWR8LWk
+
+## HEADING [h3]: D.4 Storyboard
+   [IMG#7] alt='' w=578 h=388 src=https://blogger.googleusercontent.com/img/a/AVvXsEi6bv-4E5gbOKxsqq-HQ1CdXJ_ULirGQB9hhZixrnDfHmRqGFbh4ej4wCstY7hVF--T1mNySZHx8di5EJ1aalVhGukxw1rvpT_pEuhKS7m2pAdSETApaPldw2mFFU2fV26IAcZZSeGE6CQpV6lPu94S
+   P(10w): Scene 1: Extreme Close-Up | Eye Level | Static | Transisi: Fade In
+   LIST[ul] n=2:
+        1. Visual: Kanvas kosong di tablet grafis.
+        2. Narasi: "Pernahkah kamu merasa ide hebatmu sulit tersampaikan?"
+   P(6w): Visual: Kanvas kosong di tablet grafis.
+   P(8w): Narasi: "Pernahkah kamu merasa ide hebatmu sulit tersampaikan?"
+   P(10w): Scene 2: Medium Shot | Eye Level | Tilt Up | Transisi: Wipe
+   LIST[ul] n=2:
+        1. Visual: Maskot Wilda memegang stylus sambil mengamati konsep.
+        2. Narasi: "Kadang, ide butuh lebih dari sekadar kata."
+   P(8w): Visual: Maskot Wilda memegang stylus sambil mengamati konsep.
+   P(8w): Narasi: "Kadang, ide butuh lebih dari sekadar kata."
+   P(9w): Scene 3: Close-Up | Low Angle | Zoom In | Transisi: Dissolve
+   LIST[ul] n=2:
+        1. Visual: Goresan warna-warni menyembur mengelilingi ruang kerja studio.
+        2. Narasi: "Ide butuh bentuk, karakter, dan warna."
+   P(8w): Visual: Goresan warna-warni menyembur mengelilingi ruang kerja studio.
+   P(7w): Narasi: "Ide butuh bentuk, karakter, dan warna."
+   P(10w): Scene 4: Medium Close-Up | High Angle | Pan Right | Transisi: Cut
+   LIST[ul] n=2:
+        1. Visual: Pembentukan pita logo "WA" dengan palet magenta dan kuning.
+        2. Narasi: "Di sini, setiap garis menggambarkan cerita..."
+   P(10w): Visual: Pembentukan pita logo "WA" dengan palet magenta dan kuning.
+   P(7w): Narasi: "Di sini, setiap garis menggambarkan cerita..."
+   P(10w): Scene 5: Full Shot | Eye Level | Orbit | Transisi: Slide Left
+   LIST[ul] n=2:
+        1. Visual: Maskot berdiri bangga di sebelah susunan grid portofolio.
+        2. Narasi: "...dan setiap warna menghidupkan jiwa bisnismu."
+   P(9w): Visual: Maskot berdiri bangga di sebelah susunan grid portofolio.
+   P(7w): Narasi: "...dan setiap warna menghidupkan jiwa bisnismu."
+   P(12w): Scene 6: Full Shot | Eye Level | Zoom Out | Transisi: Fade to White
+   LIST[ul] n=2:
+        1. Visual: Logo utama dan tagline tampil utuh dan jelas.
+        2. Narasi: "Wilda Azkia — Turning Concepts into Colors."
+   P(9w): Visual: Logo utama dan tagline tampil utuh dan jelas.
+   P(7w): Narasi: "Wilda Azkia — Turning Concepts into Colors."
+
+## HEADING [h3]: E. AI MASCOT CHARACTER (PIXAR STYLE)
+   [IMG#8] alt='' w=441 h=247 src=https://blogger.googleusercontent.com/img/a/AVvXsEgLfJe0TTSkmDVWLXo2pOePF415MbMNlDJHY51lO_LVrSblxHuDE4qkCu4rdgaLgWFtULDMz6fhNKsLIcVgXFtLW351C-Ak7OCNN5u04H6zoYQ04_0GDXKe08UEKVmcoqCWSIGqZ6xCUJ5lBCERNFQu
+   [IMG#9] alt='' w=295 h=295 src=https://blogger.googleusercontent.com/img/a/AVvXsEiUTqzz0NI9p2fUs8OOjLunHMaBTuP-jTQf5DSfmxAvb_x6HNDrNfkGnwbIE8iqcbB5Kc4pztKE5DuiSbmvEDhx0G0HeH6MkhcS7SrkxkuPvSaS55NlG-CCOvCn5jFKhTxlYZbrGFidiPi4ICO03Ppc
+   [IMG#10] alt='' w=545 h=305 src=https://blogger.googleusercontent.com/img/a/AVvXsEiIeq4iY39QaFRinzBgSfwlS34uCP3OpEeIQHc9fLP7AFmL-eRZgSiZFt8beh7ew3BSriaHMHRx6NtEq4SUdKvls0ffYVHpF_JZU89XVfUbyJ-R30v5G4VneevljSmGpkdYH2qA3yMof9_eeZ4w7eEl

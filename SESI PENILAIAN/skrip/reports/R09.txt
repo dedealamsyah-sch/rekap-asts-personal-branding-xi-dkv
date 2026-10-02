@@ -1,0 +1,217 @@
+====================================================================================================
+ID R09 | XI DKV 2 | WAHDAN SAPARI
+URL: https://d4aanz.blogspot.com/2026/09/personal-branding.html
+STATUS: 200  final=https://d4aanz.blogspot.com/2026/09/personal-branding.html
+PAGE TITLE: Personal Branding Wahdan Sapari XI-DKV-2
+H1: 
+WORDS: 1884 | IMAGES: 7 | TABLES: 0
+LABELS: AI, Personal Branding, Portofolio, SMKN 9 Garut, Tugas Sekolah
+KW COUNTS: {'logo': 13, 'moodboard': 5, 'mockup': 3, 'naskah': 24, 'storyline': 5, 'shotlist': 3, 'storyboard': 3, 'mascot': 7, 'prompt': 8, 'tagline': 7, 'deskripsi': 18, 'by_nama': 0, 'color': 10, 'tipografi': 2}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+   [IMG#1] alt='' w=400 h=224 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4gET_6J2QAHBQo9SVLQnTpFVdH6uhkpPyHmRrfYHBnNdAvfoZ8fZrcU8Z5lneH2wfE2JhXHpRRa284zRo1sL3qdkhQXCizVd40bWXQ04a0GOg7jcjGR1zwVyPXm8Ub3Zj5i91ooxgXzl
+   P(1w): PROMPT
+   P(33w): Berperan lah menjadi seorang ahli desainer propesional, Saya akan membuat personal branding/logo baru dari nama awal saya Wahdan Sapari "WS", dengan kualitas 4k dan PNG, dengan ketentuan : Buat identitas visual personal berdasarkan:
+   P(4w): • Inisial nama : Wahdan Sapari
+   P(3w): • Karakter diri : Kreatif
+   P(6w): • Hobi atau minat : perfilman dan vidiografis
+   P(8w): • Bidang kreatif yang diminati : creative film dan vidiografis
+   P(4w): 1. Logo Personal Branding
+   P(3w): WS — Wahdan Sapari
+   P(33w): Konsep logo menggunakan inisial “WS” yang dipadukan dengan elemen kamera, film, play button, dan film strip. Warna dominan biru dan toska memberikan kesan modern, profesional, kreatif, dan berkaitan dengan dunia visual serta perfilman.
+   P(3w): 2. Nama Branding
+   P(2w): WAHDAN SAPARI
+   P(2w): Inisial: WS
+   P(2w): 3. Tagline
+   P(2w): “FILMMAKER | VIDEOGRAPHER”
+   P(4w): 4. Deskripsi Konsep Branding
+   P(116w): Logo personal branding WS (Wahdan Sapari) dibuat sebagai identitas visual yang menggambarkan karakter diri yang kreatif serta memiliki minat pada bidang perfilman dan videografi. Inisial WS menjadi elemen utama yang melambangkan identitas pribadi Wahdan Sapari. Bentuk kamera dan elemen film strip menggambarkan ketertarikan terhadap dunia perfilman, produksi video, serta proses menciptakan karya visual. Elemen play button melambangkan video, media digital, dan penyampaian sebuah cerita melalui gambar bergerak. Warna biru dan toska memberikan kesan modern, profesional, dinamis, dan memiliki nuan
+   P(4w): B. MEMBUAT MOODBOARD BRANDING
+   P(1w): PROMPT:
+   P(15w): Buat moodboard visual yang menggambarkan identitas branding yang telah dibuat, kualitas 4k dan bentuk landscape
+   P(3w): Moodboard wajib memuat:
+   P(4w): • Warna utama branding : menyesuaikan
+   P(2w): • Typography : menyesuaikan
+   P(4w): • Style visual : Cinematic & Futuristic
+   P(5w): • Referensi desain : Kamera & Film Reel
+   P(5w): • Tone & Mood :Profesional dan kreatif
+   P(3w): •element grafis : menyesuaikan
+   P(5w): • Inspirasi visual : perfilman dan vidiografis
+   P(1w): Output
+   P(2w): • 1 Moodboard
+   P(2w): • Format Landscape
+   P(1w): HASIL:
+   [IMG#2] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpk1y71h3Bh5n-XltRVbSRrXCYX1RDYtMpPI0_Tsm1SrR4e8i50eRMvjNYrwRYNV-KXKAURUpFiNzMLKAIMf9yxVqDmKsG4MBoXcq0L7ygWGigSic2-ZaVlT3z7mzyWAxP8P2suOmug26
+   P(4w): C. MEMBUAT MOCKUP BRANDING
+   P(1w): PROMPT :
+   P(17w): Baik sudah sesuai sekarang buatkan /implementasikan personal branding logo yang telah dibuat sebelumnya mock up, dalam bentuk
+   P(1w): •Packaging
+   P(1w): •laptop
+   P(3w): •Social Media Feed
+   P(1w): Output
+   P(2w): kualitas 4k
+   P(4w): Disertai penjelasan fungsi media
+   P(4w): Minimal 3 Mockup Branding
+   P(16w): buatkan 1 gambar 1gambar, sekarang dari packaging dulu, model packaging laptop, nanti kalau aku bilang "lanjut"
+   P(18w): harus buat gambar lagi ke nomer yang ke 2 yaitu laptop terus ke 3 Social Media Feed mengerti?
+   P(2w): HASIL 1
+   [IMG#3] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrkXGC09bJ8mKYPYPGdSgGbS_iyUJIY7veJhCvczjov27uLoraec54Q4rpUpnZum-mIbqfoUxGPNrRdriPT01Sn2uhxuW4umRFrrjmNb_qyDMCd2oXbVAx_lBDoQyQ2Zm5jBov62czDSB
+   P(2w): HASIL 2
+   [IMG#4] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC3BrInFpIwPLU3dN8FRVCub2U6wWFqLxMdpmmC5tD76nKj7Q-dTW6D82-cEe6YrBKrJYMuQkEErttKj-MEQ9zOvhhPWE-xnL-RBHJou8rHIzBAkT3y-znWvH5tdpX_Y86SisCD1d4kPn
+   P(2w): HASIL 3
+   [IMG#5] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdBSmYgnYgynRBTEGbaVTfh3WveaG2qo8mpXDMZRxtmH2WIeg0rNBAJ-YdJ6dxqYpNMuNKB0sI7vraeHz_TaPsIkWMhJaPOhF8nAMJg7men4CRMdH9l6JA3E5bgsHJMAKvMLQvlJeGVwh
+   P(7w): PENJELASAN FUNGSI MEDIA DARI KE 3 GAMBAR :
+   P(6w): ​1. Packaging / Kemasan Premium (Laptop Box)
+   P(26w): ​Deskripsi Visual: Box kemasan kustom berwarna dark teal dengan sentuhan akhir matte, dihiasi logo monogram "WS" gold foil yang menonjol dan elemen grafis pita film futuristik.
+   P(2w): ​Fungsi Media:
+   P(30w): ​Menciptakan Kesan Pertama Mewah (High-End Brand Perception): Memberikan impresi awal yang sangat profesional dan elegan saat Anda menyerahkan produk, berkas proyek, atau kemasan eksklusif kepada klien kelas atas (high-tier clients).
+   P(23w): ​Pengalaman Unboxing (Unboxing Experience): Memberikan nilai tambah melalui pengalaman membuka kemasan yang dapat meningkatkan rasa percaya dan kepuasan klien terhadap standar kerja Anda.
+   P(19w): ​Identitas Fisik Merek: Berfungsi sebagai pembungkus resmi yang membedakan layanan/produk kreatif Anda dari kompetitor lain di industri sinematografi.
+   P(6w): ​2. Branding Laptop (Hardware & Professional Workstation)
+   P(27w): ​Deskripsi Visual: Display dua unit laptop profesional—satu dibuka memperlihatkan antarmuka software editing sinematik (DaVinci Resolve), dan satu ditutup memperlihatkan logo emas "WS" di bagian cover belakang.
+   P(2w): ​Fungsi Media:
+   P(34w): ​Identitas Mobile / Alat Kerja (Client-Facing Branding): Saat Anda melakukan presentasi (pitching proyek), review video di lokasi syuting (on-set), atau meeting bersama klien, tampilan laptop ini berfungsi sebagai sarana promosi bergerak yang memperkuat citra diri.
+   P(16w): ​Membangun Kredibilitas & Keahlian: Menunjukkan bahwa seluruh proses pascaproduksi Anda dikerjakan menggunakan perangkat dan standar industri profesional.
+   P(24w): ​Konsistensi Visual di Lingkungan Kerja: Menyelaraskan estetika identitas merek Anda tidak hanya di dunia digital, tetapi juga pada peralatan kerja utama yang digunakan sehari-hari.
+   P(7w): ​3. Social Media Feed (Portofolio Digital & Pemasaran)
+   P(28w): ​Deskripsi Visual: Tampilan antarmuka smartphone yang memperlihatkan tata letak (grid) profil Instagram @wahdan.sapari, memadukan konten behind-the-scenes, cuplikan video sinematik, quote kreatif, serta aksen warna teal dan emas.
+   P(2w): ​Fungsi Media:
+   P(26w): ​Etalase Karya & Portofolio Utama: Berfungsi sebagai saluran pemasaran digital utama untuk menarik calon klien baru secara online dan memperlihatkan hasil karya videography & filmmaking Anda secara terstruktur.
+   P(25w): ​Keselarasan Estetika Digital (Digital Brand Consistency): Menjaga kualitas visual feed agar tetap selaras dengan palet warna, tipografi, dan mood sinematik-futuristik yang telah ditentukan pada moodboard.
+   P(23w): ​Media Engagement & Trust: Menjadi sarana untuk membangun komunitas, berinteraksi dengan audiens, serta membagikan proses kreatif di balik layar untuk meningkatkan kepercayaan calon klien.
+   LIST[ul] n=4:
+        1. ​Judul: The Future Frame
+        2. ​Tema: Perfilman & Videografi Sinematik Futuristik
+        3. ​Pesan Utama: Visual bukan sekadar rekaman gambar, melainkan medium bermakna yang menyatukan presisi teknis, cerita mendalam, dan estetika futuristik untuk mengabadikan visi masa depan.
+        4. ​Closing Tagline: Wahdan Sapari — Menembus Batas Lensa, Menghidupkan Cerita Masa Depan.
+
+## HEADING [h3]: ​NASKAH VIDEO (DURASI 30 DETIK)
+   P(9w): ​Scene 1: Hook / Pembuka (00:00 - 00:05)
+   LIST[ul] n=3:
+        1. ​Visual: Ruang studio bergelombang asap sinematik (cinematic haze). Pendaran cahaya teal dan emas menyala meliuk membentuk bingkai (frame) seperti bukaan aperture lensa kamera.
+        2. ​Audio / SFX: Dengung futuristik (cinematic riser) melandai ke ketukan detak jantung yang dalam (sub-bass pulse).
+        3. ​Voice Over (Narasi): "Setiap bingkai visual bukan sekadar rekaman momen..."
+   P(9w): ​Scene 2: Proses & Presisi (00:05 - 00:12)
+   LIST[ul] n=3:
+        1. ​Visual: Cut cepat ke jemari memutar ring fokus lensa kamera. Transisi ke layar laptop berlogo WS emas yang menampilkan timeline editing video dinamis.
+        2. ​Audio / SFX: Suara click mekanis lensa berpadu dengan efek whoosh digital yang halus.
+        3. ​Voice Over (Narasi): "...melainkan portal tempat imajinasi, presisi teknis, dan jiwa menyatu."
+   P(9w): ​Scene 3: Klimaks Karya (00:12 - 00:20)
+   LIST[ul] n=3:
+        1. ​Visual: Montage sinematik dinamis: pergerakan kamera orbit shot di lokasi syuting, pencahayaan megah, hingga hasil video komersial bernuansa teal & gold futuristik.
+        2. ​Audio / SFX: Instrumen sinematik mencapai puncak melodi yang megah (orchestral synth crescendo).
+        3. ​Voice Over (Narasi): "Menghidupkan ide Anda menjadi mahakarya visual yang berani, mendalam, dan relevan melintasi zaman."
+   P(10w): ​Scene 4: Call to Action (00:20 - 00:25)
+   LIST[ul] n=3:
+        1. ​Visual: Wahdan Sapari berdiri penuh keyakinan memegang rig kamera sinematik dengan latar belakang studio modern.
+        2. ​Audio / SFX: Melodi melandai halus namun tetap memberikan kesan percaya diri (confident tone).
+        3. ​Voice Over (Narasi): "Saatnya wujudkan visi besar Anda bersama standar sinematografi kelas atas."
+   P(9w): ​Scene 5: Outro & Tagline (00:25 - 00:30)
+   LIST[ul] n=3:
+        1. ​Visual: Logo Monogram WS Emas muncul memantulkan cahaya di latar belakang dark teal, diikuti teks nama dan kontak profesional.
+        2. ​Audio / SFX: Suara shutter kamera yang renyah (crisp camera shutter) diakhiri nada penutup yang jernih.
+        3. ​Voice Over (Narasi): "Wahdan Sapari — Menembus Batas Lensa, Menghidupkan Cerita Masa Depan."
+
+## HEADING [h3]: ​MAKNA CLOSING TAGLINE
+   P(7w): ​"Menembus Batas Lensa, Menghidupkan Cerita Masa Depan."
+   LIST[ul] n=2:
+        1. ​Menembus Batas Lensa: Melambangkan peran Anda yang melampaui sekadar merekam realitas secara pasif, melainkan melampaui batas teknis untuk menciptakan karya seni yang berdampak.
+        2. ​Menghidupkan Cerita Masa Depan: Merekam pesan yang tidak hanya menarik hari ini, tetapi memiliki nilai estetika sinematik yang bertahan lama (timeless) melintasi zaman.
+   P(6w): STORYLINE VIDEO IKLAN: THE FUTURE FRAME
+   P(1w): ​Pembukaan
+   P(59w): Cerita dimulai di dalam ruang studio yang tenang dan remang. Suasana hening mendominasi saat kegelapan menyelimuti ruangan, menyimbolkan ide abstrak yang belum terwujud. Perlahan, secercah pendaran cahaya teal dan emas menyeruak menembus tipisnya asap sinematik, menggambarkan percikan ide pertama yang siap dihidupkan. Kamera bergerak meluncur mendekat (push-in), memperlihatkan gestur fokus sang kreator yang bersiap mengubah keheningan menjadi sebuah karya.
+   P(2w): ​Alur Cerita
+   P(65w): Alur mengalir memperlihatkan proses transformasi kreatif secara presisi dan terstruktur. Dimulai dari eksplorasi konsep, penataan pencahayaan (lighting set-up), hingga momen teknis saat jemari memutar ring fokus lensa kamera. Cerita berlanjut ke tahap pascaproduksi di mana workstation laptop diaktifkan, menampilkan antarmuka editing video yang mengolah timeline dan penyelarasan warna (color grading) sinematik. Setiap transisi dirancang dinamis untuk memperlihatkan bagaimana sebuah ide mentah digarap dengan ketelitian tinggi.
+   P(3w): ​Konflik / Fokus Visual
+   P(74w): Titik fokus visual dan dinamika utama terletak pada kontras antara visual biasa yang terbatas dengan keajaiban sinematografi. Konflik dihadirkan melalui transisi visual yang tajam: adegan yang awalnya terasa datar dan kaku tiba-tiba bertransformasi menjadi visual berenergi tinggi dengan pencahayaan dramatis, pergerakan kamera orbit shot yang mulus, serta pendaran elemen futuristik. Ini merepresentasikan tantangan besar dalam videografi—yaitu melampaui rekaman gambar biasa demi menghasilkan karya yang memiliki jiwa, kedalaman emosi, dan daya pikat kelas atas.
+   P(1w): ​Penutup
+   P(67w): Storyline mencapai klimaks ketika seluruh elemen visual menyatu sempurna menjadi mahakarya utuh. Wahdan Sapari tampil penuh keyakinan di tengah studio modern memegang rig kamera sinematik, menandakan kesiapan untuk mengeksekusi visi-visi besar berikutnya. Visual kemudian bertransisi secara elegan menuju logo monogram WS emas yang berkilau di atas latar dark teal, diikuti informasi kontak profesional dan diakhiri penuturan closing tagline: "Wahdan Sapari — Menembus Batas Lensa, Menghidupkan Cerita Masa Depan."
+   P(3w): D.3 Shotlist
+   P(12w): PROMPT : mari melanjutkan ke projek selanjutnya buat tabel shotlist minimal 10 shot.
+   P(1w): Adegan
+   P(2w): Jenis Shot
+   P(1w): Angle
+   P(1w): Movement
+   P(1w): Durasi
+   P(1w): Deskripsi
+   P(1w): HASIL :
+   P(6w): Shot 1: Studio Remang & Asap Sinematik
+   P(6w): ​Jenis Shot: Extreme Long Shot (ELS)
+   P(3w): ​Angle: Eye Level
+   P(5w): ​Movement: Track In (Push In)
+   P(3w): ​Durasi: 3 Detik
+   P(17w): ​Deskripsi: Atmosfer studio gelap bergelombang asap sinematik; pendaran cahaya teal dan emas perlahan menyeruak membentuk bukaan aperture.
+   P(6w): ​Shot 2: Detail Tangan Memutar Lensa
+   P(5w): ​Jenis Shot: Extreme Close-Up (ECU)
+   P(3w): ​Angle: Low Angle
+   P(2w): ​Movement: Static
+   P(3w): ​Durasi: 2 Detik
+   P(20w): ​Deskripsi: Jemari Maskot memutar ring fokus lensa kamera; refleksi pendaran cahaya emas dan teal terpantul tajam pada permukaan kaca lensa.
+   P(5w): ​Shot 3: Ekspresi & Fokus Karakter
+   P(4w): ​Jenis Shot: Close-Up (CU)
+   P(3w): ​Angle: High Angle
+   P(3w): ​Movement: Tilt Down
+   P(3w): ​Durasi: 3 Detik
+   P(18w): ​Deskripsi: Wajah Maskot dengan ekspresi fokus dan tajam saat mengatur kamera, disinari lighting rim sinematik dari arah samping.
+   P(6w): ​Shot 4: Sentuhan Premium Brand Box
+   P(5w): ​Jenis Shot: Medium Close-Up (MCU)
+   P(4w): ​Angle: Top Angle (Overhead)
+   P(3w): ​Movement: Pan Right
+   P(3w): ​Durasi: 3 Detik
+   P(16w): ​Deskripsi: Tangan Maskot membuka boks kemasan kustom dark teal, memperlihatkan kilau logo desain WS yang baru.
+   P(5w): ​Shot 5: Workstation & Timeline Editing
+   P(5w): ​Jenis Shot: Medium Shot (MS)
+   P(3w): ​Angle: Eye Level
+   P(3w): ​Movement: Track Right
+   P(3w): ​Durasi: 3 Detik
+   P(18w): ​Deskripsi: Layar laptop berlogo WS emas menampilkan antarmuka DaVinci Resolve dengan timeline color grading bernuansa teal-gold yang dinamis.
+   P(6w): ​Shot 6: Eksekusi Syuting di Set
+   P(5w): ​Jenis Shot: Full Shot (FS)
+   P(3w): ​Angle: Low Angle
+   P(5w): ​Movement: Orbit Shot (Arc 180°)
+   P(3w): ​Durasi: 3 Detik
+   P(20w): ​Deskripsi: Pergerakan kamera berputar mulus mengelilingi Maskot yang sedang mengoperasikan rig kamera di tengah tatanan lampu studio futuristik yang megah.
+   P(6w): ​Shot 7: Montage Portofolio Futuristik 1
+   P(5w): ​Jenis Shot: Medium Shot (MS)
+   P(3w): ​Angle: Dutch Angle
+   P(3w): ​Movement: Whip Pan
+   P(3w): ​Durasi: 2 Detik
+   P(15w): ​Deskripsi: Transisi cepat memperlihatkan cuplikan adegan komersial bernuansa futuristik dengan pencahayaan neon dan gerakan dinamis.
+   P(6w): ​Shot 8: Montage Portofolio Futuristik 2
+   P(5w): ​Jenis Shot: Extreme Close-Up (ECU)
+   P(3w): ​Angle: Eye Level
+   P(3w): ​Movement: Slow Motion
+   P(3w): ​Durasi: 2 Detik
+   P(16w): ​Deskripsi: Momen slow-motion dramatis dari objek/subjek yang memberikan dampak emosional dan presisi visual tingkat tinggi.
+   P(6w): ​Shot 9: Pose Keyakinan Bintang Utama
+   P(5w): ​Jenis Shot: Medium Close-Up (MCU)
+   P(3w): ​Angle: Eye Level
+   P(3w): ​Movement: Pedestal Up
+   P(3w): ​Durasi: 4 Detik
+   P(18w): ​Deskripsi: Maskot berdiri memegang rig kamera sinematik dengan penuh keyakinan di tengah studio, menatap mantap ke arah kamera.
+   P(6w): ​Shot 10: End Card Logo & Branding
+   P(5w): ​Jenis Shot: Medium Shot (MS)
+   P(3w): ​Angle: Eye Level
+   P(2w): ​Movement: Static
+   P(3w): ​Durasi: 5 Detik
+   P(28w): ​Deskripsi: Logo WS (desain baru dengan elemen kamera dan pita film) muncul berkilau di atas latar dark teal, diikuti teks "Wahdan Sapari", kontak profesional, serta penuturan closing tagline.
+   P(3w): D4. STORY BOARD
+   P(1w): PROMPT :
+   P(11w): Hebat, sekarang buatkan saya storyboard sesuai dengan naskah, storyline, and shotlist
+   P(4w): Buat storyboard menggunakan AI.
+   P(1w): Ketentuan:
+   P(1w): Minimal:
+   P(2w): • 6 Scene
+   P(2w): • Visual Adegan
+   P(2w): • Keterangan Shot
+   P(2w): • Angle Kamera
+   P(1w): • Transisi
+   P(3w): • Dialog atau Narasi
+   P(1w): HASIL:
+   [IMG#6] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxUvcDjuxONJAHpYG_7E5qrYwErOznEjGi_jRsejIo6Ak7NxZQfgRpcmsKame4s06xZ0BdkXkT2NPJz1PhC-oJEKRF66lcBUJdn3aKulW9eHfD38zE9ZWxvCIHZVw7VVGfsQeJJsoLPIm
+   P(2w): F.MASKOT
+   P(1w): PROMPT :
+   P(18w): Sekarang buatkan saya maskot ke 2 dengan tema 3D character kualitas 4k dalam berbentuk landscape outputnya full body
+   P(1w): HASIL :
+   [IMG#7] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuHX1R2-KqC_6br26Uo0PbHFXaCrhcPTgSPPBLNkW6cVM60QzichplKnPsGkmETXHJsITG48LdXrCgMZ_yD-Swn8jWENRj3F7FV_DTHOUrC2Ce5-sG2YBFZKy6aGkursMRoPmpi8DZwcl

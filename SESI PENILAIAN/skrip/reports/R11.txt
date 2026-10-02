@@ -1,0 +1,10 @@
+====================================================================================================
+ID R11 | XI DKV 2 | CEISHA SINTHIA
+URL: https://www.blogger.com/blog/post/edit/1670849221285353060/1910546013362529910
+STATUS: 200  final=https://accounts.google.com/v3/signin/identifier?continue=https://www.blogger.com/blog/post/edit/1670849221285353060/1910546013362529910&followup=https://www.blogger.com/blog/post/edit/1670849221285353060/1910546013362529910&passive=1209600&service=blogger&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1141471430:1790913336321446
+PAGE TITLE: None
+H1: 
+WORDS: None | IMAGES: None | TABLES: 0
+LABELS: 
+KW COUNTS: None
+!! NOT ACCESSIBLE: URL editor Blogger (butuh login) - tidak dapat diakses publik

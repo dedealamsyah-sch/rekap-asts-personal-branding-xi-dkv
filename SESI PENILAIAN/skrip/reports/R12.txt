@@ -1,0 +1,178 @@
+====================================================================================================
+ID R12 | XI DKV 2 | PUTRI UTAMI
+URL: https://putriutami0709.blogspot.com/2026/09/personal-branding-putri-utami-xi-dkv-2_01447693375.html
+STATUS: 200  final=https://putriutami0709.blogspot.com/2026/09/personal-branding-putri-utami-xi-dkv-2_01447693375.html
+PAGE TITLE: PERSONAL BRANDING PUTRI UTAMI XI DKV 2
+H1: 
+WORDS: 2911 | IMAGES: 8 | TABLES: 0
+LABELS: Ai, Branding Logo, CV, Personal branding, Tugas Sekolah, artikel pembiasaan, mackup branding
+KW COUNTS: {'logo': 22, 'moodboard': 9, 'mockup': 9, 'naskah': 33, 'storyline': 3, 'shotlist': 2, 'storyboard': 6, 'mascot': 37, 'prompt': 9, 'tagline': 9, 'deskripsi': 19, 'by_nama': 0, 'color': 52, 'tipografi': 11}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h1]: ASTS PERSONAL BRANDING PUTRI UTAMI XI DKV 2 SMKN 9 GARUT
+
+## HEADING [h2]: A.Personal Branding
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU99u9cgFcfp9Z_CMEutInILUFCHUR6xig3WGqNYKKEaRIqAdASA2Lu44v3CYcxCUqXPDo1c73xngK0jZrhHWZc-9JFDDImSAi7TExZD3aFV3tXQEfwVIEmULL4VfFIPdfiL4NdFDilmt
+   P(58w): Promt: Hai berperanlah sebagai desainer profesiomal, buatkan saya personal branding inisial nama "P U", karakter diri ceria, bahagia, senang, berwarna, hobby menari, menyanyi, fotografi, videografi, bidang kreatif yang diminati di desain grafis, Output, logo personal branding, nama branding, tagline, kualitas PNGInisial Nama : PUKarakter Diri : Ceria, Bahagia, Senang, Berwarna.Hobby : Menari, Menyanyi, fotografi, videografiBidang kreatif yang diminati : Desain grafis
+
+## HEADING [h4]: 🎨 Deskripsi Personal Branding
+
+## HEADING [h2]: B.MOODBOARD BRANDING
+   [IMG#2] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTrv8-0TPEqYf8__K7Vk8koDRZkZRIXWVeLMSLOfrSBQasUaJYAqyEzNXtC0B-DXco5tpleNZSkybeuAWNINnqyMon7HqwiNtT6GWFaGfCeHWPP6L0LPJK08acFkj9MNXR9GG5HcxsZ6M
+
+## HEADING [h3]: Deskripsi MoodBoard
+
+## HEADING [h3]: 🎨 1. Warna Utama Branding
+   P(4w): Palet warna terdiri dari:
+   LIST[ul] n=6:
+        1. Pink — melambangkan keceriaan, semangat, dan ekspresi diri.
+        2. Kuning — memberikan kesan bahagia, optimis, dan penuh energi.
+        3. Oranye — merepresentasikan kreativitas dan keberanian.
+        4. Biru — memberikan kesan percaya diri, dinamis, dan komunikatif.
+        5. Ungu — mewakili imajinasi dan kreativitas.
+        6. Hijau — memberikan kesan pertumbuhan dan inspirasi.
+   P(7w): Pink — melambangkan keceriaan, semangat, dan ekspresi diri.
+   P(8w): Kuning — memberikan kesan bahagia, optimis, dan penuh energi.
+   P(5w): Oranye — merepresentasikan kreativitas dan keberanian.
+   P(8w): Biru — memberikan kesan percaya diri, dinamis, dan komunikatif.
+   P(5w): Ungu — mewakili imajinasi dan kreativitas.
+   P(6w): Hijau — memberikan kesan pertumbuhan dan inspirasi.
+   P(10w): Kombinasi warna tersebut menjadi ciri khas utama PU Creative Journey.
+
+## HEADING [h3]: ✍️ 2. Typography
+   P(10w): Tipografi menggunakan perpaduan handwritten/brush lettering dan font sans-serif modern.
+   P(26w): Font handwritten digunakan pada logo, judul, dan tagline untuk memberikan kesan personal, ekspresif, dan kreatif. Sementara itu, sans-serif digunakan untuk informasi pendukung agar tetap mudah dibaca.
+
+## HEADING [h3]: 🖼️ 3. Style Visual
+   P(3w): Gaya visualnya menggunakan:
+   LIST[ul] n=7:
+        1. Colorful gradient
+        2. Brush stroke
+        3. Doodle
+        4. Sticker-style graphics
+        5. Polaroid/photo collage
+        6. Ilustrasi digital
+        7. Bentuk organik dan playful
+   P(2w): Colorful gradient
+   P(2w): Brush stroke
+   P(1w): Doodle
+   P(2w): Sticker-style graphics
+   P(3w): Polaroid/photo collage
+   P(2w): Ilustrasi digital
+   P(4w): Bentuk organik dan playful
+   P(9w): Keseluruhannya memberikan kesan fun, youthful, bebas, dan penuh energi.
+
+## HEADING [h3]: 📸 4. Referensi Desain
+   P(12w): Bagian ini memperlihatkan penerapan identitas PU Creative Journey pada berbagai media, seperti:
+   LIST[ul] n=7:
+        1. Logo
+        2. Kaos
+        3. Tote bag
+        4. Botol minum
+        5. Sticker
+        6. Kartu nama
+        7. Tampilan media sosial
+   P(1w): Logo
+   P(1w): Kaos
+   P(2w): Tote bag
+   P(2w): Botol minum
+   P(1w): Sticker
+   P(2w): Kartu nama
+   P(3w): Tampilan media sosial
+   P(13w): Hal tersebut menunjukkan bahwa identitas visual dapat diterapkan secara konsisten pada berbagai media.
+
+## HEADING [h3]: 😊 5. Tone & Mood
+   P(3w): Moodboard menonjolkan karakter:
+   P(10w): Ceria • Bahagia • Energik • Kreatif • Positif • Percaya Diri • Menginspirasi • Penuh Warna
+   P(17w): Kesan yang ingin dibangun adalah seseorang yang menikmati proses berkarya dan berani menunjukkan berbagai passion yang dimiliki.
+
+## HEADING [h3]: 🎥 6. Elemen Grafis
+   P(6w): Elemen grafis yang digunakan antara lain:
+   LIST[ul] n=11:
+        1. 📷 Kamera
+        2. 🎥 Kamera video
+        3. 🎤 Mikrofon
+        4. 🎵 Not musik
+        5. 💃 Siluet penari
+        6. 💻 Laptop/desain digital
+        7. 🎨 Palet warna
+        8. 👑 Mahkota
+        9. ❤️ Hati
+        10. ✨ Sparkle
+        11. 🖌️ Brush stroke
+   P(1w): 📷 Kamera
+   P(2w): 🎥 Kamera video
+   P(1w): 🎤 Mikrofon
+   P(2w): 🎵 Not musik
+   P(2w): 💃 Siluet penari
+   P(3w): 💻 Laptop/desain digital
+   P(2w): 🎨 Palet warna
+   P(1w): 👑 Mahkota
+   P(1w): ❤️ Hati
+   P(1w): ✨ Sparkle
+   P(2w): 🖌️ Brush stroke
+   P(10w): Elemen-elemen tersebut merepresentasikan menari, menyanyi, fotografi, videografi, dan desain grafis.
+
+## HEADING [h3]: 🌈 7. Inspirasi Visual
+   P(41w): Bagian inspirasi visual menampilkan aktivitas kreatif seperti menari, bernyanyi di atas panggung, fotografi, videografi, digital art, dan proses desain. Foto-foto tersebut memperkuat pesan bahwa PU Creative Journey bukan hanya sebuah logo, tetapi merupakan representasi dari perjalanan dalam mengeksplorasi berbagai bidang kreatif.
+
+## HEADING [h3]: 💡 Kesimpulan
+   P(18w): Moodboard ini menyatukan seluruh karakter PU Creative Journey ke dalam satu bahasa visual. Identitasnya dapat dirangkum melalui konsep:
+   P(6w): “Same Person • Many Passions • One Journey.”
+   P(24w): Artinya, meskipun memiliki berbagai minat—menari, menyanyi, fotografi, videografi, dan desain grafis—semuanya tetap berada dalam satu perjalanan kreatif dengan identitas PU sebagai pusatnya.
+
+## HEADING [h2]: C.Mockup Branding
+   [IMG#3] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFvqe3XlGwd-8Dd9SLmKofzXlUFmI7RVi7flt-1zm6cjV8e716WKz580bnmdrqRMDAzJifrS90_dz_frIT5XwuNKNuHkS9jJrO1jtE6kWpicW180kk6h-fM8zk5XO9_tLVMeZvxRyeo5o
+
+## HEADING [h2]: 💳 Deskripsi Mockup Kartu Nama
+
+## HEADING [h3]: 1. Konsep desain
+   P(5w): 2. Bagian depanBagian depan menampilkan:
+   LIST[ul] n=5:
+        1. Logo besar PU sebagai focal point.
+        2. Nama PU Creative Journey.
+        3. Tagline “Dance • Sing • Capture • Create • Inspire”.
+        4. Brush stroke warna-warni di bagian sudut.
+        5. Elemen doodle seperti hati, bintang, mahkota, dan percikan warna.
+   P(10w): Desain ini membuat logo menjadi elemen yang paling mudah dikenali.
+   P(7w): 3. Bagian belakangBagian belakang berisi identitas personal:
+   LIST[ul] n=8:
+        1. Putri Utami
+        2. Creative Content Creator
+        3. Nomor telepon
+        4. Email
+        5. Instagram/social media
+        6. Lokasi
+        7. QR Code
+        8. Ikon aktivitas kreatif: Dance, Sing, Capture, Create, dan Inspire.
+   P(11w): Susunan informasi dibuat sederhana sehingga tetap mudah dibaca meskipun desainnya colorful.
+   P(24w): 4. WarnaWarna utama mengikuti moodboard, yaitu pink, kuning, oranye, biru, ungu, dan hijau. Warna-warna tersebut dipadukan dengan background putih agar informasi tetap terlihat jelas.
+   P(32w): 5. Mockup presentationKartu nama ditampilkan dalam suasana flat-lay profesional dengan tambahan kamera, laptop, tanaman, notebook, dan alat tulis. Properti tersebut memperkuat kesan bahwa PU Creative Journey bergerak di bidang kreatif dan multimedia.
+
+## HEADING [h3]: ✨ Kesan keseluruhan
+   P(42w): Mockup ini menyampaikan identitas “seorang kreator dengan banyak passion dalam satu perjalanan kreatif.” Kartu nama tidak hanya berfungsi sebagai media informasi kontak, tetapi juga menjadi representasi visual dari karakter ceria, percaya diri, kreatif, dan penuh warna yang menjadi identitas PU Creative Journey.
+   [IMG#4] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx3pdgJTzVz_uIcztEoqIfMcmCBrygCVhhRzZfFwWpZgYQGmdB9U26mKN1trZyzUDejUMXaNUSsRdZQ80mDSy9DfPPwaugQa2dnmaVpLTkd4L5XwUliMmycjJcCybraTT1RULb0qB7O00
+
+## HEADING [h3]: Deskripsi Mockup Banner
+   [IMG#5] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjec93XJ_WeDk7bBZ_hBgrqJGxkK_36FxZ83jAyIj7UTxdb5HEFE9eilTRWppGmtoQvaSt4gOp-Qk3Xj0VeN7C_Iy8-EouzaZcfKZCNfArxFyzwvhNP7tK0-y6UNFl_uxmqlnEQA2VpsZD
+
+## HEADING [h3]: D.MASCOT
+   [IMG#6] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1DTPfhpXx3Nk1gxLRp5mKkIVsc0wt4_0ZRfaRk1RKKbPXOPL_sW7zavxmNU1wJvmx9T8wkoXna4iOtCqRSn7fvvARhrkuDmBqDahV-AXM7TD0P24w_3VVWipHxo6-KO95Q4jpXFIxfcu
+
+## HEADING [h3]: Deskripsi Mascot
+
+## HEADING [h3]: E.NASKAH IKLAN
+
+## HEADING [h2]: Naskah Film Pendek:"Unleash Your Creative Power"
+
+## HEADING [h4]: F.STORYLINE
+
+## HEADING [h4]: G.SHOTLIST
+   [IMG#7] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcTOC9TzikgYUZpWPIH6WhI8FA221uhHoPPZ4XepxFtNKbtFv71OwqiyuZ3Q8H9q3_lHvsOnnETVdIm1XMbiOH0sfnDUbk4KDWd_ZTGuvBtZ2ZeF3xagC4LXdA-iOON0LsYPVlloh4eJe
+
+## HEADING [h3]: F.STORYBOARD
+   [IMG#8] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_XkpzRLhPyJnHaNaMiQbsDDMkSTjTUHRgHn8Reuce5-zZmdGfG4hA_5_iKxVmYbfk4IhV0SMncXlSwypziuGciJnNdM7FKcBKGU6Vq_wxgUbZVD-P1awLaDKVxUfWRYz4HevFbtd-Rag
+
+## HEADING [h4]: Deskipsi StoryBoard

@@ -1,0 +1,76 @@
+====================================================================================================
+ID R68 | XI DKV 3 | SECHAN KHALIFATUNNISA
+URL: https://sechankhalifatunnisa.blogspot.com/2026/09/asts-personal-branding-sechan.html?m=1
+STATUS: 200  final=https://sechankhalifatunnisa.blogspot.com/2026/09/asts-personal-branding-sechan.html?m=1
+PAGE TITLE: ASTS PERSONAL BRANDING SECHAN KHALIFATUNNISA XI DKV 3
+H1: 
+WORDS: 5085 | IMAGES: 7 | TABLES: 1
+LABELS: 
+KW COUNTS: {'logo': 41, 'moodboard': 16, 'mockup': 27, 'naskah': 18, 'storyline': 3, 'shotlist': 3, 'storyboard': 5, 'mascot': 22, 'prompt': 7, 'tagline': 3, 'deskripsi': 33, 'by_nama': 0, 'color': 39, 'tipografi': 11}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h2]: ASTS PERSONAL BRANDING SECHAN KHALIFATUNNISA XI DKV 3 SMKN 9 GARUT
+
+## HEADING [h2]: 
+
+## HEADING [h2]: 1.BRANDING
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6m4hgGatJhGvt0fgQ8CJjvY2s9RLdpYFsv7y-YoC5eaYSbK8zvSu5ikopROIhM1ns55OgVQN2LodNik8NckwrcBg97VEy7ZtKfuOPtBeToxZDWq8XPWbtRBVKdeOvafkditDtmeaFGDi
+
+## HEADING [h2]: 2.MOODBOARD
+   [IMG#2] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhakb4Ky7ZMh_QmBoY7MtpogmrZ3drkVNAavGznocYrksQWScQTX6ezY3ayqmd4DbquKwAL5gHzLcZN34PfZtUANBUU4GomXGMUTO7Of9-tKwc1iZ2oN1sHiYTZlIYY6PTqNY2rJARK8Nd
+
+## HEADING [h2]: 3.MOCK UP
+   [IMG#3] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrtOK4dB_6kS6AA64p46O1FcJsHqVbXmy13U2OwekosZ-GXde5id8mm7MfIHyiZPUv3D62stlv09SWhCHKhniCiMLqYnUbDLHpIf2z8TnOOtkhnx8l4cnF1eiGOxXADmNBF5SsShatY6x
+   P(41w): Mockup ini menyajikan sebuah ekosistem branding produk yang sangat terkurasi dan elegan, ditujukan untuk sosok bernama Sechan Khalifatunnisa. Presentasi visualnya tidak hanya menampilkan keindahan estetika, tetapi juga secara mendalam mengomunikasikan identitas, nilai-nilai, dan keahlian yang ditawarkan oleh individu atau entitas tersebut.
+
+## HEADING [h4]: ​I. Deskripsi Visual Produk dan Elemen Desain
+
+## HEADING [h4]: ​II. Filosofi Desain
+
+## HEADING [h4]: ​III. Fungsi Mockup dalam Strategi Branding
+
+## HEADING [h4]: ● STICKER
+   [IMG#4] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2W7V3h6SyWsazswihbFvARt356uQ8BTME4Y2vsE7M87VA8ekBUWF37z6PkW1a1cU-x0EyUskHQpShqyXqEJErPO0Q-Q3TdZBpw8U3fJKzq5-c0PN-aocAvTAIHsn6V9Lxf-UnoxVTBwg
+
+## HEADING [h4]: ​Filosofi Identitas Visual & Branding
+
+## HEADING [h4]: ​2.Aperture Kamera:
+
+## HEADING [h4]: ● BILLBOARD
+   [IMG#5] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYnRFSkyBpwXrunvZZB3L4RTlc9cU3SMmpD7nubVKmyXVf0-IMCI4QrJr0wnbWJR91-jj4nRZzUlWaof0XDtc1EGBAR2OstHQE7pmo3kid2AA0LGm8yMLlNzrW9pCxOq8Ybkzzi4wAVbr
+
+## HEADING [h4]: 1.Deskripsi Visual Mockup Billboard
+
+## HEADING [h4]: 2.Filosofi Identitas Visual pada Scale Billboard
+
+## HEADING [h4]: 3.Fungsi Strategis Mockup Media Luar Ruang
+
+## HEADING [h2]: 4.MASKOT
+   [IMG#6] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA1WEgGyiGmdzTUm9teyhZ2C7HbVeu8UOw7P50SUQPYpSYaU1SyyM6-PHVJk18oIaUkQT6dOMPgl73yGB5ByikQlUB7E3pBOUJKy1p2LTmBNVggo-5rWqh-A8M_zAUZBFMgXzOAc8S2wj
+
+## HEADING [h2]: 5.NASKAH IKLAN
+
+## HEADING [h2]: 6.STORYLINE
+
+## HEADING [h2]: 7.SHOTLIST
+   [TABLE#1] rows=13 maxcols=7
+        r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+        r02: 1 || Mascot SK berada di dalam studio kreatif bernuansa lavender dan ungu. || Full Shot (FS) || Eye Level || Slow Pan || 4 detik || Pembukaan memperkenalkan suasana kreatif dan karakter mascot sebagai representasi Sechan sebagai visual creator.
+        r03: 2 || Detail wajah dan ekspresi mascot SK yang sedang mencari inspirasi. || Medium Close Up (MCU) || Eye Level || Static || 3 detik || Menggambarkan awal cerita ketika sebuah inspirasi mulai muncul.
+        r04: 3 || Logo SK dengan elemen aperture dan sparkle muncul perlahan di antara pencahayaan lavender. || Extreme Close Up (ECU) || Eye Level || Slow Zoom In || 3 detik || Menampilkan identitas SK sebagai simbol awal dari sebuah ide dan kreativitas.
+        r05: 4 || Mascot mengambil kamera dan mulai mempersiapkan proses pemotretan. || Close Up (CU) || High Angle || Tilt Down || 3 detik || Menunjukkan dimulainya proses mengubah inspirasi menjadi karya melalui fotografi.
+        r06: 5 || Kamera diarahkan pada objek dengan pencahayaan dan nuansa warna sesuai moodboard. || Over the Shoulder (OTS) || Eye Level || Dolly In || 4 detik || Memvisualisasikan proses menangkap sebuah momen melalui fotografi dengan karakter visual SK.
+        r07: 6 || Tampilan proses editing foto/video dan desain pada perangkat kerja. || Close Up (CU) || High Angle || Slow Tracking || 4 detik || Menggambarkan bagaimana hasil fotografi mulai diolah melalui proses kreatif menjadi sebuah karya visual.
+        r08: 7 || Elemen lavender, ungu, silver, sparkle, aperture, dan garis grafis muncul dan berpadu pada layar. || Medium Shot (MS) || Eye Level || Arc || 4 detik || Menjadi fokus visual yang menunjukkan ide mulai berkembang menjadi konsep dan identitas visual.
+        r09: 8 || Logo SK diterapkan pada desain kemasan/mockup secara bertahap. || Close Up (CU) || High Angle || Pan || 4 detik || Menunjukkan perubahan dari sebuah konsep desain menjadi identitas yang dapat diterapkan pada media nyata.
+        r10: 9 || Beberapa mockup branding SK seperti packaging dan produk ditampilkan di atas permukaan dengan nuansa elegan. || Medium Shot (MS) || Eye Level || Dolly Out || 4 detik || Memperlihatkan hasil penerapan identitas SK sekaligus menonjolkan kesan premium, modern, dan artistik.
+        r11: 10 || Mascot SK, logo, dan mockup berada dalam satu komposisi visual bersama elemen moodboard. || Full Shot (FS) || Low Angle || Pedestal Up || 4 detik || Menjadi klimaks ketika seluruh elemen branding yang sebelumnya terpisah mulai menyatu menjadi satu identitas.
+        r12: 11 || Kamera bergerak mendekati logo SK yang berada di tengah komposisi, dikelilingi sparkle dan cahaya lavender. || Close Up (CU) || Eye Level || Zoom In || 3 detik || Menegaskan logo SK sebagai pusat dan identitas utama dari seluruh karya yang telah dibuat.
+        r13: 12 || Nama SECHAN KHALIFATUNNISA, tagline, dan identitas PHOTO • VIDEO • DESIGN muncul di layar. || Full Shot (FS) || Center || Static + Fade Out || 5 detik || Penutup video yang memperkuat personal branding dan meninggalkan kesan elegan, kreatif, dan profesional.
+
+## HEADING [h2]: prompt yang digunakan :
+
+## HEADING [h2]: 8. STORY BOARD
+   [IMG#7] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP4MRg7L50r_Zs6TXnxY0XaMH-ZIbYlnntpbKfWtmdg0bGIIMkx6b15Y1RGuG60u5Sg3f22BTnJ_OWdGryJ9ZE57_l-kVb5QqlX8nnd24Xh24im1dXQ2l-wmBytdLu05-Z4vBZ8uEIbC-

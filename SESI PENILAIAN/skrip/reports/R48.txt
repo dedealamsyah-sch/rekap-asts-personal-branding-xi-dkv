@@ -1,0 +1,83 @@
+====================================================================================================
+ID R48 | XI DKV 3 | ILFA ALIFIANA KHOERUNISA
+URL: https://ilfaalifiana.blogspot.com/2026/10/personal-branding-ilfa-alifiana.html
+STATUS: 200  final=https://ilfaalifiana.blogspot.com/2026/10/personal-branding-ilfa-alifiana.html
+PAGE TITLE: PERSONAL BRANDING ILFA ALIFIANA KHOERUNISA XI DKV 3
+H1: 
+WORDS: 2110 | IMAGES: 5 | TABLES: 1
+LABELS: AI, Personal Branding, Portofolio, SMKN 9 Garut., Tugas Sekolah
+KW COUNTS: {'logo': 14, 'moodboard': 5, 'mockup': 5, 'naskah': 11, 'storyline': 2, 'shotlist': 4, 'storyboard': 2, 'mascot': 5, 'prompt': 8, 'tagline': 9, 'deskripsi': 6, 'by_nama': 8, 'color': 18, 'tipografi': 8}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h2]: ASTS PERSONAL BRANDING ILFA ALIFIANA KHOERUNISA XI DKV 3 SMKN 9 Garut
+
+## HEADING [h3]: 1. Logo
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMT0QFqx_CXTWBaH_wx6-MlxAzDZ8HSuQKVvCzVGnrErsK9YElqN2rSMKXu3FXCDtURLfIlb65a-KGnKC4voFdA-qTbMiBgxWEPn_bIJmpZYOvXy1p9y_MalZ0H461-qKbwy1oF8rvqEo
+
+## HEADING [h3]: 2. Moodboard
+   [IMG#2] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd8K218nd4RQ3lBH8oRNa-rjTUHp3DUQCZo_065bALtmdsf85garso4lyEsnZBkACw14hiUGGGpK1dJMhLMp9XqAtaQXJHjI7csFOFPY9ULd02TM9bTkm43af4rVURPJ-51Q8see8ezBN
+
+## HEADING [h3]: 3. Mockup
+   [IMG#3] alt='' w=320 h=175 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBaw-su3bThZPWP12rpbSwa5IcLbkOjVijUvRIwkXNF9CkzNT5RJdm6oaRAZQpku0UJYMeGf5_yoxguqwSQv2IMT5im5XT83vavtSOcMCB3VttzT3HHt1PuEZANtHL9PqGddPZTm4l1l5
+
+## HEADING [h3]: 4. Maskot
+   [IMG#4] alt='' w=215 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQeKu5MAq2d6lD3PY7fabhhrvbN_SKStdXGighsvQcjh12cw7xEKX8DshYIOQDPH_jbjN5xNxijr-Uvn45qCb-7xDADWu3S85XShOYSFfCsPFqXiBh-VDGFk_6xhnK1x8qzHhc7KD1OsG
+
+## HEADING [h3]: 5. Naskah
+   LIST[ul] n=3:
+        1. Visual: Close-up Jemari sedang memegang pensil digital di atas drawing tablet. Cahaya lembut soft pink memantul dari layar, memperlihatkan kilatan efek pearlescent yang anggun.
+        2. Audio / SFX: Suara ketukan halus digital tablet, diiringi musik piano ambient yang lembut dan elegan.
+        3. Voice Over (VO): "Setiap cerita besar, selalu dimulai dari satu goresan sederhana.
+   LIST[ul] n=3:
+        1. Visual: Layar beralih cepat (quick cut) menunjukkan transisi dari sketsa grafis 2D menjadi bentuk 3D abstrak bermotif iridescent yang mengalir fluid. Kamera memutar memperlihatkan cuplikan potong video (editing timeline) pada layar laptop.
+        2. Audio / SFX: SFX whoosh halus dan suara shutter kamera. Tempo musik mulai meningkat, memadukan piano dengan instrumen lo-fi beats yang modern.
+        3. Voice Over (VO): "...diolah dengan rasa, dibentuk dengan presisi, dan dihidupkan melalui setiap gerak gambar."
+   LIST[ul] n=3:
+        1. Visual: Momen behind the scenes (BTS)—seorang desainer/videografer sedang mengarahkan kamera ke objek, lalu berlanjut ke hasil akhir social media feed dan stiker branding yang terpasang rapi di mug serta botol minum.
+        2. Audio / SFX: Suara senyum/tawa tipis yang natural, nada musik mencapai puncaknya yang hangat dan memotivasi.
+        3. Voice Over (VO): "Karena karya bukan sekadar tampilan visual, tapi tentang bagaimana cerita Anda dapat menyentuh dan diingat."
+   LIST[ul] n=3:
+        1. Visual: Transisi fade-in menampilkan logo monogram "ik" bertekstur soft pink pearlescent di tengah layar, diikuti oleh teks "by ilfa Khoerusina" di bagian bawah.
+        2. Audio / SFX: Musik meredup lembut (fade out), tersisa nada piano terakhir yang jernih.
+        3. Voice Over (VO): "Ilfa Khoerusina. Graphic Design & Videography."
+   LIST[ul] n=3:
+        1. Visual: Layar bersih menampilkan tagline utama dengan latar belakang cream minimalis dan kontak/sosial media di pojok bawah.
+        2. Text on Screen: Crafting Aesthetics, Moving Stories.
+        3. Audio / SFX: SFX chime lembut.
+
+## HEADING [h3]: 6. Storyline
+
+## HEADING [h3]: 7. Shotlist
+   [TABLE#1] rows=11 maxcols=7
+        r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+        r02: 1 || Suasana Kerja Pagi || Establishing / Wide Shot || Eye Level || Static || 3 detik || Ruang kerja estetik dengan pencahayaan alami hangat, memperlihatkan meja kerja, laptop, dan tanaman kecil.
+        r03: 2 || Menggambar Sketsa Awal || Extreme Close-Up || High Angle || Pan Right || 2 detik || Jemari memegang pen tablet, menggoreskan garis tipis di atas layar dengan pendar cahaya soft pink.
+        r04: 3 || Proses Desain Grafis || Medium Close-Up || Over the Shoulder || Dolly In || 3 detik || Tampak belakang bahu desainer yang sedang menyusun tata letak elemen 3D bertekstur pearlescent di layar.
+        r05: 4 || Memilih Warna & Tipografi || Close-Up || Eye Level || Static || 2 detik || Tampilan kursor mengklik palet warna cream dan memadukannya dengan huruf serif di software desain.
+        r06: 5 || Transisi Ide ke Kamera || Medium Shot || Low Angle || Tilt Up || 3 detik || Tangan mengambil kamera DSLR dari meja, mengarahkan lensa ke depan seolah siap mengambil gambar.
+        r07: 6 || Pengambilan Gambar (Videografi) || Medium Close-Up || Eye Level || Tracking Shot || 3 detik || Kamera bergerak mengikuti objek estetik yang sedang direkam dalam pencahayaan lembut.
+        r08: 7 || Proses Editing Video || Close-Up || Eye Level || Pan Left || 3 detik || Layar laptop menampilkan timeline video yang sedang dipotong dan disesuaikan warna (color grading).
+        r09: 8 || Implementasi Produk Fisik || Close-Up || High Angle || Static || 3 detik || Stiker monogram "ik" dan mug kopi dengan branding tertata rapi di atas meja.
+        r10: 9 || Hasil Portofolio Digital || Medium Close-Up || Eye Level || Dolly Out || 4 detik || Layar smartphone menampilkan tampilan grid Instagram yang tersusun harmonis dan estetik.
+        r11: 10 || Penutup (Logo & Tagline) || Full Shot || Eye Level || Static || 4 detik || Animasi logo "ik by ilfa Khoerusina" muncul di tengah layar diikuti tagline "Crafting Aesthetics, Moving Stories."
+   P(84w): Shotlist ini dirancang untuk menggambarkan proses kreatif dalam membangun identitas visual “ik by Ilfa Khoerunisa” secara bertahap dan dinamis. Video diawali dengan suasana ruang kerja yang tenang untuk memperkenalkan lingkungan kreatif dan membangun mood visual yang hangat. Selanjutnya, proses menggambar sketsa dan desain grafis menunjukkan bagaimana sebuah ide mulai dikembangkan menjadi karya visual. Pemilihan warna, tipografi, serta elemen pearlescent memperkuat karakter branding yang modern, elegan, dan estetik. Alur kemudian beralih dari proses desain menuju fotografi dan videografi untuk
+   P(37w): Tahap editing menunjukkan proses penyempurnaan karya sebelum diterapkan pada media fisik dan digital. Pada bagian akhir, portofolio ditampilkan sebagai hasil dari seluruh proses kreatif, kemudian ditutup dengan logo dan tagline “Crafting Aesthetics, Moving Stories.” sebagai identitas utama.
+   P(1w): Prompt :
+   P(7w): Oke bagus sekali, Lalu sekarang buat Shotlist,
+   P(6w): Buat tabel shotlist minimal 10 shot.
+   P(8w): No, Adegan, Jenis Shot, Angle, Movement, Durasi, Deskripsi
+
+## HEADING [h3]: 8. Storyboard
+   [IMG#5] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKnqxMMowESoQR8iP9ATuCgIBrAp320CanrtuJJIYBvubXXcNUuLu58W2tJVByynk-Y_oAYl0NLi5hGjjW4pZOv7t2EAEY7-05C75f789y5GcVaJGEL3thC534HWqD9lEGrVj5v0K0mt3
+   P(89w): Video brand identity “ik” by Ilfa Khoerunisa menampilkan perjalanan kreatif yang menggambarkan bagaimana sebuah ide sederhana dapat berkembang menjadi karya visual yang memiliki karakter dan makna. Konsep visual menggunakan perpaduan warna soft pink dan cream dengan sentuhan pearlescent yang memberikan kesan modern, elegan, lembut, tetapi tetap dinamis. Alur dimulai dari proses menggambar menggunakan stylus sebagai simbol awal munculnya inspirasi, kemudian berkembang menuju eksplorasi desain grafis, fotografi, videografi, hingga penerapan identitas visual pada berbagai media. Maskot kreatif di
+   P(61w): Logo monogram “ik” menjadi elemen utama yang muncul secara konsisten untuk memperkuat identitas. Keseluruhan adegan dirancang dengan pencahayaan hangat, komposisi rapi, serta perpindahan kamera yang halus untuk menciptakan kesan profesional dan harmonis. Melalui tagline “Crafting Aesthetics, Moving Stories.” video ini menegaskan bahwa karya visual tidak hanya berfokus pada estetika, tetapi juga mampu membangun cerita dan meninggalkan kesan yang berkesan bagi audiens.
+   P(1w): Prompt :
+   P(6w): BAGUSS SEKALII, sekarang buatkan storyboard. Ketentuan :
+   P(3w): •Minimal 6 Scene
+   P(2w): •Visual Adegan
+   P(2w): •Keterangan Shot
+   P(2w): •Angle Kamera
+   P(1w): •Transisi
+   P(3w): •Dialog atau Narasi

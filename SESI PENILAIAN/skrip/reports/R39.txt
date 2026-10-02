@@ -1,0 +1,41 @@
+====================================================================================================
+ID R39 | XI DKV 4 | AI TITO
+URL: https://aitito.blogspot.com/2026/09/personal-branding-ai-tito-xi-dkv-4.html
+STATUS: 200  final=https://aitito.blogspot.com/2026/09/personal-branding-ai-tito-xi-dkv-4.html
+PAGE TITLE: Personal Branding Ai Tito XI DKV 4
+H1: 
+WORDS: 1381 | IMAGES: 7 | TABLES: 0
+LABELS: AI, PERSONAL BRANDING, PORTOPOLIO, SMKN 9 GARUT, TUGAS SEKOLAH
+KW COUNTS: {'logo': 14, 'moodboard': 5, 'mockup': 6, 'naskah': 11, 'storyline': 1, 'shotlist': 2, 'storyboard': 4, 'mascot': 7, 'prompt': 5, 'tagline': 6, 'deskripsi': 10, 'by_nama': 8, 'color': 11, 'tipografi': 2}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h3]: ASTS PERSONAL BRANDING AI TITO XI DKV 4 SMKN 9 GARUT
+
+## HEADING [h3]: 1. LOGO PERSONAL BRANDING
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU5HkjWhWCe1twiqyBNHlgCob450t9ndSEKJXcQfYuJtwh8aqp-JbaLU2aFuelMvZX1DyRIkNqbtU5ZRmx-6VGqC_OlgusA5C_K7RZDAJISJIirX2seb2zRDZjTsI1lccWqv91A_D4oR1
+
+## HEADING [h3]: 2. MOODBOARD
+   [IMG#2] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXCsp-6NA6t9VChDAW4iEfyEStamXQAJkXQiDuesgTofMxra-B1bvXTkQJpizyNARTfkd7TCAzvm1sOtzBkV_lzhRHLtIIsvx18J5jJO9pTBm6fNEO0BgIwTJR2ubd3LVB8uGLEY-gmEh
+
+## HEADING [h3]: 3. MOCKUP
+   [IMG#3] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM5JPA-Nl6nGdnR9xOKwZrXjkBZUKP64jkEtJ4yAy-0DLixWQOyhlRI_4-wf90tLtIso3JTlpMDnnwn3kNJmtj9Ktu6z7dLu0fiYWiyqs1AXAFHfstPa3AeLD6mSFtczZ7LNgqMafknvF
+
+## HEADING [h3]: 4. MASCOT
+   [IMG#4] alt='' w=320 h=292 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEad_G3AfZwb97Yn3JlIvbFP2Y-7z52UrxwR9LQvDR1PxoCFUogNuxhY-BhOu-JZMnOY8Wl3gWGAmNWSCNKsgRfXTzewQHcAUV19r9BC60ddubxZd-sBapQbKsU-ThWFSN3qG9zYQNAO5
+
+## HEADING [h3]: 5. NASKAH IKLAN
+   [IMG#5] alt='' w=320 h=292 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWjaXtE_9hZD_OflrznCIYO211gcS-ovLCe1zr3PZN23mgW8HGP1xpg8L1IUPFR3rLchyphenhyphenwMbfUiQmZ_YDK_T7EV-tIpwXzdHkOI1jwOcAQzwJb7yyfM-jmXjW4ssa4NOuUL
+
+## HEADING [h3]: 6. STORYLINE
+
+## HEADING [h3]: 7. SHOTLIST
+   [IMG#6] alt='' w=320 h=174 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIie0R9EHCTE0Qj3vrjYvza2oyawEEmQfhghJFOHnp7nzzEOqfMM0GQYRrlmA3NJPtyQQr1ZOjCZSJRxAluLcgXJMctMeiMwBlQfbq0q4WKAPNIibpsPQTvkmzGVNsZZXUF8EW5EMJnDX
+
+## HEADING [h3]: 8. STORYBOARD
+   [IMG#7] alt='' w=320 h=148 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir2CXrUnaQk0MMb3ZEFjI70Dy3Y9iMOIGNoT2mYLjP6Zv5HU3hQoR4RHUXg9Vm0SQnb2fdHYKKCPrjb-H4FLZ-LOUn1eG4Lla90YB-7z4TrulhaIDLSA27nVR-Roz3a__RO1874dphuaN
+
+## HEADING [h3]: 9. PENJELASAN KONSEP
+
+## HEADING [h3]: 10. PROMT YANG DIGUNAKAN

@@ -1,0 +1,323 @@
+====================================================================================================
+ID R46 | XI DKV 1 | DEBI LESTARI
+URL: https://debilestar.blogspot.com/2026/09/personal-branding-debi-lestari-xi-dkv-1.html
+STATUS: 200  final=https://debilestar.blogspot.com/2026/09/personal-branding-debi-lestari-xi-dkv-1.html
+PAGE TITLE: Personal Branding Debi Lestari XI DKV 1
+H1: 
+WORDS: 2252 | IMAGES: 5 | TABLES: 1
+LABELS: AI, CV, Debi Lestari, Personal Branding, Portofolio, SMKN 9 Garut, Tugas sekolah
+KW COUNTS: {'logo': 20, 'moodboard': 7, 'mockup': 3, 'naskah': 11, 'storyline': 3, 'shotlist': 4, 'storyboard': 3, 'mascot': 19, 'prompt': 8, 'tagline': 8, 'deskripsi': 9, 'by_nama': 4, 'color': 7, 'tipografi': 1}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h1]: ASTS Personal Branding Debi Lestari XI DKV 1 SMKN 9 Garut
+   [IMG#1] alt='' w=249 h=249 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ZSziv9eCb-jApA6M2J5Mh5USCwV50wcOjzoLJLb4crxzmySXpI_EgHNOEcH98XGluvK92UiQKIlllAkYtwjNEMsyTHXREMCVjf1RCC62eZdgUzCOCWEYyew7_gcQJy2q5X-jXPe6PS9
+
+## HEADING [h2]: Debi Lestari expole
+
+## HEADING [h3]: KONSEP BRANDING PERSONAL — DEBI LESTARI
+
+## HEADING [h3]: Konsep Utama
+   P(3w): “Explore · Create · Inspire”
+   P(50w): Personal branding Debi Lestari dibangun dari karakter yang kalem, santai, kreatif, dan memiliki rasa ingin tahu terhadap hal-hal baru. Ketertarikan pada perjalanan, pengalaman unik, desain, dan seni kemudian diterjemahkan menjadi identitas visual yang tidak hanya berfungsi sebagai logo, tetapi berkembang menjadi karakter, merchandise, maskot, hingga storytelling dalam bentuk short movie.
+
+## HEADING [h2]: 1. Logo Personal Branding
+
+## HEADING [h3]: Dengan prompt
+   P(81w): Hai.. berperanlah sebagai ahli designer, disini saya akan membuat logo Personal Branding dari inisial nama saya = Debi Lestari dengan ketentuan berikut Inisial nama DL, Karakter diri kalem santai, Hobi atau minat paling suka hal baru atau jalan jalan sesuatu yang unik juga, Bidang kreatif yang diminati Designer dan Art dengan ketentuan output : logo personal Branding rasio 1:1 kualitas 4k tanpa background nama branding sesuaikan dengan nama sesuaikan dengan inisial dengan tagline sesuaikan kasih watermark kecil By Debi Lestari.@Create image
+   P(10w): Logo menggunakan inisial “DL” yang berasal dari nama Debi Lestari.
+   P(16w): Konsep monogram DL dibuat sebagai identitas utama yang mudah dikenali dan fleksibel digunakan pada berbagai media.
+
+## HEADING [h3]: Makna Visual
+   LIST[ul] n=5:
+        1. D + L → representasi langsung dari nama Debi Lestari.
+        2. Unsur pegunungan/alam → menggambarkan eksplorasi, perjalanan, dan kecintaan terhadap pengalaman baru.
+        3. Pesawat → simbol perjalanan, kebebasan, dan keinginan untuk menjelajahi tempat baru.
+        4. Gaya organik → merepresentasikan sisi artistik dan kreatif.
+        5. Warna natural → memberikan kesan kalem, hangat, santai, dan approachable.
+   P(8w): D + L → representasi langsung dari nama Debi Lestari.
+   P(11w): Unsur pegunungan/alam → menggambarkan eksplorasi, perjalanan, dan kecintaan terhadap pengalaman baru.
+   P(10w): Pesawat → simbol perjalanan, kebebasan, dan keinginan untuk menjelajahi tempat baru.
+   P(7w): Gaya organik → merepresentasikan sisi artistik dan kreatif.
+   P(9w): Warna natural → memberikan kesan kalem, hangat, santai, dan approachable.
+   P(4w): Logo dilengkapi dengan nama:
+   P(2w): DEBI LESTARI
+   P(2w): serta tagline:
+   P(3w): EXPLORE · CREATE · INSPIRE
+   P(2w): dan watermark:
+   P(3w): By Debi Lestari
+
+## HEADING [h1]: 2. Moodboard
+   [IMG#2] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvdZxza3f3jld_zl9AVR5oNW1GmDF-VYJrePmuWfybVi88HxUO9IwNmdtbgtXX8OVVn7nV_5YL8YNIrja3Rj3MVlN2VoHz5IgZBQ367EqwDoEURr5hBJDf4BaU9XnkKCo3Vx1R7R08d0J
+
+## HEADING [h3]: Dengan prompt
+   P(10w): Moodboard menjadi dasar untuk menentukan bahasa visual dari seluruh branding.
+
+## HEADING [h3]: Tone & Mood
+   P(4w): Brand diarahkan pada karakter:
+   P(5w): Calm — Creative — Natural — Artistic — Adventurous
+   P(15w): Visual tidak dibuat terlalu formal atau corporate, tetapi memiliki kesan personal, hangat, modern, dan artistik.
+
+## HEADING [h3]: Elemen Inspirasi
+   P(5w): Beberapa inspirasi visual yang digunakan:
+   LIST[ul] n=11:
+        1. Pegunungan
+        2. Perjalanan
+        3. Kamera
+        4. Sketchbook
+        5. Pensil dan alat seni
+        6. Peta
+        7. Pesawat
+        8. Alam
+        9. Streetwear
+        10. Fotografi
+        11. Desain grafis
+   P(1w): Pegunungan
+   P(1w): Perjalanan
+   P(1w): Kamera
+   P(1w): Sketchbook
+   P(4w): Pensil dan alat seni
+   P(1w): Peta
+   P(1w): Pesawat
+   P(1w): Alam
+   P(1w): Streetwear
+   P(1w): Fotografi
+   P(2w): Desain grafis
+   P(8w): Elemen-elemen tersebut menggambarkan keseimbangan antara exploration dan creativity.
+
+## HEADING [h1]: 3. Implementasi Branding pada Merchandise/ mock up
+   [IMG#3] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0y-5vyFowLSF5Rw61EiYY0gghxznqCwJLIakUCfXB7RkSxO_oHbbWpxG4NxJvZStx8JBBbB0bXNtNyG9sMY8oYEzAJL2Eq_21a3yx4sv6D-hnOCYgVRevOTwnDpu7ZThz2drw9jLDQ3y
+
+## HEADING [h3]: Dengan prompt
+   P(8w): Identitas visual kemudian diterapkan ke beberapa media fisik:
+
+## HEADING [h3]: Hoodie
+   P(8w): Hoodie menjadi representasi karakter street, casual, dan creative.
+   P(17w): Logo DL dapat ditempatkan pada bagian dada atau punggung dengan desain yang sederhana sehingga tetap terlihat premium.
+
+## HEADING [h3]: Kaos
+   P(8w): Kaos menggunakan pendekatan yang lebih minimal dan versatile.
+   P(3w): Logo dan tagline:
+   P(3w): DLEXPLORE · CREATE · INSPIRE
+   P(6w): dapat digunakan sebagai graphic element utama.
+
+## HEADING [h3]: Sticker
+   P(6w): Sticker menjadi media yang lebih playful.
+   P(24w): Elemen seperti maskot, kamera, gunung, pesawat, logo DL, dan tagline dapat dibuat menjadi kumpulan sticker yang bisa digunakan pada laptop, notebook, kamera, maupun packaging.
+
+## HEADING [h1]: 4. Maskot
+   [IMG#4] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIRm87BnWvdCMa7Y38Ah9EgAVWsE1lknhKiW9C0onQWeTj2d5xZblkdxVeWlSo_eosfxKaAE4BWpO_0wtCMGWyEYxV1CrwH2-NvaraSZpEzlCSEonmPNX4LB3jKsUp3tm-NIsLPpkuVR2
+
+## HEADING [h3]: Dengan prompt
+   P(13w): Untuk memberikan jiwa dan karakter pada branding, dibuat sebuah maskot yang merepresentasikan Debi.
+   P(7w): Maskot menggunakan gaya street style dengan elemen:
+   LIST[ul] n=8:
+        1. Hoodie
+        2. Cargo pants
+        3. Sneakers
+        4. Backpack
+        5. Kamera
+        6. Headphone
+        7. Cap
+        8. Sketchbook
+   P(1w): Hoodie
+   P(2w): Cargo pants
+   P(1w): Sneakers
+   P(1w): Backpack
+   P(1w): Kamera
+   P(1w): Headphone
+   P(1w): Cap
+   P(1w): Sketchbook
+
+## HEADING [h3]: Karakter Maskot
+   P(3w): Maskot menggambarkan sosok:
+   P(7w): Traveler · Photographer · Designer · Artist · Nature Lover · Dreamer
+   P(13w): Jadi maskot bukan hanya karakter dekoratif, tetapi menjadi representasi visual dari personality brand.
+   P(6w): Maskot juga memiliki tiga bentuk penggunaan:
+   LIST[ol] n=3:
+        1. Full Body — untuk storytelling dan merchandise.
+        2. Portrait — untuk profile image dan social media.
+        3. Maskot + Logo — sebagai visual utama personal branding.
+   P(6w): Full Body — untuk storytelling dan merchandise.
+   P(7w): Portrait — untuk profile image dan social media.
+   P(7w): Maskot + Logo — sebagai visual utama personal branding.
+
+## HEADING [h1]: 5. Naskah iklan komersial
+
+## HEADING [h3]: Dengan prompt
+
+## HEADING [h3]: NASKAH SHORT MOVIE 60 DETIK
+
+## HEADING [h3]: Judul
+   P(4w): “MORE PLACES, MORE STORIES”
+
+## HEADING [h3]: Tema
+   P(8w): Perjalanan menemukan inspirasi melalui eksplorasi, seni, dan kreativitas.
+
+## HEADING [h3]: Pesan Utama
+   P(28w): Inspirasi tidak selalu datang dari tempat yang kita cari. Terkadang, inspirasi muncul ketika kita berani melangkah, melihat sesuatu dari sudut pandang baru, dan mengubah pengalaman menjadi sebuah karya.
+
+## HEADING [h3]: Narasi / Dialog
+   P(23w): SCENE 1 — 0–10 detikVisual: Maskot Debi berada di kamar/studio kreatif. Ada sketchbook, kamera, headphone, dan laptop. Ia terlihat sedang mencari inspirasi.
+   P(10w): VO:“Kadang aku bertanya... dari mana sebenarnya sebuah ide dimulai?”
+   P(16w): SCENE 2 — 10–20 detikVisual: Debi mengambil kamera, memakai hoodie dan backpack, lalu keluar dari ruangan.
+   P(11w): VO:“Mungkin bukan dari duduk diam... tapi dari keberanian untuk melangkah.”
+   P(18w): SCENE 3 — 20–35 detikVisual: Debi berjalan menyusuri tempat baru. Melihat pemandangan, memotret, memperhatikan detail kecil di sekitarnya.
+   P(17w): VO:“Karena setiap perjalanan punya cerita.Setiap tempat punya warna.Dan setiap hal kecil... bisa menjadi inspirasi.”
+   P(18w): SCENE 4 — 35–48 detikVisual: Debi duduk sambil menggambar/sketching. Potongan gambar perjalanan mulai berubah menjadi karya desain.
+   P(16w): VO:“Aku belajar bahwa kreativitas bukan hanya tentang menciptakan sesuatu...tetapi tentang bagaimana kita melihat dunia.”
+   P(17w): SCENE 5 — 48–55 detikVisual: Debi tersenyum, menunjukkan hasil sketsa/desain. Logo DL mulai muncul secara subtle.
+   P(10w): VO:“Pergi untuk menemukan.Melihat untuk memahami.Mencipta untuk berbagi.”
+
+## HEADING [h3]: Closing Tagline — 55–60 detik
+   P(10w): Visual: Maskot berdiri dengan background landscape. Logo DL muncul perlahan.
+   P(6w): ON SCREEN:DEBI LESTARIEXPLORE · CREATE · INSPIRE
+   P(7w): VO:“More places. More stories. More inspiration.”
+   P(8w): END FRAME:Logo DL — Debi LestariBy Debi Lestari
+
+## HEADING [h1]: 6. Storyline
+
+## HEADING [h3]: Dengan prompt
+
+## HEADING [h3]: STORYLINE SHORT MOVIE 60 DETIK
+
+## HEADING [h2]: Judul
+   P(4w): MORE PLACES, MORE STORIES
+
+## HEADING [h2]: 1. PEMBUKAAN — “Mencari Inspirasi”
+   P(4w): Durasi: 0–10 detik
+   P(23w): Film dibuka dengan suasana tenang di sebuah ruang kreatif. Maskot Debi duduk di depan meja dengan sketchbook, kamera, laptop, dan beberapa alat gambar.
+   P(13w): Ia mencoba menggambar, tetapi berhenti sejenak. Tatapannya terlihat seperti sedang mencari sebuah ide.
+   P(10w): VO:“Kadang aku bertanya... dari mana sebenarnya sebuah ide dimulai?”
+   P(13w): Fokus Visual:Close-up sketchbook kosong, pensil, ekspresi karakter, kamera, dan detail ruang kreatif.
+
+## HEADING [h2]: 2. ALUR CERITA — “Berani Melangkah”
+   P(4w): Durasi: 10–35 detik
+   P(21w): Debi menyadari bahwa inspirasi tidak selalu datang dengan menunggu. Ia kemudian mengambil kamera, mengenakan hoodie dan backpack, lalu meninggalkan ruang kreatif.
+   P(2w): Perjalanan dimulai.
+   P(17w): Debi berjalan menyusuri tempat baru, melihat pemandangan, memperhatikan lingkungan, memotret, dan menemukan berbagai detail menarik di sekitarnya.
+   P(16w): Ia mulai mendapatkan ide dari hal-hal sederhana: bentuk gunung, warna langit, daun, bangunan, hingga suasana perjalanan.
+   P(11w): VO:“Mungkin bukan dari duduk diam... tapi dari keberanian untuk melangkah.”
+   P(16w): “Karena setiap perjalanan punya cerita.Setiap tempat punya warna.Dan setiap hal kecil... bisa menjadi inspirasi.”
+   P(19w): Fokus Visual:Transition dari ruang sempit → ruang terbuka. Gunakan establishing shot, tracking shot, dan beberapa close-up hasil fotografi Debi.
+
+## HEADING [h2]: 3. KONFLIK / FOKUS VISUAL — “Melihat dengan Cara Berbeda”
+   P(4w): Durasi: 35–48 detik
+   P(10w): Setelah mendapatkan berbagai pengalaman, Debi kembali duduk dan membuka sketchbook.
+   P(10w): Ia mulai menggambar berdasarkan apa yang telah dilihatnya selama perjalanan.
+   P(16w): Foto-foto yang diambilnya menjadi referensi. Bentuk pemandangan berubah menjadi ilustrasi, lalu berkembang menjadi sebuah karya desain.
+   P(17w): Konfliknya bukan berupa pertengkaran atau masalah besar, tetapi kebuntuan kreativitas yang akhirnya terpecahkan melalui pengalaman dan eksplorasi.
+   P(10w): VO:“Aku belajar bahwa kreativitas bukan hanya tentang menciptakan sesuatu...”
+   P(6w): “...tetapi tentang bagaimana kita melihat dunia.”
+   P(13w): Fokus Visual:Perubahan dari halaman kosong → garis sketsa → ilustrasi → karya desain yang selesai.
+
+## HEADING [h2]: 4. PENUTUP — “Menjadi Inspirasi”
+   P(4w): Durasi: 48–60 detik
+   P(6w): Debi melihat hasil karyanya dan tersenyum.
+   P(18w): Ia kemudian berdiri dengan membawa kamera dan sketchbook. Background berubah menjadi pemandangan luas yang merepresentasikan perjalanan dan kebebasan.
+   P(7w): Logo DL — Debi Lestari muncul secara perlahan.
+   P(4w): VO:“Pergi untuk menemukan.”
+   P(3w): “Melihat untuk memahami.”
+   P(3w): “Mencipta untuk berbagi.”
+
+## HEADING [h3]: Closing Tagline
+   P(2w): ON SCREEN:
+   P(4w): DEBI LESTARIEXPLORE · CREATE · INSPIRE
+   P(4w): MORE PLACES. MORE STORIES.
+   P(8w): VO terakhir:“More places. More stories. More inspiration.”
+
+## HEADING [h3]: END FRAME
+   P(6w): Logo DL + Debi LestariBy Debi Lestari
+
+## HEADING [h1]: 
+
+## HEADING [h1]: 7. Shotlist
+
+## HEADING [h3]: Dengan prompt
+
+## HEADING [h3]: SHOTLIST SHORT MOVIE 60 DETIK
+
+## HEADING [h3]: Debi Lestari — “More Places, More Stories”
+   [TABLE#1] rows=13 maxcols=7
+        r01: No. || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+        r02: 1. || Pembukaan || Extreme Close Up (ECU) || Eye Level || Static || 4 detik || Pensil menyentuh sketchbook kosong. Terlihat beberapa coretan kecil tetapi belum menjadi sebuah karya. Suasana tenang dan sedikit kosong.
+        r03: 2. || Mencari ide || Medium Close Up (MCU) || Eye Level || Slow Push In || 5 detik || Maskot Debi duduk di meja kreatif, memandangi sketchbook sambil berpikir. Kamera perlahan mendekat untuk menunjukkan kebuntuan kreatif.
+        r04: 3. || Menemukan keputusan || Close Up (CU) || Low Angle ringan || Tilt Up || 4 detik || Tangan Debi mengambil kamera dan backpack. Kamera mengikuti gerakan dari meja menuju wajahnya yang mulai terlihat bersemangat.
+        r05: 4. || Keluar dari ruang || Full Shot (FS) || Eye Level || Tracking Backward || 5 detik || Debi berjalan meninggalkan ruangan menggunakan hoodie dan backpack. Kamera mundur mengikuti langkahnya menuju pintu.
+        r06: 5. || Dunia baru || Wide Shot (WS) || Eye Level || Slow Pan || 5 detik || Debi tiba di tempat terbuka dengan pemandangan luas. Perubahan visual dari ruang sempit menjadi lingkungan yang bebas dan luas.
+        r07: 6. || Eksplorasi || Medium Shot (MS) || Eye Level || Tracking Side || 5 detik || Debi berjalan santai sambil memperhatikan lingkungan. Ia melihat berbagai detail unik di sekitarnya.
+        r08: 7. || Menemukan inspirasi || Point of View (POV) || Eye Level || Handheld || 5 detik || Sudut pandang Debi melihat objek menarik: dedaunan, bangunan, tekstur, langit, atau pemandangan. Ia kemudian mengangkat kamera.
+        r09: 8. || Mengabadikan momen || Close Up (CU) || Over The Shoulder || Push In || 5 detik || Debi mengambil foto menggunakan kamera. Transisi cepat memperlihatkan hasil foto yang mulai mengisi layar.
+        r10: 9. || Ide berkembang || Top Shot / Overhead || High Angle || Slow Zoom Out || 6 detik || Debi kembali ke meja dengan foto-foto referensi. Sketchbook, kamera, dan foto tersusun di sekelilingnya. Ia mulai menggambar.
+        r11: 10. || Menciptakan karya || Medium Close Up (MCU) || 3/4 Angle || Slow Pan || 5 detik || Pensil bergerak membuat ilustrasi. Sketsa perlahan berkembang menjadi desain yang lebih matang.
+        r12: 11. || Hasil karya || Medium Shot (MS) || Eye Level || Slow Push In || 5 detik || Debi mengangkat hasil karyanya dan tersenyum. Terlihat hubungan antara perjalanan, foto, dan karya desain yang telah dibuat.
+        r13: 12. || Closing Branding || Wide Shot + Logo Reveal || Low Angle ringan || Slow Pull Out || 6 detik || Debi berdiri di depan landscape sambil membawa kamera dan sketchbook. Logo DL — Debi Lestari muncul perlahan bersama tagline “EXPLORE · CREATE · INSPIRE” dan “MORE PLACES. MORE STORIES.”
+
+## HEADING [h3]: TOTAL DURASI: 60 DETIK
+
+## HEADING [h2]: ALUR VISUAL
+   P(10w): SHOT 1–3💭 CREATIVE BLOCKDebi mencari ide dan merasa buntu.
+   P(13w): SHOT 4–8🚶 EXPLOREDebi keluar, berjalan, melihat, menemukan, dan mengabadikan sesuatu yang menarik.
+   P(10w): SHOT 9–11🎨 CREATEPengalaman perjalanan berubah menjadi ide dan karya.
+   P(12w): SHOT 12✨ INSPIREKarya selesai dan identitas DL — Debi Lestari muncul sebagai penutup.
+
+## HEADING [h3]: VISUAL FORMULA
+   P(5w): LOOK → EXPLORE → CAPTURE → CREATE → INSPIRE
+   P(13w): Formula ini membuat perjalanan karakter terasa jelas meskipun film hanya berdurasi 60 detik.
+
+## HEADING [h1]: 
+
+## HEADING [h1]: 
+
+## HEADING [h1]: 
+
+## HEADING [h1]: 8. Storyboard
+   [IMG#5] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsl65Gb12uMfCZW1zFgHyEIX1VoxJrVSVyl7iQxyq_UvQZ_hv27Hpogg7lg0KL6313uUtjUFjSHGbOE_-G_Qj6idU3xc3BsZgZmoupgEIudzrhngoD-pIMTndAQerNeTqpliIFwCdOHOm
+
+## HEADING [h3]: Dengan prompt
+
+## HEADING [h4]: DESKRIPSINYA
+   P(22w): Setiap scene kemudian memiliki shot, camera angle, movement, transisi, serta narasi sehingga storyboard tidak hanya menjadi ilustrasi, tetapi menjadi panduan produksi video.
+
+## HEADING [h1]: 8. Konsep Visual Video
+   P(10w): Gaya visual short movie dibuat cinematic, warm, artistic, dan travel-inspired.
+   P(6w): Pergerakan kamera dibuat relatif lembut seperti:
+   LIST[ul] n=6:
+        1. Slow push-in
+        2. Tracking
+        3. Pan
+        4. Tilt
+        5. Slow zoom
+        6. Pull-out
+   P(2w): Slow push-in
+   P(1w): Tracking
+   P(1w): Pan
+   P(1w): Tilt
+   P(2w): Slow zoom
+   P(1w): Pull-out
+   P(11w): Tujuannya agar karakter kalem dan santai dari personal branding tetap terasa.
+   P(14w): Transisi juga dibuat sederhana sehingga perhatian tetap berada pada perjalanan karakter dan perubahan emosinya.
+
+## HEADING [h1]: 9. Voice Over
+   P(9w): Narasi menjadi penghubung antara visual dan pesan personal branding.
+   P(3w): Beberapa kalimat utama:
+   P(9w): “Kadang aku bertanya... dari mana sebenarnya sebuah ide dimulai?”
+   P(3w): Kemudian berkembang menjadi:
+   P(10w): “Mungkin bukan dari duduk diam... tapi dari keberanian untuk melangkah.”
+   P(3w): Dan ditutup dengan:
+   P(9w): “Pergi untuk menemukan.Melihat untuk memahami.Mencipta untuk berbagi.”
+   P(1w): Closing:
+   P(6w): “More places. More stories. More inspiration.”
+
+## HEADING [h1]: 10. Benang Merah Keseluruhan Branding
+   P(9w): Yang membuat konsep ini menjadi satu kesatuan adalah filosofi:
+
+## HEADING [h3]: EXPLORE
+   P(9w): Berani melihat dunia, mencoba hal baru, dan mencari pengalaman.
+
+## HEADING [h3]: CREATE
+   P(9w): Mengolah pengalaman menjadi desain, seni, foto, atau karya kreatif.
+
+## HEADING [h3]: INSPIRE
+   P(11w): Membagikan karya dan pengalaman sehingga dapat menjadi inspirasi bagi orang lain.

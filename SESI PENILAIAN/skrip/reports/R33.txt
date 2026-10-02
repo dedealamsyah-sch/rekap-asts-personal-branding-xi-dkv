@@ -1,0 +1,72 @@
+====================================================================================================
+ID R33 | XI DKV 3 | KAMILA APRILIANI
+URL: https://kamilasky.blogspot.com/2026/09/personal-branding-kamila-apriliani-xi.html
+STATUS: 200  final=https://kamilasky.blogspot.com/2026/09/personal-branding-kamila-apriliani-xi.html
+PAGE TITLE: Personal branding Kamila Apriliani XI DKV 3 SMKN 9 GARUT
+H1: 
+WORDS: 1460 | IMAGES: 7 | TABLES: 1
+LABELS: AI, SMKN 9 GARUT, Tugas sekolah, personal branding, portofolio, profil kamila
+KW COUNTS: {'logo': 27, 'moodboard': 6, 'mockup': 4, 'naskah': 12, 'storyline': 5, 'shotlist': 2, 'storyboard': 3, 'mascot': 12, 'prompt': 8, 'tagline': 10, 'deskripsi': 3, 'by_nama': 0, 'color': 12, 'tipografi': 1}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h2]: ASTS Personal Branding Kamila Apriliani XI DKV 3 SMKN 9 GARUT
+
+## HEADING [h4]: 1. Personal Branding
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5Za1GBYUbk9F5P9sckCFchLnr2Rack7evHvetIsQBbkaYfDcimEckVAJJSBf9tJ5j_32KoD4iemM9GNV5RqL86irEp2zkLdI2_ji1HIZZwNi7sNkrUq90-4wUMe0CfrM5j6vTL-CYYrr
+
+## HEADING [h4]: 2. Moodboard
+   [IMG#2] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_IuyMnUpgI3YWGQqLl1uxJVGcR5U4PWOzqNpEcsQJAaadwTUdHapGG3UzTnTaeD_7tH-tVWMlGxQ3hoFJ1ipDAdO0sIIVybid1ztrRdq9gH-u3JSD_t41fYZ_VeZxclqI3uH6Nj-NUQr
+
+## HEADING [h4]: 3. Mock Up
+   [IMG#3] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvWBOKu74BTCgzxS3D4qXbsY2dL_TgAec3BazFlcJO97ZssQT1n1ZcM-PEUZ86re4ZEjBOUYtE4OUCTb_yUuT4Q9VoN-ev0gbyLJeVxU3t83cCBHcHUqls-sKzoA4AI-VN51LKXw6uCyN
+   [IMG#4] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3WhT1x3voPT9IyJUqnhU4JRUG834BygwDp3YVgOQ0JMVrX5QrtfKQCOlqTuRhjw77LnVEChHsATbDB7XlgsjJgTYp5lXIAhI7iWB_hxcQMDokjO3N9btbi1ZCfGk6HfcQGm9aTpGL9Wf
+   [IMG#5] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-bBIUu7nm4qlCipfcjE9bViCE_iCHhFFXVEBWSDj4m3Sr-b-XVNL-hUOPBumr6lQhfc72GsIL-H11BQQKn2e05_r-gzX5M3Jmttt0NR6XyZjJrvpbwXY37HwujzJDi-xiFNI2amKKho
+
+## HEADING [h4]: 4. Maskot
+   [IMG#6] alt='' w=213 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Q2Gc7_oibQqQuVvModdbxNuOPyqWdX87Spvk-Qfh4DjT3sulKafRof_7ENEG-6GtIDOetJNnZUERR88v0YnL_2bDGaXS64gBb78KeLvUWYDVZHQj5tZBgaZDQ5V9PEozM6Sy2UpG-jD
+
+## HEADING [h4]: 5. Script / Naskah
+
+## HEADING [h4]: 6. Storyline
+   LIST[ol] n=4:
+        1. pembukaan
+        2. alur cerita
+        3. konflik / fokus visual
+        4. penutup
+   P(1w): pembukaan
+   P(2w): alur cerita
+   P(3w): konflik / fokus visual
+   P(1w): penutup
+
+## HEADING [h4]: 7. Shotlist
+   [TABLE#1] rows=13 maxcols=7
+        r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+        r02: 1 || Karakter KA diperkenalkan || Establishing Shot || Eye Level || Static || 2 detik || Menampilkan karakter KA dalam suasana tenang dengan nuansa soft blue dan white.
+        r03: 2 || Karakter memegang kamera || Medium Shot || Eye Level || Slow Push In || 3 detik || Karakter memegang kamera sebagai simbol minat dan ketertarikannya pada fotografi.
+        r04: 3 || Kamera sebagai alat berkarya || Close Up || Low Angle || Slow Pan || 2 detik || Memperlihatkan kamera secara detail sebagai alat untuk mengekspresikan kreativitas.
+        r05: 4 || Mengambil foto || Extreme Close Up || Top Angle || Static || 2 detik || Fokus pada tangan saat menekan tombol kamera untuk mengambil gambar.
+        r06: 5 || Melihat hasil foto || Close Up || Top Angle || Slow Slide || 3 detik || Menampilkan hasil fotografi yang menjadi bentuk ekspresi dan karya.
+        r07: 6 || Proses editing || Over Shoulder Shot || High Angle || Slow Pan || 3 detik || Memperlihatkan proses mengedit dan menyempurnakan hasil foto.
+        r08: 7 || Identitas mulai terbentuk || Close Up || Eye Level || Slow Zoom In || 2 detik || Logo KA muncul sebagai identitas personal setelah proses kreatif.
+        r09: 8 || Branding pada tumbler dan hoodie || Medium Shot || Eye Level || Slow Slide || 3 detik || Menampilkan penerapan logo KA pada merchandise sebagai bagian dari personal branding.
+        r10: 9 || Sticker dan elemen visual || Close Up || Top Angle || Pan || 2 detik || Memperlihatkan sticker, logo, dan elemen visual dengan warna soft blue dan white.
+        r11: 10 || Maskot KA || Full Shot || Eye Level || Slow Zoom Out || 2 detik || Menampilkan maskot full body sebagai representasi karakter dan identitas brand.
+        r12: 11 || Seluruh branding || Wide Shot || Eye Level || Slow Slide || 3 detik || Logo, maskot, merchandise, dan sticker ditampilkan dalam satu komposisi.
+        r13: 12 || Logo dan tagline || Graphic Shot || Eye Level || Static || 3 detik || Menampilkan KA — KAMILA APRILIANI dan tagline “SMALL STEPS, BIG DREAMS.” sebagai penutup.
+   P(56w): Shortlist ini menggambarkan proses personal branding KA — Kamila Apriliani dari pengenalan karakter, aktivitas fotografi, proses menghasilkan karya, hingga terbentuknya identitas visual. Pengambilan gambar menggunakan shot yang beragam, gerakan kamera yang lembut, serta warna soft blue dan white untuk menciptakan kesan tenang, kreatif, dan elegan. Video ditutup dengan seluruh elemen branding dan tagline “Small Steps, Big Dreams.”
+   P(19w): prompt yang di gunakan: mantap, sekarang kita masuk dokumen teknis untuk pengambilan gambar (shortlist) buatkan dalam bentuk tabel ketentuannya:
+   P(5w): buat tabel minimal 10 shot.
+   P(8w): No | adegan | jenis shot | angle | movement | durasi | deskripsi
+
+## HEADING [h4]: 8. Storyboard
+   [IMG#7] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-BpQZBmQOGjcdD80oDoSDoCfuanG-UKVoKjUiQ-WXYI96m9MDZGb1Zi68AZxI9QDulw_C1FkZhDffkVHmTb5LmBFvseH32wtn7ZRFHgL8MvwSqXSuioK8Ejes5a5PJ6za0T2E9PvgpcN
+   P(67w): Storyboard “Beyond The Initials” menggambarkan perjalanan personal branding KA — Kamila Apriliani dalam 6 scene, mulai dari proses membuat sketsa inisial K dan A, mengembangkan logo, hingga menerapkannya pada tumbler dan moodboard. Visual menggunakan gaya minimalis, elegan, dan modern dengan dominasi warna biru dan putih. Alur diakhiri dengan seluruh elemen branding yang menyatu, kemudian logo KA, nama Kamila Apriliani, dan tagline “CREATE • DESIGN • GROW” sebagai penegasan identitas personal.
+   P(21w): prompt yang di gunakan: mantap, sekarang kita implementasikan berdasarkan naskah, storyline, shotlist yang tadi sudah dibuat ke dalam storyboard. berikut ketentuannya:
+   P(2w): • 6 scene
+   P(2w): • visual adegan
+   P(2w): • keterangan shot
+   P(2w): • angle kamera
+   P(1w): • transisi
+   P(3w): • dialog dan narasi

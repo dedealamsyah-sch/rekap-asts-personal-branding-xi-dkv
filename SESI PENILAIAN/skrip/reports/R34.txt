@@ -1,0 +1,54 @@
+====================================================================================================
+ID R34 | XI DKV 3 | JAJANG NURJAMAN
+URL: https://jajangnurjaman4.blogspot.com/2026/09/personal-branding-jajang-nurjaman-xi.html?m=1
+STATUS: 200  final=https://jajangnurjaman4.blogspot.com/2026/09/personal-branding-jajang-nurjaman-xi.html?m=1
+PAGE TITLE: personal branding JAJANG NURJAMAN XI DKV 3
+H1: 
+WORDS: 1731 | IMAGES: 5 | TABLES: 1
+LABELS: AI, Branding logo, CHAT GPT, MASKOT TUGAS SEKOLAH, MOCK UP, Moodboard tugas sekolah, PORTOFOLIO, SMKN 9 GARUT, branding, mengesahkan kreatifitas di lab dkv SMKN 9 GARUT, profil, tugas sekolah
+KW COUNTS: {'logo': 15, 'moodboard': 8, 'mockup': 4, 'naskah': 15, 'storyline': 4, 'shotlist': 4, 'storyboard': 5, 'mascot': 25, 'prompt': 8, 'tagline': 6, 'deskripsi': 3, 'by_nama': 0, 'color': 20, 'tipografi': 3}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h2]: ASTS personal branding JAJANG NURJAMAN XI DKV 3 SMKN 9 GARUT
+
+## HEADING [h2]: 
+
+## HEADING [h2]: 1.BRANDING
+
+## HEADING [h2]: Gambar ini menampilkan desain logo personal branding untuk Jajang Nurjaman. Logo memadukan inisial JN berstruktur tajam dan tegas dengan elemen bola voli berwarna oranye yang meluncur dinamis di bagian tengah. Kombinasi warna biru navy dan oranye memberikan kesan profesional, modern, serta berenergi, dilengkapi dengan teks nama lengkap dan bidang keahlian (Creative Design • Photography) di bagian bawah.
+   [IMG#1] alt='' w=240 h=240 src=https://blogger.googleusercontent.com/img/a/AVvXsEhrzs9LmNvDa2O34WQMmL4c8rJPeDYSR6udKnU33PuiZj9cS1r1qdyBqlNrnpJBLzYwmhX8_JQoN75DLHsejQ18JW4cDa0tV4N362nIlptFaMBcqg-XWclWBwtBpZJgTxq4tyeNX5KeOHIxspeVbh1Z
+   P(56w): Gambar ini menampilkan desain logo personal branding untuk Jajang Nurjaman. Logo memadukan inisial JN berstruktur tajam dan tegas dengan elemen bola voli berwarna oranye yang meluncur dinamis di bagian tengah. Kombinasi warna biru navy dan oranye memberikan kesan profesional, modern, serta berenergi, dilengkapi dengan teks nama lengkap dan bidang keahlian (Creative Design • Photography) di bagian bawah.
+
+## HEADING [h3]: INI PROMPT YANG DI GUNAKAN DI BRANDING
+   P(24w): Hai berperan lah sebagai expert designer, disini saya akan membuat logo atau branding personal dari Inisial saya, nama saya Jajang Nurjaman berikut ketentuannya. berdasarkan:
+   P(3w): • Inisial nama = JN
+   P(4w): • Karakter diri = berani,tegas
+   P(5w): • Hobi atau minat = bermain volly
+   P(6w): • Bidang kreatif yang diminati = desain, fotografi
+   P(2w): Output: PNG
+   P(3w): Format 1:1
+   P(2w): Kualitas 4k
+
+## HEADING [h2]: 2.MOODBOARD
+   [IMG#2] alt='' w=240 h=240 src=https://blogger.googleusercontent.com/img/a/AVvXsEieFlI0rFL6h5z1daJGe7yf7c3AoKNA5GI9zHQ-vNTuCxeYeNqo5zKOB-rFNquena1R6EqR3_SfmMD9JHi8zgQ4RnX8Y8sqymLa2D9Wv8msSKofqeOVVmZAS-YtNjSAv0kBmpazdnr8s4KHfieNC7G1
+
+## HEADING [h2]: 3.MOCKUP
+   [IMG#3] alt='' w=240 h=240 src=https://blogger.googleusercontent.com/img/a/AVvXsEgplnG_aoghYRUo3gTQzMe0yn03Ghnq9QqARzFEq2HIblMp6Vpu1WCpuhyEkDQ3na-Z-zVRxg4lrkRfsTV2AgymkrLFGL71wWs4imo-_DnZz9-C4_-i29mFrBF9-ErtnOxSAyrc4zPAgb3PYvpIDIxT
+
+## HEADING [h3]: INI PROMPT YANG DI GUNAKAN DI MOCKUP
+   [IMG#4] alt='' w=240 h=240 src=https://blogger.googleusercontent.com/img/a/AVvXsEhWw1Blx2u0RvpXo08NxXIbvAOI4YGL02QwIvDYWuck8adx5ex6jk3oqquLTg5ELmijp_Ds42nY19_zZmhoFJvqY7EltYpiOA4L8B2k0jyYB_44yLrOZdpmfCiKhHFbAda7yRZcni7nYPPUPJtnHlLY
+   [TABLE#1] rows=11 maxcols=7
+        r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+        r02: 1 || Pembukaan Studio || Extreme Wide Shot (EWS) || Eye Level || Static || 2s || Memperlihatkan suasana studio visual bernuansa navy blue secara keseluruhan dengan pencahayaan sinematik.
+        r03: 2 || Peralatan Kerja || Medium Close-Up (MCU) || High Angle || Pan Right || 3s || Kamera bergerak mulus melewati kamera DSLR, color swatch oranye-biru, dan laptop.
+        r04: 3 || Pengenalan Maskot || Medium Shot (MS) || Eye Level || Push In (Slow Dolly In) || 2s || Maskot 3D JN berdiri tegap dengan pose percaya diri di tengah studio.
+        r05: 4 || Trik Bola Voli || Close-Up (CU) || Low Angle || Tilt Up || 3s || Kamera menyorot bola voli bermotif aperture lensa yang diputar lincah di jari maskot.
+        r06: 5 || Aksi Jump Smash || Full Shot (FS) || Low Angle || Fast Tracking / Arc || 3s || Maskot melompat ke udara melakukan gerakan smash bola bernuansa dinamis dan berani.
+        r07: 6 || Transisi Grafis || Medium Wide Shot (MWS) || Eye Level || Zoom Out (Fast) || 3s || Bola memancar menjadi partikel cahaya, memunculkan ikon kamera, grid, dan elemen geometris.
+        r08: 7 || Pendaratan & Kamera || Medium Shot (MS) || Low Angle || Whip Pan || 2s || Maskot mendarat presisi dan langsung menangkap kamera DSLR-nya dengan sigap.
+        r09: 8 || Bidikan Kamera & Flash || Extreme Close-Up (ECU) || Eye Level || Static || 3s || Kamera membidik ke arah penonton; kilatan flash sinematik biru menerangi layar (transitions cut).
+        r10: 9 || Pameran Hasil Karya || Medium Shot (MS) || Eye Level || Pan Left || 3s || Bertransisi memperlihatkan portofolio hasil desain grafis dan fotografi di layar monitor digital.
+        r11: 10 || Penutup / End-Card || Full Shot (FS) || Eye Level || Static || 6s || Maskot 3D bersanding dengan logo inisial JN, nama "JAJANG NURJAMAN", dan tagline utama.
+   [IMG#5] alt='' w=240 h=240 src=https://blogger.googleusercontent.com/img/a/AVvXsEgCtn_PgT5KWDsbYuZKSoAn0vnzzIIop_H91eI7x1wWw5l4IrCfhHhlqnoN5mZwf4uRF15UdGpdWrC-th_Yb4CHi-orqPnagOsoqu4jERToCtqkRaJu4Zd4y-rPMTj-_b9VYZIih7iG7WURTiUTOIAi

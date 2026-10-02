@@ -1,0 +1,94 @@
+====================================================================================================
+ID R10 | XI DKV 2 | AHMAD FAUZI
+URL: https://ahmadfll.blogspot.com/2026/09/promptberperanlah-sebagai-profesional.html
+STATUS: 200  final=https://ahmadfll.blogspot.com/2026/09/promptberperanlah-sebagai-profesional.html
+PAGE TITLE: Biodata diri
+H1: 
+WORDS: 813 | IMAGES: 11 | TABLES: 0
+LABELS: AI, Personal Branding, Portofolio, SMKN 9 Garut, Tugas Sekolah
+KW COUNTS: {'logo': 9, 'moodboard': 4, 'mockup': 2, 'naskah': 7, 'storyline': 1, 'shotlist': 1, 'storyboard': 2, 'mascot': 5, 'prompt': 4, 'tagline': 3, 'deskripsi': 3, 'by_nama': 0, 'color': 1, 'tipografi': 1}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+   [IMG#1] alt='' w=240 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0WOjEVjpNu5yQQ-gKdyFU1SFxUGbpVjE9ilAwqO8q496PpPmvlNSbc7kdRFuJbndiLr8PfP0ufjFoKmZHC_iWFEmcDyPE4JBS730LOX3wsmKgLrrQuM62vrX3fn069Jd9PtO-36miZ89
+   P(6w): • inisial nama = AF — dari Ahmad Fauzi
+   P(16w): • karakter diri = Kreatif, bertanggung jawab, mau belajar, suka mencoba hal baru, dan cukup cepat dalam bekerja
+   P(11w): • hobi atau minat=Fotografi, videografi, menonton film, dan mempelajari hal baru
+   P(14w): • bidang kreatif yang diminati: Desain Komunikasi Visual, fotografi, videografi, filmmaking, penyutradaraan, dan penulisan naskah
+   P(4w): 1. Logo Personal Branding
+   P(3w): AF — Ahmad Fauzi
+   P(33w): Logo menggunakan inisial A dan F sebagai identitas utama. Bentuk logo dipadukan dengan elemen diafragma kamera/aperture yang merepresentasikan minat pada fotografi, videografi, dan filmmaking. Gaya visual dibuat modern, tegas, kreatif, dan profesional.
+   P(3w): 2. Nama Branding
+   P(3w): AF Visual Creator
+   P(2w): 3. Tagline
+   P(5w): “Visual Creator, Film maker, Photograrher."
+   P(4w): 4. Deskripsi Konsep Branding
+   P(124w): AF Visual Creator merupakan personal branding yang menggunakan inisial AF dari nama Ahmad Fauzi sebagai identitas utama. Konsep visual terinspirasi dari dunia fotografi dan filmmaking, dengan menggabungkan bentuk huruf A dan F dengan elemen aperture kamera. Aperture dipilih sebagai simbol dari cara melihat, menangkap, dan menyampaikan sebuah cerita melalui visual. Branding ini menggambarkan karakter yang kreatif, bertanggung jawab, mau belajar, suka mencoba hal baru, serta mampu bekerja dengan cukup cepat. Bidang yang ingin ditonjolkan adalah Desain Komunikasi Visual, fotografi, videografi, fi
+   P(4w): B. MEMBUAT MOODBOARD BRANDING
+   P(15w): PROMPT: Goodjob, sekarang buatkan saya moodboard branding yang rapih dan terstruktur sesuai identitas saya diatas
+   P(3w): Moodboard wajib memuat:
+   P(3w): • Warna utama branding
+   P(1w): • Typography
+   P(2w): • Style visual
+   P(2w): • Referensi desain
+   P(2w): • Tone & Mood
+   P(2w): • Elemen grafis
+   P(2w): • Inspirasi visual
+   P(1w): Output
+   P(2w): • 1 Moodboard
+   P(2w): • Format Landscape
+   [IMG#2] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD9QwNPcIGd-6Tq8DEaCOvRYXLs6OiQ6pK7p8WqpXTsE0SQaagxga7p6lmkXwMx11lZ5cffi1G-nn-KncR5uqYepS3x331UKN7BZzoJCOtcKwthCxvv5hqUTKB2wv5epPJfOuwFGabtXh
+   P(4w): C. MEMBUAT MOCKUP BRANDING
+   P(14w): PROMPT: Saya sangat puas dengan hasilnya, sekarang implementasi kan media saya ke promosi nyata
+   P(1w): •laptop
+   P(3w): • social media feed
+   P(1w): • billboard
+   P(1w): Output
+   P(3w): • 3 Mockup Branding
+   P(2w): • Resolusi tinggi
+   P(4w): • Penjelasan Fungsi Media Branding
+   P(2w): 1. Laptop
+   P(35w): Laptop digunakan sebagai media untuk menampilkan identitas visual dan branding secara digital. Media ini dapat digunakan untuk menampilkan logo, desain, portofolio, maupun materi promosi sehingga branding terlihat lebih profesional dan mudah dipresentasikan kepada orang lain.
+   P(4w): 2. Social Media Feed
+   P(37w): Social media feed berfungsi sebagai media promosi untuk memperkenalkan branding kepada masyarakat melalui platform digital. Dengan menampilkan logo, desain, produk, atau informasi secara konsisten, social media feed dapat meningkatkan pengenalan dan membuat identitas branding lebih mudah diingat.
+   P(2w): 3. Billboard
+   P(35w): Billboard berfungsi sebagai media promosi berukuran besar yang dapat menarik perhatian banyak orang di tempat umum. Branding yang ditampilkan pada billboard dapat membantu meningkatkan brand awareness karena dapat dilihat oleh banyak orang dalam waktu singkat.
+   [IMG#3] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejZ4kJ6njHXJ_a-UYaXs_PQDiHJCMtDn9jni73ES_n_Ge8aOiqd4xPjZ8EOzXClcTVV1YhXpdGl1g0LnJ9dJ9E6w19jFiE6rhlEGJnjKzJ2aouDT2h3uRbv5rU2nexNJGguLOLghJmmA
+   P(15w): D. Saya ingin membuat tugas Perencanaan Video Iklan Komersial berdasarkan branding yang sudah saya buat.
+   P(7w): D.1 NASKAH IKLAN (Durasi: ~30-45 Detik)
+   P(4w): ​Judul: Abadi dalam Cerita
+   P(4w): ​Tema: Menangkap Momen Berharga
+   P(26w): ​Pesan Utama: Foto dan video bukan sekadar visual, melainkan jembatan untuk menyimpan dan menceritakan kembali kenangan terbaik dalam hidup kita. AF hadir secara profesional untuk mengabadikannya.
+   P(4w): ​Narasi / Voice Over (VO):
+   P(5w): ​(Mulai dengan nada hangat, reflektif)
+   P(16w): ​VO: "Bagi banyak orang, waktu berjalan begitu cepat. Detik hari ini... bisa jadi kerinduan esok hari."
+   P(15w): ​VO: "Seringkali kita ingin menggenggamnya erat-erat. Karena sebuah momen... bukan hanya sekadar gambar yang terlihat."
+   P(4w): ​(Transisi ke nada bersemangat)
+   P(11w): ​VO: "Tapi tentang bagaimana kita menyimpan dan menyampaikan cerita di dalamnya."
+   P(7w): ​VO: "Untuk itu, AF hadir di sini."
+   P(15w): ​VO: "Kami menangkap setiap senyuman, kehangatan, dan karya Anda dengan cepat, kreatif, dan sepenuh hati."
+   P(2w): ​Closing Tagline:
+   P(11w): ​VO & On-Screen Text: "AF. Abadi dalam Cerita, Nyata dalam Setiap Karya."
+   P(3w): ​D.2 STORYLINE
+   P(29w): ​Pembukaan (0-8s): Memperlihatkan Rian (seorang pemuda/talenta utama) di rumahnya yang sedang merapikan atau membalik-balik album foto usang serta barang-barang kenangan lama. Ada rasa hangat sekaligus kerinduan di matanya.
+   P(64w): ​Alur Cerita (8-18s): Rian tersadar betapa berharganya momen saat itu saat melihat ibunya sedang sibuk membuat kue dan adiknya yang sedang tertawa. Ia mencoba merekamnya menggunakan smartphone miliknya, namun hasilnya terasa kurang maksimal dan goyang. Ia sadar ia membutuhkan bantuan profesional untuk mengabadikan momen penting keluarganya (atau suatu acara) dengan layak. He decides to contact AF (Ahmad Fauzi) via social media on his laptop.
+   P(47w): ​Konflik / Fokus Visual (18-35s): Tim kreatif AF yang dipimpin oleh Ahmad Fauzi (memakai kaos identitas AF) datang membawa kamera, gimbal, dan perlengkapan lainnya dengan sigap. Terjadi proses syuting yang dinamis, penuh interaksi natural, tawa, dan profesionalisme. Terlihat keahlian cepat dalam memposisikan kamera demi menangkap ekspresi-ekspresi terbaik (candid).
+   P(35w): ​Penutup (35-45s): Seluruh keluarga Rian bersama tim AF berkumpul melihat hasil akhir video yang memukau di layar. Ada raut puas dan haru. Iklan ditutup dengan logo AF (Ahmad Fauzi) yang modern dan taglinenya yang mengesankan.
+   [IMG#4] alt='' w=320 h=144 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT6vG6idqujWvuveCOHskV4ENvlLteS051b4T4Hh7RA12VG3pO6tuiatza5pXeeJVr5i5sDFLWrpZnBtPM2DZh3v3vmqcLhSnAJWq6A4PE9uxdwYalybaAIKVGohHxRuRmoBHTjIMdVjY
+   [IMG#5] alt='' w=320 h=144 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghffpo0IVBbFycTALk8taFhRcx5fM82vVDfLxjjcA5kbKHP7nzApCj_BxTOE23FlkaPHsd4lHOBU4bVMp8rJBMov2DvCcYoC_ElW6jEeR_cZWjppDW1Jg7sE0MCrzAd-y7_zRElAX2pDV
+   [IMG#6] alt='' w=320 h=144 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv9n6xBJNcoayLa8QbyF9FxDTRXx6QR2MtGHWq1nxZv33uXQsWILzkbm5_ULXS_yRDk_zXthlMcKkbCI9NZWkU6E0VV7smuwvL3GFIw8uIQmR-LQvOm_zN2iwqQJ0641x_MoJnfIZTJqy
+   [IMG#7] alt='' w=320 h=144 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNN-le-Hh8OvzljWpkqA7Ijm_ddDxk-ud1uUJu63rZkTemRKZGQ1n7ev7fg1Uu9pg78kh05X1nOj_A7xyw3zAKvmMvoRJjKcNePbpt8wiQN2b2QKfkSS9oA4jPG_SxwZ5T2x1NU-vTMc3
+   [IMG#8] alt='' w=320 h=144 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzw0yb2G5Zeq5tzTMlzwBp-iUTjQIIIEahi9uQYYF_UQ5TByRE6GR5EfAvW1eJdK_TJfSuJB-EVdQwhvMqirZIarMJCV5xepPr4fYeCO6Ppxy9HOeXzj2cD5CmgiIg8oVkxYLilMg8y5s
+   [IMG#9] alt='' w=320 h=144 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyZWmAa82txYnO94ehpwej0LVkVvaafpBObpympd_LYsYJh0e8VGJxLvZO8vPeG06eiXKJ7J5pYwFr1KfA27mGk96XyjFYIBZEmn3iZ2ymXnOUaPYfwj5elLz2B-MNomI7yf-JRFHF3X9
+   P(3w): D.4 STORYBOARD
+   P(7w): PROMPT: Bagus banget, oke selanjutnya buatkan storyboardnya
+   [IMG#10] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizf9axhyybVAY5WZAn6s3l0xXUy20N2DcsTQPiXUUi_nQ5iuZYCKFlKX82sciuvnXmC4Pl1_UwJu5cD_Hs6EZ2VV1U2nTbYuw41EnRgb1N8wxSM8o_tk14uyWlt1SU8CIANldpG1YVd5C
+   P(5w): E. MEMBUAT AI MASCOT CHARACTER
+   P(8w): Ubah foto diri menjadi karakter maskot menggunakan AI.
+   P(2w): Pilihan Style:
+   P(2w): • 3D Character
+   P(1w): Output
+   P(4w): 1. Mascot Full Body
+   P(3w): 2. Mascot Portrait
+   P(5w): 3. Mascot Bersama Logo Branding
+   [IMG#11] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZIw0cgRg7ddRNLWGUBX2GzAMVUr1ZPDQZCQ1tgW_CsHy4fXEqdZhQNyEsJgVwIWVYhHXU5wcpUC1ZKIkdOgpr6ncTlgo4smN5DKg-u4k0PMSCcvwQiB_G6IVUYP61DZ3O0nvOCrl0Kuk

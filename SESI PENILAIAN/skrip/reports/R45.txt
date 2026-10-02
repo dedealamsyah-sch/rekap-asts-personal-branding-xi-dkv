@@ -1,0 +1,31 @@
+====================================================================================================
+ID R45 | XI DKV 3 | WILDAN
+URL: https://blohwildan123.blogspot.com/2026/09/personal-branding-wildan-lx-dkv-3-smkn.html
+STATUS: 200  final=https://blohwildan123.blogspot.com/2026/09/personal-branding-wildan-lx-dkv-3-smkn.html
+PAGE TITLE: Personal branding wildan lx dkv 3 SMKN 9 garut
+H1: 
+WORDS: 1598 | IMAGES: 5 | TABLES: 1
+LABELS: 
+KW COUNTS: {'logo': 22, 'moodboard': 7, 'mockup': 7, 'naskah': 13, 'storyline': 2, 'shotlist': 5, 'storyboard': 3, 'mascot': 13, 'prompt': 6, 'tagline': 2, 'deskripsi': 4, 'by_nama': 0, 'color': 8, 'tipografi': 3}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h2]: Personal branding wildan lx dkv 3 SMKN 9 garut
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxdCndyllLRkSNHwn86iQk0kU-hp9NZaBfZhvhZXPShBJCta28i22pBlB6hx1HYHUFQBf-nMgMT_tLtJtmTx7i0eIA_NLPO6pII_O5Q5GhXhBtSTswh_Bmhz5i38Vh2VXJerCzD0qgGqL
+   [IMG#2] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD4p28w2PdrYiIWe69H0dUE7XnhDyx-25nTwa4uQCERxUg2Tz9Gb3WKJXOGDN7qIC2Q6EF5DntgWGuXLJxr7LrgEFXJ3gqt0NKqS6UMnkdLnDl5OFR8qNUt68Q2xIZU6XLwjiseszbmuU
+   [IMG#3] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJaivr2ECwzCJPGWwAA6AGPaSKUmrDvDN13rHtFDGRqvC_-7t5-i9vPz50pEpO8vhf5YuxKqU5-7ZAUeswR3OEKtlNwty7fkMFWnsFTx2tXjh76UFcupdFFt6Wj5a5n31v5I08mAvcRV5
+   [IMG#4] alt='' w=320 h=179 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtemAUz7pfdYWR6xah1aTTzUtY6_fwxvkiJaSG0hSf5wjsXizHRNBJVcQGZXLuJY4R8F6SJGHkB4I5p8lN5F91X_6oNwihkZgxgP0rwLbfQlxqbdZkXIp4mU9lIK6ZbknE6cj544XqM8h
+   [TABLE#1] rows=11 maxcols=7
+        r01: Tidak || Adegan || Jenis Shot || Sudut || Pergerakan || Durasi || Deskripsi
+        r02: 1 || Pembukaan Studio || Ekstrem Jarak Dekat (ECU) || Setinggi Mata || Statis || 3 detik || Tangga memutar focus ring pada lensa kamera dengan nuansa blue lighting yang tenang.
+        r03: 2 || Proses Desain || Gambar Detail / Tampilan Jarak Dekat || Sudut Tinggi || Geser ke kanan || 3 detik || Pena stylus menorehkan garis presisi di atas layar tablet grafis.
+        r04: 3 || Transisi Alam || Medium Long Shot (MLS) || Setinggi Mata || Pengambilan Gambar Bergerak || 4 detik || Wildan berjalan di antara jalur setapak berembun di lereng gunung berselimut kabut tipis.
+        r05: 4 || Fotografi Momen || Tembakan Sedang (MS) || Sudut Rendah || Miringkan ke Atas || 4 detik || Wildan mengangkat kamera ke arah pemandangan puncak gunung lalu menekan tombol shutter.
+        r06: 5 || Lanskap Gunung || Gambar Sangat Lebar (EWS) || Sudut Tinggi || Perkecil Tampilan || 3 detik || Pemandangan megah puncak gunung dengan siluet mentari pagi yang hangat.
+        r07: 6 || Visualisasi Kisi Transisi || Tampilan Jarak Dekat (CU) || Setinggi Mata || Statis || 4 detik || Hamparan garis grid geometris muncul melingkupi foto pemandangan puncak gunung.
+        r08: 7 || · Logo || Tembakan Sedang (MS) || Setinggi Mata || Tekan dan Perbesar (Zoom In) || 4 detik || Garis-garis geometris bergerak dinamis menyatu membentuk logo monogram 'W'.
+        r09: 8 || Pameran Pakaian || Tampilan Jarak Dekat (CU) || Sudut Belanda || Orbit / Busur || 3 detik || Detail lipatan bahan kaos hijau forest dan hoodie slate blue berlogo 'W'.
+        r10: 9 || Tampilkan Umpan Digital || Jarak Dekat Sedang (MCU) || Sudut Tinggi || Statis || 3 detik || Tampilan layout grid feed Instagram sinematik pada layar iPad.
+        r11: 10 || Penutup (Branding & Maskot) || Gambar Penuh (FS) || Setinggi Mata || Alas Naik || 4 detik || Maskot 3D Wildan berdiri ramah bersama perlengkapan kamera di samping logo utama WILDAN.
+   [IMG#5] alt='' w=320 h=175 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvrR-XskkLeTg7mZhAJ4tmC6Sh4Nt9j3DfgPpwTqrBdwhqqimXLML0SgwqXMAht-RR5v5kcvoCnW961TOtWLUBU_-s5XKmlvu3l4QHPHHR7-5mcKyU5I8yzD5V-XTagE1UN-sM7nlo585

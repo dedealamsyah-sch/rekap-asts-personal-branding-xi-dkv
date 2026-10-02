@@ -1,0 +1,41 @@
+====================================================================================================
+ID R61 | XI DKV 4 | AJENG DWI RAISSA FITRI
+URL: https://ajrass20.blogspot.com/2026/10/personal-brending-ajeng-xi-dkv4.html
+STATUS: 200  final=https://ajrass20.blogspot.com/2026/10/personal-brending-ajeng-xi-dkv4.html
+PAGE TITLE: PERSONAL BRENDING AJENG XI DKV4
+H1: 
+WORDS: 2845 | IMAGES: 7 | TABLES: 0
+LABELS: 
+KW COUNTS: {'logo': 38, 'moodboard': 8, 'mockup': 9, 'naskah': 19, 'storyline': 2, 'shotlist': 6, 'storyboard': 8, 'mascot': 24, 'prompt': 8, 'tagline': 15, 'deskripsi': 14, 'by_nama': 7, 'color': 44, 'tipografi': 6}
+----------------------------------------------------------------------------------------------------
+DOCUMENT ORDER CONTENT
+----------------------------------------------------------------------------------------------------
+
+## HEADING [h1]: ASTS PERSONAL BRANDING AI AJENG DWI RAISSA FITRI XI DKV4 SMKN 9 GARUT
+
+## HEADING [h3]: 1.LOGO PERSONAL BRENDING
+   [IMG#1] alt='' w=320 h=320 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5DKOoCFpcERLKtsJY3i5EpARR3B5tKQGftZuQ0nKVD-n1RfhSUmCW9gNfaxC_9M1RRecXXdWWLqg37B00yzpAuQcEDjQqxWsTFriS1hRKoXMBJTCotUJiSvuYzAvEtPWm3ySs2N-5EdT
+
+## HEADING [h3]: 2.MOODBOARD BRENDING
+   [IMG#2] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij3KohxwWEZ8-cAenEcxq6TgGKjLnG8bsiJrZcSbIb3HeAnW6WD8tuK_JKNK6bZnaAgG3HAi5N2FLAysH-AY0G9gxROF_PT6guSHVJsLcGyGilq8gH0w3c9wnCMMr-ODMNwZKHXchbogg
+
+## HEADING [h3]: 3. MOCKUP BRANDING
+   [IMG#3] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOkefJXFShPx_GD72ZRmfj3SjHzZngg3qb-4zfRsLCdUxZgqYhpw6bcbTN98LeuMJKitOUeCvwjbwCqsfti1ddbQa-d0KdhpW9gsDV1HsCqxgJQbxlRTqyTtowL9HNNd9LgZ7Ks-D5qCf
+
+## HEADING [h3]: 4.MASCOT CHARACTER
+   [IMG#4] alt='' w=320 h=213 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHaDnlGVIE-__KpXUh7TkygFk6_kJqNhDYxPFscH-wVWtMpROcg1V-YLiq_QDTwKzSbQgKdt2eNX22tV6O-7PystrxGauzhyphenhyphen6NKqwWilEfFazQLYBws3V7_C5_iNS5O8Qh
+
+## HEADING [h3]: 5.NASKAH IKLAN
+   [IMG#5] alt='' w=320 h=292 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFHL-p9yzC6ux3s7O1WA40sA1FRBu6yjeInG6B9IUuqORMKxCqEXQdwMTM0Z4lkX56kEMj0_kANxCLuRFeP8SdjgNzj7PjWPeabax4OjmW4rmjmITLdi2GBK8fuH54faZS2KjEpUxyiMb
+
+## HEADING [h3]: 6. Storyline
+
+## HEADING [h3]: 7. Shotlist
+   [IMG#6] alt='' w=320 h=175 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-UxfTB2tBo9Qj53g9OeKGd_YnhWEPxZrHH7epB-XTN4rGNtjAIwLsdLRBHJBBmfZAuaTsaa8q-vy_Eqqd2vHMRT1cGLu029tCXfCtOpjeBA9QA3hYncTno2JnIsNJR3bQ41jHQ9Bql-
+
+## HEADING [h3]: 8. Storyboard
+   [IMG#7] alt='' w=320 h=292 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3viIRluk3FAywfoVnPkkO5SltP_Osyn6aTF28jMCc5WJRQ62sWb-RWC3-XL8Dc33ge_UTIvSOe97A6LzIMXVvo81UjvfyINqrqZVfjGg6GBZ4TpYmYkYSIWVOTE5o43RWDlt5rrbM7lS
+
+## HEADING [h3]: 9. Penjelasan Konsep
+
+## HEADING [h3]: 10. Prompt yang digunakan
