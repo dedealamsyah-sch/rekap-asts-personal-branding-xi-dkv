@@ -5,7 +5,7 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
 
-OUT = "/Users/dedealamsyah/Instructor/SAGAR/DKV/2026/MPP AI - XI DKV/ASTS/NILAI ASTS 1/REKAP NILAIAN ASTS - Personal Branding XI DKV 2026-2027.xlsx"
+OUT = "REKAP NILAIAN ASTS - Personal Branding XI DKV 2026-2027.xlsx"
 
 KOM = ["Penamaan Judul & Identitas","Personal Branding & Logo","Moodboard","Mockup Branding",
        "Naskah Iklan","Storyline","Shotlist","Storyboard","AI Mascot Character",
