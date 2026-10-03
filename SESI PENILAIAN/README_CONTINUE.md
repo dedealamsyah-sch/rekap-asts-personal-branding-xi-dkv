@@ -85,6 +85,24 @@ python docs/update_data.py
 git add -A && git commit -m "..." && git push origin main
 ```
 
+## Catatan gambar (PENTING)
+Pada 3 Oktober 2026 folder `skrip/img/` dipangkas dari 806 → 337 file (131 MB → 45 MB).
+Yang dihapus adalah gambar **yatim**: tidak terdaftar di `images.json` karena menumpang
+di folder `R##` yang nomornya sudah bergeser, sehingga isinya milik siswa lain dan tidak
+dapat dipercaya.
+
+- **Nilai tidak bergantung pada gambar.** `RESOLUSI` di `make_xlsx.py` sudah berupa angka
+  literal hasil pengukuran; tidak ada dokumen hasil yang menautkan `.jpg`.
+- Gambar **16 siswa** dengan butir cek visual di sheet `4. CEK MANUAL GURU` **dipertahankan**
+  (AHMAD FAUZI, AQILA NAZIL FALAQ, DEDE APRILIA KARTIKA, DHEA EKA KHOERUNNISA, ILMA LATIFAH,
+  INTAN WIDIYANTI, JIHAN SHAFIRA KEAN PUTRI MULYADI, PUTRI INTAN NURAENI, QIANDRA KAIZAR NAHARI,
+  QUINSYA RAHMANESA SOLEHA, SAFINAH SYARA GARINI, SAVINA KHOERUNNISA, SOPA ANIDATUL AISAH,
+  WAHDAN SAPARI, WILDA AZKIA, WULAN SUNDARI). Jangan hapus sebelum butirnya selesai diperiksa.
+- Gambar siswa nilai 0 (CEISHA SINTHIA, SINDIA SAPUTRI, SITI JENAB, NAZWA KURNIA) ikut
+  terhapus — butir CEK mereka hanya "kirim link publik". Bisa diunduh ulang bila perlu.
+- **Masih dapat dipulihkan** dari history: `git checkout <commit-sebelum> -- "SESI PENILAIAN/skrip/img"`.
+- Menghapus gambar **tidak** mengecilkan `.git`; itu masalah terpisah (lihat di bawah).
+
 ## Catatan teknis
 - `docs/update_data.py` hanya menyalin objek `DATA`; HTML/JS lain tidak tersentuh.
 - `.gitignore` **tidak** mengecualikan apa pun — gambar & `.xlsx` ikut ter-*commit*.
