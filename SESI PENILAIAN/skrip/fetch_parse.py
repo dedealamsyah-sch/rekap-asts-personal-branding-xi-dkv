@@ -224,6 +224,18 @@ lama = {}
 if os.path.exists(SNAP):
     lama = {r["nama"].upper(): r for r in _load(SNAP)}
     print("Snapshot pembanding: %s (%d siswa)" % (SNAP, len(lama)))
+    # PENJAGA: bila snapshot jauh lebih tua dari skrip/parsed.json, maka selisihnya
+    # akan dilaporkan sebagai "KIRIMAN BARU" padahal siswa itu sudah dinilai.
+    # Sinkronkan dulu:  cp parsed.json ../data/parsed.json
+    _sini = os.path.join(OUT, "parsed.json")
+    if os.path.exists(_sini):
+        _n_sini = len(json.load(open(_sini, encoding="utf-8")))
+        if len(lama) < _n_sini - 3:
+            print("  !! PERINGATAN: snapshot (%d) lebih tua dari parsed.json (%d)."
+                  % (len(lama), _n_sini))
+            print("  !! %d siswa akan Terlihat sebagai 'KIRIMAN BARU' padahal sudah dinilai."
+                  % (_n_sini - len(lama)))
+            print("  !! Jalankan dulu:  cp parsed.json ../data/parsed.json")
 else:
     print("PERINGATAN: snapshot %s tidak ditemukan - perbandingan tidak dapat dilakukan" % SNAP)
 baru_nama = [r["nama"].upper() for r in data]

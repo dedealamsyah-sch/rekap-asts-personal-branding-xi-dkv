@@ -74,7 +74,10 @@ Skrip `ocr` / `ocrcrop` (binary Mach-O) **tidak bisa dijalankan** di sini.
 
 ## Alur pemeliharaan
 ```bash
-cp "SESI PENILAIAN/skrip/parsed.json" "SESI PENILAIAN/skrip/parsed_snap.json"  # opsional
+# WAJIB: sinkronkan baseline dulu, kalau tidak 26 siswa lama akan muncul
+# sebagai "kiriman baru" padahal sudah dinilai.
+cp "SESI PENILAIAN/skrip/parsed.json" "SESI PENILAIAN/data/parsed.json"
+
 python "SESI PENILAIAN/skrip/fetch_parse.py"
 python "SESI PENILAIAN/skrip/getimg_sel.py <ID...>     # merge, validasi magic bytes
 python "SESI PENILAIAN/skrip/tools/ocr_batch.py <ID...>
@@ -84,6 +87,10 @@ python "SESI PENILAIAN/skrip/make_xlsx.py"
 python docs/update_data.py
 git add -A && git commit -m "..." && git push origin main
 ```
+
+> `fetch_parse.py` kini_MEMBERI PERINGATAN otomatis bila `data/parsed.json` lebih tua
+> dari `skrip/parsed.json`. Kalau peringatan itu muncul, abaikan hasil "KIRIMAN BARU" dan
+> ulangi setelah `cp` di atas. Status saat ini: baseline **sudah sinkron** (112 = 112).
 
 ## Catatan gambar (PENTING)
 Pada 3 Oktober 2026 folder `skrip/img/` dipangkas dari 806 → 337 file (131 MB → 45 MB).
