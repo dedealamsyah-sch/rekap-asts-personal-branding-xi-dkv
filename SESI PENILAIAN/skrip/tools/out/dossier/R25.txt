@@ -1,0 +1,293 @@
+====================================================================================================
+ID R25 | INDRI | XI DKV 3 | ts 2026-10-02 11:23:07
+URL: https://indriii07.blogspot.com/2026/10/personal-branding-indri-xi-dkv-3.html
+PAGE TITLE: 'PERSONAL BRANDING INDRI XI DKV 3'
+STATUS 200 | words=4403 | img=8 | tabel=1 | labels=['AI', 'Personal Branding', 'Portofolio', 'SMKN 9 Garut', 'Tugas Sekolah']
+
+### TABEL (11 baris x 7 kolom)
+  r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi & Narasi
+  r02: 1 || Keindahan Pagi di Danau || Extreme Long Shot (ELS) || High Angle || Static || 3s || Pemandangan danau dan pegunungan tertutup kabut pagi
+yang tenang. "Keindahan alam yang sunyi... Di sinilah cerita kita bermula..."
+  r03: 2 || Indri Menjelajah || Long Shot (LS) || Low Angle || Tracking || 3s || Karakter Indri berjalan mendaki di jalan setapak di tengah alam.
+"Segaran di tengah perjalanan... Temukan kedamaian Anda..."
+  r04: 3 || Detail Tumbler || Medium Close Up (MCU) || High Angle || Tilt Down || 3s || Tampilan dekat botol tumbler deep blue di saku ransel yang
+sedang ditaruh. "Kekuatan yang tumbuh..."
+  r05: 4 || Menikmati Momen || Medium Shot (MS) || Eye Level || Static || 4s || Detail lensa kamera Canon sedang mengamati dari kejauhan. "Ciptakan
+kenangan..."
+  r06: 5 || Sketsa di Notebook || Extreme Close Up (ECU) || Top Down || Static || 3s || Detail tangan menulis di notebook dengan pensil. Cahaya
+lembut. "Menangkap setiap detail..."
+  r07: 6 || Transisi Cahaya Pagi || Medium Long Shot (MLS) || Eye Level || Pedestal Up || 3s || Tampilan dekat bunga cosmos putih dengan pantulan
+cahaya berkilau dan tetesan air kecil. "Detail keanggunan alam yang halus..."
+  r08: 7 || Bayangan Bunga || Medium Shot (MS) || Dutch Angle || Zoom In || 3s || Bunga cosmos liar yang tumbuh di tebing terperangkap bayangan
+dramatis dari dahan. "Keindahan di tempat tak terduga..."
+  r09: 8 || Fokus Kamera || Close Up (CU) || Over the Shoulder (OTS) || Handheld || 4s || Dari belakang Indri, melihat layar kamera saat dia
+menyesuaikan fokus. Sedikit goyang. "Menangkap setiap momen..."
+  r10: 9 || Foto Sempurna || Close Up (CU) || Eye Level || Static || 4s || Tampilan dekat bunga cosmos putih yang sempurna dan jernih, dengan efek
+pendaran cahaya (sparkle effect) lembut di lensa. "Momen yang sempurna..."
+  r11: 10 || Tim & Produk || Medium Shot (MS) || Eye Level || Dolly Out || 5s || Mascot karakter Indri 3D berdiri tersenyum, di sebelahnya ada deep
+blue tumbler, t-shirt folded stack, dan logo IR monogram di pin logam mengkilap. Slogan 'Capture the beauty in every moment' di bawahnya. "INDRI -
+Teman Perjalanan & Kreativitas Anda... Bersama INDRI, temukan kanvas Anda..."
+
+### [Shot List Pengambilan Gambar] (8 kata)
+Proyek Iklan Commercial Film: INDRI – The Silent Canvas
+
+### JUMLAH KATA PER BAGIAN: {'Shot List Pengambilan Gambar': 8}
+
+
+### TEKS ARTIKEL LENGKAP (get_text() penuh, 4403 kata; ekstraksi per-bagian hanya 8) — WAJIB DIBACA, JANGAN ABAIKAN
+ASTS PERSONAL BRANDING INDRI - XI DKV3 SMKN 9 GARUT 1.Branding Logo Deskripsi Logo Branding “INDRI” Logo yang kamu kirim merupakan logo personal
+branding “INDRI” dengan konsep modern, elegan, minimalis, dan memiliki sentuhan alam. Logo menggunakan bentuk monogram huruf “I” dan “R” sebagai
+elemen utama, kemudian dipadukan dengan simbol bintang, daun, dan bentuk seperti pita/gelombang. Keseluruhan desain menggunakan nuansa biru di atas
+latar putih sehingga memberikan kesan bersih dan profesional. 1. Monogram “IR” Bagian utama logo membentuk perpaduan huruf I dan R yang dibuat menyatu
+secara artistik. Huruf “I” terlihat tegas dan tinggi pada bagian kiri. Huruf “R” terbentuk melalui lengkungan dan bidang pada bagian tengah hingga
+kanan. Penggabungan kedua huruf membuat logo lebih unik, personal, dan mudah dijadikan identitas visual. Bentuk monogram yang sederhana membuatnya
+tetap mudah diaplikasikan pada berbagai media, seperti hoodie, tumbler, kartu nama, poster, kemasan, watermark foto, dan media sosial. Monogram
+tersebut juga memberikan kesan eksklusif dan elegan, seperti identitas sebuah brand profesional. 2. Elemen Bintang ✦ Di bagian tengah logo terdapat
+simbol bintang berujung empat. Bintang dapat dimaknai sebagai simbol: kreativitas dan ide baru, inspirasi, keunikan, harapan untuk berkembang, serta
+sesuatu yang menjadi ciri khas dari personal branding. Penempatannya di dalam bentuk monogram membuat bintang menjadi focal point yang menarik
+perhatian tanpa membuat desain terlihat terlalu ramai. 3. Elemen Daun 🍃 Pada sisi kanan logo terdapat dua bentuk daun yang menyatu dengan bagian
+monogram. Elemen daun memberikan sentuhan natural dan organik pada desain yang secara keseluruhan memiliki bentuk geometris dan elegan. Daun dapat
+merepresentasikan: pertumbuhan, perkembangan, kesegaran, kreativitas, dan proses menuju sesuatu yang lebih baik. Daun juga membuat logo terasa lebih
+lembut dan tidak terlalu kaku, sehingga menyeimbangkan bentuk huruf yang tegas. 4. Bentuk Pita/Gelombang Bagian bawah dan kanan logo memiliki bentuk
+melengkung seperti pita atau aliran garis. Elemen ini dapat dimaknai sebagai: fleksibilitas dan kebebasan dalam berkarya, kreativitas yang terus
+mengalir, proses perjalanan dan perkembangan, serta kesan dinamis. Lengkungan tersebut juga memberikan efek visual yang membuat logo terlihat lebih
+flowing, modern, dan elegan. 5. Warna Biru Warna utama logo adalah biru dengan beberapa gradasi/variasi intensitas. Warna biru memberikan kesan:
+profesional, tenang, terpercaya, modern, bersih, dan elegan. Penggunaan gradasi biru juga memberikan dimensi dan kedalaman visual, sehingga logo tidak
+terlihat datar. Warna biru muda pada beberapa bagian memberikan kesan lebih lembut, sedangkan biru yang lebih gelap memberikan ketegasan. 6. Tipografi
+“INDRI” Di bawah simbol utama terdapat tulisan “INDRI” dengan gaya huruf serif yang elegan dan jarak antarhuruf yang cukup lebar. Tipografi tersebut
+memberikan kesan: premium, feminin tetapi tetap profesional, klasik, berkelas, dan mudah dikenali. Jarak antarhuruf yang lebar membuat tulisan
+terlihat lebih lapang dan sophisticated, sekaligus membantu menjaga keseimbangan dengan simbol besar di atasnya. 7. Garis dan Ornamen di Samping Nama
+Di sebelah kiri dan kanan tulisan “INDRI” terdapat garis horizontal tipis dengan ornamen bintang kecil. Elemen ini berfungsi sebagai pemanis sekaligus
+penyeimbang komposisi. Garis tersebut membuat area nama terlihat lebih terstruktur dan memberikan kesan seperti signature/logo premium. 8. Komposisi
+Keseluruhan Komposisi logo menggunakan prinsip keseimbangan dan kesederhanaan. Simbol utama menjadi pusat perhatian, sedangkan tulisan “INDRI” berada
+di bawahnya sebagai identitas yang memperjelas nama brand. Latar putih memberikan ruang kosong (negative space) yang cukup luas sehingga logo tidak
+terasa penuh. Hal ini memperkuat karakter minimalis dan clean. Makna Keseluruhan Logo Secara keseluruhan, logo INDRI dapat dimaknai sebagai identitas
+personal yang menggambarkan kreativitas, keanggunan, perkembangan, dan karakter modern. Monogram IR menjadi representasi identitas pribadi, simbol
+bintang menggambarkan kreativitas dan inspirasi, sedangkan daun menggambarkan pertumbuhan dan perkembangan. Bentuk lengkung seperti pita memberikan
+kesan kebebasan serta kreativitas yang terus mengalir. Warna biru memperkuat kesan profesional, tenang, modern, dan terpercaya, sementara tipografi
+serif memberikan sentuhan elegan dan eksklusif. frompt yang digunakan: berperan lah sebagai seorang fotografer,buatlah logo branding inisial IR yang
+artinya indri,konsep branding yang menggambarkan kreativitas dan ketertarikan terhadap dunia desain dan fotografi yang menyukai alam.makna:bentuk logo
+dibuat sederhana dan elegan,pemilihan warna melambangkan kreativitas,modern dan karakter personal 2. Moodboard Deskripsi Moodboard Branding “Indri”
+Moodboard branding Indri mengusung konsep modern, minimalis, aesthetic, dan elegan dengan warna utama biru muda. Pemilihan warna ini memberikan kesan
+calm, bersih, profesional, dan kreatif. Warna: Biru muda sebagai warna utama, dipadukan dengan putih dan biru yang lebih gelap agar tampilan tetap
+elegan dan memiliki kontras. Tipografi: Menggunakan perpaduan serif elegan untuk judul/logo dan sans-serif sederhana untuk teks pendukung. Perpaduan
+ini memberikan kesan modern sekaligus profesional. Style Visual: Menggunakan desain yang bersih, banyak ruang kosong, bentuk sederhana, serta elemen
+visual yang tidak terlalu ramai. Referensi Desain: Logo IR – Indri menjadi acuan utama, terutama penggunaan inisial IR, elemen kamera, gunung, daun,
+dan garis lengkung yang menggambarkan fotografi, desain, dan kecintaan terhadap alam. Tone & Mood: Calm & Professional, ditampilkan melalui warna biru
+muda, pencahayaan lembut, visual alam, dan komposisi yang rapi. Kesan Keseluruhan: Branding menggambarkan Indri sebagai pribadi yang kreatif, menyukai
+fotografi dan desain, dekat dengan alam, serta memiliki karakter modern dan elegan. Prompt yang digunakan: sekarang tolong buatkan moodboard branding
+berdasarkan: •warna = biru muda • typografi •style visual = modern,minimalis, aesthetic, elegant •reverensi desain = logo yang tadi dibuat •tone &
+mood = calm & profesional 3. MockUp 1).Hoodie Deskripsi Mockup Branding Hoodie “INDRI” Mockup hoodie INDRI dirancang dengan konsep modern, minimalis,
+aesthetic, dan elegan yang mengikuti identitas visual dari moodboard sebelumnya. Hoodie menggunakan warna biru muda sebagai warna utama untuk
+memberikan kesan tenang, bersih, profesional, dan fresh. Pada bagian depan hoodie terdapat logo IR – INDRI sebagai identitas utama brand. Logo
+ditempatkan secara minimalis di bagian dada sehingga terlihat elegan dan tidak terlalu ramai. Detail logo menggunakan warna biru yang sedikit lebih
+gelap agar tetap terlihat jelas namun menyatu dengan warna hoodie. Bagian belakang menampilkan elemen gunung dan bintang yang terinspirasi dari logo,
+sebagai simbol kecintaan terhadap alam, kreativitas, dan semangat untuk terus mengeksplorasi. Tulisan “More Than Just a Moment” menggambarkan karakter
+brand yang berkaitan dengan fotografi, yaitu mengabadikan setiap momen yang memiliki makna. Hoodie dibuat dengan model oversized dan casual sehingga
+memberikan kesan modern serta nyaman digunakan. Detail seperti tali hoodie, rib pada lengan dan bagian bawah, label INDRI, serta kemasan dibuat senada
+dengan identitas warna biru muda. Secara keseluruhan, mockup ini merepresentasikan Indri sebagai personal brand yang kreatif, menyukai desain dan
+fotografi, dekat dengan alam, serta memiliki karakter calm, profesional, dan elegan. 2).Tumbler 1. Desain Produk Tumbler Bentuk & Siluet: Tumbler
+memiliki desain silinder yang ramping (sleek), ergonomis, dan modern. Ukurannya proporsional dengan kapasitas sekitar 500–600 ml, memberikan kesan
+eksklusif dan praktis untuk dibawa bepergian. Material & Finishing: Terbuat dari bahan stainless steel berkualitas tinggi dengan lapisan matte finish
+bernuansa Deep Blue (#2E5E8F) yang memberikan tekstur halus, anti-sidik jari, serta kesan premium. Aksen & Detail Tutup: Tutup botol (cap) dirancang
+dengan kombinasi lapisan metallic ice blue yang berkilau di bagian atas, dipadukan dengan aksen cincin putih (pure white) di bagian leher botol. Di
+bagian leher tutup, terdapat grafis ikon bintang berpendar (sparkle icon) berwarna abu-abu kebiruan yang minimalis. Bagian dasar tumbler dilengkapi
+alas putih dengan ring biru muda (#B7D8F6) sebagai pelindung benturan sekaligus pemberi keseimbangan visual. 2. Penerapan Logo & Branding Logo Utama:
+Logo monogram "IR" yang artistik diukir/dicetak di bagian tengah bodi tumbler. Logo ini menggabungkan elemen pegunungan, lengkungan lembut, dan motif
+daun yang melambangkan keindahan alam dan petualangan. Tipografi: Di bawah logo monogram, tertera nama merek "INDRI" menggunakan tipografi serif
+elegan Playfair Display dengan aksen titik/bintang simetris di kedua sisinya. Warna Logo: Cetakan logo menggunakan warna soft pastel blue (#B7D8F6 /
+#79AEDD) yang kontras secara kontemplatif terhadap latar bodi biru tua, menciptakan tampilan yang tenang (calm) dan profesional. 3. Konsep Fotografi &
+Setting (Mood & Tone) Komposisi Suasana (Lifestyle Setting): Tumbler diletakkan di atas meja marmer berwarna krem terang di depan jendela besar dengan
+masuknya pencahayaan alami (soft natural daylight) dan bayangan lembut (dappled shadows). Latar Belakang (Background): Latar belakang memperlihatkan
+pemandangan alam berupa danau jernih yang memantulkan pegunungan bersalju di bawah langit biru cerah. Elemen ini menegaskan pesan "Capture the beauty
+in every moment" dari moodboard. Properti Pendukung (Props): Kamera DSLR: Diletakkan di sebelah kiri tumbler dengan tali kulit cokelat, mewakili
+elemen fotografi dan petualangan. Buku Catatan & Pena: Terbuka menampilkan sketsa garis pegunungan (line art), mengekspresikan sisi kreatif dan
+ideasi. Bunga Putih (Cosmos/Wildflowers): Kelopak bunga putih bersih yang tergeletak di samping tumbler memberikan sentuhan alami, lembut, dan segar
+(minimalist nature). Tekstil & Kain: Tumpukan kain linen dan kain bertekstur biru lembut dengan brand label bertuliskan INDRI menegaskan kesan gaya
+hidup (lifestyle product) yang mewah. 4. Palette Warna yang Digunakan Deep Navy Blue (#2E5E8F): Dominan pada bodi utama tumbler. Sky / Ice Blue
+(#79AEDD & #B7D8F6): Digunakan pada logo, detail aksen tutup, serta elemen latar belakang air/langit. Pure White & Soft Cream (#F7F9FC & #E6F2FF):
+Pada elemen bunga, kertas catatan, marmer, dan tekstil linen. 3). Kaos Berikut adalah deskripsi detail dari gambar tersebut: 1. Elemen Utama: Kaos
+yang Digantung Pusat Perhatian: Sebuah t-shirt lengan pendek berwarna biru indigo tua dengan tekstur heather (serat kain yang terlihat) digantung di
+tengah pada gantungan kayu. Desain Sablon: Di bagian dada kaos, terdapat cetakan logo besar berwarna putih bersih yang merupakan gabungan artistik
+dari inisial "R" (sesuai logo referensi), ikon kamera, siluet pegunungan, dan elemen daun. Teks: Di bawah logo tersebut, tertulis nama brand "INDRI"
+dalam huruf kapital serif yang elegan, diapit oleh dua garis horizontal halus dengan titik di ujungnya, persis seperti yang ada pada moodboard. Detail
+Kecil: Tepat di bagian bawah kaos (hem), terdapat bordir atau cetakan kecil berwarna putih berbentuk ikon kamera minimalis. 2. Elemen Sekunder: Kaos
+yang Dilipat Variasi: Di sisi kanan, terdapat tumpukan empat buah t-shirt yang dilipat dengan rapi. Warna: Tumpukan kaos ini menampilkan palet warna
+brand yang lengkap, mulai dari biru langit muda, abu-abu muda, hingga putih bersih. Detail Label: Pada kaos paling atas (biru muda), terlihat label
+tenun kecil bertuliskan "INDRI" berwarna biru tua, menunjukkan perhatian pada detail branding kecil. 3. Latar Belakang dan Properti Pendukung
+Atmosfer: Setting gambar ini sangat estetis, minimalis, dan tenang, menggunakan pencahayaan alami yang lembut. Dinding: Latar belakang berupa dinding
+bertekstur plester krem netral dengan permainan bayangan dedaunan (dappled light), memberikan kesan alami dan luar ruangan. Properti Fotografi:
+Kamera: Di bagian kiri bawah, terdapat kamera DSLR Canon model lawas dengan lensa, lengkap dengan tali kulit cokelat, menegaskan tema fotografi.
+Notebook: Di samping kamera, ada buku catatan jurnal bersampul kulit cokelat tua yang terbuka dengan pena di atasnya, serta sketsa garis minimalis
+pegunungan di halamannya. Properti Alam: Bunga: Di sisi kanan, terdapat vas keramik putih minimalis berisi rangkaian bunga liar kecil berwarna putih.
+Batu: Di dekat vas bunga, ada batu sungai halus yang dihiasi lukisan tangan siluet pegunungan berwarna biru. 4. Gaya Visual dan Mood Gaya: Gambar ini
+adalah foto produk lifestyle yang dikurasi dengan sangat baik (highly curated lifestyle product photography) Mood: Suasananya tenang, autentik,
+kreatif, profesional, dan menyatu dengan alam, sepenuhnya memenuhi kriteria mood & tone yang diminta: calm, professional, minimalis, dan elegant.
+Kualitas: Detail kain, tekstur kulit, dan fokus yang tajam pada setiap elemen memberikan kesan premium dan 4. 4. Maskot Ini adalah presentasi
+komprehensif dari maskot karakter 3D untuk brand INDRI, yang dirancang dengan gaya 3D kartun yang dipoles, ramah, dan profesional. Karakter ini sangat
+selaras dengan skema warna biru (dari biru langit hingga navy tua) dan tema alam-petualangan yang ditetapkan dalam moodboard Anda. Maskot ini
+mewujudkan pesona seorang fotografer petualangan muda yang tenang dan terorganisir. Komposisi gambar dibagi menjadi empat kuadran presentasi: Kuadran
+1: Presentasi Full Body (Kiri) Karakter: Seorang pemuda petualang dengan proporsi karakter kartun 3D yang bersih dan menarik. Dia berdiri tegak dan
+santai dengan senyum ramah di wajahnya. Fitur Wajah: Dia memiliki rambut biru muda bertekstur (spike) dan mata biru yang besar dan ekspresif. Salah
+satu pupil matanya memiliki pantulan bentuk bintang (sama seperti ikon pada logo). Pakaian & Aksesori: Dia mengenakan pakaian teknis berlapis berwarna
+biru navy dengan aksen garis putih. Di bahu kanannya, terdapat detail unik yang terintegrasi dari logo: kamera kecil yang menyatu dengan bagian atas
+bahu. Dia juga mengenakan sabuk utilitas yang penuh dengan kantong taktis. Detail Kecil: Dari sabuknya menggantung beberapa gantungan kunci miniatur,
+termasuk monogram 'IR' (dari logo), ikon daun kecil, dan ikon bintang (sama seperti yang ada pada moodboard dan logo). Dia juga memiliki tanda
+pengenal nama kecil di dadanya bertuliskan 'IN...'. Dia mengenakan celana taktis gelap dan sepatu bot gunung yang kokoh. Latar Belakang: Dia berdiri
+di atas permukaan lantai yang halus dengan beberapa batu sungai bundar dan bunga cosmos putih kecil di dekat kakinya, menciptakan nuansa alam yang
+sesuai. Kuadran 2: Potret Close-Up (Tengah Atas) Detail Wajah: Gambar ini memberikan tampilan dekat pada wajah karakter yang menawan, menonjolkan
+tekstur rambut dan mata birunya yang khas. Pantulan bintang di mata terlihat jelas di sini. Senyumnya ramah dan percaya diri. Pakaian: Detail pakaian
+di leher dan bahu, termasuk kamera bahu, terlihat lebih jelas, menunjukkan tekstur kain dan peralatan. Latar belakangnya adalah pemandangan pegunungan
+dan danau yang lembut dan abstrak, mengulang visual dari moodboard. Kuadran 3: Logo Branding (Kanan Atas) Visual: Menampilkan logo INDRI yang lengkap
+dan halus, seperti yang ada pada gambar image_3.png, tetapi dengan sentuhan rendering 3D yang elegan dan metallic blue gradient. Logo & Slogan:
+Monogram 'IR' yang rumit dengan ikon pegunungan dan daun berada di bagian atas. Tepat di bawahnya, tulisan 'INDRI' dalam font serif yang elegan diapit
+oleh ikon bintang kecil. Di bawahnya, terdapat slogan dalam font Playfair Display: "Capture the beauty in every moment". Atmosfer: Latar belakang
+bersih dengan pencahayaan lembut yang menciptakan bayangan daun (seperti pada moodboard), memberikan kesan organik. Kuadran 4: Maskot & Logo (Kanan
+Bawah) Komposisi: Menyatukan karakter full body di samping panel kaca berukir besar yang menampilkan logo INDRI yang metallic dan elegan (sama seperti
+di kuadran kanan atas). Interaksi: Karakter berdiri dengan percaya diri di samping panel logo, menciptakan hubungan visual yang kuat antara karakter
+dan identitas brand. Permukaan tempat mereka berdiri dan dinding belakang memiliki bayangan daun, menghubungkan pemandangan ini dengan Kuadran 1 dan
+Kuadran 3. Detail Tambahan: Sebuah detail kecil dari label t-shirt di image_2.png diintegrasikan sebagai pin kecil berbentuk daun dan bintang di jaket
+karakter. Secara keseluruhan, presentasi ini menciptakan ekosistem brand yang utuh, di mana karakter maskot tidak hanya berdiri di samping logo,
+tetapi juga menyerap dan mewakili setiap elemen visual dan emosional dari moodboard asli. Kualitas rendering 3D-nya sangat tinggi, dengan detail
+tekstur kain, logam, dan rambut yang sangat tajam (setara dengan 4k). prompt yang digunakan: sekarang berdasarkan logo, moodboard dan gambar yang
+lainnya, implementasikan kedalam/buat maskotnya,style 3D karakter dengan ketentuan output: 1.maskot full body 2.maskot potrait 3.maskot bersama logo
+branding 5. Naskah Judul Iklan "Jejak Keindahan Dalam Setiap Momen" Tema Aesthetic Exploration & Creative Lifestyle (Petualangan Visual, Fotografi,
+dan Gaya Hidup Elegan yang Menyatu dengan Alam) Pesan Utama Produk INDRI (tumbler, kaos, dan apparel petualang) hadir untuk menemani setiap langkah
+ekspresi diri, kreativitas fotografi, dan kebebasan mengeksplorasi keindahan alam dengan gaya yang tenang, elegan, serta berkualitas tinggi. Narasi
+Iklan (Voiceover & Visual Script) (Durasi: 30–45 Detik) [00:00 - 00:07] Visual: Cut cepat memperlihatkan keindahan danau yang tenang dengan pantulan
+pegunungan bersalju di bawah langit biru cerah. Cahaya matahari lembut masuk di antara celah dedaunan. Maskot 3D INDRI memegang kameranya, tersenyum
+siap mengabadikan pemandangan. Voiceover (Tenang & Hangat): "Dunia ini penuh dengan cerita yang menunggu untuk ditemukan... tentang sudut yang tenang,
+dan momen yang tak terlupakan." [00:07 - 00:18] Visual: Close-up kaos biru indigo INDRI yang nyaman dipakai saat berjalan di alam terbuka. Lanjut ke
+adegan meletakkan Tumbler INDRI bermaterial matte deep blue di atas meja marmer bersama buku catatan sketsa pegunungan dan kamera DSLR. Voiceover:
+"Bagi kamu yang mencintai proses, yang melihat estetika dalam setiap detail. Kami menghadirkan teman perjalanan terbaikmu." [00:18 - 00:28] Visual:
+Transisi ke maskot 3D yang berdiri percaya diri di samping logo monogram "IR" premium. Cahaya mengkilap (soft metallic shine) berpendar lembut pada
+logo dan pakaian indigonya. Voiceover: "Sentuhan desain minimalis, kenyamanan ekstra, dan ketahanan yang siap menemani setiap petualangan kreatifmu."
+[00:28 - 00:35] Visual: Tampilan laydown produk yang rapi: Tumbler, tumpukan kaos warna pastel blue dan cream, serta aksen bunga putih segar. Tampil
+teks nama brand INDRI dengan logo monogram yang elegan. Closing Tagline (Voiceover lembut mengiringi teks di layar) "INDRI — Capture the beauty in
+every moment." prompt yang digunakan: sekarang buatkan naskah iklan yang sesuai dengan logo, moodboard dan mockup branding diatas,yang
+memuat;judul,tema, pesan utama,narasi, dan closing tagline 6. StoryLine Berikut adalah rancangan Storyline Iklan / Commercial Storyboard yang disusun
+berdasarkan seluruh elemen identitas visual, moodboard, mockup produk (tumbler & kaos), serta karakter maskot INDRI: Judul Storyline: The Silent
+Canvas Konsep Utama: Petualangan visual seorang fotografer muda dalam mengejar keindahan alam yang otentik, didukung oleh kenyamanan dan estetika
+produk INDRI. 1. Pembukaan (Opening) Visual: Pagi hari yang dingin dan berkabut di tepi danau yang tenang dengan latar belakang pegunungan tinggi.
+Karakter maskot 3D INDRI berjalan menyusuri jalan setapak dengan tenang, mengenakan t-shirt heather blue dan jaket taktis ber-logo INDRI. Kamera DSLR
+tergantung di lehernya dan Tumbler INDRI deep blue terselip rapi di samping tasnya. Suasana / Audio: Gema lembut suara angin, kicau burung jauh, dan
+suara langkah kaki santai di atas dedaunan basah. Teks di Layar / Voiceover: "Keindahan sering kali tidak berteriak... ia menunggu untuk ditemukan
+dalam ketenangan." 2. Alur Cerita (Rising Action) Visual: INDRI berhenti di sebuah batu besar tepi air. Ia meminum air hangat dari Tumbler INDRI-nya,
+memberikan rasa nyaman di tengah udara dingin. Ia kemudian membuka buku catatannya yang bersampul kulit untuk membuat sketsa cepat jalur pegunungan.
+Ketika kabut mulai terangkat, sinar matahari (soft natural daylight) mulai memancarkan cahaya keemasan di atas puncak gunung dan danau. INDRI
+tersenyum, mengangkat kameranya untuk mengabadikan momen tersebut. Suasana / Audio: Musik instrumen akustik dan piano bernuansa lembut mulai mengalir
+(calm & inspiring tone). Teks di Layar / Voiceover: "Setiap detail dibuat untuk mendukung langkahmu. Kenyamanan yang melengkapi ekspresi diri." 3.
+Konflik (Climax / Plot Twist) Visual: Tiba-tiba, arah angin berubah cepat. Awan gelap tipis menutup matahari, dan sekuntum bunga liar (wildflower)
+indah di tepi tebing kecil terancam tertutup bayangan gelap sebelum ia sempat mengambil foto terbaiknya. Kamera menunjukkan indikator baterai berkedip
+dan INDRI harus bergerak cepat sebelum momen cahaya sempurna itu hilang sepenuhnya. Suasana / Audio: Musik sedikit berubah tempo menjadi lebih
+dinamis, namun tetap harmonis (gentle suspense). Teks di Layar / Voiceover: "Momen berharga tidak pernah menunggu lama..." 4. Penutup (Resolution &
+Closing) Visual: Dengan gerakan yang tenang dan percaya diri, INDRI mengatur fokus lensanya, menyesuaikan pencahayaan, dan klik! Ia berhasil menangkap
+foto bunga putih berlatar pegunungan tepat saat setitik cahaya memantul sempurna—menciptakan kilauan bintang (sparkle) persis seperti ikon pada logo
+INDRI. Kamera kemudian beralih menunjukkan INDRI tersenyum puas. Gambar bertransisi halus (fade) menampilkan jajaran produk lengkap: Tumbler deep
+blue, tumpukan kaos bermaterial lembut dalam variasi warna pastel, dan maskot 3D bersanding dengan logo monogram metallic INDRI. Suasana / Audio:
+Musik mencapai puncaknya dengan harmoni nada yang hangat dan menenangkan (peaceful resolution). Closing Tagline (Voiceover & On-Screen Text): "INDRI —
+Capture the beauty in every moment." Prompt yang digunakan: sekarang buatkan saya storyline dan harus sesuai dengan logo, moodboard, mockup branding
+yang tadi dan memuat:pembukaan-alur cerita-konflik-penutup 7. Shortlist 1. Header & Identitas Dokumen Judul Utama: Shot List Pengambilan Gambar: INDRI
+- The Silent Canvas Skema Warna: Kombinasi navy blue (#2E5E8F), pastel blue, dan putih yang selaras dengan identitas visual merek. Catatan Kaki
+(Footer): "A FILM BY TEAM INDRI" di sebelah kiri bawah dan "PRODUCTION SHOT LIST VERSION 1.0" di sebelah kanan bawah. 2. Struktur Kolom Tabel Tabel
+terdiri dari 7 kolom teknis utama: 1. No: Nomor urut adegan (1-10). 2. Adegan: Nama/judul adegan. JPG 3. Jenis Shot: Ukuran shot kamera (ELS, LS, MCU,
+MS, ECU, MLS, CU). 4.Angle: Sudut pengambilan gambar (High Angle, Low Angle, Eye Level, Top Down, Dutch Angle, Over the Shoulder). 5. Movement:
+Pergerakan kamera (Static, Tracking, Tilt Down, Pedestal Up, Zoom In, Handheld, Dolly Out). 6. Durasi: Alokasi waktu dalam detik untuk setiap shot. 7.
+Deskripsi & Narasi: Penjelasan ringkas mengenai tindakan visual dan dialog/narasi pendukung. JPG 3. Rincian Isi 10 Shot List Shot 1- Keindahan Pagi di
+Danau Spesifikasi Teknis: Extreme Long Shot (ELS) | High Angle | Static 3 detik Deskripsi: Pemandangan danau dan pegunungan yang tertutup kabut pagi.
+UPG Shot 2- Indri Menjelajah Spesifikasi Teknis: Long Shot (LS) | Low Angle | Tracking | 3 detik Deskripsi: Karakter Indri berjalan mendaki di jalan
+setapak di tengah alam. Shot 3-Detail Tumbler Spesifikasi Teknis: Medium Close Up (MCU) | High Angle | Tilt Down | 3 detik Deskripsi: Tampilan dekat
+botol tumbler deep blue di saku ransel. Shot 4-Menikmati Momen Spesifikasi Teknis: Medium Shot (MS) | Eye Level | Static | 4 detik Deskripsi: Detail
+lensa kamera Canon yang mengamati pemandangan dari kejauhan. Shot 5- Sketsa di Notebook Spesifikasi Teknis: Extreme Close Up (ECU) | Top Down Static 3
+detik Deskripsi: Detail tangan menulis di notebook dengan pensil di bawah cahaya lembut Shot 6-Transisi Cahaya Pagi Spesifikasi Teknis: Medium Long
+Shot (MLS) | Eye Level | Pedestal Up | 3 detik Deskripsi: Tampilan dekat bunga cosmos putih dengan pantulan cahaya berkilau. Shot 7- Bayangan Bunga
+Spesifikasi Teknis: Medium Shot (MS) | Dutch Angle | Zoom In 3 detik Deskripsi: Bunga cosmos liar yang tumbuh di tebing terperangkap bayangan dramatis
+dari dahan. Shot 8- Fokus Kamera Spesifikasi Teknis: Close Up (CU) | Over the Shoulder (OTS) Handheld | 4 detik Deskripsi: Pengambilan dari belakang
+Indri melihat layar kamera saat menyesuaikan focus sempurna Shot 9- Foto Sempurna Spesifikasi Teknis: Close Up (CU) | Eye Level | Static | 4 detiK.
+Deskripsi: Tampilan dekat bunga cosmos putih yang sempurna dan jernih dengan efek pendaran cahaya (sparkle effect). Shot 10-Tim & Produk Spesifikasi
+Teknis: Medium Shot (MS) | Eye Level | Dolly Out | 5 detik Deskripsi: Maskot karakter Indri 3D berdiri tersenyum bersanding dengan deep blue tumbler,
+tumpukan kaos, dan logo monogram IR. Prompt yang digunakan: sekarang buatkan saya storyline dan harus sesuai dengan logo, moodboard, mockup branding
+yang tadi dan memuat:pembukaan-alur cerita-konflik-penutup 8. Storyboard 1. Konsep Visual & Tata Letak Gambar Gaya Visual & Palet Warna: Storyboard
+ini dirancang dengan gaya cinematic storyboard board yang bersih dan profesional. Menggunakan kombinasi warna identitas brand INDRI, yaitu Navy Blue
+(#2E5E8F) untuk header, Soft Ice Blue untuk baris selang-seling. dan Pure White yang memberikan kesan elegan serta mudah dibaca. Struktur Tabel:
+Gambar ini terbagi menjadi 5 kolom teknis utama, yaitu: 1. No: Nomor urut scene (1 2. sampai 6). Adegan: Thumbnail gambar adegan beserta judul
+singkatnya. 3. Jenis Shot: Ukuran pframe kamera (framing). JPG+1 4. Angle: Sudut pengambilan gambar. 5. Transisi: Jenis perpindahan antar
+gambar/adegan. 6. Deskripsi & Narasi: Rincian aktivitas visual, aksi karakter, dan kalimat voiceover (narasi). 2. Rincian Adegan per Scene (1-6) Scene
+1: Fajar di Pegunungan (Pembukaan) 。 Visual Adegan: Pemandangan panorama lanskap danau yang tenang dan pegunungan tertutup kabut pagi di bawah langit
+biru lembut. Teknis Kamera: Extreme Long Shot (ELS) | High Angle | Transisi: Dissolve Deskripsi & Narasi: Memperlihatkan keheningan alam di pagi hari.
+Narasi: "Keindahan alam yang sunyi... Di sinilah cerita kita bermula...' Scene 2: Menikmati Momen di Alam (Fokus Menulis & Rehat) Visual Adegan:
+Karakter 3D Indri mengenakan kaos indigo blue berlogo monogram IR putih, duduk santai di atas batu sambil meminum air dari tumbler deep blue dan
+membuat sketsa di buku catatannya Teknis Kamera: Medium Close-Up (MCU) | Eye Level | Transisi: Cut to Deskripsi & Narasi: Momen relaksasi dan
+pencarian inspirasi di tengah perjalanan. Narasi: "Segaran di tengah perjalanan. Temukan kedamaian Anda..." Scene 3: Bunga Cosmos di Tebing
+(Konflik/Dramatis) Visual Adegan: Bunga-bunga cosmos putih tumbuh indah di tepi tebing dengan latar langit dramatis yang dilapisi awan tipis berembus.
+Teknis Kamera: Medium Shot (MS) | Low Angle | Transisi: Wipe Deskripsi & Narasi: Menyoroti keberadaan elemen alam yang estetik namun terancam
+perubahan pencahayaan cepat. Narasi: "Keindahan di tempat tak terduga...Kekuatan yang tumbuh... Scene 4: Lensa Kamera Canon (Fokus & Aksi) Visual
+Adegan: Shot jarak dekat yang menyoroti lensa kamera DSLR Canon saat diputar untuk mengatur focusing, dengan pantulan cahaya pada permukaan kaca
+lensa. Teknis Kamera: Close-Up (CU) | Eye Level Transisi: Dissolve Deskripsi & Narasi: Proses teknis menangkap detail keindahan secara presisi.
+Narasi: "Menangkap setiap detail... Ciptakan kenangan" Scene 5: Keanggunan Cosmos (Hasil Foto Sempurna) Visual Adegan: Tampilan sangat dekat (macro)
+dari kelopak bunga cosmos putih dengan pendaran efek cahaya (sparkle) yang menyerupai bentuk bintang pada logo brand. Teknis Kamera: Close-Up (CU) |
+Macro Angle | Transisi: Cut to Deskripsi & Narasi: Hasil jepretan foto yang berhasil mengabadikan keindahan momen. JPG+1 Narasi: "Detail keindahan
+alam yang halus.. Keanggunan yang bersinar. Scene 6: Tim & Produk (Penutup & Branding) Visual Adegan: Karakter Maskot 3D Indri berdiri tersenyum ramah
+bersanding dengan deep blue tumbler, tumpukan kaos pastel terlipat, serta piringan panel logam mengkilap berukir logo monogram IR INDRI. Teknis
+Kamera: Medium Shot (MS) | Eye Level Transisi: Fade Out Deskripsi & Narasi: Presentasi ekosistem produk dan tagline utama brand. Narasi & Tagline:
+"INDRI Teman Perjalanan & Kreativitas Anda... Bersama INDRI, temukan kanvas Anda..." Prompt yang digunakan: buatkan storyboard yang sesuai dengan
+naskah, storyline,dan shortlist tadi ke dalam storyboard yang memuat: •6 scane •visual adegan •keterangan shot •angle kamera •transisi •dialog/narasi
+Shot List - INDRI: The Silent Canvas Shot List Pengambilan Gambar Proyek Iklan Commercial Film: INDRI – The Silent Canvas No Adegan Jenis Shot Angle
+Movement Durasi Deskripsi & Narasi 1 Keindahan Pagi di Danau Extreme Long Shot (ELS) High Angle Static 3s Pemandangan danau dan pegunungan tertutup
+kabut pagi yang tenang. "Keindahan alam yang sunyi... Di sinilah cerita kita bermula..." 2 Indri Menjelajah Long Shot (LS) Low Angle Tracking 3s
+Karakter Indri berjalan mendaki di jalan setapak di tengah alam. "Segaran di tengah perjalanan... Temukan kedamaian Anda..." 3 Detail Tumbler Medium
+Close Up (MCU) High Angle Tilt Down 3s Tampilan dekat botol tumbler deep blue di saku ransel yang sedang ditaruh. "Kekuatan yang tumbuh..." 4
+Menikmati Momen Medium Shot (MS) Eye Level Static 4s Detail lensa kamera Canon sedang mengamati dari kejauhan. "Ciptakan kenangan..." 5 Sketsa di
+Notebook Extreme Close Up (ECU) Top Down Static 3s Detail tangan menulis di notebook dengan pensil. Cahaya lembut. "Menangkap setiap detail..." 6
+Transisi Cahaya Pagi Medium Long Shot (MLS) Eye Level Pedestal Up 3s Tampilan dekat bunga cosmos putih dengan pantulan cahaya berkilau dan tetesan air
+kecil. "Detail keanggunan alam yang halus..." 7 Bayangan Bunga Medium Shot (MS) Dutch Angle Zoom In 3s Bunga cosmos liar yang tumbuh di tebing
+terperangkap bayangan dramatis dari dahan. "Keindahan di tempat tak terduga..." 8 Fokus Kamera Close Up (CU) Over the Shoulder (OTS) Handheld 4s Dari
+belakang Indri, melihat layar kamera saat dia menyesuaikan fokus. Sedikit goyang. "Menangkap setiap momen..." 9 Foto Sempurna Close Up (CU) Eye Level
+Static 4s Tampilan dekat bunga cosmos putih yang sempurna dan jernih, dengan efek pendaran cahaya (sparkle effect) lembut di lensa. "Momen yang
+sempurna..." 10 Tim & Produk Medium Shot (MS) Eye Level Dolly Out 5s Mascot karakter Indri 3D berdiri tersenyum, di sebelahnya ada deep blue tumbler,
+t-shirt folded stack, dan logo IR monogram di pin logam mengkilap. Slogan 'Capture the beauty in every moment' di bawahnya. "INDRI - Teman Perjalanan
+& Kreativitas Anda... Bersama INDRI, temukan kanvas Anda..." A FILM BY TEAM INDRI PRODUCTION SHOT LIST VERSION 1.0
+
+--- GAMBAR (8) — BUKTI VISUAL, BACA FILENYA LANGSUNG ---
+
+[IMG#01] px=320x320 square | bagian: 1.Branding Logo | file: img/R25/01.jpg
+  OCR: ← / INDI / R I
+
+[IMG#02] px=320x320 square | bagian: 2. Moodboard | file: img/R25/02.jpg
+  OCR: COLON PAIIETE / .000 / TPDGXAPX / Aa / Aa / INDRi / MOOD&TONE / RESERCNOE / R / IR / 回
+
+[IMG#03] px=305x320 portrait | bagian: 1).Hoodie | file: img/R25/03.jpg
+  OCR: INDRI / IRK / 根 / dR / INDRI
+
+[IMG#04] px=320x320 square | bagian: 2).Tumbler | file: img/R25/04.jpg
+  OCR: INDRI / NDRI
+
+[IMG#05] px=320x320 square | bagian: 3). Kaos | file: img/R25/05.jpg
+  OCR: 3 / AR / INDRI
+
+[IMG#06] px=320x320 square | bagian: 4. Maskot | file: img/R25/06.jpg
+  OCR: 78 / INDRI / Capure the bsauty / Inuyncant / IR / -INDRI
+
+[IMG#07] px=685x382 landscape | bagian: 7. Shortlist | file: img/R25/07.jpg
+  OCR: Shot List Pengambilan Gambar: INDRI - The Silent Canvas / No / Adegan / Jenis Shot / Angle / Movement / Durasi / Deskripsi & Narasi / Extreme
+Long Shot / Pemandangan danau dan pegunungan / 1 / Keindahan Pagi di Danau / High Angle / Statie / 3s / (ELS) / tertutup kabut pagi... / Karakter
+Indri berjalan mendaki dijalan / 2 / Indri Menjelajah / Long Shot (LS) / Low Angle / Tracking / 3s / setapak... / Medium Close Up / Tilt Down /
+Tampilan dekatbotol tumbler deepblue, / 3 / Detail Tumbler / High Angle / 3s / (MCU) / tampilan... / 4 / Menikmati Momen / Medium Shot (MS) / Eye
+Level / Static / 4s / Detail lensa kamera Canon... ssngat detail.. / Extreme Close Up / Detail tanganmenulis di nctebook...relriah / Sketsa di
+Notebook / Top Down / Static / 3s / (ECU) / mengamkan... / Medium Long Shot / Tampilan dekat bunga cosmos putih ... yarg / 6 / Transisi Cahaya Pagi /
+Eye Level / Pedestal Up / 3s / (MLS) / menbuun... / Bunga cosmos liar yang tumbuh di tebing / 7 / Bayangan Bunga / Medium Shot (MS) / Dutch Angle /
+Zoom In / 3s / mindhat... / Over the / Oaribelakang Indr,melihat layar kamera ... / 8 / Fokus Kamera / Close Up (CU) / Handheld / 4s / Shoulder (OTS)
+/ kamera... / 6 / Foto Sempuma / Close Up (CU) / Eye Level / Static / 4s / Tampilan dekatbunga cosmos putih... / Mascot karakter Indr 3Dberdiri
+tersenyum... / 10 / Tim& Produk / Medium Shot (MS) / Eye Level / Dolly Out / 5s / kemem
+
+[IMG#08] px=640x640 square | bagian: 8. Storyboard | file: img/R25/08.jpg
+  OCR: Story Board Komersial Film: INDRI - The Silent Canvas / No / Adegan / Jenis Shot / Angle / Transisi / Deskripsi & Narasi / Pemandangan danau
+dan pegunungan / Fajar di / tertutupkabut pagi tenang aeantupyang / Pegunungan / High Angle / Dissolve / tenang (merujuk <IMAGE O>, <IMAGE 1>) / Shot
+(ELS) / "Keindahan alam yang sunyi.","Di sinilah / cerita kita bermulu.. / Karakter Indri (seperti di <IMMAGE>) / Medium / memegarng dani botol
+tumbler diepi dani / 2 / Close Up / Eye Level / Cut to / botol duduk di atas samil duduk di atas batu. / (MCU) / "Segaran di tengah perjalanan..",
+"Temukan / kedamaian Anda... / Bunga-bunga cosmos putih (merujuk> / Medium / <IMAGET>) tepi tebing di bawah langit diamatis / 3 / Cosmos / Low Level /
+Wipe / dengan awan. / (MS) / - "Keindahan di tempat tak "Kekuatan yang / tumbuh..." / Detail lensa kamera Canon (merujuk> / Close Up / menyesuaikan
+focus. Cahaya memantul dang / 4 / Eye Level / Dissolve / (CU) / memtul di kaca lensa. / - "Menangkap setail..."Ciptakan kenangan... / Tampilan dekat
+bunga cosmos putih ((MAGE>) / Close Up / dengan berkalya berkluu dan tetsan ali berkilan / 5 / Macro / Cutto / (CU) / dan tetesan al kecil (detal
+keanggunah). / - "Detail keindahan alam yang halus, teita... / Mascot karakter indi 3D (MAGl>) berdiri tersenyuun, / Medium / ada deep blue tumbler,
+t-shirk（terlihat nama),dan / Close Up / logoIRmoncgram di logan-mengkilup（I

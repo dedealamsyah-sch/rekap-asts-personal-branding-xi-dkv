@@ -65,9 +65,9 @@ Folder kerja:
 
 | Berkas | Keterangan |
 |---|---|
-| `REKAP NILAIAN ASTS - Personal Branding XI DKV 2026-2027.xlsx` | **FILE UTAMA** — 93 sheet (86 `Detail - <nama>` + 7 sheet rekap) |
+| `REKAP NILAIAN ASTS - Personal Branding XI DKV 2026-2027.xlsx` | **FILE UTAMA** — 119 sheet (112 `Detail - <nama>` + 7 sheet rekap) |
 | `LAPORAN PENILAIAN ASTS - Personal Branding XI DKV 2026-2027.md` | Laporan naratif + feedback per siswa |
-| `rekap_nilai_asts_hasil.json` | Data nilai (machine-readable, 86 entri) |
+| `rekap_nilai_asts_hasil.json` | Data nilai (machine-readable, 112 entri) |
 | `index.html` | Halaman rekap interaktif. Objek `DATA` di-generate dari Excel oleh `docs/update_data.py` — ** jangan menyunting `DATA` secara manual**. Bagian HTML/JS di luar `DATA` milik guru. |
 | `SESI PENILAIAN/skrip/make_xlsx.py` | **SUMBER KEBENARAN nilai** — `S.append` (12 skor + 12 status/bukti per siswa) + `RESOLUSI` |
 | `SESI PENILAIAN/KETENTUAN-AI.md` | **DOKUMEN INI** |
@@ -226,7 +226,7 @@ Gunakan checklist ini untuk setiap siswa:
 ## 5.1 Keterbatasan penting
 Lingkungan kerja AI ini **TIDAK memiliki kemampuan melihat gambar (vision)**.
 Verifikasi visual dilakukan **tidak langsung** dengan:
-- **OCR** (Apple Vision framework, lewat Swift) atas berkas gambar asli
+- **OCR** (RapidOCR/ONNX lewat skrip `tools/ocr_batch.py`; sebelumnya Apple Vision/Swift) atas berkas gambar asli
 - **Dimensi piksel asli** berkas gambar (lebar × tinggi)
 - **Struktur HTML** halaman Blogger (jumlah `<img>`, `<table>`, heading, paragraf, label/tag)
 
@@ -351,18 +351,19 @@ Tabel 2 kolom status + 1 kolom keterangan, **WAJIB berisi hitungan eksplisit**:
 
 ---
 
-# 7. KEADAAN SAAT INI (86 SISWA)
+# 7. KEADAAN SAAT INI (112 SISWA)
 
-Data per **3 Oktober 2026**. **86 siswa**, semua dikirim sebelum batas akhir.
-Rata-rata **Nilai Rubrik 79,28** + **Nilai Tambah 0,07** = **Nilai Akhir 79,35**
-Distribusi: **Sangat Baik 23 · Baik 44 · Cukup 10 · Perlu Perbaikan 9**
-Sebaran kelas: DKV 1 = 18 · DKV 2 = 22 · DKV 3 = 25 · DKV 4 = 21
+Data per **3 Oktober 2026 (sore)**. **112 siswa**, semua dikirim sebelum batas akhir.
+Rata-rata **Nilai Rubrik 78,53** + **Nilai Tambah 0,09** = **Nilai Akhir 78,62**
+Distribusi: **Sangat Baik 33 · Baik 51 · Cukup 15 · Perlu Perbaikan 13**
+Sebaran kelas: DKV 1 = 27 · DKV 2 = 26 · DKV 3 = 31 · DKV 4 = 28
 
 **Nilai akhir teratas:** MUHAMAD DIAZ PIRDAUS 98,50 · SILVI BUDIA PUTRI 98,00 ·
-AI SITI MUSLIMAH 98,00 · YAYU ASTIA 97,50 · SHANDIKA REVI 96,25 · RESTI NURUL FADILA 96,00.
-**Nilai terendah yang dapat dinilai:** QUINSYA RAHMANESA SOLEHA 52,50.
+AI SITI MUSLIMAH 98,00 · MUHAMAD DANDI NUGRAHA 97,65 · YAYU ASTIA 97,50 ·
+INDRI 96,25 · SHANDIKA REVI 96,25 · RESTI NURUL FADILA 96,00.
+**Nilai terendah yang dapat dinilai:** NADYA NURLATIFA 34,00, lalu RAFI FAUZAN NAJA LUTFIANA 4,75.
 
-Tabel rekap lengkap (86 baris, diurutkan nilai akhir) ada di:
+Tabel rekap lengkap (112 baris, diurutkan nilai akhir) ada di:
 - sheet `1. REKAP NILAI` pada workbook
 - bagian `A` pada `LAPORAN PENILAIAN ... .md`
 - `rekap_nilai_asts_hasil.json`
@@ -371,18 +372,25 @@ Tabel rekap lengkap (86 baris, diurutkan nilai akhir) ada di:
 > Riwayat versi lama (31 siswa / 79,50 · 68 siswa / 78,95 · 69 baris / 79,11) dicatat di
 > bagian `E. RINGKASAN AKHIR` pada `LAPORAN ... .md`. **Jangan memakai angka lama sebagai acuan.**
 
-## 7.0 Enam siswa bernilai 0 (karya tidak dapat diverifikasi)
+## 7.0 Delapan siswa bernilai 0 (karya tidak dapat diverifikasi)
 | Nama | Kelas | Penyebab |
 |---|---|---|
 | CEISHA SINTHIA | DKV 2 | URL *editor* Blogger (redirect login Google) |
 | SINDIA SAPUTRI | DKV 2 | URL *editor* Blogger |
 | SITI JENAB | DKV 2 | URL *editor* Blogger |
 | NAZWA KURNIA | DKV 4 | URL *editor* Blogger |
+| LUSI NURAENI | DKV 1 | URL *editor* Blogger |
+| RADIT KURNIAWAN | DKV 3 | URL *editor* Blogger |
 | RISMA SAPARANI | DKV 2 | HTTP 404 |
-| NURI MEITRI AENI | DKV 3 | HTTP 404 |
+| ALIA ALAIKA NURFADILA | DKV 1 | HTTP 404 |
 
-Nilai 0 pada enam siswa ini **bukan** penalty dari karya kosong — karya tidak dapat
+Nilai 0 pada delapan siswa ini **bukan** penalty dari karya kosong — karya tidak dapat
 diperiksa sama sekali. Minta link publik/aktif sebelum masuk rapor.
+
+> **Penting:** link yang MATI **setelah** pengumpulan tidak otomatis berarti 0.
+> **WULAN SUNDARI** linknya kini 404, tetapi karyanya berhasil dipulihkan dari arsip HTML
+> commit `bcdf815` dan dinilai **87,75**. **NURI MEITRI AENI** sebelumnya 0 karena 404,
+> kini 75,50 setelah siswa mengirim domain baru.
 
 ## 7.1 Riwayat perubahan jumlah siswa
 
@@ -395,24 +403,35 @@ diperiksa sama sekali. Minta link publik/aktif sebelum masuk rapor.
 | Tambahan 1 Okt pagi | 31 | 79,50 | 13 kiriman susulan |
 | Assessment susulan | 69 | 79,11 | 4 kiriman sisipan |
 | Duplikat dihapus | 68 | 78,95 | INDRI FITRIYANI dobel dihapus |
-| **Tambahan 2 Okt malam** | **86** | **79,35** | **18 kiriman baru + 9 perbaikan; DIRA RAHMAWATI & FITRIYANI kembali dinilai** |
+| **Tambahan 2 Okt malam** | **86** | **79,35** | 18 kiriman baru + 9 perbaikan; DIRA RAHMAWATI & FITRIYANI kembali dinilai |
+| **Batch sore 2-3 Okt** | **112** | **78,62** | **26 kiriman baru + 12 nilai ulang; OCR dipindah ke RapidOCR (Windows); arsip WULAN SUNDARI dipulihkan** |
 
 ## 7.1b Kiriman yang tercatat pada tahap susulan
-Rincian 18 kiriman 2 Oktober + catatan 13 kiriman 1 Oktober tersimpan di
-`LAPORAN PENILAIAN ... .md` bagian A (blok `ADDITION`) dan di sheet `5. DATA REKAPAN`.
+Rincian 18 kiriman 2 Oktober + 26 kiriman 2–3 Oktober + catatan 13 kiriman 1 Oktober
+tersimpan di `LAPORAN PENILAIAN ... .md` bagian A (blok `ADDITION`) dan sheet `5. DATA REKAPAN`.
 
 ## 7.2 Temuan yang masih terbuka
-1. **6 siswa bernilai 0** — 4 mengirim URL editor Blogger (CEISHA SINTHIA, SINDIA SAPUTRI,
-   SITI JENAB, NAZWA KURNIA) dan 2 link 404 (RISMA SAPARANI, NURI MEITRI AENI) → **wajib minta link publik/aktif**.
-2. **Orisinalitas** — heading `{Monogram SSG}` muncul identik pada **4 kiriman**:
+1. **8 siswa bernilai 0** — 6 mengirim URL editor Blogger (CEISHA SINTHIA, SINDIA SAPUTRI,
+   SITI JENAB, NAZWA KURNIA, LUSI NURAENI, RADIT KURNIAWAN) dan 2 link 404
+   (RISMA SAPARANI, ALIA ALAIKA NURFADILA) → **wajib minta link publik/aktif**.
+2. **RAFI FAUZAN NAJA LUTFIANA** mengirim ID Card + banner rental PS + sample logo
+   (CorelDRAW 2020) — **bukan projek Personal Branding**. Perlu konfirmasi.
+3. **DAPA MUSTOPA** — rekapan "DAPA MUSTOPA", seluruh isi & gambar "DAFA MUSTOFA" → verifikasi identitas.
+4. **MUHAMAD REZA RAMDANI** — identitas brand berubah 4× dalam satu artikel (logo "RR",
+   moodboard branding sekolah, mockup/storyboard "The Creative Studio") → perlu klarifikasi.
+5. **AQILA NAZIL FALAQ** — 7 gambar di album Google Photos privat, tidak bisa diunduh.
+6. **MUHAMMAD TAUFIQ ISMAIL** — nama tidak konsisten + sisa teks mentah AI.
+7. **SAVINA KHOERUNNISA** — bagian SHOTLIST & STORYBOARD berisi deskripsi logo, bukan shot/scene.
+8. **SAFINAH SYARA GARINI** — bagian mockup "Kemasan" duplikat identik dengan "Kartu Nama".
+9. **Orisinalitas** — heading `{Monogram SSG}` muncul identik pada **4 kiriman**:
    MUHAMAD DIAZ PIRDAUS, NAZMA KAYVA GASANI, TENI DAMAYANTI, RESTI NURUL FADILA → perlu klarifikasi guru.
-3. **AHMAD FAUZI** — judul artikel "Biodata diri" → perlu verifikasi identitas.
-4. **AZMI ANUGRAH** (judul "UJI KOPETENSI PROMTPTING AI DKV") dan **PUTRI INTAN NURAENI**
-   (judul "ASTS KOMPETENSI AI DKV - SMKN 9 GARUT") → perlu verifikasi identitas.
-5. **MUTIA ANITA SARI** — page title "ASTS personal branding nama Mutia" (nama tidak lengkap).
-6. **LABEL BLOGGER** — beberapa siswa memakai label milik tugas lain atau kehilangan label wajib.
-7. Butir yang wajib dicek manual guru ada di sheet `4. CEK MANUAL GURU` (**27 butir**).
-8. **Belum ada nilai masuk rapor** — tunggu persetujuan guru atas revisi rubrik.
+10. **AHMAD FAUZI** — judul artikel "Biodata diri" → perlu verifikasi identitas.
+11. **AZMI ANUGRAH** (judul "UJI KOPETENSI PROMTPTING AI DKV") dan **PUTRI INTAN NURAENI**
+    (judul "ASTS KOMPETENSI AI DKV - SMKN 9 GARUT") → perlu verifikasi identitas.
+12. **MUTIA ANITA SARI** — page title "ASTS personal branding nama Mutia" (nama tidak lengkap).
+13. **LABEL BLOGGER** — beberapa siswa memakai label milik tugas lain atau kehilangan label wajib.
+14. Butir yang wajib dicek manual guru ada di sheet `4. CEK MANUAL GURU` (**38 butir**).
+15. **Belum ada nilai masuk rapor** — tunggu persetujuan guru atas revisi rubrik.
 
 ---
 
@@ -423,32 +442,33 @@ Semua skrip ada di `SESI PENILAIAN/skrip/`.
 ## 8.1 Alur "update" (untuk mendeteksi kiriman baru)
 
 ```bash
-cd ~/Instructor/SAGAR/DKV/2026/MPP\ AI\ -\ XI\ DKV/ASTS/NILAI\ ASTS\ 1/SESI\ PENILAIAN/skrip/
-
-# Kompilasi OCR (butuh Xcode Command Line Tools)
-swiftc -O ocr.swift -o ocr
-
 # 1) baca rekapan dari Google Spreadsheet + fetch link Blogger + deteksi perubahan
-python3 fetch_parse.py
+python fetch_parse.py
 #   → mencetak: KIRIMAN BARU / HILANG / BERUBAH per siswa
-#   → menyimpan parsed.json (snapshot untuk pembanding berikutnya)
+#   → parsed.json TIDAK lagi ditimpa saat fetch gagal (disimpan ke .arsip)
 
-# 2) unduh berkas gambar asli + resolusi
-python3 getimg.py          # → images.json + img/<ID>/NN.jpg
+# 2) unduh gambar ASLI + resolusi, hanya untuk id yang perlu dinilai
+python getimg_sel.py R20 R25 ...     # merge images.json, validasi magic bytes
 
-# 3) OCR (upsil gambar kecil agar teks terbaca)
-mkdir -p imgup && for f in img/<ID>/*.jpg; do sips -Z 2400 -s format png "$f" --out imgup/...; done
-./ocr imgup/*/*.png > ocr_up.txt
+# 3) OCR (RapidOCR; gambar kecil di-upscale otomatis)
+pip install rapidocr-onnxruntime
+python tools/ocr_batch.py R20 R25 ...  # → tools/out/ocr_cache_win.json
 
-# 4) bangun ulang Excel (semua data siswa & skor ada di make_xlsx.py)
+# 4) dossier bukti (teks + tabel + px + OCR) per siswa
+python tools/dossier_win.py R20 R25 ...
+#   untuk siswa yang link publiknya mati tapi arsipnya ada:
+python tools/dossier_arsip.py R02
+
+# 5) tulis S.append + RESOLUSI ke make_xlsx.py, lalu bangun ulang Excel
 python make_xlsx.py
 
-# 5) sinkronkan index.html dari Excel
+# 6) sinkronkan index.html dari Excel
 python docs/update_data.py --check
 python docs/update_data.py
 ```
 
-> Jalankan `make_xlsx.py` dari direktori mana pun — `OUT` dihitung absolut dari lokasi skrip.
+> Jalankan dari direktori mana pun — `OUT` dihitung absolut dari lokasi skrip.
+> **Ingat: id `R##` berubah nomor tiap fetch.** Selalu pakai **nama** sebagai kunci.
 
 ## 8.2 Struktur data di `make_xlsx.py`
 ```python
@@ -484,7 +504,7 @@ BOBOT = [5,12,8,10,8,8,10,10,8,7,10,4]
 | `ocrcrop.swift` / `ocrcrop` | OCR versi tile/potong (lebih baik untuk teks kecil) |
 | `report.py` | Laporan teks per siswa (urutan dokumen) |
 | `hitung.py` | Hitung nilai dari skor |
-| `make_xlsx.py` | **Bangun Excel lengkap (93 sheet)** — sumber kebenaran nilai |
+| `make_xlsx.py` | **Bangun Excel lengkap (119 sheet)** — sumber kebenaran nilai |
 | `docs/update_data.py` | Regenerasi objek `DATA` di `index.html` dari Excel |
 
 ---

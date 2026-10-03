@@ -269,12 +269,18 @@ def build_detail(wb, names):
         if not title.startswith(DETAIL_PREFIX):
             continue
         suffix = title[len(DETAIL_PREFIX):]
-        candidates = [n for n in names if norm(n).startswith(norm(suffix))]
-        if len(candidates) != 1:
-            print('  ! sheet %r tidak bisa dipetakan ke nama siswa, dilewati'
-                  % title, file=sys.stderr)
-            continue
-        key = candidates[0]
+        # Cocokkan persis dulu: nama bisa berupa awalan nama lain
+        # (mis. "INDRI" vs "INDRI FITRIYANI" -> dua sheet "Detail - Indri*").
+        exact = [n for n in names if norm(n) == norm(suffix)]
+        if len(exact) == 1:
+            key = exact[0]
+        else:
+            candidates = [n for n in names if norm(n).startswith(norm(suffix))]
+            if len(candidates) != 1:
+                print('  ! sheet %r tidak bisa dipetakan ke nama siswa, dilewati'
+                      % title, file=sys.stderr)
+                continue
+            key = candidates[0]
 
         ws = wb[title]
         link = txt(ws.cell(2, 1).value)

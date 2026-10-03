@@ -1,0 +1,164 @@
+====================================================================================================
+ID R26 | INDRI FITRIYANI | XI DKV 3 | ts 2026-10-01 10:29:20
+URL: https://indriifitriyani.blogspot.com/2026/09/personal-branding-indri-fitriyani-xi.html?m=1
+PAGE TITLE: 'Personal Branding Indri Fitriyani XI DKV 3'
+STATUS 200 | words=2318 | img=5 | tabel=2 | labels=['AI', 'CV', 'Personal Branding', 'Portofolio', 'SMKN 9 Garut', 'TUGAS', 'Tugas sekolah']
+
+### TABEL (11 baris x 7 kolom)
+  r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+  r02: 1 || Kamera dan lensa berada di meja || Extreme Close Up || Eye Level || Static || 2 detik || Pembukaan dengan menampilkan detail kamera
+sebagai identitas fotografer.
+  r03: 2 || Tangan mengambil kamera || Close Up || High Angle || Tilt Down || 3 detik || Menunjukkan persiapan sebelum melakukan pemotretan.
+  r04: 3 || Fotografer mempersiapkan kamera || Medium Shot || Eye Level || Dolly In || 3 detik || Menampilkan fotografer yang siap mengambil gambar.
+  r05: 4 || Fotografer melihat objek || Medium Close Up || Eye Level || Slow Pan || 3 detik || Menunjukkan fokus fotografer dalam menentukan objek dan
+komposisi foto.
+  r06: 5 || Jari menekan tombol kamera || Close Up || Eye Level || Tracking || 3 detik || Menampilkan proses pengambilan gambar dengan kamera.
+  r07: 6 || Hasil foto muncul || Close Up || Eye Level || Zoom In || 3 detik || Menampilkan hasil foto yang telah berhasil diambil.
+  r08: 7 || Proses editing di laptop || Over The Shoulder || High Angle || Static || 3 detik || Menampilkan proses editing foto sebagai bagian dari
+identitas Photographer dan Editor.
+  r09: 8 || Detail hasil editing || Close Up || Eye Level || Pan || 3 detik || Menunjukkan perubahan warna, pencahayaan, dan detail pada foto.
+  r10: 9 || Before dan After foto || Medium Shot || Eye Level || Slide || 3 detik || Menampilkan perbedaan hasil foto sebelum dan sesudah proses
+editing.
+  r11: 10 || Logo, maskot, dan tagline || Full Shot || Center || Zoom Out || 4 detik || Penutup dengan identitas INDRI FITRIYANI, logo IF, maskot, dan
+tagline “Capture Your Story, Create Your Memory.
+
+### JUMLAH KATA PER BAGIAN: {}
+
+
+### TEKS ARTIKEL LENGKAP (get_text() penuh, 2318 kata; ekstraksi per-bagian hanya 0) — WAJIB DIBACA, JANGAN ABAIKAN
+ASTS PERSONAL BRANDING INDRI FITRIYANI XI DKV 3 SMKN 9 GARUT 1.BRANDING Logo personal branding ini saya buat menggunakan inisial nama “IF” dari Indri
+Fitriyani sebagai identitas utama. Konsep logo dibuat dengan gaya modern, minimalis, kreatif, dan profesional. Saya memilih konsep tersebut agar logo
+terlihat sederhana tetapi tetap memiliki ciri khas dan mudah dikenali. Pada bagian utama logo terdapat huruf I dan F yang digabungkan menjadi sebuah
+simbol. Penggunaan inisial ini bertujuan agar nama saya dapat direpresentasikan dalam bentuk visual yang lebih singkat dan mudah diingat. Selain itu,
+terdapat elemen yang terinspirasi dari kamera atau lensa sebagai simbol ketertarikan saya terhadap dunia fotografi. Elemen kamera/lensa memiliki makna
+bahwa saya memiliki minat dalam mengambil dan mengabadikan sebuah momen melalui fotografi. Sementara itu, elemen berbentuk seperti buku atau lembaran
+menggambarkan proses belajar, kreativitas, dan pengembangan kemampuan dalam bidang desain, fotografi, dan editing. Logo ini menggunakan perpaduan
+warna kuning dan biru dengan gradasi. Warna kuning memberikan kesan ceria, kreatif, optimis, dan penuh semangat. Sedangkan warna biru memberikan kesan
+tenang, profesional, dan dapat dipercaya. Perpaduan kedua warna tersebut menggambarkan keseimbangan antara kreativitas dan profesionalitas. Pada
+bagian bawah logo terdapat tulisan “INDRI FITRIYANI” sebagai identitas pemilik logo. Kemudian terdapat tulisan “PHOTOGRAPHER | EDITOR” yang
+menunjukkan bidang yang saya minati dan ingin saya kembangkan. Personal branding ini dibuat untuk menjadi identitas visual saya dalam berbagai karya,
+terutama yang berkaitan dengan fotografi, editing, desain, dan karya visual lainnya. Logo ini nantinya dapat digunakan sebagai watermark foto, foto
+profil media sosial, portofolio, poster, kartu nama, mockup, maupun berbagai media lainnya. Melalui personal branding ini, saya ingin menunjukkan
+karakter diri sebagai seseorang yang kreatif, percaya diri, ramah, dan mau terus belajar. Saya juga ingin mengembangkan kemampuan saya dalam bidang
+fotografi dan editing sehingga dapat menghasilkan karya visual yang menarik dan memiliki ciri khas. Secara keseluruhan, logo IF – Indri Fitriyani
+bukan hanya sebuah simbol, tetapi menjadi representasi dari identitas, minat, kreativitas, dan kemampuan yang ingin saya kembangkan. Personal branding
+ini menjadi langkah awal bagi saya untuk memperkenalkan diri dan karya saya melalui identitas visual yang konsistenn Filosofi Personal Branding IF →
+singkatan dari Indri Fitriyani sebagai identitas utama. Kamera/Lensa → menggambarkan minat dalam bidang fotografi. Buku/Lembaran → menggambarkan
+proses belajar dan pengembangan kreativitas. Kuning → kreativitas, semangat, dan optimisme. Biru → profesionalitas, ketenangan, dan kepercayaan.
+Gradasi → perpaduan kreativitas dengan profesionalitas. Photographer | Editor → bidang yang menjadi minat dan fokus pengembangan diri. Dengan adanya
+personal branding ini, saya berharap identitas Indri Fitriyani dapat lebih mudah dikenali melalui karya-karya yang saya buat, khususnya dalam bidang
+fotografi, editing, dan desain visual. Tagline: Capture Moments, Create Stories. prompt yang di gunakan : "Hai, berperanlah sebagai expert designer.
+Buat logo atau branding personal dari inisial nama saya, Indri Fitriyani. Buat identitas visual personal berdasarkan inisial nama “IF”, karakter diri
+yang extrovert, hobi atau minat mendengarkan musik dan membaca novel, serta bidang kreatif yang diminati yaitu fotografi dan editing foto. Buat logo
+dengan gaya modern, minimalis, kreatif, dan profesional. Gunakan elemen kamera atau lensa yang menyatu dengan inisial IF. Gunakan font Cormorant
+Garamond, dengan color palette soft yellow dan soft blue yang sedikit digradasikan. Tambahkan tulisan “INDRI FITRIYANI” dan “PHOTOGRAPHER | EDITOR” di
+bawah logo. Output PNG dengan background transparan, format 1:1, kualitas 4K." 2.MOODBOARD Moodboard ini saya buat sebagai panduan visual untuk
+personal branding Indri Fitriyani. Moodboard berfungsi untuk menentukan arah tampilan visual agar logo, maskot, mockup, dan karya lainnya memiliki
+gaya yang konsisten dan tetap sesuai dengan identitas branding. Konsep visual yang digunakan adalah elegan, minimalis, kreatif, modern, dan
+profesional. Konsep tersebut dipilih karena sesuai dengan karakter personal branding saya sebagai seseorang yang memiliki minat di bidang fotografi
+dan editing. Warna yang digunakan terdiri dari Soft Luminous Gold, Soft Pastel Blue, Deep Navy Blue, dan Warm Beige. Warna gold memberikan kesan
+elegan dan mewah, pastel blue memberikan kesan lembut dan tenang, deep navy blue memberikan kesan profesional, sedangkan warm beige digunakan sebagai
+warna latar agar tampilan terasa hangat dan bersih. Perpaduan warna tersebut juga digunakan sebagai acuan agar karya-karya personal branding memiliki
+warna yang seragam. Suasana yang ingin ditampilkan adalah hangat, elegan, kreatif, refined, dan approachable. Referensi visual seperti kamera, ruangan
+dengan pencahayaan lembut, serta buku digunakan untuk membangun kesan kreatif dan profesional yang sesuai dengan bidang fotografi dan editing. Gaya
+visual yang digunakan cenderung minimalis dan clean dengan komposisi yang sederhana. Referensi kamera dan fotografi digunakan untuk memperkuat
+identitas sebagai Photographer, sedangkan portfolio dan elemen buku menggambarkan sisi kreatif serta proses belajar. Tipografi menggunakan gaya huruf
+yang elegan, sederhana, dan mudah dibaca. Nama “INDRI FITRIYANI” menjadi teks utama, sedangkan “PHOTOGRAPHER | EDITOR” menjadi keterangan bidang yang
+ditekuni. Elemen grafis yang digunakan terinspirasi dari lensa kamera, buku, dan garis lengkung. Elemen tersebut nantinya dapat digunakan sebagai
+aksen dalam berbagai media branding agar tetap memiliki hubungan dengan logo utama. Referensi desain yang terdapat dalam moodboard meliputi kartu
+nama, tampilan portfolio, logo, stationery, dan penerapan identitas visual. Referensi tersebut digunakan untuk melihat bagaimana personal branding
+dapat diterapkan pada berbagai media dengan tampilan yang tetap konsisten. Secara keseluruhan, moodboard ini menjadi acuan visual dalam mengembangkan
+personal branding Indri Fitriyani. Dengan adanya moodboard, pemilihan warna, tipografi, elemen grafis, dan gaya visual dapat dibuat lebih terarah
+sehingga menghasilkan identitas yang konsisten, elegan, kreatif, dan profesional. prompt yang di gunakan : -"Oke nice, dari/berdasarkan personal
+branding di atas, buatkan moodboard dengan ketentuan: warna utama branding, typography, style visual, referensi desain, tone & mood, elemen grafis,
+dan inspirasi visual. Buat 1 moodboard yang menarik, rapi, elegan, dan tidak terlalu ramai. Gunakan format landscape dan sesuaikan seluruh elemen
+dengan personal branding Indri Fitriyani, terutama logo, fotografi, editing, dan minat membaca novel. Gunakan tampilan yang profesional, harmonis, dan
+memiliki kesatuan visual." -edit lagi moodboard nya gambar gambarnya sesuaikan sesuai warna branding, sesuaikan juga warna logonya 3.MOCK UP Mockup
+ini dibuat untuk memperlihatkan penerapan logo personal branding Indri Fitriyani pada berbagai media. Logo yang digunakan adalah inisial “IF” dengan
+identitas “INDRI FITRIYANI – PHOTOGRAPHER | EDITOR”. Pembuatan mockup bertujuan untuk memberikan gambaran bagaimana logo dapat digunakan secara nyata,
+tidak hanya sebagai simbol, tetapi juga sebagai identitas visual pada berbagai produk. Konsep mockup menggunakan gaya minimalis, elegan, modern, dan
+profesional. Warna yang digunakan mengikuti identitas visual pada logo dan moodboard, yaitu perpaduan soft gold, pastel blue, deep navy blue, dan warm
+beige. Perpaduan warna tersebut memberikan kesan elegan, tenang, dan kreatif sehingga tampilan setiap media tetap selaras. Pada mockup ini, logo
+diterapkan pada beberapa media, yaitu: Kartu nama, digunakan untuk memperkenalkan identitas Indri Fitriyani serta bidang yang ditekuni, yaitu
+Photographer | Editor. Stiker, digunakan sebagai media pendukung branding yang dapat ditempelkan pada berbagai benda atau kemasan. Paper cup, menjadi
+contoh penerapan logo pada produk sehari-hari agar identitas visual terlihat lebih menarik dan mudah dikenali. Penempatan logo pada setiap media
+dibuat sederhana agar tetap terlihat jelas dan tidak berlebihan. Penggunaan warna serta elemen visual yang konsisten juga bertujuan untuk menjaga
+keselarasan antara logo, moodboard, dan hasil mockup. Melalui mockup ini, saya dapat melihat bagaimana identitas personal branding IF – Indri
+Fitriyani diterapkan pada media yang berbeda. Selain itu, mockup membantu memberikan gambaran mengenai tampilan logo ketika digunakan pada produk
+nyata, sehingga desain dapat terlihat lebih menarik dan profesional. Secara keseluruhan, mockup ini merupakan bentuk penerapan identitas visual
+personal branding Indri Fitriyani yang menggabungkan unsur kreativitas, kesederhanaan, dan profesionalitas. Hasil mockup ini diharapkan dapat menjadi
+referensi untuk mengembangkan identitas branding pada media lain, seperti portofolio, media sosial, watermark fotografi, dan berbagai kebutuhan desain
+di masa mendatang. prompt yang di gunakan : "buatkan mock up nya Minimal 3 Mockup Branding kartu nama,stiker banyak,gelas kopi ,dengan resolusi
+tinggi" 4.MASKOT Maskot dibuat dalam tiga bentuk, yaitu maskot bersama logo, maskot portrait, dan maskot full body. Setiap bentuk memiliki fungsi dan
+tampilan yang berbeda. Maskot Bersama Logo : Menampilkan karakter maskot berdampingan dengan logo IF serta nama Indri Fitriyani. Bagian ini bertujuan
+memperkenalkan karakter sekaligus memperkuat identitas personal branding. Maskot Portrait: Menampilkan karakter dari bagian atas tubuh dengan fokus
+pada wajah, pakaian, dan kamera yang dibawa. Tampilan ini memperlihatkan detail karakter secara lebih dekat. Maskot Full Body : Menampilkan karakter
+secara keseluruhan, mulai dari kepala hingga kaki, lengkap dengan pakaian, sepatu, tas, dan kamera. Bentuk ini memperlihatkan desain karakter secara
+utuh. Elemen kamera menjadi bagian utama dalam desain maskot karena menggambarkan ketertarikan saya terhadap dunia fotografi. Kamera melambangkan
+kegiatan mengabadikan momen dan menghasilkan karya visual yang memiliki cerita. Selain itu, terdapat elemen lensa kamera dan buku yang diterapkan pada
+pakaian sebagai detail pendukung yang berkaitan dengan fotografi, kreativitas, dan proses belajar. Logo IF juga diterapkan pada pakaian dan aksesori
+maskot untuk menjaga konsistensi identitas visual. Penggunaan logo tersebut membuat karakter lebih mudah dihubungkan dengan personal branding Indri
+Fitriyani. Sementara itu, pemilihan warna yang lembut memberikan kesan elegan, tenang, dan profesional. Gaya visual 3D dipilih karena mampu memberikan
+kesan lebih nyata melalui bentuk, pencahayaan, tekstur, dan detail karakter. Ekspresi wajah yang ramah serta penampilan yang menarik juga memberikan
+kesan mudah didekati dan kreatif. Pembuatan maskot ini bertujuan untuk mengembangkan identitas personal branding agar tidak hanya berupa logo, tetapi
+juga memiliki karakter visual yang unik. Dengan adanya maskot, personal branding dapat terlihat lebih menarik dan memiliki variasi dalam penerapannya
+pada berbagai media. Maskot ini dapat digunakan untuk berbagai kebutuhan, seperti konten Blogger, media sosial, poster, portofolio, media promosi,
+presentasi, dan berbagai karya desain digital lainnya. Setiap bentuk maskot dapat digunakan sesuai kebutuhan, baik untuk memperkenalkan identitas,
+menampilkan karakter, maupun melengkapi desain visual. Secara keseluruhan, maskot Indri Fitriyani merupakan pengembangan dari konsep personal branding
+yang telah dibuat sebelumnya. Perpaduan karakter 3D, kamera, pakaian bernuansa lembut, dan logo IF menghasilkan tampilan yang selaras dengan identitas
+Photographer | Editor. Melalui maskot ini, saya ingin menunjukkan kreativitas, minat, serta identitas diri dalam bidang fotografi dan editing dengan
+cara yang lebih menarik dan mudah dikenali. prompt yang di gunakan : baik sekarang berdasarkan logo moodboard yang di buat impelementasikan kedalam
+/buat maskotnya style 3d dengan ketentuan ouput : maskot full body, maskot potrait, maskot bersama logo branding NASKAH Judul : Capture Your Story,
+Create Your Memory Tema : Perjalanan kreatif seorang fotografer dalam menangkap momen dan mengolahnya menjadi karya visual yang bermakna. Pesan Utama:
+Indri Fitriyani merupakan fotografer dan editor yang menggabungkan kreativitas, ketelitian, dan kemampuan editing untuk menghasilkan visual yang
+menarik dan profesional. Dialog / Narasi (Voice Over ): VO: “Setiap momen memiliki cerita yang layak untuk diabadikan.” VO : “Dari sebuah kamera,
+sebuah cerita dimulai.” VO : “Setiap sudut, cahaya, dan detail menjadi bagian dari sebuah karya.” VO : “Setelah momen tertangkap, kreativitas
+dilanjutkan melalui proses editing.” VO : “Karena sebuah foto bukan hanya tentang gambar, tetapi tentang cerita dan kenangan di dalamnya.” Closing
+Tagline : “Indri Fitriyani – Photographer | Editor. Capture Your Story, Create Your Memory.” prompt yang di gunakan : "oke ini ketentuan yang pertama
+saya buat untuk naskah/script iklan berdasarkan personal branding yang telah saya buat Naskah wajib memuat: 1. Judul 2. Tema 3. Pesan Utama 4.
+Narasi/Dialog 5. Closing Tagline Buat narasi yang singkat, natural, mudah dipahami, tidak terlalu formal, dan sesuai" STORYLINE Pembukaan : Maskot
+INDRI FITRIYANI muncul sebagai fotografer perempuan berhijab dengan outfit cream dan vest biru. Maskot mempersiapkan kamera, menentukan objek, lalu
+mengambil foto. Visual menggunakan gaya 3D yang sama dengan maskot. Alur Cerita Singkat : Video dibuka dengan kamera dan lensa di meja kerja bernuansa
+warm beige. Logo IF ditampilkan secara halus. Warna soft luminous gold dan pastel blue digunakan sebagai identitas visual . Konflik atau Fokus Visual
+: Setelah foto diambil, maskot melakukan editing menggunakan laptop. Ditampilkan proses perubahan warna dan pencahayaan serta perbandingan before &
+after. Bagian ini menunjukkan kemampuan Indri sebagai Photographer sekaligus Editor. Penutup : Hasil foto ditampilkan, kemudian muncul maskot bersama
+logo IF. Muncul tulisan “INDRI FITRIYANI – PHOTOGRAPHER | EDITOR” dan tagline “Capture Your Story, Create Your Memory.” Background menggunakan deep
+navy dengan aksen soft gold dan pastel blue. prompt yang di gunakan : Oke, setelah membuat naskah iklan, sekarang buatkan storyline berdasarkan
+personal branding yang telah dibuat, Storyline harus sesuai dengan hasil branding yang sudah dibuat, yaitu logo, moodboard, mockup, dan maskot
+Storyline wajib memuat : 1. Pembukaan 2. Alur Cerita 3. Konflik/Fokus Visual 4. Penutup SHOTLIST No Adegan Jenis Shot Angle Movement Durasi Deskripsi
+1 Kamera dan lensa berada di meja Extreme Close Up Eye Level Static 2 detik Pembukaan dengan menampilkan detail kamera sebagai identitas fotografer. 2
+Tangan mengambil kamera Close Up High Angle Tilt Down 3 detik Menunjukkan persiapan sebelum melakukan pemotretan. 3 Fotografer mempersiapkan kamera
+Medium Shot Eye Level Dolly In 3 detik Menampilkan fotografer yang siap mengambil gambar. 4 Fotografer melihat objek Medium Close Up Eye Level Slow
+Pan 3 detik Menunjukkan fokus fotografer dalam menentukan objek dan komposisi foto. 5 Jari menekan tombol kamera Close Up Eye Level Tracking 3 detik
+Menampilkan proses pengambilan gambar dengan kamera. 6 Hasil foto muncul Close Up Eye Level Zoom In 3 detik Menampilkan hasil foto yang telah berhasil
+diambil. 7 Proses editing di laptop Over The Shoulder High Angle Static 3 detik Menampilkan proses editing foto sebagai bagian dari identitas
+Photographer dan Editor. 8 Detail hasil editing Close Up Eye Level Pan 3 detik Menunjukkan perubahan warna, pencahayaan, dan detail pada foto. 9
+Before dan After foto Medium Shot Eye Level Slide 3 detik Menampilkan perbedaan hasil foto sebelum dan sesudah proses editing. 10 Logo, maskot, dan
+tagline Full Shot Center Zoom Out 4 detik Penutup dengan identitas INDRI FITRIYANI, logo IF, maskot, dan tagline “Capture Your Story, Create Your
+Memory. prompt yang saya gunakan : mantap sekarang kita masuk dokumen teknis untuk pengambilan gambar (shotlist) buatkan dalam bentuk tabel berikut
+ketentuannya: Buat tabel shotist minimal 10 shot, No |Adegan |Jenis Shot| Angle |Movement |Durasi |Deskripsi STORYBOARD Storyboard ini menggambarkan
+video iklan personal branding Indri Fitriyani – Photographer | Editor. Alurnya menunjukkan proses kreatif mulai dari menggunakan kamera, mengambil
+foto, melakukan editing, hingga menampilkan hasil karya. Visual disesuaikan dengan logo IF, moodboard, mockup, dan maskot, menggunakan warna soft
+gold, pastel blue, deep navy, dan warm beige dengan gaya elegan, modern, dan kreatif. Video ditutup dengan logo IF, maskot, serta tagline “Capture
+Your Story, Create Your Memo prompt yang saya gunakan : dari naskah sampai sholist buatkan gambar story board nya dong Ketentuan: Minimal : • 6 Scene
+• Visual Adegan • Keterangan Shot • Angle Kamera • Transisi • Dialog atau Narasi Ketentuan : • 6 Scene • Visual Adegan • Keterangan Shot • Angle
+Kamera • Transisi • Dialog atau Narasi
+
+--- GAMBAR (5) — BUKTI VISUAL, BACA FILENYA LANGSUNG ---
+
+[IMG#01] px=400x400 square | bagian: 1.BRANDING | file: img/R26/01.jpg
+  OCR: INDRI FITRIYANI / PM OTGoRAP heA jEaiTDR
+
+[IMG#02] px=400x223 landscape | bagian: 2.MOODBOARD | file: img/R26/02.jpg
+  OCR: WARNAUTAMABRANDING / REEERENSIOESAIN&ELEMENGRAFIS / INDRIFITRIYANI / ® / TONL&UOOD / STLEVSUAL / PAOYOGTASIERIKOITOR / TIPOGRAFI / ExrxnCrahs /
+B / Prinary / INDRI / INSRRASIVSUAL / FITRIYANI / Secordsry / Apeofonicrolapprooch / 1ocnayhue sison / Ega! / Deols / Red / emppaaplg ryaccty / Chvtme
+
+[IMG#03] px=400x266 landscape | bagian: 3.MOCK UP | file: img/R26/03.jpg
+  OCR: F / INDRIETTRIYANI / INDRIEITRIYANI / INDRI FITRIYANI / Photography Editor
+
+[IMG#04] px=320x213 landscape | bagian: 4.MASKOT | file: img/R26/04.jpg
+  OCR: KEGHTTrASS / INDRITITRIYAN! / 8 / IF / INORUITRIYANI
+
+[IMG#05] px=400x266 landscape | bagian: STORYBOARD | file: img/R26/05.jpg
+  OCR: STORYBOARD / Capedvre jeor Stoy. / INDRIFITRIYANI / VIOTOIEIANPEAIONAUJAANOING / Gene yor Menxeg / PHOTOGAAPHESIIDITON / INORIFITRIYANI /
+1X00000 / 2 / 00 / 3 / 0111 / 01-028 / CENS / 0-12000 / INORIETRIYANI

@@ -3,7 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 
 OUT = os.path.dirname(os.path.abspath(__file__))
-data = json.load(open(os.path.join(OUT, "parsed.json")))
+with open(os.path.join(OUT, "parsed.json"), encoding="utf-8") as f:
+    data = json.load(f)
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/126.0 Safari/537.36"}
 IMG = os.path.join(OUT, "img")
 os.makedirs(IMG, exist_ok=True)
@@ -11,12 +12,11 @@ os.makedirs(IMG, exist_ok=True)
 SKIP = ("profile_img", "blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO")
 
 def dims(path):
+    """Dimensi piksel asli. Pillow lintas-platform (dulu memakai `sips` macOS)."""
     try:
-        o = subprocess.run(["sips", "-g", "pixelWidth", "-g", "pixelHeight", path],
-                           capture_output=True, text=True).stdout
-        w = re.search(r"pixelWidth: (\d+)", o)
-        h = re.search(r"pixelHeight: (\d+)", o)
-        return (int(w.group(1)) if w else 0, int(h.group(1)) if h else 0)
+        from PIL import Image
+        with Image.open(path) as im:
+            return im.size
     except Exception:
         return (0, 0)
 
@@ -56,16 +56,20 @@ for rec in data:
         if not re.search(r"=s\d+", src):
             orig = src + "=s0"
         fp = os.path.join(d, "%02d.jpg" % n)
-        try:
-            r = requests.get(orig, headers=UA, timeout=60)
-            if r.status_code == 200 and len(r.content) > 2000:
-                open(fp, "wb").write(r.content)
-            else:
-                r2 = requests.get(src, headers=UA, timeout=60)
-                open(fp, "wb").write(r2.content)
-        except Exception as e:
+        err = None
+        for cand in (orig, src):
+            try:
+                r = requests.get(cand, headers=UA, timeout=60)
+                if r.status_code == 200 and len(r.content) > 2000:
+                    open(fp, "wb").write(r.content)
+                    err = None
+                    break
+                err = "HTTP %s / %d byte" % (r.status_code, len(r.content))
+            except Exception as e:
+                err = str(e)
+        if err is not None:
             manifest.append({"id": rid, "nama": rec["nama"], "kelas": rec["kelas"], "idx": n,
-                             "section": cur, "file": None, "error": str(e)})
+                             "section": cur, "file": None, "error": err})
             continue
         w, h = dims(fp)
         manifest.append({"id": rid, "nama": rec["nama"], "kelas": rec["kelas"], "idx": n,
@@ -73,7 +77,8 @@ for rec in data:
                          "orient": "landscape" if w > h else ("portrait" if h > w else "square"),
                          "bytes": os.path.getsize(fp)})
 
-json.dump(manifest, open(os.path.join(OUT, "images.json"), "w"), ensure_ascii=False, indent=1)
+with open(os.path.join(OUT, "images.json"), "w", encoding="utf-8") as f:
+    json.dump(manifest, f, ensure_ascii=False, indent=1)
 for m in manifest:
     print("%s %-28s #%02d %-42s %-10s %s" % (m["id"], m["nama"][:28], m["idx"], m["section"][:42], m.get("px", "-"), m.get("orient", "-")))
 print("TOTAL", len(manifest))

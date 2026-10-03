@@ -1,0 +1,347 @@
+====================================================================================================
+ID R20 | FUZI NAILA ANNURI | XI DKV 3 | ts 2026-10-02 20:35:23
+URL: https://fuzinailaannuri.blogspot.com/2026/10/personal-branding-fuzi-naila-annuri-xi.html
+PAGE TITLE: 'Personal Branding Fuzi Naila Annuri XI DKV 3'
+STATUS 200 | words=7436 | img=9 | tabel=1 | labels=['AI', 'BRANDING LOGO TUGAS SEKOLAH', 'CV_FUZI_TUGAS_SEKOLAH', 'PRAKTIKUM_DKV_TUGAS_SEKOLAH',
+'Personal Branding', 'Portofolio', 'SMKN 9 Garut', 'Tugas Sekolah', 'UJI KOMPETENSI AI PROMPTING DKV SMKN 9 GARUT { MASKOT }', 'UJI KOMPETENSI AI
+PROMPTING DKV SMKN 9 GARUT { MOCK UP }']
+
+### [5. NASKAH IKLAN] (46 kata)
+bestii sekarang kamu buat naskah iklan yang memuat Judul haruss sesuai sama branding, maskot nyaa yaa Tema sama harus sesuai sama branding, maskot
+Pesan Utama sesuai kan Narasi/Dialog : voice over(vo) Closing Tagline kasihh kualitas 4k/jernih dan jelas, berikann hasil yang terbaik yaa bestii.
+
+### TABEL (11 baris x 7 kolom)
+  r01: No || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+  r02: 1 || Dunia Mimpi || Establishing / Wide Shot || Eye Level || Slow Push In || 4 detik || Opening menampilkan dunia dreamy bernuansa pink pastel,
+baby blue, cream, dan gold, dengan bunga, pita, buku desain, bintang, dan cahaya lembut sebagai identitas visual brand..
+  r03: 2 || Mimpi Dimulai || Medium Shot || ye Level || Slow Dolly In || 3 detik || Maskot duduk di ruang kreatif sambil memandangi sketchbook kosong.
+Ekspresinya penuh imajinasi, menggambarkan awal dari sebuah mimpi dan ide.
+  r04: 3 || Inspirasi || Close Up || Slight Low Angle || Slow Push In || 3 detik || Close-up wajah maskot dengan mata berkilau, senyum lembut, rambut
+cokelat bergelombang, pita pink, dan mahkota kecil. Sparkle tipis muncul sebagai simbol inspirasi.
+  r05: 4 || Menuangkan Ide || Over-the-Shoulder / Insert || High Angle || Slow Pan || 3 detik || Kamera memperlihatkan maskot mulai menggambar pada
+sketchbook. Terlihat elemen bintang, pita, mahkota, dan warna pastel yang terinspirasi dari identitas FNA.
+  r06: 5 || DESIGN || Top Shot / Detail Shot || Top Down || Smooth Tracking || 4 detik || Kamera bergerak melewati pensil, sketchbook, pita, warna
+pastel, dan detail desain. Visual menunjukkan proses mengubah mimpi menjadi konsep.
+  r07: 6 || Berani Melangkah || Medium Close Up || Eye Level || Slow Pull Out || 4 detik || Maskot berhenti sejenak dan memandangi hasil desainnya.
+Ekspresinya sedikit ragu. Pencahayaan menjadi lebih lembut untuk menonjolkan titik konflik
+  r08: 7 || Berani Melangkah || Full Body / Hero Shot || Slight Low Angle || Tilt Up || 4 detik || Maskot berdiri dengan percaya diri menggunakan
+outfit street-style pink dan baby blue. Kamera bergerak dari sneakers menuju wajah, menegaskan perubahan dari ragu menjadi berani.
+  r09: 8 || CREATE || Full Shot || Eye Level || Slow Orbit || 4 detik || Maskot berjalan dan membawa hasil karyanya. Rambut, pita, dan outfit bergerak
+natural dengan efek sparkle lembut. Ini menjadi simbol bahwa ide telah diwujudkan menjadi karya.
+  r10: 9 || Mascot + Logo || Wide Hero Shot || Eye Level || Slow Zoom Out || 4 detik || Maskot tampil berdampingan dengan logo FNA – Fuzi Naila
+Annuri, dikelilingi elemen mahkota, pita, bintang, dan bunga. Komposisi terasa premium dan dreamy.
+  r11: 10 || Closing Branding || End Card / Logo Close Up || Eye Level || Slow Push In → Hold || 5 detik || Logo FUZI NAILA ANNURI tampil jelas dengan
+efek golden shimmer. Muncul tulisan “DREAM + DESIGN + CREATE” dan closing tagline “Small Steps, Big Dreams.” Frame ditahan untuk memperkuat brand
+recall.
+
+### [8.STORYBOARD] (57 kata)
+kiwww bestiii! kamuu bikinin lagii storyboard nya yaa yang benar dan sesuai kaya branding nyaa okeyy betsii!! D.4 Storyboard yang memuat minimal: 6
+Scene Visual Adegan Keterangan Shot Angle Kamera Dialog atau Narasi kualitas 4kljernih, teks nyaayyang jelas, benar sesuai dari naskah ke shotlist
+itu. bikinin yang terbaik okeyyy bastiii yaa, ini yang terakhir bestiii kuu.
+
+### JUMLAH KATA PER BAGIAN: {'5. NASKAH IKLAN': 46, '8.STORYBOARD': 58}
+
+
+### TEKS ARTIKEL LENGKAP (get_text() penuh, 7436 kata; ekstraksi per-bagian hanya 103) — WAJIB DIBACA, JANGAN ABAIKAN
+ASTS Personal Branding Fuzi Naila Annuri XI DKV 3 SMKN 9 GARUT 1. PERSONAL BRANDING DESKRIPSI IDENTITAS BRANDING LOGO FNA Logo Fuzi Naila Annuri (FNA)
+merupakan identitas visual personal yang menggunakan inisial FNA sebagai elemen utama. Monogram tersebut merepresentasikan nama Fuzi Naila Annuri dan
+dirancang dengan bentuk yang saling terhubung untuk menciptakan simbol yang unik, elegan, dan mudah dikenali. Konsep logo mengarah pada karakter
+modern, elegan, mewah, kreatif, dan fashionable, sesuai dengan personal branding Fuzi Naila Annuri yang memiliki karakter diri ceria dan cool, serta
+memiliki minat pada bidang desain fashion dan butik. Logo ini juga mendukung tujuan untuk membangun citra sebagai seorang desainer yang kreatif dan
+inovatif. Pada bagian utama logo terdapat monogram FNA dengan bentuk tipografi serif yang dekoratif dan memiliki karakter elegan. Huruf-huruf tersebut
+dibuat menyatu melalui garis lengkung sehingga memberikan kesan dinamis dan menunjukkan hubungan yang kuat antara identitas pribadi dan kreativitas.
+Monogram FNA menjadi simbol utama yang membedakan brand sekaligus menjadi representasi visual dari nama Fuzi Naila Annuri. Di bagian atas terdapat
+elemen mahkota yang melambangkan kepercayaan diri, kualitas, pencapaian, dan kesan eksklusif. Sementara itu, elemen sparkle atau bintang melambangkan
+inspirasi, kreativitas, ide baru, dan harapan agar setiap karya dapat memiliki daya tarik serta karakter tersendiri. Bentuk pita dan garis lengkung
+yang mengelilingi monogram memberikan kesan lembut, feminin, dinamis, dan memiliki keterkaitan dengan dunia fashion. Warna yang digunakan dalam logo
+terdiri dari soft pink, soft blue, silver, dan gold. Soft pink merepresentasikan sisi ceria, lembut, dan feminin, sedangkan soft blue memberikan kesan
+cool, tenang, modern, dan kreatif. Silver memberikan karakter clean, elegan, dan modern, sementara gold memberikan sentuhan mewah, premium, dan
+eksklusif. Perpaduan keempat warna tersebut menciptakan karakter soft luxury, yaitu tampilan yang lembut dan tidak berlebihan tetapi tetap terlihat
+berkelas. Kombinasi warna tersebut juga membuat logo memiliki keseimbangan antara sisi feminin, cool, modern, dan elegan. Tipografi pada tulisan “fuzi
+naila annuri” menggunakan karakter serif yang memberikan kesan profesional, klasik, elegan, dan premium. Bentuk huruf yang memiliki kontras serta
+detail yang halus mendukung karakter fashion dan butik. Sementara itu, tagline “designing dreams, creating style” digunakan sebagai pesan pendukung
+yang menggambarkan nilai dan arah personal branding. Tagline tersebut memiliki makna “merancang mimpi, menciptakan gaya”, yang menggambarkan bagaimana
+ide, impian, dan kreativitas dapat diwujudkan menjadi karya desain yang memiliki gaya serta identitas. Secara filosofis, keseluruhan logo
+menggambarkan perpaduan antara identitas diri, kreativitas, impian, dan dunia fashion. Monogram FNA menjadi simbol utama dari identitas Fuzi Naila
+Annuri, sedangkan mahkota menggambarkan pencapaian dan kepercayaan diri, sparkle menggambarkan ide serta inspirasi, dan pita menggambarkan kelembutan
+serta karakter fashionable. Perpaduan elemen tersebut menunjukkan bahwa sebuah identitas personal dapat memiliki sisi yang ceria dan cool sekaligus
+tetap elegan, kreatif, dan berkelas. Logo FNA berfungsi sebagai identitas utama dalam personal branding Fuzi Naila Annuri. Logo dapat digunakan untuk
+memberikan tanda pengenal pada berbagai karya dan media, sekaligus membangun konsistensi visual agar brand lebih mudah dikenali. Penerapannya dapat
+digunakan pada kaos, hoodie, packaging, paper bag, hang tag, label pakaian, kartu nama, thank you card, poster, media sosial, portofolio, website,
+hingga produk fashion atau butik. Dengan penggunaan yang konsisten, logo tidak hanya menjadi simbol nama, tetapi juga menjadi representasi karakter
+dan bidang kreatif yang ingin dikembangkan. Secara keseluruhan, identitas visual FNA dirancang untuk membangun citra Fuzi Naila Annuri sebagai pribadi
+yang ceria, cool, kreatif, dan inovatif dengan ketertarikan pada desain fashion dan butik. Perpaduan monogram FNA, warna soft pink, soft blue, silver,
+dan gold, serta elemen mahkota, sparkle, dan pita menghasilkan identitas yang elegan, modern, mewah, fashionable, tetapi tetap simple dan memiliki
+karakter. Melalui tagline “designing dreams, creating style”, logo ini menyampaikan pesan bahwa setiap impian dan ide kreatif dapat diwujudkan melalui
+desain menjadi sebuah gaya yang memiliki identitas dan karakter. . PROMPT YANG DIGUNAKAN: Haii, besttiii berperan dong sebagai desainer ahli yang
+perposional, sekarang saya akan membuat personal branding branding, dengan indentitas visual personal berdasarkan inisial nama saya "fuzi naila
+annuri" kasih Inisial nama saya: FNA Karakter diri: ceria, cool Hobi: dengerin musik, membaca au minat: dalamdesainer butik Bidang kreatif yang
+diminati Output: desainer kreatif dan inovatif tagline nyaa sesuaiin dengan bidang kreatif yang diminati output nya yaa. Ketentuan Logo wajib
+menyertakan tulisan: "fuzi naila annuri". terus berikann warna pink soft"," soft blue","silver","gold". berikan kesan yang elegant mewah tidak monoton
+keren tapi simple dan kasih hasil dengan kualitas 4k , rasio 1:1 , baground PNG/transparan yaww 2. MOODBOARD DESKRIPSI MOODBOARD PERSONAL BRANDING FNA
+Moodboard personal branding Fuzi Naila Annuri (FNA) merupakan gambaran visual dari identitas diri yang ingin ditampilkan sebagai seorang desainer
+kreatif dan inovatif, khususnya dalam bidang desain fashion dan butik. Konsep visual yang digunakan menggabungkan karakter ceria dan cool dengan kesan
+elegan, mewah, lembut, modern, kreatif, dan feminin. 1. Warna Utama Branding Palet warna menggunakan kombinasi warna soft pink, soft blue, silver, dan
+gold. - Soft Pink (#FAD7E3) → menggambarkan sisi ceria, lembut, feminin, dan hangat. - Soft Blue (#CFE8FF) → memberikan kesan cool, tenang, modern,
+dan kreatif. - Silver (#D9D9D9) → memberikan kesan modern, clean, elegan, dan futuristik. - Gold (#E6C98A) → memberikan kesan mewah, premium,
+eksklusif, dan berkelas. Perpaduan keempat warna tersebut dibuat lembut agar identitas visual tetap terlihat elegan tanpa terlalu ramai atau monoton.
+2. Typography Tipografi menggunakan tiga karakter font yang berbeda untuk menciptakan hierarki visual. - Playfair Display digunakan sebagai font utama
+untuk logo dan headline karena memiliki bentuk serif yang elegan dan memberikan kesan premium. - Montserrat digunakan sebagai font pendukung untuk
+subjudul dan informasi karena tampilannya sederhana, modern, bersih, dan mudah dibaca. - Allura digunakan sebagai font aksen untuk tagline atau
+kalimat dekoratif karena memberikan sentuhan personal, artistik, dan feminin. Kombinasi ketiga tipografi tersebut membuat identitas FNA terlihat
+elegan tetapi tetap modern dan kreatif. 3. Style Visual Gaya visual FNA mengarah pada modern elegant fashion dengan sentuhan soft luxury. Visual
+menggunakan elemen yang lembut, bersih, berkilau, dan memiliki detail premium. Penggunaan kain satin, aksesori fashion, butik, ilustrasi busana, pita,
+mahkota, dan detail metalik memperkuat karakter FNA sebagai personal branding yang berkaitan dengan desain fashion dan butik. 4. Referensi Desain
+Referensi desain dalam moodboard berasal dari berbagai visual yang berhubungan dengan dunia fashion dan branding, seperti: - hang tag dan label
+produk, - paper bag, - kemasan fashion, - kain satin, - detail jahitan dan tekstil, - ilustrasi desain busana, - aksesori fashion, - serta tampilan
+butik. Referensi tersebut menjadi inspirasi untuk penerapan identitas FNA pada berbagai media branding agar terlihat konsisten dan profesional. 5.
+Tone & Mood Tone dan mood yang ingin dibangun adalah: Elegant • Luxury • Soft • Dreamy • Creative • Confident • Cheerful • Cool Kombinasi tersebut
+menggambarkan pribadi yang ceria tetapi tetap memiliki sisi cool, sekaligus menunjukkan karakter seorang desainer yang kreatif, percaya diri, dan
+memiliki selera visual yang elegan. 6. Elemen Grafis Elemen grafis yang digunakan terdiri dari: - monogram FNA sebagai identitas utama, - mahkota, -
+bintang dan sparkle, - pita atau bow, - garis lengkung, - bentuk hati, - garis dekoratif, - serta aksen warna pastel dan metalik. Elemen-elemen
+tersebut digunakan sebagai dekorasi sekaligus ciri khas visual agar branding FNA mudah dikenali. 7. Inspirasi Visual Inspirasi visual berasal dari
+dunia fashion, butik, desain busana, dan creative lifestyle. Terdapat visual seseorang yang sedang melakukan aktivitas kreatif, desain fashion,
+koleksi pakaian, ruang kerja kreatif, buku desain, headphone, serta suasana langit dan kain lembut. Inspirasi tersebut menggambarkan hubungan antara
+kreativitas, fashion, musik, membaca AU, dan proses menciptakan desain yang menjadi bagian dari karakter personal FNA. 8. Konsep Keseluruhan Secara
+keseluruhan, moodboard FNA menggunakan konsep “Soft Luxury Creative Fashion”, yaitu perpaduan antara kelembutan warna pastel dengan kesan mewah dan
+modern. Identitas visual ini dirancang untuk menunjukkan Fuzi Naila Annuri sebagai pribadi yang ceria, cool, kreatif, dan inovatif, dengan
+ketertarikan pada dunia desain fashion dan butik. Visual yang sederhana tetapi memiliki detail dekoratif membuat branding terlihat elegan, tidak
+monoton, mudah dikenali, dan tetap memiliki karakter personal. Tagline “DREAM + DESIGN + CREATE” Tagline tersebut menggambarkan tiga tahapan utama
+dalam karakter seorang desainer: memiliki mimpi, mengubahnya menjadi desain, kemudian menciptakan karya yang kreatif dan inovatif. PROMPT YANG
+DIGUNAKAN: kerenn besti! sekarang kamu buatin aku moodboard yang sesuai dengan ketentuan identitas branding tersebut Moodboard wajib memuat: warna
+utama branding typography Style visual Referensi desain Tone & Mood Elemen grafis Inspirasivisual format : landscape dengan kualitas 4k/jernih, kasih
+hasil yang terbaikl memuaskan dan sesuai ya bestii ku, kasih warna yang sesuai dengan branding nyaa, buatkan yang simpel aja tapi jelas 3.MOCK UP 1.
+MOCKUP KAOS DESKRIPSI MOCKUP BRANDING KAOS FNA Mockup kaos ini merupakan penerapan identitas visual brand Fuzi Naila Annuri ke dalam produk fashion
+berupa kaos. Desain dibuat untuk memperlihatkan secara nyata bagaimana logo, nama brand, warna, tipografi, dan elemen dekoratif dapat diaplikasikan
+pada pakaian dengan tampilan yang elegan, feminin, modern, dan tetap sederhana. 1. Jenis dan Bentuk Kaos Mockup menggunakan kaos lengan pendek dengan
+model basic/regular fit. Bentuk kaos dibuat sederhana agar cocok digunakan sebagai media penerapan identitas brand dan tetap terlihat nyaman untuk
+penggunaan sehari-hari. Kaos menggunakan warna putih sebagai warna dasar, sehingga desain logo dan tulisan dapat terlihat jelas tanpa kehilangan kesan
+minimalis. 2. Desain Bagian Depan Pada bagian depan kaos, desain dibuat lebih sederhana dan minimalis. Logo inisial “FNA” ditempatkan pada area dada
+sebagai identitas utama. Logo memiliki bentuk tipografi dekoratif dengan karakter yang elegan. Di bawah logo terdapat tulisan “fuzi naila annuri”
+dengan ukuran lebih kecil sebagai penegas nama brand. Ukuran logo pada bagian depan tidak terlalu besar sehingga memberikan kesan clean dan eksklusif,
+serta membuat kaos tetap dapat digunakan sebagai fashion sehari-hari. 3. Desain Bagian Belakang Bagian belakang menjadi area utama untuk menampilkan
+identitas brand secara lebih kuat. Logo “FNA” dibuat dalam ukuran lebih besar dan ditempatkan di bagian tengah punggung. Di bawah logo terdapat
+tulisan “fuzi naila annuri”, kemudian dilengkapi dengan tagline: “designing dreams, creating style” Penempatan tersebut membuat bagian belakang kaos
+memiliki visual yang lebih menonjol dibandingkan bagian depan, tetapi tetap mempertahankan keseimbangan dan keteraturan desain. 4. Logo pada Kaos Logo
+FNA menjadi elemen visual utama pada mockup. Logo menggunakan gaya lettering/dekoratif dengan bentuk huruf yang saling terhubung dan memiliki detail
+ornamen. Logo juga dilengkapi dengan elemen mahkota kecil dan aksen bintang/kilauan, yang memberikan kesan elegan serta memperkuat karakter personal
+branding. Logo diterapkan pada bagian depan dan belakang kaos, tetapi dengan skala yang berbeda: Depan: logo berukuran lebih kecil sebagai identitas
+minimalis. Belakang: logo berukuran lebih besar sebagai focal point desain. 5. Warna pada Mockup Warna kaos dan desain dibuat mengikuti identitas
+visual brand, yaitu: Putih: menjadi warna dasar kaos yang memberikan kesan bersih dan simpel. Soft Pink: memberikan kesan feminin, lembut, dan
+stylish. Soft Blue: memberikan kesan fresh dan modern. Gold: digunakan sebagai aksen untuk memberikan sentuhan elegan. Silver: menjadi aksen tambahan
+yang memberikan kesan clean dan modern. Perpaduan warna tersebut membuat logo tetap terlihat jelas di atas kaos putih tanpa menggunakan warna yang
+terlalu mencolok. 6. Tipografi Tipografi pada mockup menggunakan karakter elegan dan dekoratif pada logo utama, kemudian dipadukan dengan tipografi
+yang lebih sederhana pada nama brand dan tagline. Perbedaan ukuran dan karakter huruf menciptakan hierarki visual, sehingga logo menjadi perhatian
+pertama, nama brand menjadi informasi kedua, dan tagline menjadi elemen pendukung. 7. Penempatan Elemen Setiap elemen pada kaos ditempatkan dengan
+memperhatikan keseimbangan, proporsi, dan ruang kosong. Bagian depan dibuat lebih lega dengan logo berukuran kecil, sedangkan bagian belakang
+menggunakan komposisi yang lebih besar. Hal tersebut membuat desain tidak terasa penuh dan tetap memberikan ruang kosong yang cukup di sekitar logo
+dan tulisan. 8. Material dan Tampilan Kaos Dalam mockup, kaos terlihat menggunakan material kain yang lembut dan ringan, dengan tekstur kain yang
+masih terlihat secara natural. Permukaan kain tidak dibuat terlalu mengilap sehingga tetap menyerupai bahan kaos pada umumnya. Logo dan tulisan dibuat
+seolah-olah benar-benar tercetak pada permukaan kain, mengikuti lipatan dan bentuk kaos sehingga memberikan gambaran penggunaan produk secara
+realistis. 9. Tampilan Keseluruhan Mockup memperlihatkan dua sisi kaos, yaitu tampilan depan dan belakang. Tampilan depan menunjukkan penggunaan logo
+secara minimalis, sedangkan tampilan belakang menunjukkan identitas brand secara lebih lengkap. Selain memperlihatkan kaos yang sedang dikenakan,
+mockup juga menampilkan beberapa detail penerapan desain pada produk, seperti bagian label dan cetakan logo. Hal ini membantu memperlihatkan bagaimana
+identitas Fuzi Naila Annuri dapat diterapkan secara konsisten pada produk fashion. 10. Konsep Mockup Konsep utama mockup adalah “simple but elegant”.
+Kaos tidak menggunakan banyak elemen sehingga logo tetap menjadi pusat perhatian. Penggunaan warna pastel, tipografi dekoratif, dan aksen kecil
+membuat produk terlihat feminine, fashionable, youthful, dan personal. Mockup ini juga dirancang untuk menunjukkan bahwa identitas Fuzi Naila Annuri
+tidak hanya berupa logo, tetapi dapat diterapkan secara konsisten ke dalam produk fashion yang memiliki nilai visual dan karakter tersendiri. 11.
+Tujuan Pembuatan Mockup Tujuan mockup kaos ini adalah untuk memberikan gambaran visual mengenai penerapan branding pada produk nyata. Dengan mockup
+tersebut, dapat dilihat bagaimana identitas Fuzi Naila Annuri diterapkan pada: kaos bagian depan, kaos bagian belakang, label pakaian, cetakan logo,
+nama brand, dan tagline. Dengan demikian, mockup berfungsi sebagai simulasi produk fashion sebelum desain benar-benar diproduksi. 12. Kesimpulan
+Secara keseluruhan, mockup kaos Fuzi Naila Annuri menampilkan penerapan identitas brand pada produk fashion dengan pendekatan minimalis, elegan,
+feminin, modern, dan clean. Kaos putih menjadi media utama yang memberikan ruang bagi logo FNA untuk tampil menonjol, sementara kombinasi soft pink,
+soft blue, gold, dan silver memberikan karakter khas pada produk. Perbedaan desain antara bagian depan dan belakang membuat kaos tetap sederhana
+ketika dilihat dari depan, namun memiliki identitas yang lebih kuat ketika dilihat dari belakang. Mockup ini menunjukkan bagaimana sebuah identitas
+visual dapat diterjemahkan menjadi produk fashion yang memiliki ciri khas dan konsisten dengan karakter brand Fuzi Naila Annuri. PROMPT YANG
+DIGUNAKAN: kerennnn bangett bestii! sekarang tolong buatkan laghi mockup branding Implementasikan branding ke media promosi nyata, kebentuk kaos
+Output: kaos Mockup Branding Resolusi tinggi kasih denagn kualitas 4k/jernih,kasih yang terbaik ya besti 2. MOCKUP PACKAGING DESKRIPSI MOCKUP
+PACKAGING BRANDING FNA Mockup packaging ini merupakan visualisasi penerapan identitas brand Fuzi Naila Annuri pada berbagai elemen kemasan produk
+fashion. Konsep packaging dirancang dengan karakter feminin, elegan, soft, dreamy, dan premium, sekaligus mempertahankan konsistensi logo, warna,
+tipografi, serta elemen dekoratif dari identitas brand. 1. Konsep Packaging Packaging menggunakan konsep elegant feminine packaging dengan nuansa
+lembut dan romantis. Keseluruhan kemasan didominasi warna soft pink dan soft blue, dipadukan dengan warna putih serta aksen gold. Visual packaging
+dibuat tidak terlalu ramai. Elemen dekoratif seperti mahkota, bintang, sparkles, garis bingkai, dan pita digunakan sebagai aksen untuk memperkuat
+karakter brand. 2. Shopping Bag Bagian kiri atas menampilkan paper bag sebagai kemasan utama. Paper bag menggunakan warna dasar pastel dengan efek
+lembut seperti awan. Pada bagian tengah terdapat logo FNA berukuran besar, dilengkapi tulisan “fuzi naila annuri” di bawahnya. Tagline “designing
+dreams, creating style” ditempatkan di bagian bawah logo. Paper bag dilengkapi handle berbentuk tali berwarna pink serta dekorasi pita pink–blue di
+bagian atas, sehingga memberikan kesan lebih eksklusif dan menarik ketika digunakan sebagai kemasan produk. 3. Gift/Product Box Di bagian tengah
+terdapat box packaging berbentuk kotak dengan tutup yang dapat dibuka. Bagian dalam box digunakan untuk menyimpan produk yang dibungkus menggunakan
+tissue paper bermotif logo FNA. Pada bagian dalam tutup box terdapat tulisan: “Thank you for being a part of my journey” yang memberikan sentuhan
+personal kepada pelanggan. Di bawahnya kembali terdapat nama brand dan tagline. Penggunaan box membuat packaging terlihat lebih premium dan cocok
+digunakan untuk produk fashion atau hadiah. 4. Tissue Paper Produk di dalam box dibungkus menggunakan tissue paper bermotif berulang. Motif tersebut
+menggunakan logo FNA dalam ukuran kecil yang disusun secara repetitif. Penerapan logo secara berulang membuat identitas brand tetap terlihat meskipun
+produk berada di dalam kemasan. Tissue paper juga memberikan pengalaman unboxing yang lebih rapi dan berkesan. 5. Product Box Tambahan Pada bagian
+kiri bawah terdapat box tertutup dengan desain yang seragam dengan paper bag. Logo FNA ditempatkan di bagian tengah dengan nama brand dan tagline di
+bawahnya. Box menggunakan kombinasi warna pastel dan aksen gold sehingga terlihat sebagai bagian dari satu sistem packaging yang sama. 6. Hang Tag Di
+bagian kanan terdapat hang tag berbentuk memanjang yang dapat digunakan sebagai label produk fashion. Hang tag menampilkan logo FNA, tulisan “fuzi
+naila annuri”, serta tagline “designing dreams, creating style”. Bagian atas dilengkapi pita berwarna pink dan blue sebagai pengikat. Hang tag
+berfungsi sebagai identitas tambahan pada produk sekaligus memperkuat kesan profesional pada packaging. 7. Thank You Card Mockup juga menampilkan
+thank you card dengan desain bernuansa pastel. Bagian utama kartu berisi tulisan “Thank You” dan pesan singkat kepada pelanggan. Kartu ini dilengkapi
+logo FNA di bagian bawah sehingga tetap memiliki hubungan visual dengan keseluruhan packaging. Fungsinya adalah memberikan sentuhan personal dan
+apresiasi kepada pelanggan setelah melakukan pembelian. 8. Pouch / Wrapping Pada bagian kanan bawah terdapat kemasan berbentuk pouch atau wrapping
+berwarna pink yang dihias dengan pita besar. Pita menggunakan perpaduan soft pink dan soft blue sehingga sesuai dengan palet warna brand. Kemasan
+tersebut memberikan kesan seperti gift packaging dan dapat digunakan sebagai pembungkus tambahan untuk produk. 9. Sticker dan Label Terdapat pula
+beberapa elemen kecil seperti sticker berbentuk lingkaran dan kartu kecil yang menggunakan logo atau simbol brand. Elemen kecil ini berfungsi sebagai
+pelengkap packaging dan dapat digunakan untuk: menyegel kemasan, menghias paket, memberikan identitas brand, atau menjadi bagian dari pengalaman
+unboxing. 10. Palet Warna Packaging menggunakan kombinasi warna yang konsisten, yaitu: Soft Pink — memberikan kesan feminin, lembut, dan manis. Soft
+Blue — memberikan kesan fresh, tenang, dan modern. White/Cream — memberikan kesan bersih dan minimalis. Gold — menjadi aksen yang memberikan kesan
+elegan dan premium. Perpaduan tersebut membuat seluruh elemen packaging terlihat seperti berada dalam satu visual identity yang sama. 11. Elemen
+Dekoratif Elemen dekoratif yang digunakan meliputi mahkota, bintang, sparkles, garis bingkai, pita, dan ornamen kecil. Mahkota menjadi salah satu
+elemen pendukung logo, sedangkan bintang dan sparkles digunakan untuk memberikan kesan dreamy dan elegan. Garis bingkai pada kemasan membantu membuat
+desain terlihat lebih terstruktur. 12. Konsistensi Branding Hal yang paling menonjol dari mockup ini adalah konsistensi identitas visual. Logo FNA,
+nama Fuzi Naila Annuri, tagline, warna pastel, serta elemen dekoratif diterapkan secara berulang pada berbagai media packaging. Mulai dari paper bag,
+box, tissue paper, hang tag, thank you card, sticker hingga wrapping, semuanya menggunakan sistem visual yang seragam sehingga brand lebih mudah
+dikenali. 13. Kesan yang Dihasilkan Secara keseluruhan, packaging memberikan kesan feminine, elegant, soft, dreamy, creative, dan premium. Warna
+pastel dan penggunaan pita membuat tampilannya terasa lembut, sedangkan aksen gold dan logo dekoratif memberikan sentuhan eksklusif. Packaging ini
+tidak hanya berfungsi sebagai wadah produk, tetapi juga menjadi bagian dari pengalaman pelanggan dan media komunikasi visual brand Fuzi Naila Annuri.
+Kesimpulan Mockup packaging Fuzi Naila Annuri dirancang sebagai sistem kemasan yang memiliki identitas visual konsisten melalui penggunaan logo FNA,
+palet soft pink–soft blue, aksen gold, tipografi elegan, serta ornamen mahkota dan sparkles. Berbagai media seperti paper bag, product box, tissue
+paper, hang tag, thank you card, sticker, dan wrapping saling melengkapi sehingga membentuk satu kesatuan packaging yang elegan, feminin, modern, dan
+sesuai dengan karakter brand fashion Fuzi Naila Annuri. PROMPT YANG DIGUNAKAN: kerennnn bangett bestii! sekarang tolong buatkan laghi mockup branding
+Implementasikan branding ke media promosi nyata, kebentuk packaging Output: packaging Mockup Branding Resolusi tinggi kasih denagn kualitas
+4k/jernih,kasih yang terbaik ya besti 3. MOCKUP HOODIE DESKRIPSI MOCKUP BRANDING HOODIE FNA Mockup hoodie ini merupakan visualisasi penerapan
+identitas visual Fuzi Naila Annuri ke dalam produk fashion berupa hoodie. Desain hoodie dibuat dengan karakter feminine, soft, youthful, fashionable,
+dreamy, dan modern, dengan tetap mempertahankan logo serta elemen khas brand secara konsisten. 1. Bentuk dan Model Hoodie Produk menggunakan hoodie
+lengan panjang dengan model pullover yang dilengkapi: Hood/tudung pada bagian belakang. Tali serut (drawstring) pada bagian leher. Kantong depan model
+kangaroo pocket. Rib pada bagian ujung lengan. Rib pada bagian bawah hoodie untuk memberikan bentuk yang lebih rapi. Potongan hoodie terlihat casual
+dan nyaman, sehingga dapat digunakan sebagai pakaian sehari-hari sekaligus menjadi media fashion untuk menampilkan identitas brand. 2. Warna Dasar
+Hoodie menggunakan warna putih sebagai warna utama. Warna putih memberikan kesan: bersih, minimalis, lembut, modern, dan membuat elemen branding lebih
+mudah terlihat. Warna putih kemudian dipadukan dengan aksen soft pink dan soft blue pada bagian lengan dan beberapa detail hoodie. 3. Desain Bagian
+Depan Bagian depan hoodie memiliki desain yang lebih minimalis. Pada area dada terdapat logo “FNA” dalam ukuran relatif kecil. Logo kemudian
+dilengkapi dengan tulisan “fuzi naila annuri” di bawahnya serta aksen dekoratif kecil berupa bintang/sparkle. Penempatan logo di bagian dada membuat
+branding tetap terlihat jelas tetapi tidak membuat bagian depan hoodie terlalu penuh. Bagian depan juga dilengkapi kantong kangaroo yang menyatu
+dengan desain keseluruhan hoodie. 4. Desain Bagian Belakang Bagian belakang menjadi focal point utama pada hoodie. Logo FNA ditampilkan dalam ukuran
+besar di bagian tengah punggung. Di bawah logo terdapat tulisan: “fuzi naila annuri” kemudian dilengkapi tagline: “designing dreams, creating style”
+Komposisi tersebut membuat identitas brand lebih mudah dikenali ketika hoodie dilihat dari belakang. Ukuran logo yang lebih besar pada bagian belakang
+juga memberikan karakter fashion yang lebih kuat dibandingkan desain bagian depan. 5. Desain Lengan Salah satu ciri khas hoodie ini terdapat pada
+bagian lengan kanan dan kiri. Lengan dihiasi dengan garis/pola dekoratif berwarna soft pink dan soft blue yang memanjang dari bagian atas hingga
+mendekati ujung lengan. Pola tersebut memberikan kesan: sporty-fashionable, youthful, playful, dan dinamis. Penggunaan pola yang sama pada kedua
+lengan juga membuat desain hoodie terlihat seimbang. 6. Tali Serut Bagian hood dilengkapi drawstring berwarna soft pink. Tali serut memiliki ujung
+yang diberi detail kecil sehingga terlihat lebih rapi dan dekoratif. Warna pink pada tali menjadi aksen yang menyatu dengan warna pink pada lengan dan
+elemen logo. 7. Hood Bagian hood menggunakan warna dasar putih dengan aksen pink yang halus pada area tertentu. Hood dibuat cukup besar sehingga
+memberikan tampilan casual sekaligus menjadi bagian penting dari karakter hoodie. Ketika dilihat dari belakang, bentuk hood berada di atas logo utama
+tanpa menghilangkan identitas visual pada bagian punggung. 8. Logo dan Identitas Brand Logo FNA menjadi elemen utama dalam desain hoodie. Logo
+memiliki karakter tipografi dekoratif dengan perpaduan warna soft pink, soft blue, dan aksen gold/silver. Logo juga dilengkapi ornamen seperti:
+mahkota, bintang, sparkle, dan garis dekoratif. Di bawah logo terdapat nama lengkap “fuzi naila annuri”, sehingga penggunaan logo tidak berdiri
+sendiri tetapi tetap memperjelas nama brand. 9. Palet Warna Mockup hoodie menggunakan palet warna yang konsisten dengan identitas brand: White — warna
+dasar hoodie. Soft Pink — memberikan kesan feminin, lembut, dan youthful. Soft Blue — memberikan kesan fresh dan modern. Silver — memberikan sentuhan
+clean dan elegan. Gold — digunakan sebagai aksen untuk memberikan kesan premium. Perpaduan warna tersebut menghasilkan tampilan pastel yang lembut
+tanpa membuat hoodie terlihat terlalu mencolok. 10. Label Hoodie Pada bagian dalam hoodie terdapat label pakaian yang menampilkan identitas brand.
+Label menggunakan warna pink dan menampilkan logo FNA. Keberadaan label membuat produk terlihat lebih profesional karena identitas brand tidak hanya
+diterapkan pada bagian luar pakaian, tetapi juga pada detail interior produk. 11. Material dan Tekstur Hoodie divisualisasikan menggunakan material
+kain yang terlihat lembut, tebal, dan nyaman, sesuai karakter umum pakaian hoodie. Tekstur kain dibuat tetap terlihat natural, terutama pada bagian
+lengan, hood, dan badan hoodie. Detail jahitan, lipatan kain, rib, serta tali serut membantu memberikan kesan bahwa desain tersebut merupakan produk
+fashion yang nyata. 12. Ukuran Produk Mockup juga menunjukkan pilihan ukuran: S — M — L — XL Informasi ukuran ditampilkan sebagai bagian dari
+identitas produk sehingga memberikan gambaran bahwa hoodie dirancang sebagai produk fashion yang dapat digunakan oleh berbagai ukuran pengguna. 13.
+Penerapan Branding Identitas Fuzi Naila Annuri diterapkan secara konsisten pada beberapa bagian hoodie, yaitu: logo kecil pada dada, logo besar pada
+punggung, nama brand, tagline, pola dekoratif pada lengan, label pakaian, serta elemen warna brand. Pengulangan elemen tersebut membuat hoodie tetap
+memiliki kesatuan visual dari bagian depan hingga belakang. 14. Kesan Fashion Hoodie ini menggabungkan karakter casual streetwear dengan sentuhan
+feminine dan elegant. Model hoodie yang sederhana dipadukan dengan warna pastel, logo dekoratif, serta garis pada lengan sehingga menghasilkan produk
+yang terlihat lebih unik dibandingkan hoodie polos. Desain juga tetap mempertahankan ruang kosong yang cukup sehingga logo dan elemen dekoratif tidak
+terlihat berlebihan. 15. Konsep Keseluruhan Konsep mockup hoodie dapat dirangkum sebagai “soft feminine fashion with a dreamy identity.” Hoodie tidak
+hanya berfungsi sebagai pakaian casual, tetapi juga menjadi media untuk menampilkan personal branding Fuzi Naila Annuri. Desain depan dibuat lebih
+sederhana untuk penggunaan sehari-hari, sedangkan desain belakang dibuat lebih kuat sebagai pusat perhatian. Kesimpulan Secara keseluruhan, mockup
+hoodie Fuzi Naila Annuri merupakan penerapan identitas visual brand pada produk fashion dengan memadukan hoodie putih, logo FNA, soft pink, soft blue,
+aksen gold dan silver, ornamen sparkle, serta tagline “designing dreams, creating style.” Detail logo pada bagian depan dan belakang, pola pada kedua
+lengan, drawstring, hood, kantong kangaroo, dan label pakaian membuat desain terlihat konsisten, detail, feminin, modern, dan fashionable. PROMPT YANG
+DIGUNAKAN: kerennnn bangett bestii! sekarang tolong buatkan lagi mockup branding Implementasikan branding ke media promosi nyata, kebentuk hoodie
+Output: hoodie Mockup Branding Resolusi tinggi kasih dengan kualitas 4k/jernih,kasih yang terbaik ya besti 4. MASCOT 1. MASCOT FULL BODY DESKRIPSI
+MASKOT FULL BODY Maskot full body ini menampilkan karakter perempuan muda bergaya 3D cute, dreamy, dan street-style dengan proporsi tubuh yang lembut
+serta ekspresif. Ia memiliki rambut panjang bergelombang berwarna cokelat gelap dengan pita besar berwarna pink dan aksen mahkota kecil sebagai elemen
+utama identitas visual. Wajahnya dibuat manis dengan mata besar berkilau, pipi merona, dan senyum lembut yang memberikan kesan ramah, ceria, feminin,
+dan approachable. Busananya memadukan pastel pink, baby blue, dan putih/cream, terdiri dari oversized bomber jacket beraksen biru, inner top dengan
+detail pita, rok bertingkat bertekstur ruffle, kaus kaki slouchy dengan pita kecil, serta chunky sneakers pink-putih. Aksesori seperti kalung bintang,
+anting berbentuk bunga, serta detail mahkota pada outfit memperkuat karakter feminin dan playful. Pose berdiri dengan satu kaki sedikit menyilang dan
+gestur tangan yang santai membuat maskot terlihat aktif, percaya diri, youthful, dan modern, sekaligus mempertahankan kesan lembut khas branding.
+FILOSOFI UTAMA Maskot ini merepresentasikan “dream, design, create” melalui perpaduan karakter yang ceria, kreatif, feminin, dan penuh imajinasi.
+Mahkota melambangkan keunikan, kepercayaan diri, dan nilai premium; warna pink merepresentasikan kelembutan, kasih, dan sisi feminin; baby blue
+memberikan kesan tenang, fresh, dan kreatif; sementara street-style outfit menggambarkan kebebasan berekspresi dan generasi muda yang berani
+menciptakan gayanya sendiri. Keseluruhan karakter dirancang sebagai simbol mimpi yang diwujudkan menjadi kreativitas nyata, sehingga maskot tidak
+hanya menjadi figur dekoratif, tetapi juga representasi visual dari identitas Fuzi Naila Annuri. PROMPT YANG DIGUNAKAN: nahh kerenn banget bestt!
+sekarang kamu buatin aku maskotnyaa ya dari branding itu dengan style :Pixar Style Street Style Output Mascot Full Body kualitas 4k/jernih , haruss
+sesuai dengan branding yang sudah di buat di atas, tampilan nya kasih hasil yang terbaik dan memuaskan yaa bestiku!! 2. MASCOT PORTRAIT DESKRIPSI
+MASCOT PORTRAIT Maskot Portrait menampilkan karakter perempuan dengan gaya 3D cute, dreamy, dan feminin yang menjadi representasi visual dari
+identitas Fuzi Naila Annuri. Fokus utama berada pada wajah dan ekspresi karakter dengan mata besar yang berkilau, pipi merona, senyum lembut, serta
+rambut panjang bergelombang berwarna cokelat gelap yang memberikan kesan anggun dan manis. Aksen pita pink berukuran besar dan mahkota kecil berwarna
+gold menjadi elemen khas yang memperkuat karakter, dilengkapi anting bunga dan kalung dengan liontin bintang. Busana bernuansa pink pastel dan baby
+blue terlihat melalui oversized jacket dengan detail lembut dan aksen pita, menciptakan tampilan yang youthful, cozy, dan stylish. Pose dengan tangan
+menopang pipi memberikan ekspresi hangat, dreamy, ramah, dan penuh imajinasi, sehingga portrait terasa lebih personal dan dekat dengan audiens.
+FILOSOFI UTAMA Portrait ini melambangkan sisi lembut, kreatif, dan penuh impian dari identitas brand. Tatapan mata dan senyum merepresentasikan
+optimisme serta keberanian untuk bermimpi, mahkota menjadi simbol keunikan dan nilai diri, sedangkan pita pink dan warna pastel menggambarkan
+kelembutan, femininity, kreativitas, dan suasana dreamy. Liontin bintang merepresentasikan cita-cita dan harapan yang ingin diwujudkan. Keseluruhannya
+menggambarkan pesan “dream + design + create” dalam bentuk karakter yang manis, elegan, dan mudah dikenali. PROMPT YANG DIGUNAKAN: nahh kerenn banget
+bestt! sekarang kamu buatin aku maskotnyaa ya dari branding itu dengan style :Pixar Style Street Style Output Mascot Portrait kualitas 4k/jernih ,
+haruss sesuai dengan branding yang sudah di buat di atas, tampilan nya kasih hasil yang terbaik dan memuaskan yaa bestiku!! 3. MASCOT BERSAMA LOGO
+BRANDING DESKRIPSI MASCOT BERSAMA LOGO BRANDING Mascot bersama logo branding menampilkan karakter perempuan dalam gaya 3D cute, dreamy, feminin, dan
+modern yang ditempatkan berdampingan secara harmonis dengan logo “FNA – Fuzi Naila Annuri”. Karakter memiliki rambut panjang bergelombang berwarna
+cokelat dengan pita pink besar, aksen bintang, mahkota kecil, anting pita, dan kalung bintang, serta mengenakan outfit street-style bernuansa pink
+pastel, baby blue, dan putih dengan detail logo pada pakaian dan sneakers. Pose duduk santai sambil menopang wajah memberikan kesan friendly, playful,
+nyaman, dan penuh impian. Di sisi kanan, logo branding tampil dominan dengan kombinasi tipografi dekoratif pink dan baby blue, aksen mahkota, pita,
+dan bintang, serta nama fuzi naila annuri yang memperkuat keterhubungan antara karakter dan identitas brand. Elemen pendukung seperti tote bag, buku
+desain, bunga, dan boneka turut membangun suasana kreatif dan dreamy tanpa menghilangkan fokus utama pada maskot dan logo. FILOSOFI UTAMA Komposisi
+ini menggambarkan maskot sebagai representasi hidup dari identitas brand, sementara logo menjadi simbol utama yang menaungi karakter tersebut. Mahkota
+melambangkan keunikan dan nilai premium, bintang merepresentasikan cita-cita dan kreativitas, pita melambangkan kelembutan serta detail yang personal,
+sedangkan perpaduan pink dan baby blue mencerminkan keseimbangan antara sisi feminin, lembut, fresh, dan kreatif. Kehadiran buku desain dan
+perlengkapan kreatif memperkuat makna “designing dreams, creating style”—yaitu proses mengubah ide dan impian menjadi sebuah karya serta gaya yang
+memiliki identitas. PROMPT YANG DIGUNAKAN: nahh kerenn banget bestt! sekarang kamu buatin aku maskotnyaa ya dari branding itu dengan style :Pixar
+Style Street Style Output Mascot Bersama Logo Branding kualitas 4k/jernih , haruss sesuai dengan branding yang sudah di buat di atas, tampilan nya
+kasih hasil yang terbaik dan memuaskan yaa bestiku!! 5. NASKAH IKLAN Judul : “Small Steps, Big Dreams — Dream, Design, Create” Tema : Dreamy Pastel
+Creative Journey — perjalanan seorang perempuan muda yang berani mengubah mimpi, kreativitas, dan gaya personal menjadi sebuah karya yang memiliki
+identitas. Pesan Utama : Setiap karya besar berawal dari sebuah mimpi kecil. Dengan imajinasi, kreativitas, dan keberanian untuk menciptakan sesuatu
+yang berbeda, setiap langkah dapat menjadi bagian dari perjalanan menuju impian. Narasi / Voice Over (VO) Scene 1 — Opening Visual: Layar perlahan
+menampilkan nuansa pastel pink dan baby blue. Cahaya lembut muncul, kemudian maskot terlihat bersama elemen mahkota, pita, bintang, dan logo. VO
+:“Setiap mimpi… selalu dimulai dari satu langkah kecil.” Scene 2 — Maskot Portrait Visual: Close-up maskot. Tatapan lembut, senyum kecil, rambut
+bergerak perlahan terkena cahaya. Aksen bintang dan mahkota berkilau. VO: “Dari sebuah ide sederhana, lahirlah imajinasi yang ingin diwujudkan.” Scene
+3 — Maskot Full Body Visual: Maskot tampil full body dengan outfit street-style pink dan baby blue. Ia berjalan perlahan dengan ekspresi percaya diri.
+VO: “Karena menjadi diri sendiri adalah bagian dari menciptakan sesuatu yang istimewa.” Scene 4 — Creative Moment Visual: Transisi menuju buku sketsa,
+pita, desain, warna pastel, dan berbagai elemen kreatif. Maskot mulai menuangkan ide ke dalam karya. VO: “Kita bermimpi. Kita mendesain. Kita
+menciptakan.” Scene 5 — Mascot + Logo Visual: Maskot duduk berdampingan dengan logo FNA — Fuzi Naila Annuri. Mahkota, bintang, dan pita muncul sebagai
+aksen visual. Background berubah menjadi dreamy sky dengan cahaya keemasan. VO: “Karena setiap detail memiliki cerita… dan setiap karya memiliki
+jiwa.” Scene 6 — Closing Visual: Maskot tersenyum ke arah kamera. Logo muncul perlahan di tengah layar dengan efek shimmer lembut. Bintang-bintang
+kecil berkilau di sekelilingnya. VO:“Fuzi Naila Annuri…tempat di mana mimpi bertemu kreativitas, dan kreativitas berubah menjadi gaya.” Closing
+Tagline “FUZI NAILA ANNURI” “DREAM + DESIGN + CREATE” “Small Steps, Big Dreams.” PROMPT YANG DIGUNAKAN: bestii sekarang kamu buat naskah iklan yang
+memuat Judul haruss sesuai sama branding, maskot nyaa yaa Tema sama harus sesuai sama branding, maskot Pesan Utama sesuai kan Narasi/Dialog : voice
+over(vo) Closing Tagline kasihh kualitas 4k/jernih dan jelas, berikann hasil yang terbaik yaa bestii. 6. STORYLINE 1. PEMBUKAAN — “Sebuah Mimpi Kecil”
+Cerita dibuka dengan suasana dreamy pastel bernuansa pink, baby blue, cream, dan gold. Cahaya matahari lembut masuk ke dalam ruang kreatif yang
+dipenuhi buku desain, pita, sketsa, bunga, dan elemen berbentuk bintang. Maskot Fuzi Naila Annuri muncul dalam tampilan portrait dengan ekspresi
+lembut dan penuh harapan. Ia menatap sebuah halaman kosong seolah sedang membayangkan sesuatu yang ingin ia ciptakan. Fokus visual: ekspresi maskot,
+mata yang berkilau, pita pink, mahkota kecil, bintang, serta halaman kosong sebagai simbol awal sebuah perjalanan. Makna: setiap karya besar selalu
+dimulai dari sebuah ide dan mimpi sederhana. 2. ALUR CERITA — “Dream, Design, Create” Maskot mulai mengembangkan ide tersebut. Ia membuka sketchbook
+dan mulai menggambar, memilih warna, menyusun elemen, serta menuangkan kreativitasnya ke dalam desain. Visual kemudian berkembang dari sketsa
+sederhana menjadi karya yang lebih hidup dan penuh warna. Maskot berubah dari pose duduk menjadi full body, mengenakan outfit street-style khas brand
+dengan perpaduan pink pastel dan baby blue. Ia kemudian berjalan dengan percaya diri sambil membawa hasil karyanya. Perjalanan tersebut menggambarkan
+tiga tahap utama: DREAM → munculnya sebuah impian. DESIGN → mengubah ide menjadi konsep. CREATE → mewujudkannya menjadi karya nyata. Fokus visual:
+sketchbook, tangan yang menggambar, perpindahan warna, detail outfit maskot, pita, mahkota, bintang, dan transformasi dari sketsa menjadi karya. 3.
+KONFLIK / FOKUS VISUAL — “Berani Melangkah” Konflik dalam cerita bukan berupa masalah besar, melainkan keraguan untuk memulai dan ketakutan bahwa
+sebuah ide belum cukup sempurna. Maskot berhenti sejenak dan melihat hasil desainnya. Ia tampak ragu sebelum akhirnya tersenyum dan kembali
+melanjutkan karyanya. Visual dibuat sedikit lebih tenang dan soft. Cahaya perlahan kembali memenuhi frame ketika maskot memilih untuk tetap melangkah.
+Ia berdiri dengan percaya diri dan memperlihatkan hasil kar
+
+--- GAMBAR (9) — BUKTI VISUAL, BACA FILENYA LANGSUNG ---
+
+[IMG#01] px=400x400 square | bagian: 1. PERSONAL BRANDING | file: img/R20/01.jpg
+  OCR: fuzi naila annuri
+
+[IMG#02] px=400x266 landscape | bagian: 2. MOODBOARD | file: img/R20/02.jpg
+  OCR: UYANNINANBS / YAISWJUIS / PmfalrDsplay / IOTES / Rzi nxilk anmumi / OODIEHCUAT / 米 / 7A
+
+[IMG#03] px=400x400 square | bagian: 3.MOCK UP | file: img/R20/03.jpg
+  OCR: N / fuxinailaannun / AMUOETNL / JN / fuzimxlaannuri / LONOOITALOWOI / H / foxi naila annuri / TA
+
+[IMG#04] px=399x266 landscape | bagian: 3.MOCK UP | file: img/R20/04.jpg
+  OCR: JNA / Taanadaamna / SA / JVA / kark yea / JNA / UA
+
+[IMG#05] px=399x365 landscape | bagian: 3.MOCK UP | file: img/R20/05.jpg
+  OCR: JN / fuzi naila annuri / fesipeiegdreeves / HIC / JM
+
+[IMG#06] px=266x400 portrait | bagian: 4. MASCOT | file: img/R20/06.jpg
+  OCR: Taz nxila onnuri / time / laltle deeamg / big plane / INA
+
+[IMG#07] px=266x399 portrait | bagian: 4. MASCOT | file: img/R20/07.jpg
+  OCR: lattle deesrs / big plans / xi nal annun / N
+
+[IMG#08] px=400x400 square | bagian: 4. MASCOT | file: img/R20/08.jpg
+  OCR: Small steps / fuzi naila annuri / dexigoing dreamx, creating xipie / hkoDsp / TheRtfet Syde / rax Yoarbreare
+
+[IMG#09] px=399x365 landscape | bagian: 8.STORYBOARD | file: img/R20/09.jpg
+  OCR: StoryboardIklan / JW / Dn rnpkedl / "Small Steps, Big Dreams / GOAV-DESXN-CXIATS / fraikanneri / Scewe! / Scon2 / MopDna / Scena2 / agieui /
+Sca14 / XuwdnI / SoeneS / TUZINAILAANNURI / Goll Sop.Bg Di

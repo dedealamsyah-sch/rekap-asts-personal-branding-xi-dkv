@@ -1,0 +1,31 @@
+====================================================================================================
+ID R97 | RAFI FAUZAN NAJA LUTFIANA | XI DKV 4 | ts 2026-10-02 16:38:28
+URL: https://rafiifauzan-profil.blogspot.com/2026/10/asts-komputer-grafis-xi-dkv-4.html?m=1
+PAGE TITLE: 'ASTS KOMPUTER GRAFIS XI DKV 4'
+STATUS 200 | words=146 | img=3 | tabel=0 | labels=['AI', 'Corel']
+
+### [AWAL] (20 kata)
+Dan yang terakhir projek ketiga membuat sample logo Android, projek ini juga dibuat dengan aplikasi Vektor, Software CorelDRAW Versi 2020.
+
+### JUMLAH KATA PER BAGIAN: {'AWAL': 451}
+
+
+### TEKS ARTIKEL LENGKAP (get_text() penuh, 146 kata; ekstraksi per-bagian hanya 20) — WAJIB DIBACA, JANGAN ABAIKAN
+ASTS KOMPUTER GRAFIS RAFI FAUZAN XI DKV 4 SMKN 9 GARUT 1. ID CARD Hallo semuanya, Perkenalkan Nama saya Rafi Fauzan Naja Lutfiana. Kali ini saya
+membuat tugas ASTS membuat 3 projek, ini adalah projek yang pertama yaitu membuat ID Card. Saya membuat ID CARD ini di aplikasi Vektor, Software
+CorelDRAW Versi 2020. Ini adalah ID Card Joko Apar dimana Joko terpilih menjadi Anggota program MBG di Sekolah SMKN 9 Garut, dengan desain simple. 2.
+BANNER Ini adalah projek yang kedua yaitu membuat banner, pada kesempatan ini saya membuat banner usaha rental PS dengan nama NOOBLE PLAYSTATION dan
+menyediakan beberapa PS untuk direntalkan diantara nya, PS2, PS3, dan PS3. Dibuat di aplikasi Vektor, Software CorelDRAW Versi 2020, desain ini dibuat
+simple dan mudah dibaca. 3. LOGO Dan yang terakhir projek ketiga membuat sample logo Android, projek ini juga dibuat dengan aplikasi Vektor, Software
+CorelDRAW Versi 2020.
+
+--- GAMBAR (3) — BUKTI VISUAL, BACA FILENYA LANGSUNG ---
+
+[IMG#01] px=204x320 portrait | bagian: AWAL | file: img/R97/01.jpg
+  OCR: XI DKV4 / SMKN 9 GARUT / JOKOAPAR / PART OF DKY / ANGGOTA PROGRAM MBG / SMKN 9 GARUT
+
+[IMG#02] px=320x107 landscape | bagian: AWAL | file: img/R97/02.jpg
+  OCR: NOOBLE PLAYSTATION / Ps2 / Ps3 / Ps4
+
+[IMG#03] px=275x320 portrait | bagian: AWAL | file: img/R97/03.jpg
+  OCR: (tidak ada teks yang terbaca)

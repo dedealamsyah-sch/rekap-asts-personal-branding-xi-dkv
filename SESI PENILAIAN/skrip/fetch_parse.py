@@ -2,6 +2,15 @@ import json, re, sys, time, os
 import requests
 from bs4 import BeautifulSoup
 
+# Selalu utf-8 untuk baca/tulis berkas: Windows default (cp1252) gagal pada teks Indonesia.
+def _load(p):
+    with open(p, encoding="utf-8") as f:
+        return json.load(f)
+
+def _dump(obj, p):
+    with open(p, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=1)
+
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"}
 OUT = os.path.dirname(os.path.abspath(__file__))
 RAW = os.path.join(OUT, "raw")
@@ -71,9 +80,27 @@ KW = {
 def strip_tags(s):
     return re.sub(r"\s+", " ", s).strip()
 
+
+def _arsipkan(fn, arsip, teks):
+    """Simpan hasil fetch yang GAGAL ke <fn>.arsip, jangan menimpa bukti lama.
+    Kalau <fn> sudah berisi artikel valid (punya <img>), jangan sentuh sama sekali."""
+    try:
+        if os.path.exists(fn):
+            lama = open(fn, encoding="utf-8", errors="ignore").read()
+            if lama.count("<img") > 0 or lama.count("post-body") == 0:
+                return  # bukti lama masih utuh
+        with open(arsip, "w", encoding="utf-8") as f:
+            f.write(teks)
+    except Exception:
+        pass
+
 def parse(rid, ts, kelas, nama, url):
     rec = {"id": rid, "timestamp": ts, "kelas": kelas, "nama": nama, "url": url}
     fn = os.path.join(RAW, rid + ".html")
+    # Arsip bukti: JANGAN pernah menimpa raw/<id>.html dengan halaman gagal
+    # (404 / login). Page HTML yang sebelumnya berhasil adalah satu-satunya bukti
+    # karya bila link suatu saat mati — menimpanya menghilangkan bukti secara permanen.
+    arsip = fn + ".arsip"
     try:
         r = requests.get(url, headers=UA, timeout=45, allow_redirects=True)
         rec["status_code"] = r.status_code
@@ -82,12 +109,12 @@ def parse(rid, ts, kelas, nama, url):
         if "blogger.com" in r.url and "/post/edit" in r.url:
             rec["accessible"] = False
             rec["reason"] = "URL editor Blogger (butuh login) - tidak dapat diakses publik"
-            open(fn, "w", encoding="utf-8").write(r.text)
+            _arsipkan(fn, arsip, r.text)
             return rec
         if r.status_code != 200:
             rec["accessible"] = False
             rec["reason"] = "HTTP %s" % r.status_code
-            open(fn, "w", encoding="utf-8").write(r.text)
+            _arsipkan(fn, arsip, r.text)
             return rec
         open(fn, "w", encoding="utf-8").write(r.text)
     except Exception as e:
@@ -195,7 +222,7 @@ for row in ROWS:
 SNAP = os.path.join(os.path.dirname(OUT), "data", "parsed.json")
 lama = {}
 if os.path.exists(SNAP):
-    lama = {r["nama"].upper(): r for r in json.load(open(SNAP))}
+    lama = {r["nama"].upper(): r for r in _load(SNAP)}
     print("Snapshot pembanding: %s (%d siswa)" % (SNAP, len(lama)))
 else:
     print("PERINGATAN: snapshot %s tidak ditemukan - perbandingan tidak dapat dilakukan" % SNAP)
@@ -215,7 +242,7 @@ for r in data:
     if o.get("accessible") != r.get("accessible"): d.append("AKSES LINK BERUBAH")
     if d: ubah.append((r["nama"], d))
 
-json.dump(data, open(os.path.join(OUT, "parsed.json"), "w"), ensure_ascii=False, indent=1)
+_dump(data, os.path.join(OUT, "parsed.json"))
 print("=" * 100)
 print("RINGKASAN PERUBAHAN")
 if tambahan:  print("KIRIMAN BARU (%d): %s" % (len(tambahan), ", ".join(tambahan)))

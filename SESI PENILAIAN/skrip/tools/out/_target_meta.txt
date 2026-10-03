@@ -1,0 +1,63 @@
+===== R20 | FUZI NAILA ANNURI | XI DKV 3 =====
+  timestamp: 2026-10-02 20:35:23
+  url: https://fuzinailaannuri.blogspot.com/2026/10/personal-branding-fuzi-naila-annuri-xi.html
+  page_title: 'Personal Branding Fuzi Naila Annuri XI DKV 3'
+  words: 7436
+  labels: ['AI', 'BRANDING LOGO TUGAS SEKOLAH', 'CV_FUZI_TUGAS_SEKOLAH', 'PRAKTIKUM_DKV_TUGAS_SEKOLAH', 'Personal Branding', 'Portofolio', 'SMKN 9 Garut', 'Tugas Sekolah', 'UJI KOMPETENSI AI PROMPTING DKV SMKN 9 GARUT { MASKOT }', 'UJI KOMPETENSI AI PROMPTING DKV SMKN 9 GARUT { MOCK UP }']
+  headings: ['', 'ASTS Personal Branding Fuzi Naila Annuri XI DKV 3 SMKN 9 GARUT', '1. PERSONAL BRANDING', '2. MOODBOARD', '3.MOCK UP', '3.MOCK UP', '4. MASCOT', '5. NASKAH IKLAN', '6. STORYLINE', '7. SHORTLIST', '8.STORYBOARD']
+  images(9): [('400', '400'), ('400', '266'), ('400', '400'), ('400', '266'), ('400', '365'), ('266', '400'), ('266', '400'), ('400', '400'), ('400', '365')]
+  tables: 1
+    nrows=11 maxcols=7
+    hdr=['No', 'Adegan', 'Jenis Shot', 'Angle', 'Movement', 'Durasi', 'Deskripsi']
+
+===== R25 | INDRI | XI DKV 3 =====
+  timestamp: 2026-10-02 11:23:07
+  url: https://indriii07.blogspot.com/2026/10/personal-branding-indri-xi-dkv-3.html
+  page_title: 'PERSONAL BRANDING INDRI XI DKV 3'
+  words: 4403
+  labels: ['AI', 'Personal Branding', 'Portofolio', 'SMKN 9 Garut', 'Tugas Sekolah']
+  headings: ['ASTS PERSONAL BRANDING INDRI - XI DKV3 SMKN 9 GARUT', '1.Branding Logo', 'frompt yang digunakan:', '2. Moodboard', 'Prompt yang digunakan:', '3. MockUp', '1).Hoodie', '2).Tumbler', '3). Kaos', '4. Maskot', 'prompt yang digunakan:', '5. Naskah', 'prompt yang digunakan:', '6. StoryLine', 'Prompt yang digunakan:', '7. Shortlist', 'Prompt yang digunakan:', '8. Storyboard', 'Prompt yang digunakan:', '', 'Shot List Pengambilan Gambar']
+  images(8): [('320', '320'), ('320', '320'), ('305', '320'), ('320', '320'), ('320', '320'), ('320', '320'), ('685', '470'), ('640', '640')]
+  tables: 1
+    nrows=11 maxcols=7
+    hdr=['No', 'Adegan', 'Jenis Shot', 'Angle', 'Movement', 'Durasi', 'Deskripsi & Narasi']
+
+===== R67 | NADIA FITRIANI | XI DKV 3 =====
+  timestamp: 2026-10-02 21:04:01
+  url: https://nadiafitriani17.blogspot.com/2026/10/personal-branding-nadia-fitriani-xl-dkv.html
+  page_title: 'personal branding nadia fitriani Xl DKV 3'
+  words: 2431
+  labels: ['ASTS', 'Branding logo', 'CV', 'Maskot', 'Moodboard', 'kegiatan pratikum']
+  headings: []
+  images(6): [('319', '320'), ('316', '320'), ('320', '179'), ('148', '320'), ('148', '320'), ('320', '179')]
+  tables: 0
+
+===== R88 | RAISYA ALAWIYAH | XI DKV 1 =====
+  timestamp: 2026-10-02 11:35:09
+  url: https://rrewwwww.blogspot.com/2026/10/personal-branding-raisya-alawiyah-xi.html
+  page_title: 'PERSONAL BRANDING RAISYA ALAWIYAH XI DKV 1'
+  words: 2153
+  labels: ['AI', 'Personal Branding', 'Portofolio', 'SMKN 9 Garut', 'Tugas Sekolah']
+  headings: ['ASTS Personal Branding Raisya Alawiyah', 'XI DKV 1 SMKN 9 GARUT', '1. PERSONAL BRANDING', '2. MOODBOARD', '3. MOCK UP', '4. MASKOT', '5. NASKAH', '6. STORYLINE', '7. SHOTLIST', '8. STORYBOARD zaa']
+  images(8): [('400', '400'), ('640', '426'), ('400', '400'), ('400', '266'), ('400', '365'), ('400', '365'), ('640', '426'), ('640', '584')]
+  tables: 0
+
+===== R89 | NADYA NURLATIFA | XI DKV 4 =====
+  timestamp: 2026-10-02 12:37:11
+  url: https://nadya29710.blogspot.com/2026/10/personal-branding-nadya-xi-dkv-4.html
+  page_title: 'Personal branding nadya xi dkv 4'
+  words: 415
+  labels: []
+  headings: ['ASTS PERSONAL BRANDING NADYA NURLATIFA XI DKV 4 SMKN 9 GARUT']
+  images(7): [('320', '320'), ('320', '211'), ('320', '249'), ('320', '213'), ('320', '316'), ('320', '213'), ('320', '316')]
+  tables: 0
+
+===== R108 | PITRYA HANDAYANI | XI DKV 2 =====
+  timestamp: 2026-10-02 21:48:52
+  url: https://pitriaaahandayaniiiiiiiii.blogspot.com/2026/10/personal-branding-pitrya-handayanixi.html
+  page_title: 'Personal Branding Pitrya HandayaniXI DKV 2'
+  words: 3223
+  labels: ['AI', 'CV', 'LOGO/BRANDING', 'Personal Branding', 'Portofolio', 'tugas sekolah']
+  headings: ['Deskripsi Personal Branding Pitria Handayani', 'Makna Elemen Logo', 'Tujuan Personal Branding']
+  images(6): [('320', '239'), ('320', '213'), ('320', '292'), ('320', '292'), ('320', '294'), ('320', '292')]
+  tables: 0

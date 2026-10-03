@@ -1,0 +1,174 @@
+=== R87 ===
+nama='NAILA AGUSTIN'
+kelas='XI DKV 4'
+timestamp='2026-10-02 11:32:35'
+url=https://lanailagstin.blogspot.com/2026/10/personal-branding-naila-agustin.html
+status=200
+final=https://lanailagstin.blogspot.com/2026/10/personal-branding-naila-agustin.html
+page_title='Personal branding Naila Agustin'
+words=1759
+img_count=7
+labels=['AI', 'BRANDING', 'PERSONAL', 'PORTOFOLIO', 'SMKN 9 GARUT', 'TUGAS SEKOLAH.']
+headings(15)=['ASTS PERSONAL BRANDING NAILA AGUSTIN XI DKV 4 SMKN 9 GARUT', '1.Logo Personal Branding', '2.Moodboard', '3.Mockup', '4.Maskot', '5.Konsep Vidio iklan', '6.Alur Cerita', '8.Papan Cerita', '9. Penjelasan Konsep', '10. Prompt yang Digunakan', '1. Prompt Logo Branding', '2. Prompt Maskot', '3. Prompt Moodboard', '4. Prompt Mockup Branding', '5. Prompt Video Iklan']
+ntables=0
+images(7):
+   IMG01 320x320
+   IMG02 320x213
+   IMG03 320x292
+   IMG04 320x320
+   IMG05 320x292
+   IMG06 320x82
+   IMG07 320x112
+
+=== R92 ===
+nama='SYIPA NURAENI'
+kelas='XI DKV 1'
+timestamp='2026-10-02 14:45:46'
+url=https://nuraenisyipaa.blogspot.com/2026/10/personal-branding-syipa-nuraeni-xi-dkv-1.html
+status=200
+final=https://nuraenisyipaa.blogspot.com/2026/10/personal-branding-syipa-nuraeni-xi-dkv-1.html
+page_title='Personal Branding Syipa Nuraeni XI DKV 1'
+words=3282
+img_count=8
+labels=['Branding', 'CV', 'Kegiatan Belajar', 'SMKN 9 Garut', 'Tugas ASTS personal branding SYIPA N XI DKV 1', 'Tugas Sekolah']
+headings(9)=['ASTS Personal Branding Syipa Nuraeni XI DKV 1 SMKN 9 Garut', '', '1. personal Branding', '2. Moodboard Branding', '3. Mockup Branding', '4. Maskot Branding', '5. Naskah Iklan Komersial', '6. STORYLINE', '7. SHOTLIST']
+ntables=0
+images(8):
+   IMG01 320x320
+   IMG02 320x213
+   IMG03 320x213
+   IMG04 320x292
+   IMG05 320x213
+   IMG06 320x213
+   IMG07 320x292
+   IMG08 305x320
+
+=== R96 ===
+nama='NAPSA JAKIYAH'
+kelas='XI DKV 4'
+timestamp='2026-10-02 16:25:34'
+url=https://napsajakiyah.blogspot.com/2026/10/personal-brending-napsa-jakiyah-xi-dkv4.html
+status=200
+final=https://napsajakiyah.blogspot.com/2026/10/personal-brending-napsa-jakiyah-xi-dkv4.html
+page_title='PERSONAL BRENDING NAPSA JAKIYAH XI-DKV4'
+words=2629
+img_count=5
+labels=['AI', 'PERSONAL BRANDING', 'PORTOFOLIO', 'SMKN9GARUT', 'TUGAS SEKOLAH']
+headings(10)=['ASTAGA PERSONAL BRANDING NAPSA JAKIYAH XI-DKV4 SMKN 9 GARUT', '1.LOGO PERSONAL BRANDING', '2.MOODBOARD BRENDING', '3.MOCKUP BRANDING', '4.MASCOT BANNER', '5.NASKAH IKLAN KOMERSIAL', '6. STORYLINE', '7.Shotlist', '8.Storyboard', '9.PENJELASAN KONSEP']
+ntables=0
+images(5):
+   IMG01 320x320
+   IMG02 320x213
+   IMG03 320x213
+   IMG04 320x292
+   IMG05 320x213
+
+=== R97 ===
+nama='RAFI FAUZAN NAJA LUTFIANA'
+kelas='XI DKV 4'
+timestamp='2026-10-02 16:38:28'
+url=https://rafiifauzan-profil.blogspot.com/2026/10/asts-komputer-grafis-xi-dkv-4.html?m=1
+status=200
+final=https://rafiifauzan-profil.blogspot.com/2026/10/asts-komputer-grafis-xi-dkv-4.html?m=1
+page_title='ASTS KOMPUTER GRAFIS XI DKV 4'
+words=146
+img_count=3
+labels=['AI', 'Corel']
+headings(0)=[]
+ntables=0
+images(3):
+   IMG01 x320
+   IMG02 320x
+   IMG03 x320
+
+=== R100 ===
+nama='SAVINA KHOERUNNISA'
+kelas='XI DKV 2'
+timestamp='2026-10-02 19:25:38'
+url=https://savinakh.blogspot.com/2026/10/personal-branding-savina-khoerunnisa.html
+status=200
+final=https://savinakh.blogspot.com/2026/10/personal-branding-savina-khoerunnisa.html
+page_title='PERSONAL BRANDING SAVINA KHOERUNNISA'
+words=2639
+img_count=8
+labels=[]
+headings(0)=[]
+ntables=0
+images(8):
+   IMG01 400x
+   IMG02 400x
+   IMG03 400x
+   IMG04 400x
+   IMG05 400x
+   IMG06 400x
+   IMG07 400x
+   IMG08 400x
+
+=== R109 ===
+nama='AZIZAH NURUL KAMIL'
+kelas='XI DKV 1'
+timestamp='2026-10-02 22:29:17'
+url=https://azizahnurulkamil.blogspot.com/2026/10/personal-branding-azizah-nurul-kamil.html
+status=200
+final=https://azizahnurulkamil.blogspot.com/2026/10/personal-branding-azizah-nurul-kamil.html
+page_title='Personal Branding Azizah Nurul Kamil'
+words=2945
+img_count=7
+labels=['Branding', 'CV', 'Prakrikum', 'SMKN 9 Garut', 'Tugas Sekolah', 'zizah jzj']
+headings(0)=[]
+ntables=0
+images(7):
+   IMG01 400x
+   IMG02 400x
+   IMG03 400x
+   IMG04 400x
+   IMG05 400x
+   IMG06 400x
+   IMG07 400x
+
+=== R93 ===
+nama='MUHAMAD REZA RAMDANI'
+kelas='XI DKV 2'
+timestamp='2026-10-02 14:49:22'
+url=https://mhmdreza65.blogspot.com/2026/09/projek-asts.html
+status=200
+final=https://mhmdreza65.blogspot.com/2026/09/projek-asts.html
+page_title='PROJEK ASTS'
+words=4560
+img_count=8
+labels=[]
+headings(0)=[]
+ntables=0
+images(8):
+   IMG01 320x320
+   IMG02 400x266
+   IMG03 400x219
+   IMG04 400x219
+   IMG05 400x219
+   IMG06 400x214
+   IMG07 400x219
+   IMG08 400x224
+
+=== R94 ===
+nama='NADA NISRINA'
+kelas='XI DKV 2'
+timestamp='2026-10-02 15:44:49'
+url=https://nadaanisrina.blogspot.com/2026/10/personal-branding-nada-nisrina-xi-dkv-2.html
+status=200
+final=https://nadaanisrina.blogspot.com/2026/10/personal-branding-nada-nisrina-xi-dkv-2.html
+page_title='Personal Branding Nada Nisrina XI DKV 2'
+words=4064
+img_count=8
+labels=['CV', 'kegiatan membersihkan lab', 'tugas sekolah', 'tugas sekolah - branding']
+headings(9)=['ASTS PERSONAL BRANDING NADA NISRINA XI DKV 2 SMKN 9 GARUT', '1. PERSONAL BRANDING', '2. MEMBUAT MOODBOARD BRANDING', '3. MEMBUAT MOCKUP BRANDING', '4.MASCOT', '5.NASKAH IKLAN', '6.STORYLINE', '7. SHOTLIST', '8.STORYBOARD']
+ntables=0
+images(8):
+   IMG01 320x320
+   IMG02 320x215
+   IMG03 320x320
+   IMG04 320x320
+   IMG05 320x320
+   IMG06 320x320
+   IMG07 320x239
+   IMG08 320x239
+

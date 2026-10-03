@@ -1,0 +1,126 @@
+====================================================================================================
+ARSIP HTML LOKAL (link publik kini tidak aktif — dipakai sebagai sumber bukti)
+PAGE TITLE: 'ASTs Personal Branding Wulan Sundari XI DKV 1 SMKN 9 GARUT'
+sumber: D:\MyLearn\rekap-asts-personal-branding-xi-dkv\SESI PENILAIAN\skrip\raw\R02.html (122345 byte)
+kata artikel: 2445
+
+### [Judul] (4 kata)
+“Setiap Karya Punya Cerita”
+
+### [Tema] (13 kata)
+Perjalanan seorang kreator dalam menemukan dan mengekspresikan identitas dirinya melalui seni dan desain.
+
+### [Pesan Utama] (25 kata)
+Jangan takut untuk mencoba hal baru. Karena dari setiap proses, ide, dan karya yang dibuat, kita dapat menemukan jati diri serta ciri khas kita
+sendiri.
+
+### TABEL (8 baris x 4 kolom)
+  r01: Durasi || Visual/Adegan || Narasi/Dialog || VO
+  r02: 0–8 detik || Maskot Wulan berjalan di taman, melihat bunga dan lingkungan sekitar. || — || “Setiap hari, selalu ada sesuatu yang baru untuk
+ditemukan.”
+  r03: 8–16 detik || Wulan berhenti, memperhatikan bunga, cahaya, dan detail di sekitarnya. || Wulan: “Ternyata, inspirasi bisa datang dari mana
+saja.” || “Dari hal sederhana, sebuah ide mulai tumbuh.”
+  r04: 16–27 detik || Wulan mulai menggambar/sketsa. Muncul elemen bunga, daun, dan bentuk logo WS. || — || “Aku menuangkan apa yang aku lihat, apa
+yang aku rasakan, dan apa yang aku bayangkan… menjadi sebuah karya.”
+  r05: 27–39 detik || Proses kreatif: menggambar, mengedit, menyusun warna dan elemen desain. || Wulan: “Aku ingin menciptakan sesuatu yang bukan
+hanya indah, tapi juga punya cerita.” || “Karena bagiku, desain bukan sekadar bentuk dan warna. Desain adalah cara untuk menyampaikan diri.”
+  r06: 39–50 detik || Logo WS mulai terbentuk. Maskot berdiri di samping logo dengan elemen bunga dan daun. || — || “Dari perjalanan itu, lahirlah
+identitasku: Wulan Sundari, Creative Art & Design.”
+  r07: 50–56 detik || Tampilan branding lengkap: logo, warna, maskot, dan berbagai penerapan visual. || — || “Tenang dalam proses, bebas dalam
+berkarya, dan berani mengeksplorasi hal baru.”
+  r08: 56–60 detik || Logo WS muncul penuh di tengah layar. Fade out. || — || “Karena setiap karya punya cerita. Dan ini adalah ceritaku.”
+
+### [Closing Tagline] (11 kata)
+“Wulan Sundari — Creative Art & Design” “Create with Calm, Express with Art.”
+
+### [VO Final] (8 kata)
+“Setiap karya punya cerita. Dan ini adalah ceritaku.”
+
+### [Konsep alur singkat] (98 kata)
+Eksplorasi → Menemukan Inspirasi → Berkarya → Menemukan Identitas → Personal Branding Dengan alur ini, maskot tidak hanya menjadi karakter pajangan,
+tetapi berperan sebagai representasi Wulan sebagai seorang kreator. Elemen bunga menggambarkan inspirasi dan pertumbuhan, warna peach memberikan kesan
+hangat dan ceria, sedangkan soft teal memberikan kesan tenang dan kreatif. Logo WS menjadi titik akhir perjalanan ketika seluruh elemen tersebut
+menyatu menjadi identitas personal branding. Siap bro. Berdasarkan seluruh gambar branding Wulan Sundari – Creative Art & Design, moodboard, mockup
+produk, maskot, dan logo yang kamu kirim, berikut shotlist untuk video 60 detik. Alurnya dibuat dari pengenalan suasana → proses kreatif → maskot →
+penerapan branding → penutup.
+
+### TABEL (13 baris x 6 kolom)
+  r01: No. Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+  r02: 1 || ELS (Extreme Long Shot) || Eye Level || Slow Zoom In || 5 detik || Membuka video dengan suasana taman/alam yang tenang seperti pada visual
+maskot. Menampilkan kesan calm, elegant, dan creative.
+  r03: 2 || LS (Long Shot) || Eye Level || Slow Pan || 5 detik || Memperlihatkan maskot Wulan secara full body sedang berada di lingkungan yang penuh
+bunga dan unsur alam.
+  r04: 3 || MS (Medium Shot) || Eye Level || Tracking In || 5 detik || Beralih ke maskot dari bagian tubuh hingga pinggang. Menonjolkan pakaian
+bermotif floral dan karakter yang menjadi identitas visual Wulan.
+  r05: 4 || CU (Close Up) || Eye Level || Slow Push In || 5 detik || Close-up wajah maskot. Menampilkan ekspresi ramah dan ceria sebagai representasi
+karakter personal branding.
+  r06: 5 || ECU (Extreme Close Up) || Top/High Angle || Static → Slight Zoom || 4 detik || Fokus pada logo WS, elemen bunga, daun, dan bintang.
+Menunjukkan detail simbol utama branding.
+  r07: 6 || FS (Full Shot) || Eye Level || Slide/Pan || 6 detik || Menampilkan moodboard Wulan Sundari secara keseluruhan: warna Peach Coral, Soft
+Teal, Silver Grey, typography, tone, dan referensi visual.
+  r08: 7 || OTS (Over The Shoulder) || Eye Level || Slow Pan || 5 detik || Seolah-olah melihat proses kreatif Wulan dari belakang saat mengamati
+moodboard dan konsep desain.
+  r09: 8 || CU (Close Up) || Slight High Angle || Slow Pan || 5 detik || Menampilkan penerapan identitas visual pada produk: pakaian floral, sepatu,
+kartu, sticker, dan merchandise dengan logo WS.
+  r10: 9 || MCU (Medium Close Up) || Eye Level || Slow Zoom Out || 5 detik || Menampilkan maskot bersama logo branding Wulan Sundari – Creative Art &
+Design. Menegaskan hubungan antara karakter dan identitas brand.
+  r11: 10 || CU (Close Up) || Slight High Angle || Slide Left → Right || 5 detik || Fokus pada beberapa elemen branding seperti logo WS, sticker,
+floral pattern, dan warna khas.
+  r12: 11 || LS (Long Shot) || Eye Level || Zoom Out || 5 detik || Menampilkan keseluruhan komposisi maskot, logo, dan elemen floral sebagai satu
+kesatuan identitas visual.
+  r13: 12 || ECU → CU || Eye Level || Slow Zoom In || 5 detik || Penutup dengan logo WS kemudian muncul tulisan “WULAN SUNDARI – CREATIVE ART &
+DESIGN”. Diakhiri fade out.
+
+### [Shotlist Video Branding Wulan Sundari – 60 Detik] (4 kata)
+Total durasi: 60 detik.
+
+### [Urutan visual videonya] (87 kata)
+Pembukaan (0–10 detik) Suasana alam → maskot full body. Pengenalan karakter (10–25 detik) Maskot → portrait → ekspresi dan detail karakter. Proses &
+identitas branding (25–40 detik) Logo WS → moodboard → proses kreatif. Penerapan branding (40–50 detik) Produk/merchandise → maskot bersama logo.
+Penutup (50–60 detik) Detail elemen branding → keseluruhan identitas → logo Wulan Sundari Creative Art & Design. Dengan susunan ini, video terasa
+seperti perjalanan dari karakter → ide → proses kreatif → hasil branding, sehingga gambar-gambar yang kamu buat tidak hanya ditampilkan satu per satu,
+tetapi memiliki alur cerita yang jelas.
+
+### LABEL: ['personal branding']
+
+--- GAMBAR (6) ---
+
+[IMG#01] px=1024x1024 square | bagian: ASTs Personal Branding Wulan Sundari XI DKV 1 SMKN 9 GARUT | file: img/R02/01.jpg
+  OCR: C / WULANSUNDARI / CREATIVEART&DESIGN / ByWULANSUNDARI
+
+[IMG#02] px=1376x768 landscape | bagian: ASTs Personal Branding Wulan Sundari XI DKV 1 SMKN 9 GARUT | file: img/R02/02.jpg
+  OCR: WARNAUTAMABRANDING / TYPOGRAPHY / WULAN SUNDARI / ABCDEFGHIJKLMNOPNABCDEFGHIJKLMNOPNN / OPQRSTUVWXYZ / POPQRSTUVWXYZ / PEACHCORAL / SOFT TEAL /
+SILVERGREY / #F9B0A3 / #87BAB3 / #CFF5F1 / CREATIVEART&DESIGN / PERSONAL / ABCDEFGHIJKLMNOPSX / BRANDING / POPQRSTUVWXxYY#YZ / IDENTITY / ELEGANT&CALM
+/ STYLEVISUAL / REFERENSIDESAIN / PEACHCORAL / SOFT TEAL / NEUTRAL CREAM / SILVERGREY / #F9B0A3 / #87BAB3 / #FFFSF1 / #CBCFDO / AOTCXHAIDON /
+ARTEXIUSIDIOS / WS / MOODBOARD: / BOOCHOOK / ARTCURATOR / AAT CKIOMTSIOS / WULANSUNDARI / ANT DUROTO / WS / BRANDING / TONE&MOOD / ELEMENGRAFIS /
+INSPIRASIVISUAL / CALM / VS / SERENE / ELEGANT / CREATIVE / wO / wO / wO / +++ / ARTISTIC / MINIMAL / HARMONIOUS / ByWULAN SUNDARI
+
+[IMG#03] px=1376x768 landscape | bagian: ASTs Personal Branding Wulan Sundari XI DKV 1 SMKN 9 GARUT | file: img/R02/03.jpg
+  OCR: CWULAN / SUNDARI / vs / vs / WULAN SUNDARI / #s
+
+[IMG#04] px=1376x768 landscape | bagian: ASTs Personal Branding Wulan Sundari XI DKV 1 SMKN 9 GARUT | file: img/R02/04.jpg
+  OCR: MASCOTFULLBODY / MASCOTPORTRAIT / MASCOTBERSAMALOGOBRANDING / THEARTIST& / HER BRAND. / WS / WULAN SUNDARI / CREATIVEART&DESICN /
+MASCOTPORTRAIT / ByWULANSUNDARI
+
+[IMG#05] px=1376x768 landscape | bagian: Konsep alur singkat | file: img/R02/05.jpg
+  OCR: WORKSHOP / PERFILMAN / INDONESIA / SHOT LISTTABLE:WULANSUNDARI-CREATIVEART&DESIGN / DARI IDE KE LAYA8 / No.Adegan:1 / No.Adegan:2 / No.Adegan:3
+/ No.Adegan:4 / No.Adegan:S / Jenis Shot:ELS / Jenis Shot :Wulan Sundari / JenisShet:MLS / Jenis Shot :Wulan Sundari / Jenis Shot :ECU / Angle / 576:
+/ Angle / :Mas / Angle / :MLS / Angie / :Faw / Angle / :SCU / Movement:Semana / Movement :Reman / Movement :Apprengan studio / Movement :Reman /
+Movement:Reman / Durasi / :2min / Durasi / :2min / Durasi / :2min / Durasl / :2min / Durasi / :3min / Deskripsi :Serene parsk,ann / Deskripsi / :Wolan
+Sundari / Deskripsi:Wulan Sundari / Deskripsi / Deskripsi / :Brush makingWS / sereneteroha delum / mascottu dyla. / approaching isan /
+<IMAGE-1;1MAGE-1> / moganorma W5 / dark yang sehan. / stndio. / monogram. / WS / WULANSONOARI / No.Adegan:MCU / No.Adegan:CU / No.Adegan:MS /
+No.Adegan:MCU / No.Adegan:LS / JenisShot:WulanSundari / JenisShot:Flats<IMAGE-2> / Jenis Shot :Wulan Sundari / Jenis Shot :Wulan Sundari / JenisShot
+:Wulan Sundari / Angle / :MCU / Angle / :Product / Angle / :MS / Angle / :LS / Angle / !LS / Movement:Seman / Movement:Seman / Movement:Seman /
+Movement:Seman / Movement:Seman / :2min / :2min / :2min / Duras! / :2min / Durasi / :2min / ADEGAN / Deskripsi / :Massotpengsrian / Deskripsi /
+:Persors praduct / Deskripsl / :Brssan sundari / Deskripsi / :Wulan Sundari, / Deskripsi / :Comp
+
+[IMG#06] px=1376x768 landscape | bagian: Urutan visual videonya | file: img/R02/06.jpg
+  OCR: WORKSHOP / PER / IND / STORYBOARD-WULANSUNDARICREATIVEART&DESIGN / DARI / No.Adegan / :1 / No.Adegan / :2 / No.Adegan / :3 / Visual Adegan /
+:Mascotmengyon enjoying nature,serenemulah / Visual Adegan / ：MediumShotyangdiaputberoiiamamascot / Visual Adegan / :Capture lrandscaan landscapeyang
+siowi dan / KeteranganShot / monopam hantyaniyarkmang sahan. / camexmascntuna camersKike InKamera. / natural obbservagan view. / AngleKamera / :Long
+Shot / AngleKamera / :BlackmagicURSA from+100g svemsa) / AngleKamera / :Kameral / Transisi / Transisl / :Namessi / Transisi / Dialog/Narasi /
+Dialog/Narasi / Dialog/Narasi / WS / WULANSUNDARI / CtccooeR6oCCC / GAN / AN SUNDART / No.Adegan / :4 / No.Adegan / :5 / No.Adegan / :6 / Visual
+Adegan / :Menganitanmonogram logo fron WS monogram / Visual Adegan / Mascotsatisfyasilartworkvangmerangikar / Visual Adegan / :Menorvwak theresult
+final walm Wulan Sundari / mongsscermemolehatway. / Creative Art&Design. / 4 / logofrom monogram. / TIME / Keterangan Shot: / Keterangan Shot: /
+Keterangan Shot: / AngleKamera / :MCU / AngleKamera / :MCU / AngleKamera / :MCU / Transisi / Transisi / Transisi / Dialog/Narasi / Dialog/Narasi /
+Dialog/Narasi

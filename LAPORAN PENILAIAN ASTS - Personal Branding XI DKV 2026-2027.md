@@ -83,90 +83,116 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 | 1 | MUHAMAD DIAZ PIRDAUS | XI DKV 1 | Aktif | 3 (terverifikasi) | 11 (terverifikasi OCR) | 6 (terverifikasi) | 3 (terverifikasi OCR) | 8 | 163 (memenuhi) | 8 dari 8 gambar >=1000px (maks 1376) | 97,50 | +1,0 | **98,50** | Sangat Baik |
 | 2 | SILVI BUDIA PUTRI | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 3 (terverifikasi) | 8 | 4224 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 98,00 | - | **98,00** | Sangat Baik |
 | 3 | AI SITI MUSLIMAH | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi teks) | 8 (terverifikasi teks) | 3 (terverifikasi OCR) | 10 | 2227 (memenuhi) | 0 dari 6 gambar >=1000px (maks 400) | 98,00 | - | **98,00** | Sangat Baik |
-| 4 | YAYU ASTIA | XI DKV 2 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi OCR) | 10 (terverifikasi OCR) | 3 (terverifikasi OCR) | 8 | 376 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 97,50 | - | **97,50** | Sangat Baik |
-| 5 | SHANDIKA REVI SHAFARUDIN | XI DKV 2 | Aktif | 3 (terverifikasi OCR) | 10 (terverifikasi OCR) | 10 (terverifikasi OCR) | 3 (terverifikasi OCR) | 8 | 252 (memenuhi) | 0 dari 8 gambar >=1000px (maks 640) | 96,25 | - | **96,25** | Sangat Baik |
-| 6 | RESTI NURUL FADILA | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi teks) | 12 (terverifikasi teks) | 1 (full body) | 7 | 3557 (memenuhi) | 0 dari 8 gambar >=1000px (maks 446) | 96,00 | - | **96,00** | Sangat Baik |
-| 7 | INTAN WIDIYANTI | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi) | 6 (terverifikasi teks) | 1 (full body, teks) | 8 | 3393 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 94,50 | - | **94,50** | Sangat Baik |
-| 8 | SYABINA AYAT EL AKHROS | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi teks + OCR) | 10 (terverifikasi) | 3 (terverifikasi OCR) | 10 | 3547 (memenuhi) | 0 dari 8 gambar >=1000px (maks 640) | 94,00 | - | **94,00** | Sangat Baik |
-| 9 | PUTRI UTAMI | XI DKV 2 | Aktif | 3 (terverifikasi teks) | 8 (terverifikasi OCR) | 6 (terverifikasi OCR) | 3 (terverifikasi OCR) | 9 | 551 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 93,00 | - | **93,00** | Sangat Baik |
-| 10 | MEYLAN MELIYANTI ANASTASYA SOFYAN | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi) | 6 (terverifikasi teks) | 3 (terverifikasi teks) | 8 | 689 (memenuhi - terpanjang) | 0 dari 5 gambar >=1000px (maks 320) | 92,50 | - | **92,50** | Sangat Baik |
-| 11 | WILDA AZKIA | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi OCR) | 6 (terverifikasi) | 3 (terverifikasi) | 1 | 157 (memenuhi) | 0 dari 10 gambar >=1000px (maks 578) | 92,00 | - | **92,00** | Sangat Baik |
-| 12 | JAJANG M HUSNI MUBAROK | XI DKV 3 | Aktif | 3 (terverifikasi OCR) | 12 (terverifikasi) | 6 (terverifikasi OCR) | 1 (full body, wajib terpenuhi) | 8 | 54 (KURANG - harus >=100) | 5 dari 5 gambar >=1000px (maks 1536) | 90,50 | +1,0 | **91,50** | Sangat Baik |
-| 13 | NENG OKTAVIA PUTRI AGUSTIN | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 5 | 1871 (memenuhi) | 0 dari 10 gambar >=1000px (maks 768) | 91,25 | - | **91,25** | Sangat Baik |
-| 14 | FAHMI AHMAD RAMDAN ALFIAN | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 5 | 2098 (memenuhi) | 0 dari 6 gambar >=1000px (maks 450) | 91,25 | - | **91,25** | Sangat Baik |
-| 15 | SELVI SIFA URIZQI | XI DKV 3 | Aktif | 3 kelompok / 5 media (terverifikasi teks) | 12 (terverifikasi) | 6 (terverifikasi OCR) | 1 (terverifikasi teks) | 7 | 315 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 91,00 | - | **91,00** | Sangat Baik |
-| 16 | JIHAN SHAFIRA KEAN PUTRI MULYADI | XI DKV 3 | Aktif | TIDAK DAPAT DIVERIFIKASI | 11 (terverifikasi OCR) | 4 (BELUM MEMENUHI - kurang 2) | 3 (terverifikasi OCR) | 8 | 153 (memenuhi) | 8 dari 8 gambar >=1000px (maks 1376) | 89,50 | +1,0 | **90,50** | Sangat Baik |
-| 17 | INDRI FITRIYANI | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi) | 6 (terverifikasi teks) | 1 (terverifikasi OCR) | 8 | 384 (memenuhi) | 0 dari 5 gambar >=1000px (maks 400) | 90,50 | - | **90,50** | Sangat Baik |
-| 18 | NURJIHAN | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 10 (terverifikasi teks) | 3 (terverifikasi OCR) | 8 | 3445 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 90,25 | - | **90,25** | Sangat Baik |
-| 19 | HARUM NURAULIA SRI KAMILA | XI DKV 3 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 10 | 1921 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 90,00 | - | **90,00** | Sangat Baik |
-| 20 | AUPA AZNIA | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 8 | 2188 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 90,00 | - | **90,00** | Sangat Baik |
-| 21 | DEBI LESTARI | XI DKV 1 | Aktif | 3 (terverifikasi teks) | 12 (terverifikasi tabel) | 6 (terverifikasi teks) | 1 (full body) | 8 (berlabel) | 2252 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 90,00 | - | **90,00** | Sangat Baik |
-| 22 | SYIFA HAIRA | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 9 | 2752 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 90,00 | - | **90,00** | Sangat Baik |
-| 23 | SRI AYU WAHYUNI | XI DKV 2 | Aktif | 3 (terverifikasi OCR) | 10 (terverifikasi teks) | 10 (terverifikasi teks) | 1 (full body, teks 3 output) | 8 (berlabel) | 2552 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 90,00 | - | **90,00** | Sangat Baik |
-| 24 | JAJANG NURJAMAN | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi) | 6 (terverifikasi teks) | 1 (terverifikasi OCR) | 8 | 262 (memenuhi) | 5 dari 5 gambar >=1000px (maks 1024) | 88,75 | +1,0 | **89,75** | Baik |
-| 25 | SAFINAH SYARA GARINI | XI DKV 1 | Aktif | 3 (terverifikasi) | Ada (format gambar, jumlah TIDAK DAPAT DIVERIFIKASI) | 6 (terverifikasi) | 3 (terverifikasi OCR) | 8 | 86 (KURANG - harus >=100) | 0 dari 8 gambar >=1000px (maks 450) | 89,50 | - | **89,50** | Baik |
-| 26 | AI IMAS | XI DKV 4 | Aktif | 3 (terverifikasi OCR) | TIDAK DAPAT DIVERIFIKASI | 6 (terverifikasi teks) | 3 (terverifikasi OCR) | 8 (berlabel A-H) | 2289 (memenuhi) | 0 dari 14 gambar >=1000px (maks 320) | 89,50 | - | **89,50** | Baik |
-| 27 | NADIRA MEGA RIZKIA | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 4 | 1645 (memenuhi) | 0 dari 7 gambar >=1000px (maks 440) | 89,25 | - | **89,25** | Baik |
-| 28 | RITA PEBRIYANI | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 5 | 2116 (memenuhi) | 0 dari 7 gambar >=1000px (maks 429) | 89,25 | - | **89,25** | Baik |
-| 29 | MEISYA FAKHRIYAH | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi) | 6 (terverifikasi teks) | 1 (terverifikasi OCR) | 5 | 602 (memenuhi - terpanjang) | 0 dari 5 gambar >=1000px (maks 320) | 88,75 | - | **88,75** | Baik |
-| 30 | SITI KHOIRIYAH | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi teks) | 6 (terverifikasi) | TIDAK DAPAT DIVERIFIKASI | 12 | 3709 (memenuhi) | 0 dari 11 gambar >=1000px (maks 320) | 88,75 | - | **88,75** | Baik |
-| 31 | SITI RAHMA SILPIANA | XI DKV 1 | Aktif | 3 (terverifikasi) | TIDAK DAPAT DIVERIFIKASI | 6 (terverifikasi teks) | 3 (terverifikasi teks) | 10 | 3622 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 88,50 | - | **88,50** | Baik |
-| 32 | M REZA HUAFAH | XI DKV 1 | Aktif | 3 (terverifikasi teks) | 12 (terverifikasi OCR) | 6 (terverifikasi OCR) | 3 (terverifikasi teks) | 8 | 481 (memenuhi) | 0 dari 27 gambar >=1000px (maks 320) | 87,50 | - | **87,50** | Baik |
-| 33 | DEVINA NAYYRA FITRIANI | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 15 | 3555 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 87,50 | - | **87,50** | Baik |
-| 34 | SOPA ANIDATUL AISAH | XI DKV 3 | Aktif | 3 (terverifikasi) | 11 (terverifikasi) | 6 (terverifikasi teks) | 2 (tidak dapat diverifikasi) | 8 | 1696 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 86,75 | - | **86,75** | Baik |
-| 35 | MUTIA ANITA SARI | XI DKV 3 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 10844 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
-| 36 | ALYA NURAENI | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 1674 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
-| 37 | ILFA ALIFIANA KHOERUNISA | XI DKV 3 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 3 | 2110 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
-| 38 | NAZMA KAYVA GASANI | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 3581 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
-| 39 | AI CINTA LESTARI | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 3445 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
-| 40 | TIRA FADILA | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 2013 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
-| 41 | MOH PIKRI | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 1810 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
-| 42 | GADNA WIDIATNI | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 3887 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
-| 43 | HASNI SAPA AL MAIRA | XI DKV 3 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 7 | 5982 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 86,25 | - | **86,25** | Baik |
-| 44 | TENI DAMAYANTI | XI DKV 2 | Aktif | 3 (terverifikasi) | 14 (terverifikasi teks) | 14 (terverifikasi teks) | 3 (terverifikasi teks) | 10 (8 blok PROMT) | 4316 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 86,25 | - | **86,25** | Baik |
-| 45 | AMIRA NUR AULIA | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 10 | 2577 (memenuhi) | 0 dari 10 gambar >=1000px (maks 400) | 86,00 | - | **86,00** | Baik |
-| 46 | DEDE APRILIA KARTIKA | XI DKV 4 | Aktif | TIDAK DAPAT DIVERIFIKASI | 10 (terverifikasi OCR) | 6 (terverifikasi teks) | 3 (terverifikasi OCR) | 6 | 146 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 85,50 | - | **85,50** | Baik |
-| 47 | KHANZA NURAENI | XI DKV 3 | Aktif | TIDAK DAPAT DIVERIFIKASI | 10 (terverifikasi) | 6 (terverifikasi OCR) | 3 (terverifikasi OCR) | 6 | 47 (KURANG - harus >=100) | 4 dari 5 gambar >=1000px (maks 1376) | 84,75 | +0,7 | **85,45** | Baik |
-| 48 | RISMAYANTI | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 2 | 2855 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 85,25 | - | **85,25** | Baik |
-| 49 | KAMILA APRILIANI | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 12 (terverifikasi) | 6 (terverifikasi teks) | 1 (terverifikasi OCR) | 8 | 163 (memenuhi - paling ringkas) | 0 dari 7 gambar >=1000px (maks 320) | 85,00 | - | **85,00** | Baik |
-| 50 | NANI YULIYANI | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 1633 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 85,00 | - | **85,00** | Baik |
-| 51 | AZMI ANUGRAH | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 12 (terverifikasi) | 6 (terverifikasi OCR) | TIDAK DAPAT DIVERIFIKASI | 7 | 176 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 84,25 | - | **84,25** | Baik |
-| 52 | RAIRA PUTRI | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 7 | 7682 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 84,25 | - | **84,25** | Baik |
-| 53 | KAILA AROPATILAH | XI DKV 1 | Aktif | 3 (terverifikasi) | 12 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 8 | 2042 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 84,25 | - | **84,25** | Baik |
-| 54 | WAHDAN SAPARI | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 | TIDAK DAPAT DIVERIFIKASI | 1 (full body, wajib terpenuhi) | 7 | 171 (memenuhi) | 0 dari 7 gambar >=1000px (maks 400) | 84,00 | - | **84,00** | Baik |
-| 55 | RIANA SANJAYA | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 2593 (memenuhi) | 0 dari 10 gambar >=1000px (maks 320) | 84,00 | - | **84,00** | Baik |
-| 56 | NAZWA NUR AISYAH | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 818 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 84,00 | - | **84,00** | Baik |
-| 57 | SUMIYATI | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 2 | 3728 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 84,00 | - | **84,00** | Baik |
-| 58 | ZAHRATUL AYESA AULIA | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 4768 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 84,00 | - | **84,00** | Baik |
-| 59 | WINA AFRILIANI | XI DKV 2 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi) | 10 (terverifikasi teks) | 1 (terverifikasi OCR) | 8 | 221 (memenuhi) | 0 dari 6 gambar >=1000px (maks 400) | 83,75 | - | **83,75** | Baik |
-| 60 | AZZAHRA QYASIMAH | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 914 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 82,75 | - | **82,75** | Baik |
-| 61 | WILDAN | XI DKV 3 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 1598 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 82,75 | - | **82,75** | Baik |
-| 62 | AI NURAWALIAH AL ZAHRA | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 2409 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 82,75 | - | **82,75** | Baik |
-| 63 | AJENG DWI RAISSA FITRI | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 2 | 2845 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 82,75 | - | **82,75** | Baik |
-| 64 | SULISTIAWATI | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 611 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 82,75 | - | **82,75** | Baik |
-| 65 | SECHAN KHALIFATUNNISA | XI DKV 3 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 2 | 5085 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 82,75 | - | **82,75** | Baik |
-| 66 | WULAN SUNDARI | XI DKV 1 | Aktif | TIDAK DAPAT DIVERIFIKASI | 12 (terverifikasi) | 6 (terverifikasi teks) | 3 (terverifikasi OCR) | 0 | 2445 (memenuhi) | 6 dari 6 gambar >=1000px (maks 1376) | 79,50 | +1,0 | **80,50** | Baik |
-| 67 | NENG SRI RAHAYU | XI DKV 4 | Aktif | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | 1 (terverifikasi OCR) | 9 | 340 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 80,25 | - | **80,25** | Baik |
-| 68 | MERLIN AZNIKA | XI DKV 3 | Aktif | 3 (terverifikasi OCR) | 12 (terverifikasi) | TIDAK DAPAT DIVERIFIKASI | 1 (terverifikasi OCR) | 7 | 133 (memenuhi - ringkas) | 0 dari 5 gambar >=1000px (maks 320) | 78,00 | - | **78,00** | Cukup |
-| 69 | ILMA LATIFAH | XI DKV 3 | Aktif | TIDAK DAPAT DIVERIFIKASI | 12 (terverifikasi) | TIDAK DAPAT DIVERIFIKASI | 1 (jenis tidak dapat diverifikasi) | 9 | 296 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 77,25 | - | **77,25** | Cukup |
-| 70 | FITRIYANI | XI DKV 4 | Aktif | 2 (belum memenuhi - verifikasi teks) | 10 (terverifikasi teks) | 6 (terverifikasi teks) | 3 (terverifikasi OCR) | 9 | 2345 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 76,50 | - | **76,50** | Cukup |
-| 71 | SYIVA WIDIYANA AGUSTIN | XI DKV 1 | Aktif | 3 (terverifikasi teks) | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | 1 (terverifikasi OCR) | 7 | 276 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 75,25 | - | **75,25** | Cukup |
-| 72 | DIRA RAHMAWATI | XI DKV 4 | Aktif | 3 (terverifikasi teks) | 7 (BELUM MEMENUHI - kurang 3) | 6 (terverifikasi teks) | 1 (full body, teks 3 output) | 5 (berlabel) | 1422 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 75,00 | - | **75,00** | Cukup |
-| 73 | AI TITO | XI DKV 4 | Aktif | TIDAK DAPAT DIVERIFIKASI | 8 (BELUM MEMENUHI - kurang 2) | TIDAK DAPAT DIVERIFIKASI | 1 (terverifikasi OCR) | 5 | 265 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 74,25 | - | **74,25** | Cukup |
-| 74 | QIANDRA KAIZAR NAHARI | XI DKV 3 | Aktif | TIDAK DAPAT DIVERIFIKASI | 10 (terverifikasi) | 6 (terverifikasi OCR) | 0 (tidak ada gambar) | 8 | 23 (KURANG - harus >=100) | 4 dari 5 gambar >=1000px (maks 1024) | 71,75 | +0,7 | **72,45** | Cukup |
-| 75 | AQILA NAZIL FALAQ | XI DKV 4 | Aktif | 3 (terverifikasi teks) | TIDAK DAPAT DIVERIFIKASI | 6 (terverifikasi teks) | TIDAK DAPAT DIVERIFIKASI | 9 | 2430 (memenuhi) | 7 gambar di lh3.google.com (Google Photos) gagal diunduh; dimensi asli & OCR tidak terukur | 72,25 | - | **72,25** | Cukup |
-| 76 | RIZKY MUHAMMAD REGAL SAFARI | XI DKV 1 | Aktif | TIDAK DAPAT DIVERIFIKASI | 11 (terverifikasi - bentuk teks) | 6 (terverifikasi OCR) | 3 (terverifikasi OCR) | 8 (tanpa label) | TIDAK ADA (section berisi prompt) | 0 dari 5 gambar >=1000px (maks 320) | 71,00 | - | **71,00** | Cukup |
-| 77 | AHMAD FAUZI | XI DKV 2 | Aktif | 3 (terverifikasi OCR) | Ada (format gambar, jumlah TIDAK DAPAT DIVERIFIKASI) | Ada (format gambar, jumlah TIDAK DAPAT DIVERIFIKASI) | 3 (terverifikasi OCR) | 5 | 181 (memenuhi) | 0 dari 11 gambar >=1000px (maks 320) | 70,00 | - | **70,00** | Cukup |
-| 78 | PUTRI INTAN NURAENI | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi) | 6 (terverifikasi OCR) | 2 (terverifikasi teks) | 6 | 1598 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 69,50 | - | **69,50** | Perlu Perbaikan |
-| 79 | DHEA EKA KHOERUNNISA | XI DKV 3 | Aktif | TIDAK DAPAT DIVERIFIKASI | 12 (terverifikasi - terbaik) | TIDAK DAPAT DIVERIFIKASI | 1 (jenis tidak dapat diverifikasi) | 1 | 242 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 58,50 | - | **58,50** | Perlu Perbaikan |
-| 80 | QUINSYA RAHMANESA SOLEHA | XI DKV 3 | Aktif | 3 (terverifikasi) | 8 (BELUM MEMENUHI - kurang 2) | TIDAK DAPAT DIVERIFIKASI | 3 (terverifikasi OCR) | 1 | 100 (memenuhi, tepat batas) | 0 dari 7 gambar >=1000px (maks 320) | 52,50 | - | **52,50** | Perlu Perbaikan |
-| 81 | CEISHA SINTHIA | XI DKV 2 | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | tidak diukur | 0,00 | - | **0,00** | Perlu Perbaikan |
-| 82 | SINDIA SAPUTRI | XI DKV 2 | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | 0 | TIDAK DAPAT DIVERIFIKASI | Inaccessible | 0,00 | - | **0,00** | Perlu Perbaikan |
-| 83 | SITI JENAB | XI DKV 2 | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | 0 | TIDAK DAPAT DIVERIFIKASI | Inaccessible | 0,00 | - | **0,00** | Perlu Perbaikan |
-| 84 | RISMA SAPARANI | XI DKV 2 | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | 0 | TIDAK DAPAT DIVERIFIKASI | Inaccessible | 0,00 | - | **0,00** | Perlu Perbaikan |
-| 85 | NURI MEITRI AENI | XI DKV 3 | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | Inaccessible | 0,00 | - | **0,00** | Perlu Perbaikan |
-| 86 | NAZWA KURNIA | XI DKV 4 | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | Inaccessible | 0,00 | - | **0,00** | Perlu Perbaikan |
-| | **RATA-RATA KELAS (86 siswa)** | | | | | | | | | | **79,28** | **+0,07** | **79,35** | |
+| 4 | MUHAMAD DANDI NUGRAHA | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi gambar) | 6 (terverifikasi teks) | 3 (termasuk full body) | 5 | 3303 (memenuhi) | 4 dari 6 gambar >=1000px (maks 1600) | 97,25 | +0,4 | **97,65** | Sangat Baik |
+| 5 | YAYU ASTIA | XI DKV 2 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi OCR) | 10 (terverifikasi OCR) | 3 (terverifikasi OCR) | 8 | 376 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 97,50 | - | **97,50** | Sangat Baik |
+| 6 | SHANDIKA REVI SHAFARUDIN | XI DKV 2 | Aktif | 3 (terverifikasi OCR) | 10 (terverifikasi OCR) | 10 (terverifikasi OCR) | 3 (terverifikasi OCR) | 8 | 252 (memenuhi) | 0 dari 8 gambar >=1000px (maks 640) | 96,25 | - | **96,25** | Sangat Baik |
+| 7 | INDRI | XI DKV 3 | Aktif | 3 (terverifikasi gambar) | 10 (terverifikasi tabel) | 6 (terverifikasi teks) | 3 (dalam 1 gambar komposit) | 7 | 4403 (memenuhi) | 0 dari 8 gambar >=1000px (maks 685) | 96,25 | - | **96,25** | Sangat Baik |
+| 8 | RESTI NURUL FADILA | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi teks) | 12 (terverifikasi teks) | 1 (full body) | 7 | 3557 (memenuhi) | 0 dari 8 gambar >=1000px (maks 446) | 96,00 | - | **96,00** | Sangat Baik |
+| 9 | SAFINAH SYARA GARINI | XI DKV 1 | Aktif | 3 (terverifikasi) | 11 (terverifikasi tabel) | 6 (terverifikasi gambar + teks) | 1 (3 varian: full body, portrait, bersama logo) | 8 | 4777 (memenuhi) | 0 dari 7 gambar >=1000px (maks 450) | 95,00 | - | **95,00** | Sangat Baik |
+| 10 | INTAN WIDIYANTI | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi) | 6 (terverifikasi teks) | 1 (full body, teks) | 8 | 3393 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 94,50 | - | **94,50** | Sangat Baik |
+| 11 | SYABINA AYAT EL AKHROS | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi teks + OCR) | 10 (terverifikasi) | 3 (terverifikasi OCR) | 10 | 3547 (memenuhi) | 0 dari 8 gambar >=1000px (maks 640) | 94,00 | - | **94,00** | Sangat Baik |
+| 12 | SITI MULYANI | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi gambar) | 6 (terverifikasi teks) | 3 (full body + portrait + bersama logo) | 5 | 1682 (memenuhi) | 8 dari 10 gambar >=1000px (maks 1024) | 92,75 | +0,7 | **93,45** | Sangat Baik |
+| 13 | WILDA AZKIA | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi OCR) | 6 (terverifikasi teks) | 3 (terverifikasi; full body 441x246) | 1 | 1737 (memenuhi) | 0 dari 10 gambar >=1000px (maks 578) | 93,25 | - | **93,25** | Sangat Baik |
+| 14 | PUTRI UTAMI | XI DKV 2 | Aktif | 3 (terverifikasi teks) | 8 (terverifikasi OCR) | 6 (terverifikasi OCR) | 3 (terverifikasi OCR) | 9 | 551 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 93,00 | - | **93,00** | Sangat Baik |
+| 15 | QUINSYA RAHMANESA SOLEHA | XI DKV 3 | Aktif | 3 media (terverifikasi teks; 1 berkas gambar 368x206) | 10 (terverifikasi tabel) | 6 (terverifikasi teks + OCR label panel) | 3 varian (terverifikasi OCR) | 8 | 2114 (memenuhi) | 0 dari 5 gambar >=1000px (maks 368) | 92,75 | - | **92,75** | Sangat Baik |
+| 16 | MEYLAN MELIYANTI ANASTASYA SOFYAN | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi) | 6 (terverifikasi teks) | 3 (terverifikasi teks) | 8 | 689 (memenuhi - terpanjang) | 0 dari 5 gambar >=1000px (maks 320) | 92,50 | - | **92,50** | Sangat Baik |
+| 17 | PITRYA HANDAYANI | XI DKV 2 | Aktif | 3 (terverifikasi gambar) | 10 (terverifikasi teks) | 10 (terverifikasi teks) | 3 (dalam 1 gambar komposit) | 7 | 3223 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 92,25 | - | **92,25** | Sangat Baik |
+| 18 | FUZI NAILA ANNURI | XI DKV 3 | Aktif | 3 (terverifikasi gambar) | 10 (terverifikasi tabel) | 1 (terverifikasi gambar) | 3 (terverifikasi teks) | 10 | 7436 (memenuhi) | 0 dari 9 gambar >=1000px (maks 400) | 92,00 | - | **92,00** | Sangat Baik |
+| 19 | RAISYA ALAWIYAH | XI DKV 1 | Aktif | 3 (terverifikasi gambar) | 6 (belum 10 shot) | 6 (terverifikasi gambar) | 3 (dalam 1 gambar komposit) | 8 | 2153 (memenuhi) | 0 dari 8 gambar >=1000px (maks 639) | 92,00 | - | **92,00** | Sangat Baik |
+| 20 | JAJANG M HUSNI MUBAROK | XI DKV 3 | Aktif | 3 (terverifikasi OCR) | 12 (terverifikasi) | 6 (terverifikasi OCR) | 1 (full body, wajib terpenuhi) | 8 | 54 (KURANG - harus >=100) | 5 dari 5 gambar >=1000px (maks 1536) | 90,50 | +1,0 | **91,50** | Sangat Baik |
+| 21 | NENG OKTAVIA PUTRI AGUSTIN | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 5 | 1871 (memenuhi) | 0 dari 10 gambar >=1000px (maks 768) | 91,25 | - | **91,25** | Sangat Baik |
+| 22 | FAHMI AHMAD RAMDAN ALFIAN | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 5 | 2098 (memenuhi) | 0 dari 6 gambar >=1000px (maks 450) | 91,25 | - | **91,25** | Sangat Baik |
+| 23 | SELVI SIFA URIZQI | XI DKV 3 | Aktif | 3 kelompok / 5 media (terverifikasi teks) | 12 (terverifikasi) | 6 (terverifikasi OCR) | 1 (terverifikasi teks) | 7 | 315 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 91,00 | - | **91,00** | Sangat Baik |
+| 24 | SITI RAHMA SILPIANA | XI DKV 1 | Aktif | 3 (terverifikasi) | 12 (klaim teks; baris tabel tidak terbaca) | 6 (terverifikasi teks) | 1 (3 varian; full body tidak dapat dipastikan) | 10 | 3639 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 91,00 | - | **91,00** | Sangat Baik |
+| 25 | JIHAN SHAFIRA KEAN PUTRI MULYADI | XI DKV 3 | Aktif | TIDAK DAPAT DIVERIFIKASI | 11 (terverifikasi OCR) | 4 (BELUM MEMENUHI - kurang 2) | 3 (terverifikasi OCR) | 8 | 153 (memenuhi) | 8 dari 8 gambar >=1000px (maks 1376) | 89,50 | +1,0 | **90,50** | Sangat Baik |
+| 26 | NURJIHAN | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 10 (terverifikasi teks) | 3 (terverifikasi OCR) | 8 | 3445 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 90,25 | - | **90,25** | Sangat Baik |
+| 27 | INDRI FITRIYANI | XI DKV 3 | Aktif | 3 (terverifikasi) | 10 (terverifikasi tabel) | TIDAK DAPAT DIVERIFIKASI | 1 (full body tidak dapat dipastikan) | 8 | 2318 (memenuhi) | 0 dari 5 gambar >=1000px (maks 400) | 90,00 | - | **90,00** | Sangat Baik |
+| 28 | M REZA HUAFAH | XI DKV 1 | Aktif | 3 (terverifikasi) | 12 (terverifikasi gambar 20 lembar) | 6 (terverifikasi teks) | 3 konsep tertulis; 1 gambar (320x213) | 8 | 3467 (memenuhi) | 0 dari 27 gambar >=1000px (maks 320) | 90,00 | - | **90,00** | Sangat Baik |
+| 29 | HARUM NURAULIA SRI KAMILA | XI DKV 3 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 10 | 1921 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 90,00 | - | **90,00** | Sangat Baik |
+| 30 | AUPA AZNIA | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 8 | 2188 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 90,00 | - | **90,00** | Sangat Baik |
+| 31 | DEBI LESTARI | XI DKV 1 | Aktif | 3 (terverifikasi teks) | 12 (terverifikasi tabel) | 6 (terverifikasi teks) | 1 (full body) | 8 (berlabel) | 2252 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 90,00 | - | **90,00** | Sangat Baik |
+| 32 | SYIFA HAIRA | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 9 | 2752 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 90,00 | - | **90,00** | Sangat Baik |
+| 33 | SRI AYU WAHYUNI | XI DKV 2 | Aktif | 3 (terverifikasi OCR) | 10 (terverifikasi teks) | 10 (terverifikasi teks) | 1 (full body, teks 3 output) | 8 (berlabel) | 2552 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 90,00 | - | **90,00** | Sangat Baik |
+| 34 | JAJANG NURJAMAN | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi) | 6 (terverifikasi teks) | 1 (terverifikasi OCR) | 8 | 262 (memenuhi) | 5 dari 5 gambar >=1000px (maks 1024) | 88,75 | +1,0 | **89,75** | Baik |
+| 35 | AI IMAS | XI DKV 4 | Aktif | 3 (terverifikasi OCR) | TIDAK DAPAT DIVERIFIKASI | 6 (terverifikasi teks) | 3 (terverifikasi OCR) | 8 (berlabel A-H) | 2289 (memenuhi) | 0 dari 14 gambar >=1000px (maks 320) | 89,50 | - | **89,50** | Baik |
+| 36 | GADNA WIDIATNI | XI DKV 1 | Aktif | 3 (terverifikasi) | 15 (terverifikasi teks) | 6 (terverifikasi teks) | 1 (full body tidak dapat dipastikan) | 8 | 4059 (memenuhi) | 0 dari 6 gambar >=1000px (maks 399) | 89,50 | - | **89,50** | Baik |
+| 37 | RAISYA NURIL MAULIDA | XI DKV 1 | Aktif | 3 (terverifikasi teks) | 16 shot (prosa, tanpa tabel) | 6 scene (terverifikasi teks) | 3 varian (1 gambar 320x320) | 10 | 3500 | 0 dari 8 gambar >=1000px (maks 320) | 89,50 | - | **89,50** | Baik |
+| 38 | NADIRA MEGA RIZKIA | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 4 | 1645 (memenuhi) | 0 dari 7 gambar >=1000px (maks 440) | 89,25 | - | **89,25** | Baik |
+| 39 | RITA PEBRIYANI | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 5 | 2116 (memenuhi) | 0 dari 7 gambar >=1000px (maks 429) | 89,25 | - | **89,25** | Baik |
+| 40 | MEISYA FAKHRIYAH | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi) | 6 (terverifikasi teks) | 1 (terverifikasi OCR) | 5 | 602 (memenuhi - terpanjang) | 0 dari 5 gambar >=1000px (maks 320) | 88,75 | - | **88,75** | Baik |
+| 41 | SITI KHOIRIYAH | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi teks) | 6 (terverifikasi) | TIDAK DAPAT DIVERIFIKASI | 12 | 3709 (memenuhi) | 0 dari 11 gambar >=1000px (maks 320) | 88,75 | - | **88,75** | Baik |
+| 42 | INDAH TRIJAYANTI | XI DKV 4 | Aktif | 3 (terverifikasi gambar) | 11 (terverifikasi teks) | 6 (terverifikasi teks) | 3 (full body) | 9 | 5250 | 0 dari 10 gambar >=1000px (maks 400) | 88,25 | - | **88,25** | Baik |
+| 43 | NADA NISRINA | XI DKV 2 | Aktif | 3 (terverifikasi gambar IMG#03-05) | 13 (terverifikasi teks) | 13 (terverifikasi teks + gambar IMG#08) | 3 varian (terverifikasi OCR IMG#06) | 10 | 4064 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 88,00 | - | **88,00** | Baik |
+| 44 | WULAN SUNDARI | XI DKV 1 | Aktif | 3 (terverifikasi) | 12 (terverifikasi tabel) | 6 (terverifikasi gambar + teks) | 3 varian (full body) | 0 | 2445 (memenuhi) | 6 dari 6 gambar >=1000px (maks 1376) | 86,75 | +1,0 | **87,75** | Baik |
+| 45 | DEVINA NAYYRA FITRIANI | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 15 | 3555 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 87,50 | - | **87,50** | Baik |
+| 46 | NADIA FITRIANI | XI DKV 3 | Aktif | 3 (terverifikasi gambar) | 10 (terverifikasi teks) | 6 (terverifikasi teks) | 3 (terverifikasi gambar) | 8 | 2431 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 87,50 | - | **87,50** | Baik |
+| 47 | DHEA EKA KHOERUNNISA | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 12 (terverifikasi tabel) | 6 (terverifikasi teks) | 1 (full body tidak dapat dipastikan) | 8 | 1736 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 87,00 | - | **87,00** | Baik |
+| 48 | AZIZAH NURUL KAMIL | XI DKV 1 | Aktif | 1 (terverifikasi gambar IMG#03) | 10 (terverifikasi gambar IMG#04) | 6 (terverifikasi teks + gambar IMG#06) | 3 varian (terverifikasi OCR IMG#07) | 4 | 2945 (memenuhi) | 7 dari 7 gambar >=1000px (maks 1408) | 86,00 | +1,0 | **87,00** | Baik |
+| 49 | SOPA ANIDATUL AISAH | XI DKV 3 | Aktif | 3 (terverifikasi) | 11 (terverifikasi) | 6 (terverifikasi teks) | 2 (tidak dapat diverifikasi) | 8 | 1696 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 86,75 | - | **86,75** | Baik |
+| 50 | MUTIA ANITA SARI | XI DKV 3 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 10844 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
+| 51 | ALYA NURAENI | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 1674 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
+| 52 | ILFA ALIFIANA KHOERUNISA | XI DKV 3 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 3 | 2110 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
+| 53 | NAZMA KAYVA GASANI | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 3581 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
+| 54 | AI CINTA LESTARI | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 3445 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
+| 55 | TIRA FADILA | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 2013 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
+| 56 | MOH PIKRI | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 1810 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 86,50 | - | **86,50** | Baik |
+| 57 | HASNI SAPA AL MAIRA | XI DKV 3 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 7 | 5982 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 86,25 | - | **86,25** | Baik |
+| 58 | TENI DAMAYANTI | XI DKV 2 | Aktif | 3 (terverifikasi) | 14 (terverifikasi teks) | 14 (terverifikasi teks) | 3 (terverifikasi teks) | 10 (8 blok PROMT) | 4316 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 86,25 | - | **86,25** | Baik |
+| 59 | AMIRA NUR AULIA | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 10 | 2577 (memenuhi) | 0 dari 10 gambar >=1000px (maks 400) | 86,00 | - | **86,00** | Baik |
+| 60 | DEDE APRILIA KARTIKA | XI DKV 4 | Aktif | TIDAK DAPAT DIVERIFIKASI | 10 (terverifikasi OCR) | 6 (terverifikasi teks) | 3 (terverifikasi OCR) | 6 | 146 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 85,50 | - | **85,50** | Baik |
+| 61 | KHANZA NURAENI | XI DKV 3 | Aktif | TIDAK DAPAT DIVERIFIKASI | 10 (terverifikasi) | 6 (terverifikasi OCR) | 3 (terverifikasi OCR) | 6 | 47 (KURANG - harus >=100) | 4 dari 5 gambar >=1000px (maks 1376) | 84,75 | +0,7 | **85,45** | Baik |
+| 62 | RISMAYANTI | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 2 | 2855 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 85,25 | - | **85,25** | Baik |
+| 63 | KAMILA APRILIANI | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 12 (terverifikasi) | 6 (terverifikasi teks) | 1 (terverifikasi OCR) | 8 | 163 (memenuhi - paling ringkas) | 0 dari 7 gambar >=1000px (maks 320) | 85,00 | - | **85,00** | Baik |
+| 64 | NANI YULIYANI | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 1633 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 85,00 | - | **85,00** | Baik |
+| 65 | INTAN MAHARANY | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi tabel) | 6 (terverifikasi teks) | 1 (full body tidak dapat dipastikan) | 8 | 4644 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 85,00 | - | **85,00** | Baik |
+| 66 | AZMI ANUGRAH | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 12 (terverifikasi) | 6 (terverifikasi OCR) | TIDAK DAPAT DIVERIFIKASI | 7 | 176 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 84,25 | - | **84,25** | Baik |
+| 67 | RAIRA PUTRI | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 7 | 7682 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 84,25 | - | **84,25** | Baik |
+| 68 | KAILA AROPATILAH | XI DKV 1 | Aktif | 3 (terverifikasi) | 12 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 8 | 2042 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 84,25 | - | **84,25** | Baik |
+| 69 | WAHDAN SAPARI | XI DKV 2 | Aktif | 3 (terverifikasi) | 10 | TIDAK DAPAT DIVERIFIKASI | 1 (full body, wajib terpenuhi) | 7 | 171 (memenuhi) | 0 dari 7 gambar >=1000px (maks 400) | 84,00 | - | **84,00** | Baik |
+| 70 | RIANA SANJAYA | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 2593 (memenuhi) | 0 dari 10 gambar >=1000px (maks 320) | 84,00 | - | **84,00** | Baik |
+| 71 | NAZWA NUR AISYAH | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 818 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 84,00 | - | **84,00** | Baik |
+| 72 | SUMIYATI | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 2 | 3728 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 84,00 | - | **84,00** | Baik |
+| 73 | ZAHRATUL AYESA AULIA | XI DKV 1 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 4768 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 84,00 | - | **84,00** | Baik |
+| 74 | WINA AFRILIANI | XI DKV 2 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi) | 10 (terverifikasi teks) | 1 (terverifikasi OCR) | 8 | 221 (memenuhi) | 0 dari 6 gambar >=1000px (maks 400) | 83,75 | - | **83,75** | Baik |
+| 75 | NAPSA JAKIYAH | XI DKV 4 | Aktif | 6 media (1 berkas gambar 320x213) | 10 (terverifikasi teks) | 7 (terverifikasi teks) | 1 (full body TIDAK DAPAT DIVERIFIKASI) | 6 | 2629 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 83,25 | - | **83,25** | Baik |
+| 76 | AZZAHRA QYASIMAH | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 914 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 82,75 | - | **82,75** | Baik |
+| 77 | WILDAN | XI DKV 3 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 1598 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 82,75 | - | **82,75** | Baik |
+| 78 | AI NURAWALIAH AL ZAHRA | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 2409 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 82,75 | - | **82,75** | Baik |
+| 79 | AJENG DWI RAISSA FITRI | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 2 | 2845 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 82,75 | - | **82,75** | Baik |
+| 80 | SULISTIAWATI | XI DKV 4 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 1 | 611 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 82,75 | - | **82,75** | Baik |
+| 81 | SECHAN KHALIFATUNNISA | XI DKV 3 | Aktif | 3 (terverifikasi) | 10 (terverifikasi) | 6 (terverifikasi) | 1 (full body) | 2 | 5085 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 82,75 | - | **82,75** | Baik |
+| 82 | SYIPA NURAENI | XI DKV 1 | Aktif | 3 (terverifikasi gambar IMG#03-05) | 14 (klaim saja; TIDAK DAPAT DIVERIFIKASI) | 6 (terverifikasi teks, tanpa shot/angle per scene) | 3 output diklaim; 1 gambar (full body TIDAK DAPAT DIVERIFIKASI) | 8 | 3282 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 80,50 | - | **80,50** | Baik |
+| 83 | NENG SRI RAHAYU | XI DKV 4 | Aktif | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | 1 (terverifikasi OCR) | 9 | 340 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 80,25 | - | **80,25** | Baik |
+| 84 | AQILA NAZIL FALAQ | XI DKV 4 | Aktif | 3 (terverifikasi teks; gambar gagal diunduh) | 10 (terverifikasi teks; tanpa tabel) | 6 (terverifikasi teks) | 3 varian (terverifikasi teks; gambar gagal diunduh) | 9 (terverifikasi teks) | 2430 (memenuhi) | 7 gambar di lh3.google.com (Google Photos) gagal diunduh; dimensi asli & OCR tidak terukur | 80,25 | - | **80,25** | Baik |
+| 85 | NAILA AGUSTIN | XI DKV 4 | Aktif | 4 media (1 berkas gambar 320x292) | 10 (terverifikasi teks) | 6 (terverifikasi teks) | 1 (full body TIDAK DAPAT DIVERIFIKASI) | 5 | 1759 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 79,75 | - | **79,75** | Cukup |
+| 86 | MUHAMMAD TAUFIQ ISMAIL | XI DKV 3 | Aktif | 2 (terverifikasi teks) | 0 (tidak ada shotlist) | 6 (terverifikasi teks) | 1 (full body teks) | 8 (7 komponen) | 6815 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 79,50 | - | **79,50** | Cukup |
+| 87 | MERLIN AZNIKA | XI DKV 3 | Aktif | 3 (terverifikasi OCR) | 12 (terverifikasi) | TIDAK DAPAT DIVERIFIKASI | 1 (terverifikasi OCR) | 7 | 133 (memenuhi - ringkas) | 0 dari 5 gambar >=1000px (maks 320) | 78,00 | - | **78,00** | Cukup |
+| 88 | ILMA LATIFAH | XI DKV 3 | Aktif | TIDAK DAPAT DIVERIFIKASI | 12 (terverifikasi) | TIDAK DAPAT DIVERIFIKASI | 1 (jenis tidak dapat diverifikasi) | 9 | 296 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 77,25 | - | **77,25** | Cukup |
+| 89 | FITRIYANI | XI DKV 4 | Aktif | 2 (belum memenuhi - verifikasi teks) | 10 (terverifikasi teks) | 6 (terverifikasi teks) | 3 (terverifikasi OCR) | 9 | 2345 (memenuhi) | 0 dari 6 gambar >=1000px (maks 320) | 76,50 | - | **76,50** | Cukup |
+| 90 | NURI MEITRI AENI | XI DKV 3 | TIDAK DAPAT DIVERIFIKASI | 3 (terverifikasi; fungsi tiap media tertulis) | TIDAK DAPAT DIVERIFIKASI (hanya prompt) | 6 (terverifikasi teks) | 1 gambar 160x320 (full body TIDAK DAPAT DIVERIFIKASI) | 8 | 2630 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 75,50 | - | **75,50** | Cukup |
+| 91 | SYIVA WIDIYANA AGUSTIN | XI DKV 1 | Aktif | 3 (terverifikasi teks) | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | 1 (terverifikasi OCR) | 7 | 276 (memenuhi) | 0 dari 8 gambar >=1000px (maks 320) | 75,25 | - | **75,25** | Cukup |
+| 92 | DIRA RAHMAWATI | XI DKV 4 | Aktif | 3 (terverifikasi teks) | 7 (BELUM MEMENUHI - kurang 3) | 6 (terverifikasi teks) | 1 (full body, teks 3 output) | 5 (berlabel) | 1422 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 75,00 | - | **75,00** | Cukup |
+| 93 | AI TITO | XI DKV 4 | Aktif | TIDAK DAPAT DIVERIFIKASI | 8 (BELUM MEMENUHI - kurang 2) | TIDAK DAPAT DIVERIFIKASI | 1 (terverifikasi OCR) | 5 | 265 (memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 74,25 | - | **74,25** | Cukup |
+| 94 | GILAR APGAN MUHAMAD SOLEH | XI DKV 4 | Aktif | 7 media (terverifikasi teks) | TIDAK DAPAT DIVERIFIKASI | 6 (terverifikasi teks) | 1 (full body tidak dapat dipastikan) | 8 | 2740 (memenuhi) | 0 dari 8 gambar >=1000px (maks 436) | 73,75 | - | **73,75** | Cukup |
+| 95 | ADE SAHRUL GUNAWAN | XI DKV 4 | Aktif | 1 (belum terverifikasi) | 12 (klaim teks; TIDAK DAPAT DIVERIFIKASI) | 6 (terverifikasi teks) | 1 (gambar; 3 varian diklaim) | 5 | 2953 | 0 dari 7 gambar >=1000px (maks 320) | 72,50 | - | **72,50** | Cukup |
+| 96 | QIANDRA KAIZAR NAHARI | XI DKV 3 | Aktif | TIDAK DAPAT DIVERIFIKASI | 10 (terverifikasi) | 6 (terverifikasi OCR) | 0 (tidak ada gambar) | 8 | 23 (KURANG - harus >=100) | 4 dari 5 gambar >=1000px (maks 1024) | 71,75 | +0,7 | **72,45** | Cukup |
+| 97 | SAVINA KHOERUNNISA | XI DKV 2 | Aktif | 3 (terverifikasi gambar IMG#03-05) | 10 (terverifikasi gambar IMG#07) | 0 (TIDAK DIKUMPULKAN) | 3 varian (terverifikasi OCR IMG#06) | 8 | 2639 (memenuhi) | 8 dari 8 gambar >=1000px (maks 1448) | 71,25 | +1,0 | **72,25** | Cukup |
+| 98 | RIZKY MUHAMMAD REGAL SAFARI | XI DKV 1 | Aktif | 3 diklaim (1 berkas gambar 320x320) | 11 (terverifikasi teks; tabel markdown) | 6 (terverifikasi OCR) | 3 varian (terverifikasi OCR) | 8 (tanpa label) | 1958 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 71,00 | - | **71,00** | Cukup |
+| 99 | AHMAD FAUZI | XI DKV 2 | Aktif | 3 (terverifikasi OCR) | Ada (format gambar, jumlah TIDAK DAPAT DIVERIFIKASI) | Ada (format gambar, jumlah TIDAK DAPAT DIVERIFIKASI) | 3 (terverifikasi OCR) | 5 | 181 (memenuhi) | 0 dari 11 gambar >=1000px (maks 320) | 70,00 | - | **70,00** | Cukup |
+| 100 | PUTRI INTAN NURAENI | XI DKV 3 | Aktif | 3 (terverifikasi teks) | 10 (terverifikasi) | 6 (terverifikasi OCR) | 2 (terverifikasi teks) | 6 | 1598 (memenuhi) | 0 dari 5 gambar >=1000px (maks 320) | 69,50 | - | **69,50** | Perlu Perbaikan |
+| 101 | MUHAMAD REZA RAMDANI | XI DKV 2 | Aktif | 3 (terverifikasi gambar, brand 'The Creative Studio') | 10 (terverifikasi teks) | 6 (terverifikasi teks + gambar IMG#07) | 1 (full body terverifikasi teks, brand lain) | 8 | 4560 (memenuhi) | 0 dari 8 gambar >=1000px (maks 400) | 69,50 | - | **69,50** | Perlu Perbaikan |
+| 102 | DAPA MUSTOPA | XI DKV 1 | Aktif | 3 (terverifikasi teks) | TIDAK DAPAT DIVERIFIKASI | 5 (terverifikasi gambar) | 3 varian (1 gambar 1024x559) | 0 (tidak terdokumentasi) | 1834 | 5 dari 6 gambar >=1000px (maks 1536) | 68,25 | +0,7 | **68,95** | Perlu Perbaikan |
+| 103 | NADYA NURLATIFA | XI DKV 4 | Aktif | 1 (terverifikasi gambar) | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | 1 (terverifikasi teks) | 0 | 415 (tidak memenuhi) | 0 dari 7 gambar >=1000px (maks 320) | 34,00 | - | **34,00** | Perlu Perbaikan |
+| 104 | RAFI FAUZAN NAJA LUTFIANA | XI DKV 4 | Aktif | 0 (TIDAK DIKUMPULKAN) | 0 (TIDAK DIKUMPULKAN) | 0 (TIDAK DIKUMPULKAN) | 0 (TIDAK DIKUMPULKAN) | 0 | 146 (tidak memenuhi) | 0 dari 3 gambar >=1000px (maks 320) | 4,75 | - | **4,75** | Perlu Perbaikan |
+| 105 | CEISHA SINTHIA | XI DKV 2 | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | tidak diukur | 0,00 | - | **0,00** | Perlu Perbaikan |
+| 106 | SINDIA SAPUTRI | XI DKV 2 | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | 0 | TIDAK DAPAT DIVERIFIKASI | Inaccessible | 0,00 | - | **0,00** | Perlu Perbaikan |
+| 107 | SITI JENAB | XI DKV 2 | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | 0 | TIDAK DAPAT DIVERIFIKASI | Inaccessible | 0,00 | - | **0,00** | Perlu Perbaikan |
+| 108 | RISMA SAPARANI | XI DKV 2 | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | 0 | TIDAK DAPAT DIVERIFIKASI | Inaccessible | 0,00 | - | **0,00** | Perlu Perbaikan |
+| 109 | NAZWA KURNIA | XI DKV 4 | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | Inaccessible | 0,00 | - | **0,00** | Perlu Perbaikan |
+| 110 | ALIA ALAIKA NURFADILA | XI DKV 1 | Aktif | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | Inaccessible | 0,00 | - | **0,00** | Perlu Perbaikan |
+| 111 | LUSI NURAENI | XI DKV 1 | Aktif | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | Inaccessible | 0,00 | - | **0,00** | Perlu Perbaikan |
+| 112 | RADIT KURNIAWAN | XI DKV 3 | Aktif | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | TIDAK DAPAT DIVERIFIKASI | Inaccessible | 0,00 | - | **0,00** | Perlu Perbaikan |
+| | **RATA-RATA KELAS (112 siswa)** | | | | | | | | | | **78,53** | **+0,09** | **78,62** | |
 **Distribusi (3 revisi rubrik, 86 siswa):** Sangat Baik 23 | Baik 44 | Cukup 10 | Perlu Perbaikan 9
 **Rata-rata Nilai Rubrik 79,28 | Rata-rata Nilai Akhir 79,35** — **86 siswa**
 
@@ -448,7 +474,7 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 
 ---
 
-## 25. INDRI FITRIYANI — XI DKV 3 — **90,50 / 100 (Sangat Baik)**
+## 25. INDRI FITRIYANI — XI DKV 3 — **90,00 / 100 (Sangat Baik)**
 
 **Identitas:** **Kirim 1 Oktober 2026 10:28** (kiriman susulan). Link: https://indriifitriyani.blogspot.com/2026/09/personal-branding-indri-fitriyani-xi.html (**aktif**).
 **Kondisi:** 2.172 kata, 5 gambar (maks 400 px), 1 tabel shotlist.
@@ -458,18 +484,18 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 |1|Penamaan Judul & Identitas|5|4|5,00|
 |2|Personal Branding & Logo|12|4|12,00|
 |3|Moodboard|8|4|8,00|
-|4|Mockup Branding|10|3|7,50|
+|4|Mockup Branding|10|4|10,00|
 |5|Naskah Iklan|8|4|8,00|
 |6|Storyline|8|4|8,00|
 |7|Shotlist|10|4|10,00|
 |8|Storyboard|10|2|5,00|
-|9|AI Mascot Character|8|3|6,00|
+|9|AI Mascot Character|8|2|4,00|
 |10|Prompt & Dokumentasi AI|7|4|7,00|
 |11|Portfolio Blogger|10|4|10,00|
-|12|Kreativitas & Profesionalisme|4|4|4,00|
-||**TOTAL**|**100**||**90,50**|
+|12|Kreativitas & Profesionalisme|4|3|3,00|
+||**TOTAL**|**100**||**90,00**|
 ||Nilai Tambah Resolusi (0 dari 5 gambar ≥1000px)|–|–|+0,0|0,00|
-||**NILAI AKHIR**|||**90,50**||
+||**NILAI AKHIR**|||**90,00**||
 
 ### Hasil verifikasi
 | Ketentuan | Status | Keterangan |
@@ -546,7 +572,7 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 
 ---
 
-## 27. M REZA HUAFAH — XI DKV 1 — **87,50 / 100 (Baik)**
+## 27. M REZA HUAFAH — XI DKV 1 — **90,00 / 100 (Sangat Baik)**
 
 **Identitas:** **Kirim 1 Oktober 2026 10:42** (kiriman susulan). Link: https://mrezahuafah.blogspot.com/2026/09/personal-branding-m-reza-huafah-xi-dkv-1.html (**aktif**).
 **Kondisi:** **3.467 kata, 27 gambar** (terbanyak di kelas; semua 320 px), 0 tabel HTML.
@@ -563,11 +589,11 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 |8|Storyboard|10|3|7,50|
 |9|AI Mascot Character|8|4|8,00|
 |10|Prompt & Dokumentasi AI|7|4|7,00|
-|11|Portfolio Blogger|10|1|2,50|
+|11|Portfolio Blogger|10|2|5,00|
 |12|Kreativitas & Profesionalisme|4|4|4,00|
-||**TOTAL**|**100**||**87,50**|
+||**TOTAL**|**100**||**90,00**|
 ||Nilai Tambah Resolusi (0 dari 27 gambar ≥1000px)|–|–|+0,0|0,00|
-||**NILAI AKHIR**|||**87,50**||
+||**NILAI AKHIR**|||**90,00**||
 
 ### Hasil verifikasi
 | Ketentuan | Status | Keterangan |
@@ -1316,14 +1342,14 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 **Feedback — Yang Sudah Baik:** Struktur 8 komponen lengkap, kualitas analisis mockup paling matang di kelas, danplanning video benar-benar layak pakai sebagai pedoman produksi. **Yang Perlu Diperbaiki:**Gd minor pada logo, teks shotlist terpotong, dan label Blogger. **Prioritas:** Logo + teks shotlist + label. **Kesimpulan:** Projek **memenuhi seluruh ketentuan minimum**; kekurangan bersifat administratif/teknis kecil.
 
 ---
-## 2. WILDA AZKIA — XI DKV 1 — **92,00 / 100 (Sangat Baik)**
+## 2. WILDA AZKIA — XI DKV 1 — **93,25 / 100 (Sangat Baik)**
 
 **Identitas:** Cocok (rekapan = artikel = logo OCR "WILDA AZKIA / BY WILDA AZKIA"). Kirim 30 Sep 2026 21:12. Link: https://wildaazkia.blogspot.com/2026/09/personal-branding.html (**aktif**).
 
 ### Rekap skor
 | No | Komponen | Bobot | Skor | Nilai |
 |---:|---|---:|---:|---:|
-|1|Penamaan Judul & Identitas|5|2|2,50|
+|1|Penamaan Judul & Identitas|5|3|3,75|
 |2|Personal Branding & Logo|12|4|12,00|
 |3|Moodboard|8|4|8,00|
 |4|Mockup Branding|10|4|10,00|
@@ -1335,9 +1361,9 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 |10|Prompt & Dokumentasi AI|7|2|3,50|
 |11|Portfolio Blogger|10|4|10,00|
 |12|Kreativitas & Profesionalisme|4|4|4,00|
-||**TOTAL**|**100**||**92,00**|
+||**TOTAL**|**100**||**93,25**|
 ||Nilai Tambah Resolusi (0 dari 10 gambar ≥1000px)|–|–|+0,0|0,00|
-||**NILAI AKHIR**|||**92,00**||
+||**NILAI AKHIR**|||**93,25**||
 
 ### Hasil verifikasi ketentuan
 | Ketentuan | Status | Keterangan |
@@ -1370,7 +1396,7 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 **Kesimpulan:** Semua ketentuan minimum **terpenuhi**; kekurangan pada judul dan dokumentasi prompt.
 
 ---
-## 3. SAFINAH SYARA GARINI — XI DKV 1 — **89,50 / 100 (Baik)**
+## 3. SAFINAH SYARA GARINI — XI DKV 1 — **95,00 / 100 (Sangat Baik)**
 
 **Identitas:** Cocok. Kirim 30 Sep 2026 18:20. Link: https://safinahsyaragarini.blogspot.com/2026/09/personal-branding-safinah-syaara-garini.html (**aktif**).
 
@@ -1378,20 +1404,20 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 | No | Komponen | Bobot | Skor | Nilai |
 |---:|---|---:|---:|---:|
 |1|Penamaan Judul & Identitas|5|4|5,00|
-|2|Personal Branding & Logo|12|3|9,00|
+|2|Personal Branding & Logo|12|4|12,00|
 |3|Moodboard|8|4|8,00|
-|4|Mockup Branding|10|4|10,00|
+|4|Mockup Branding|10|3|7,50|
 |5|Naskah Iklan|8|4|8,00|
 |6|Storyline|8|4|8,00|
-|7|Shotlist|10|2|5,00|
+|7|Shotlist|10|4|10,00|
 |8|Storyboard|10|4|10,00|
 |9|AI Mascot Character|8|4|8,00|
 |10|Prompt & Dokumentasi AI|7|4|7,00|
 |11|Portfolio Blogger|10|3|7,50|
 |12|Kreativitas & Profesionalisme|4|4|4,00|
-||**TOTAL**|**100**||**89,50**|
-||Nilai Tambah Resolusi (0 dari 8 gambar ≥1000px)|–|–|+0,0|0,00|
-||**NILAI AKHIR**|||**89,50**||
+||**TOTAL**|**100**||**95,00**|
+||Nilai Tambah Resolusi (0 dari 7 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**95,00**||
 
 ### Hasil verifikasi ketentuan
 | Ketentuan | Status | Keterangan |
@@ -1628,7 +1654,7 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 **Kesimpulan:** perencanaan video sangat baik, tetapi dua ketentuan kuantitatif (maskot 3 output, judul) belum terpenuhi.
 
 ---
-## 9. WULAN SUNDARI — XI DKV 1 — **80,50 / 100 (Baik)**
+## 9. WULAN SUNDARI — XI DKV 1 — **87,75 / 100 (Baik)**
 
 **Identitas:** Cocok. Kirim 30 Sep 2026 21:09. Link: https://wulansundariii.blogspot.com/2026/09/asts-personal-branding-wulan-sundari-xi_01701389558.html (**aktif**).
 **Catatan:** URL berakhiran `_01701389558` (id Blogger bocor) — perlu dirapikan.
@@ -1636,21 +1662,21 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 ### Rekap skor
 | No | Komponen | Bobot | Skor | Nilai |
 |---:|---|---:|---:|---:|
-|1|Penamaan Judul & Identitas|5|2|2,50|
+|1|Penamaan Judul & Identitas|5|3|3,75|
 |2|Personal Branding & Logo|12|4|12,00|
 |3|Moodboard|8|4|8,00|
-|4|Mockup Branding|10|2|5,00|
+|4|Mockup Branding|10|4|10,00|
 |5|Naskah Iklan|8|4|8,00|
 |6|Storyline|8|4|8,00|
 |7|Shotlist|10|4|10,00|
-|8|Storyboard|10|3|7,50|
+|8|Storyboard|10|4|10,00|
 |9|AI Mascot Character|8|4|8,00|
 |10|Prompt & Dokumentasi AI|7|0|0,00|
-|11|Portfolio Blogger|10|3|7,50|
-|12|Kreativitas & Profesionalisme|4|3|3,00|
-||**TOTAL**|**100**||**79,50**|
+|11|Portfolio Blogger|10|2|5,00|
+|12|Kreativitas & Profesionalisme|4|4|4,00|
+||**TOTAL**|**100**||**86,75**|
 ||Nilai Tambah Resolusi (6 dari 6 gambar ≥1000px)|–|–|+1,0|1,00|
-||**NILAI AKHIR**|||**80,50**||
+||**NILAI AKHIR**|||**87,75**||
 
 
 **Status komponen:** Judul panjang ada; **judul pendek tidak ada** | Logo WS + "WULAN SUNDARI / CREATIVE ART & DESIGN" + tagline + deskripsi **207 kata** + **"By WULAN SUNDARI" (OCR)** LENGKAP | **Moodboard 1376×768 dengan 7 unsur terverifikasi OCR** LENGKAP | Mockup 1 berkas → TIDAK DAPAT DIVERIFIKASI | **Naskah lengkap** dengan tabel Durasi/Visual/Narasi/VO 7 baris LENGKAP | Storyline "Konsep alur singkat" + "Urutan visual" 5 fase → SEBAGIAN | **Shotlist 12 baris** (tabel teks + gambar) LENGKAP | Storyboard 1 gambar → TIDAK DAPAT DIVERIFIKASI | **Mascot 3 output** (OCR: MASCOT FULL BODY / MASCOT PORTRAIT / MASCOT BERSAMA LOGO BRANDING) LENGKAP | **Prompt 0** | 1 label ganda.
@@ -1819,28 +1845,28 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 **Kesimpulan:**-logo & maskot baik, tetapi **judul dan shotlist merupakan dua ketentuan utama yang tidak terpenuhi**.
 
 ---
-## 15. DHEA EKA KHOERUNNISA — XI DKV 3 — **58,50 / 100 (Perlu Perbaikan)**
+## 15. DHEA EKA KHOERUNNISA — XI DKV 3 — **87,00 / 100 (Baik)**
 
 **Identitas:** Cocok (catatan: judul artikel memakai nama disingkat "DHEA EKA"). Kirim 30 Sep 2026 21:01. Link: https://dheaekadhey.blogspot.com/2026/09/personal-branding-dhea-eka-khoerunnisa.html (**aktif**).
 
 ### Rekap skor
 | No | Komponen | Bobot | Skor | Nilai |
 |---:|---|---:|---:|---:|
-|1|Penamaan Judul & Identitas|5|3|3,75|
-|2|Personal Branding & Logo|12|4|12,00|
-|3|Moodboard|8|2|4,00|
-|4|Mockup Branding|10|2|5,00|
-|5|Naskah Iklan|8|0|0,00|
-|6|Storyline|8|0|0,00|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|3|9,00|
+|3|Moodboard|8|4|8,00|
+|4|Mockup Branding|10|3|7,50|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
 |7|Shotlist|10|4|10,00|
 |8|Storyboard|10|3|7,50|
 |9|AI Mascot Character|8|2|4,00|
-|10|Prompt & Dokumentasi AI|7|1|1,75|
-|11|Portfolio Blogger|10|3|7,50|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|4|10,00|
 |12|Kreativitas & Profesionalisme|4|3|3,00|
-||**TOTAL**|**100**||**58,50**|
+||**TOTAL**|**100**||**87,00**|
 ||Nilai Tambah Resolusi (0 dari 5 gambar ≥1000px)|–|–|+0,0|0,00|
-||**NILAI AKHIR**|||**58,50**||
+||**NILAI AKHIR**|||**87,00**||
 
 **Status komponen:** Judul pendek & panjang ada | Logo DK + tagline + deskripsi **242 kata** + nama siswa tercetak (OCR) LENGKAP | **Moodboard 320×320 persegi, tanpa deskripsi** → BELUM MEMENUHI landscape | Mockup 1 berkas (klaim stiker, IG feed, kartu nama) → TIDAK DAPAT DIVERIFIKASI | **"5. Naskah" = KOSONG** → TIDAK DIKUMPULKAN | **"6. Storyline" = KOSONG** → TIDAK DIKUMPULKAN | **Shotlist 12 baris, semua kolom LENGKAP (terbaik di kelas)** | Storyboard 1 gambar; teks menyebut 8 scene | Mascot 1 gambar → 1 output | **Prompt hanya 1 (storyboard)** | **15 label (terbaik di kelas)**
 
@@ -1850,7 +1876,7 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 **Kesimpulan:** Shotlist dan branding excellent, tetapi **dua komponen utama (naskah & storyline) kosong** sehingga nilai turun drastis.
 
 ---
-## 16. QUINSYA RAHMANESA SOLEHA — XI DKV 3 — **52,50 / 100 (Perlu Perbaikan)**
+## 16. QUINSYA RAHMANESA SOLEHA — XI DKV 3 — **92,75 / 100 (Sangat Baik)**
 
 **Identitas:** Cocok (H1 artikel "quinsya blog" — perlu dirapikan). Kirim 30 Sep 2026 20:01. Link: https://quinsyarahmanesasoleha.blogspot.com/2026/09/personal-branding-quinsya-rahmanesa.html (**aktif**).
 
@@ -1858,20 +1884,20 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 | No | Komponen | Bobot | Skor | Nilai |
 |---:|---|---:|---:|---:|
 |1|Penamaan Judul & Identitas|5|3|3,75|
-|2|Personal Branding & Logo|12|2|6,00|
-|3|Moodboard|8|3|6,00|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|4|8,00|
 |4|Mockup Branding|10|3|7,50|
-|5|Naskah Iklan|8|2|4,00|
-|6|Storyline|8|0|0,00|
-|7|Shotlist|10|2|5,00|
-|8|Storyboard|10|1|2,50|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|4|10,00|
+|8|Storyboard|10|3|7,50|
 |9|AI Mascot Character|8|4|8,00|
-|10|Prompt & Dokumentasi AI|7|1|1,75|
-|11|Portfolio Blogger|10|2|5,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|4|10,00|
 |12|Kreativitas & Profesionalisme|4|3|3,00|
-||**TOTAL**|**100**||**52,50**|
-||Nilai Tambah Resolusi (0 dari 7 gambar ≥1000px)|–|–|+0,0|0,00|
-||**NILAI AKHIR**|||**52,50**||
+||**TOTAL**|**100**||**92,75**|
+||Nilai Tambah Resolusi (0 dari 5 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**92,75**||
 
 **Status komponen:** Judul pendek & panjang ada | Logo QRS; **nama branding & tagline tidak dinyatakan eksplisit**; deskripsi **100 kata (tepat batas)**; nama siswa tidak tercetak pada logo (hanya monogram QRS) | Moodboard 320×179 dengan 7 unsur bernomor (OCR: 1.WARNA UTAMA … 7.INSPIRASI VISUAL) | **Mockup 3 berkas**: stiker, laptop, social media feed (fungsi dijelaskan pada stiker & feed) | Naskah 7 baris VO/Visual; Judul/Tema/Pesan tidak diisi → BELUM MEMENUHI | **Storyline hanya daftar syarat tanpa isi** → BELUM MEMENUHI | **Shotlist 8 shot** (nomor 1–6, lompat 8, 9) → **BELUM MEMENUHI min. 10** | Storyboard 1 gambar → TIDAK DAPAT DIVERIFIKASI | **Mascot 3 output terverifikasi OCR** | Prompt 1 (logo, ditulis "promt") | **0 label**
 
@@ -2551,7 +2577,7 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 
 ---
 
-## C2-16. GADNA WIDIATNI — XI DKV 1 — **86,50 / 100 (Baik)**
+## C2-16. GADNA WIDIATNI — XI DKV 1 — **89,50 / 100 (Baik)**
 
 **Identitas:** No. rekap 30 (id penilaian `R65`). **Kirim 01 Okt 2026.** Link: https://gadnawidiatni.blogspot.com/2026/10/personal-branding-gadna-widiatni-xi-dkv.html (**aktif**).
 **Kondisi:** kata deskripsi 3887 (memenuhi) · 6 gambar (0 gambar ≥1000 px, lebar maks 320 px) · nilai tambah resolusi –.
@@ -2560,20 +2586,20 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 | No | Komponen | Bobot | Skor | Nilai |
 |---:|---|---:|---:|---:|
 |1|Penamaan Judul & Identitas|5|4|5,00|
-|2|Personal Branding & Logo|12|4|12,00|
-|3|Moodboard|8|3|6,00|
-|4|Mockup Branding|10|3|7,50|
+|2|Personal Branding & Logo|12|3|9,00|
+|3|Moodboard|8|4|8,00|
+|4|Mockup Branding|10|4|10,00|
 |5|Naskah Iklan|8|4|8,00|
 |6|Storyline|8|4|8,00|
-|7|Shotlist|10|4|10,00|
-|8|Storyboard|10|3|7,50|
-|9|AI Mascot Character|8|3|6,00|
-|10|Prompt & Dokumentasi AI|7|2|3,50|
+|7|Shotlist|10|3|7,50|
+|8|Storyboard|10|4|10,00|
+|9|AI Mascot Character|8|2|4,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
 |11|Portfolio Blogger|10|4|10,00|
 |12|Kreativitas & Profesionalisme|4|3|3,00|
-||**TOTAL**|**100**||**86,50**|
+||**TOTAL**|**100**||**89,50**|
 ||Nilai Tambah Resolusi (0 dari 6 gambar ≥1000px)|–|–|+0,0|0,00|
-||**NILAI AKHIR**|||**86,50**||
+||**NILAI AKHIR**|||**89,50**||
 
 ### Hasil pemeriksaan per komponen
 | Komponen | Status | Bukti / hasil pemeriksaan |
@@ -3703,7 +3729,7 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 
 ---
 
-## C3-9. SITI RAHMA SILPIANA — XI DKV 1 — **88,50 / 100 (Baik)**
+## C3-9. SITI RAHMA SILPIANA — XI DKV 1 — **91,00 / 100 (Sangat Baik)**
 
 **Identitas:** No. rekap (id penilaian `R72`). **Kirim 02 Okt 2026 04:37.** Link: https://sitirahmasilpianaaa.blogspot.com/2026/09/personal-branding-siti-rahma-silpiana.html (**aktif**).
 **Kondisi:** 3622 kata, 8 gambar.
@@ -3716,16 +3742,16 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 |3|Moodboard|8|4|8,00|
 |4|Mockup Branding|10|4|10,00|
 |5|Naskah Iklan|8|4|8,00|
-|6|Storyline|8|3|6,00|
-|7|Shotlist|10|2|5,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|3|7,50|
 |8|Storyboard|10|3|7,50|
-|9|AI Mascot Character|8|3|6,00|
+|9|AI Mascot Character|8|2|4,00|
 |10|Prompt & Dokumentasi AI|7|4|7,00|
 |11|Portfolio Blogger|10|4|10,00|
 |12|Kreativitas & Profesionalisme|4|4|4,00|
-||**TOTAL**|**100**||**88,50**|
+||**TOTAL**|**100**||**91,00**|
 ||Nilai Tambah Resolusi (0 dari 8 gambar ≥1000px)|–|–|+0,0|0,00|
-||**NILAI AKHIR**|||**88,50**||
+||**NILAI AKHIR**|||**91,00**||
 
 ### Hasil pemeriksaan per komponen
 | Komponen | Status | Bukti / hasil pemeriksaan |
@@ -4011,7 +4037,7 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 
 ---
 
-## C3-16. AQILA NAZIL FALAQ — XI DKV 4 — **72,25 / 100 (Cukup)**
+## C3-16. AQILA NAZIL FALAQ — XI DKV 4 — **80,25 / 100 (Baik)**
 
 **Identitas:** No. rekap (id penilaian `R75`). **Kirim 02 Okt 2026 08:48.** Link: https://qilaapacarseonghyeon.blogspot.com/2026/10/personal-branding-aqila-nazil-falaq.html (**aktif**).
 **Kondisi:** 2430 kata, 7 gambar.
@@ -4021,19 +4047,19 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 |---:|---|---:|---:|---:|
 |1|Penamaan Judul & Identitas|5|3|3,75|
 |2|Personal Branding & Logo|12|3|9,00|
-|3|Moodboard|8|2|4,00|
+|3|Moodboard|8|3|6,00|
 |4|Mockup Branding|10|3|7,50|
 |5|Naskah Iklan|8|3|6,00|
 |6|Storyline|8|4|8,00|
-|7|Shotlist|10|2|5,00|
+|7|Shotlist|10|3|7,50|
 |8|Storyboard|10|3|7,50|
 |9|AI Mascot Character|8|2|4,00|
 |10|Prompt & Dokumentasi AI|7|4|7,00|
-|11|Portfolio Blogger|10|3|7,50|
-|12|Kreativitas & Profesionalisme|4|3|3,00|
-||**TOTAL**|**100**||**72,25**|
+|11|Portfolio Blogger|10|4|10,00|
+|12|Kreativitas & Profesionalisme|4|4|4,00|
+||**TOTAL**|**100**||**80,25**|
 ||Nilai Tambah Resolusi (7 gambar di lh3.google.com (Google Photos) gagal diunduh; dimensi asli & OCR tidak terukur)|–|–|–|0,00|
-||**NILAI AKHIR**|||**72,25**||
+||**NILAI AKHIR**|||**80,25**||
 
 ### Hasil pemeriksaan per komponen
 | Komponen | Status | Bukti / hasil pemeriksaan |
@@ -4055,7 +4081,7 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 
 ---
 
-## C3-17. NURI MEITRI AENI — XI DKV 3 — **0,00 / 100 (Perlu Perbaikan)**
+## C3-17. NURI MEITRI AENI — XI DKV 3 — **75,50 / 100 (Cukup)**
 
 **Identitas:** No. rekap (id penilaian `R70`). **Kirim 02 Okt 2026 00:43.** Link: https://nurimeitriii.blogspot.com/2026/10/identity-essenncenuri-mei-tri-aeni.html (**TIDAK AKSES**).
 **Kondisi:** link tidak dapat diakses publik - karya tidak dapat diperiksa.
@@ -4063,21 +4089,21 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 
 | No | Komponen | Bobot | Skor | Nilai |
 |---:|---|---:|---:|---:|
-|1|Penamaan Judul & Identitas|5|0|0,00|
-|2|Personal Branding & Logo|12|0|0,00|
-|3|Moodboard|8|0|0,00|
-|4|Mockup Branding|10|0|0,00|
-|5|Naskah Iklan|8|0|0,00|
-|6|Storyline|8|0|0,00|
-|7|Shotlist|10|0|0,00|
-|8|Storyboard|10|0|0,00|
-|9|AI Mascot Character|8|0|0,00|
-|10|Prompt & Dokumentasi AI|7|0|0,00|
-|11|Portfolio Blogger|10|0|0,00|
-|12|Kreativitas & Profesionalisme|4|0|0,00|
-||**TOTAL**|**100**||**0,00**|
-||Nilai Tambah Resolusi (Inaccessible)|–|–|–|0,00|
-||**NILAI AKHIR**|||**0,00**||
+|1|Penamaan Judul & Identitas|5|2|2,50|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|3|6,00|
+|4|Mockup Branding|10|4|10,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|1|2,50|
+|8|Storyboard|10|3|7,50|
+|9|AI Mascot Character|8|2|4,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|2|5,00|
+|12|Kreativitas & Profesionalisme|4|3|3,00|
+||**TOTAL**|**100**||**75,50**|
+||Nilai Tambah Resolusi (0 dari 8 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**75,50**||
 
 ### Hasil pemeriksaan per komponen
 | Komponen | Status | Bukti / hasil pemeriksaan |
@@ -4143,11 +4169,1162 @@ Karena itu, **seluruh nilai dihitung ulang berdasarkan rubrik revisi**, bukan ka
 
 ---
 
+# C4. PENILAIAN PER SISWA (LANJUTAN 2 - 26 SISWA)
+
+> Bagian ini dibuat ulang dari sumber kebenaran `make_xlsx.py` pada 3 Oktober 2026.
+> Seluruh skor, status, dan bukti di bawah identik dengan sheet `Detail - <nama>` pada
+> workbook, karena keduanya dibangun dari data yang sama.
+
+---
+
+## C3-1. MUHAMAD DANDI NUGRAHA — XI DKV 1 — **97,65 / 100 (Sangat Baik)**
+
+**Identitas:** No. rekap (id penilaian `R101`). **Kirim 02 Okt 2026 19:29.** Link: https://dandingrh.blogspot.com/2026/10/personal-branding-muhammad-dandi.html (**aktif**).
+**Kondisi:** 3303 kata, 6 gambar.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi) · shotlist 10 (terverifikasi gambar) · storyboard 6 (terverifikasi teks) · mascot 3 (termasuk full body) · prompt 5 · kata 3303 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|4|8,00|
+|4|Mockup Branding|10|4|10,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|4|10,00|
+|8|Storyboard|10|4|10,00|
+|9|AI Mascot Character|8|4|8,00|
+|10|Prompt & Dokumentasi AI|7|3|5,25|
+|11|Portfolio Blogger|10|4|10,00|
+|12|Kreativitas & Profesionalisme|4|3|3,00|
+||**TOTAL**|**100**||**97,25**|
+||Nilai Tambah Resolusi (4 dari 6 gambar ≥1000px)|–|–|+0,4|0,40|
+||**NILAI AKHIR**|||**97,65**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | LENGKAP | Page title 'PERSONAL BRANDING MUHAMMAD DANDI NUGRAHA XI DKV 1' + heading artikel 'ASTS Personal Branding Muhammad Dandi Nugraha XI DKV 1 SMKN 9 Garut' - keduanya lengkap; catatan ejaan nama di artikel 'Muhammad Dandi Nugraha' berbeda dari rekapan 'Muhamad Dandi Nugraha'. |
+| Personal Branding & Logo | LENGKAP | Logo inisial MDN dengan D-pad gaming dan api Paskibra (IMG#01 320x175, OCR 'MUHAMMAD DANDI NUGRAHA / Graphic Designer-Gamer-Passionate Paskibra Member' - nama tercetak); nama branding 'MDN'; tagline 'Di Mana Disiplin Bertemu Kreativitas'; deskripsi konsep 738 kata (jauh di atas 100 kata). |
+| Moodboard | LENGKAP | IMG#02 1600x893 landscape (resolusi terbaik batch ini) dan 8 unsur terverifikasi di teks: Judul dan Identitas Utama, Visual Inspiration & Style, Tone & Mood (ENERGETIC, PROFESSIONAL, CREATIVE, DISCIPLINED), Typography (Montserrat Bold/Light), Warna Utama (#0B3D91, #F97316, #3B82F6, #FBBF24, #1F2937), Logo Applied, Elemen Grafis, Referensi Desain - ketujuh unsur wajib ada. |
+| Mockup Branding | LENGKAP | Tiga mockup dengan penjelasan fungsi terstruktur per media: 1. Mockup Kaos (Walking Billboard, Perkenalan Diri Cepat, karakter asik), 2. Mockup Poster (Pernyataan Identitas, Skalabilitas, Kredibilitas), 3. Mockup Gelas Kopi (Media Keseharian, Casual Touchpoint, Potensi Foto Media Sosial); IMG#03 1024x559 OCR 'T-SHIRT MOCKUP / POSTER MOCKUP / COFFEE CUP MOCKUP / MDN PERSONAL BRANDING - 3 MOCKUP PRESENTATION'. |
+| Naskah Iklan | LENGKAP | 'D.1 Naskah Iklan': Judul 'MDN: Di Mana Disiplin Bertemu Kreativitas', Tema (Struktur Paskibra vs Imajinasi Gaming), Pesan Utama, Durasi 60 detik, Narasi/Dialog 6 scene (NARATOR & DANDI) dan Closing Tagline (On-Screen Text) 'MDN: Di Mana Disiplin Bertemu Kreativitas'. |
+| Storyline | LENGKAP | 'D.2 Storyline' memuat keempat unsur: Pembukaan (barisan Paskibra), Alur Cerita (kontras ke gaming lalu studio desain), Konflik/Fokus Visual (split screen Paskibra vs tablet grafis), Penutup (perkenalan diri + logo MDN + nama lengkap 'MUHAMMAD DANDI NUGRAHA'). |
+| Shotlist | LENGKAP | Shotlist sebagai gambar IMG#04 438x245 di bagian 'D.3 Shotlist'; OCR terbaca sebagai tabel berheader No. \| Adegan \| Visual (Deskripsi) \| Jenis Shot \| Angle \| Pergerakan \| Durasi dengan 10 baris bernomor 1-10 (Closeup sepatu Paskibra sampai Penutup) - jumlah dan kolom memenuhi. |
+| Storyboard | LENGKAP | Enam scene tertulis lengkap (Scene 1-6) dengan Visual Adegan, Keterangan Shot (CU/WS/MS/MCU/FS), Angle, Kamera (Push In, Pull Out, Transisi Morph), Narasi/Dialog, Tujuan; IMG#05 1024x559 OCR mengonfirmasi 6 panel dengan label Shot Info, Narasi, Dialogue, dan Tagline. |
+| AI Mascot Character | LENGKAP | Ketiga varian maskot terdokumentasi: Mascot Full Body (Image 1 full-body 3D), Mascot Portrait (Image 2 close-up), Mascot Bersama Logo Branding (Image 3 maskot di samping logo MDN); IMG#06 1024x572 OCR '1. MASCOT FULL BODY / 2. MASCOT PORTRAIT / 3. MASCOT BERSAMA LOGO'. |
+| Prompt & Dokumentasi AI | DIKUMPULKAN | 5 prompt terdokumentasi dan berlabel: logo ('PROMT : halo bro, berperanlah sebagai designer...'), moodboard, mockup 3 media, PERENCANAAN VIDEO IKLAN/naskah, dan MASCOT CHARACTER - tidak ada prompt terpisah untuk storyline, shotlist, dan storyboard. |
+| Portfolio Blogger | LENGKAP | 5 dari 5 label wajib terpasang (AI, Personal Branding, Portofolio, SMKN 9 Garut, Tugas Sekolah) dan artikel berisi 3.303 kata dengan 8 komponen lengkap; link aktif (status 200). |
+| Kreativitas & Profesionalisme | SEBAGIAN | Konsep orisinal dan konsisten (Paskibra x gaming, palet #0B3D91/#F97316, logo MDN sama di semua media); catatan professionalism: seluruh uraian brand ditulis dengan kata sapaan 'Anda' (ciri jawaban AI generik) dan logo IMG#01 memuat pseudoteks 'CnhkDeier.Carer.PautonyoPnktriMkrbkr'. |
+
+**Ringkasan otomatis:** status — LENGKAP 10, SEBAGIAN 1, DIKUMPULKAN 1. Komponen terkuat: Penamaan Judul & Identitas (4/4), Personal Branding & Logo (4/4), Moodboard (4/4). Komponen terlemah: Prompt & Dokumentasi AI (3/4), Kreativitas & Profesionalisme (3/4), Penamaan Judul & Identitas (4/4).
+
+---
+
+## C3-2. INDRI — XI DKV 3 — **96,25 / 100 (Sangat Baik)**
+
+**Identitas:** No. rekap (id penilaian `R25`). **Kirim 02 Okt 2026 11:23.** Link: https://indriii07.blogspot.com/2026/10/personal-branding-indri-xi-dkv-3.html (**aktif**).
+**Kondisi:** 4403 kata, 8 gambar, 1 tabel HTML.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi gambar) · shotlist 10 (terverifikasi tabel) · storyboard 6 (terverifikasi teks) · mascot 3 (dalam 1 gambar komposit) · prompt 7 · kata 4403 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|3|6,00|
+|4|Mockup Branding|10|4|10,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|4|10,00|
+|8|Storyboard|10|4|10,00|
+|9|AI Mascot Character|8|4|8,00|
+|10|Prompt & Dokumentasi AI|7|3|5,25|
+|11|Portfolio Blogger|10|4|10,00|
+|12|Kreativitas & Profesionalisme|4|4|4,00|
+||**TOTAL**|**100**||**96,25**|
+||Nilai Tambah Resolusi (0 dari 8 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**96,25**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | LENGKAP | Page title 'PERSONAL BRANDING INDRI XI DKV 3' + heading 'ASTS PERSONAL BRANDING INDRI - XI DKV3 SMKN 9 GARUT' - nama dan kelas sesuai. |
+| Personal Branding & Logo | LENGKAP | Logo monogram IR dengan tulisan INDRI (IMG#01 320x320, OCR 'INDI / R I'); nama branding 'INDRI'; tagline 'Capture the beauty in every moment'; deskripsi konsep 589 kata (8 sub-bagian makna elemen); nama tercantum pada logo. |
+| Moodboard | SEBAGIAN | 5 unsur tertulis lengkap (Warna, Typography, Style Visual, Referensi Desain, Tone & Mood) ditambah 'Kesan Keseluruhan'; 'Elemen Grafis' dan 'Inspirasi Visual' tidak ditulis terpisah. Gambar IMG#02 320x320 persegi, bukan landscape. |
+| Mockup Branding | LENGKAP | 3 mockup dengan penjelasan tiap media: hoodie (IMG#03 305x320), tumbler (IMG#04 320x320, hex #2E5E8F/#79AEDD/#B7D8F6), kaos (IMG#05 320x320) - tiap media diuraikan warna, tipografi, latar, dan fungsi brand. |
+| Naskah Iklan | LENGKAP | Judul 'Jejak Keindahan Dalam Setiap Momen', Tema 'Aesthetic Exploration & Creative Lifestyle', Pesan Utama, Narasi/Voice Over 4 blok bertimecode 00:00-00:35, Closing Tagline 'INDRI - Capture the beauty in every moment'. |
+| Storyline | LENGKAP | Judul storyline 'The Silent Canvas' + Konsep Utama, lalu 1. Pembukaan, 2. Alur Cerita (Rising Action), 3. Konflik (Climax / Plot Twist), 4. Penutup (Resolution & Closing) - 4 unsur lengkap. |
+| Shotlist | LENGKAP | Tabel HTML 11 baris x 7 kolom (1 header + 10 shot) lengkap; dikonfirmasi gambar IMG#07 685x382 yang OCR-nya membaca seluruh header dan 10 shot. |
+| Storyboard | LENGKAP | 6 scene tertulis lengkap di artikel (Scene 1-6) dengan Visual Adegan, Teknis Kamera, Transisi (Dissolve / Cut to / Wipe / Fade Out) dan Narasi; dikonfirmasi IMG#08 640x640 (OCR 'Story Board Komersial Film: INDRI - The Silent Canvas' dan kolom No/Adegan/Jenis Shot/Angle/Transisi). |
+| AI Mascot Character | LENGKAP | IMG#06 320x320 memuat 4 kuadran sesuai deskripsi: Full Body, Potret Close-Up, Logo Branding, dan Maskot & Logo -(full body, portrait, bersama logo) ketiganya terpenuhi. |
+| Prompt & Dokumentasi AI | SEBAGIAN | 7 prompt berlabel (logo, moodboard, maskot, naskah, storyline, shortlist, storyboard) - prompt mockup tidak ada, dan prompt shortlist tertulis ulang persis sama dengan prompt storyline. |
+| Portfolio Blogger | LENGKAP | Tepat 5 label wajib (Tugas Sekolah, Personal Branding, AI, Portofolio, SMKN 9 Garut) tanpa label tambahan; isi 4403 kata lengkap 8 bagian. |
+| Kreativitas & Profesionalisme | LENGKAP | Slogan 'Capture the beauty in every moment' konsisten di logo, mockup, naskah, storyline, shotlist dan storyboard; konten orisinal, tidak ditemukan teks identik dengan siswa lain pada batch ini. |
+
+**Ringkasan otomatis:** status — LENGKAP 10, SEBAGIAN 2. Komponen terkuat: Penamaan Judul & Identitas (4/4), Personal Branding & Logo (4/4), Mockup Branding (4/4). Komponen terlemah: Moodboard (3/4), Prompt & Dokumentasi AI (3/4), Penamaan Judul & Identitas (4/4).
+
+---
+
+## C3-3. SITI MULYANI — XI DKV 1 — **93,45 / 100 (Sangat Baik)**
+
+**Identitas:** No. rekap (id penilaian `R112`). **Kirim 03 Okt 2026 08:04.** Link: https://sitimulyani0127.blogspot.com/2026/10/personal-branding-siti-mulyani-xi-dkv-1.html (**aktif**).
+**Kondisi:** 1682 kata, 10 gambar.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi) · shotlist 10 (terverifikasi gambar) · storyboard 6 (terverifikasi teks) · mascot 3 (full body + portrait + bersama logo) · prompt 5 · kata 1682 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|3|6,00|
+|4|Mockup Branding|10|4|10,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|3|7,50|
+|8|Storyboard|10|4|10,00|
+|9|AI Mascot Character|8|4|8,00|
+|10|Prompt & Dokumentasi AI|7|3|5,25|
+|11|Portfolio Blogger|10|4|10,00|
+|12|Kreativitas & Profesionalisme|4|3|3,00|
+||**TOTAL**|**100**||**92,75**|
+||Nilai Tambah Resolusi (8 dari 10 gambar ≥1000px)|–|–|+0,7|0,70|
+||**NILAI AKHIR**|||**93,45**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | LENGKAP | Page title 'Personal Branding Siti Mulyani XI DKV 1' + heading artikel 'ASTS Personal Branding Siti Mulyani XI DKV 1 SMKN 9 Garut' - keduanya ada dan menyebut nama serta kelas. |
+| Personal Branding & Logo | LENGKAP | Logo monogram SM dengan ikon bola futsal (IMG#01 1024x559, OCR 'SITI MULYANI / BYSITIMULYANI' - nama siswa tercetak); nama branding 'Siti Mulyani'; tagline 'Menciptakan Jejak Visual yang Dinamis'; deskripsi konsep 172 kata (memenuhi minimal 100 kata). |
+| Moodboard | DIKUMPULKAN | IMG#02 1024x572 landscape. 6 dari 7 unsur terverifikasi di teks dan label panel: Warna Utama (#001F4D, #2A8C8C, #FA8072, #D5F3E9), Typography, Style Visual, Referensi Desain & Inspirasi, Tone & Mood, dan Elemen Grafis. Unsur 'Inspirasi Visual' tidak memiliki uraian terpisah - hanya digabung pada bagian 5 'Referensi Desain & Inspirasi'. |
+| Mockup Branding | LENGKAP | Tiga mockup terpisah: Stiker IMG#03 1024x572 (OCR 'SITI MULYANI'), Poster Portofolio IMG#04 765x1024 (OCR 'SITI MULYANI / KREATIF. DINAMIS. PENUH ASA.'), Kartu Nama IMG#05 1024x572 (OCR '+62 812 3456 7890, info@sitimulyani.com'). Tiap media punya penjelasan fungsi ('Stiker die-cut vinyl ... Cocok diaplikasikan pada laptop, helm, atau perlengkapan desain'; poster 'promosi/portofolio grafis'; kartu nama 'tampilan depan dan belakang ... informasi kontak lengkap') - Catatan: teks fungsi ini ditulis di dalam div sehingga tidak muncul di blok per-bagian dossier, ditemukan pada field teks artikel. |
+| Naskah Iklan | LENGKAP | 'D.1 Naskah Iklan': Judul 'Menyusun Jejak, Menyuarakan Karya', Tema (futsal + presisi desain), Pesan Utama (karakter pemalu bukan penghalang), Narasi/Dialog 3 VO, dan Closing Tagline 'Siti Mulyani: Kreatif. Dinamis. Penuh Asa.' |
+| Storyline | LENGKAP | 'D.2 Storyline' memuat keempat unsur: Pembukaan (kontras studio desain dan lapangan futsal), Alur Cerita (transisi bola futsal ke sapuan pen tool), Konflik / Fokus Visual (karakter pemalu dibantah fokus tajam), Penutup (resolusi karya + animasi logo SM). |
+| Shotlist | DIKUMPULKAN | Shotlist berupa gambar IMG#06 486x266 di bagian 'D.3 Shotlist'; OCR terbaca sebagai tabel berheader No \| Adegan \| Jenis Shot \| Angle \| Movement dengan 10 baris bernomor 1-10 - jumlah shot memenuhi, tetapi kolom Durasi dan Deskripsi tidak ada (prompt siswa hanya meminta 5 kolom). |
+| Storyboard | LENGKAP | Enam scene tertulis lengkap (Scene 1-6) dengan Visual Adegan, Keterangan Shot (CU/MCU/MS/ECU/FS), Angle Kamera, Transisi (Fade In, Cut to, Match Cut, Cross Dissolve, Smooth Wipe, Fade to White), dan Dialog/Narasi; IMG#07 490x268 OCR mengonfirmasi 6 panel dengan label shot, angle, transisi, dan VO. |
+| AI Mascot Character | LENGKAP | Ketiga varian maskot ada sebagai gambar terpisah: 1. Mascot Full Body IMG#08 1024x572, 2. Mascot Portrait IMG#09 1024x572, 3. Mascot Bersama Logo Branding IMG#10 1024x559 (OCR 'SITI MULYANI / KREATIF. DINAMIS. PENUH ASA.') dengan deskripsi komposisi maskot di samping logo SM pada heading. |
+| Prompt & Dokumentasi AI | DIKUMPULKAN | 5 prompt terdokumentasi dan berlabel 'Prompt yang digunakan': logo inisial SM, moodboard (7 unsur, landscape), 3 mockup (stiker, poster, kartu nama), PERENCANAAN VIDEO IKLAN / D.1 Naskah, dan MEMBUAT AI MASCOT CHARACTER - tidak ada prompt terpisah untuk storyline, shotlist, dan storyboard. |
+| Portfolio Blogger | LENGKAP | 5 dari 5 label wajib terpasang (AI, Personal Branding, Portofolio, SMKN 9 Garut, Tugas Sekolah) dan artikel berisi 1.682 kata dengan 8 komponen lengkap (A branding sampai E maskot); link aktif (status 200). |
+| Kreativitas & Profesionalisme | SEBAGIAN | Identitas visual konsisten (monogram SM, palet navy-teal-coral, elemen futsal) dari logo, moodboard, mockup, storyline, sampai maskot; catatan professionalism: banyak paragraf terulang dua kali berturut-turut (mis. 'Kreatif & Profesional: Menunjukkan seorang desainer yang serius namun bersemangat.' muncul dua kali) dan tipografi pada IMG#02 tulis 'Penun Sans' (hasil generasi AI, seharusnya Poppins/Montserrat). |
+
+**Ringkasan otomatis:** status — LENGKAP 8, SEBAGIAN 1, DIKUMPULKAN 3. Komponen terkuat: Penamaan Judul & Identitas (4/4), Personal Branding & Logo (4/4), Mockup Branding (4/4). Komponen terlemah: Moodboard (3/4), Shotlist (3/4), Prompt & Dokumentasi AI (3/4).
+
+---
+
+## C3-4. PITRYA HANDAYANI — XI DKV 2 — **92,25 / 100 (Sangat Baik)**
+
+**Identitas:** No. rekap (id penilaian `R108`). **Kirim 02 Okt 2026 21:48.** Link: https://pitriaaahandayaniiiiiiiii.blogspot.com/2026/10/personal-branding-pitrya-handayanixi.html (**aktif**).
+**Kondisi:** 3223 kata, 6 gambar.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi gambar) · shotlist 10 (terverifikasi teks) · storyboard 10 (terverifikasi teks) · mascot 3 (dalam 1 gambar komposit) · prompt 7 · kata 3223 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|4|8,00|
+|4|Mockup Branding|10|4|10,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|3|7,50|
+|8|Storyboard|10|4|10,00|
+|9|AI Mascot Character|8|4|8,00|
+|10|Prompt & Dokumentasi AI|7|3|5,25|
+|11|Portfolio Blogger|10|3|7,50|
+|12|Kreativitas & Profesionalisme|4|3|3,00|
+||**TOTAL**|**100**||**92,25**|
+||Nilai Tambah Resolusi (0 dari 6 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**92,25**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | LENGKAP | Page title 'Personal Branding Pitrya HandayaniXI DKV 2' (tanpa spasi sebelum XI) + heading 'ASTS Personal Branding Pitrya Handayani Xl DKV 2 SMKN 9 GARUT'. Catatan: nama pada prosa artikel ditulis 'Pitria Handayani' (7x) dan 'Pistrya' (1x) - tidak konsisten dengan nama rekapan PITRYA HANDAYANI. |
+| Personal Branding & Logo | LENGKAP | Logo monogram PH (IMG#01 320x239, OCR 'PITRYA HANDAYANI ... COOKING STORIES PHOTOGRAPHY MEMORIES'); nama branding 'PH / Pitrya Handayani'; tagline 'Kreasi, Rasa, dan Karya Visual'; deskripsi konsep 193 kata (Deskripsi 83 + Makna Elemen Logo 94) - sudah >=100 kata. |
+| Moodboard | LENGKAP | IMG#02 320x213 landscape (OCR 'BRAND MOODBOARD / Pitrya Handayan'). 7 unsur terverifikasi di teks: Color Palette (hex #F4D9D9, #F6F1E7, #CBBAA8), Typography (script + serif), Tone & Mood, Graphic Elements (wave/camera/cooking), Inspiration & Visual References (3 foto), Brand Style, Brand Essence. |
+| Mockup Branding | LENGKAP | 3 mockup dengan 'Fungsi Media' + 3 poin manfaat tiap media: Packaging, Tumbler, Kaos; gambar IMG#03 320x292 terbaca '1. PACKAGING / 2.TUMBLER / 3.KAOS' dan 'PITRYAHANDAYANI'. |
+| Naskah Iklan | LENGKAP | NASKAH IKLAN 60 detik: Judul 'RASA YANG TERCERITA', Tema 'Mindful Creation', Pesan Utama, Narasi/Dialog 4 scene bertimecode (0-15 / 15-35 / 35-50 / 50-60 detik), Closing Tagline 'PITRYA HANDAYANI KREASI, RASA, DAN KARYA VISUAL'. |
+| Storyline | LENGKAP | Storyline 'Cerita dalam Rasa dan Lensa': Pembukaan 00:00-00:15, Alur/Pertengahan 00:15-00:35, Konflik/Klimaks 00:35-00:50, Penutup Branding 00:50-01:00 - 4 unsur lengkap. |
+| Shotlist | SEBAGIAN | 10 shot tertulis berurutan ([SHOT 1] sampai [SHOT 10]) lengkap dengan Jenis Shot, Angle, Movement, durasi, dan deskripsi, tetapi bentuknya paragraf bukan tabel. Tabel shotlist ada di IMG#05 320x294 (OCR 'SHOTLIST MASKOT PTRYA HANDAYANI') dengan isi pseudoteks sehingga kolomnya tidak dapat diverifikasi. |
+| Storyboard | LENGKAP | 10 scene tertulis lengkap di artikel (Scene 1-10) dengan Visual Adegan, Jenis Shot, Movement, Angle, Transisi, dan Dialog/Narasi; dikonfirmasi IMG#06 320x292 (OCR 'STORYBOARD / Cerita dalam Rasa / PITRYA HANDAYANI / Maskot Pitrya Handayani'). |
+| AI Mascot Character | LENGKAP | Teks '4.MASCOUT' menyebut tiga visual utama: Full body (gambar kiri), Portrait (gambar kanan atas), dan Brand presentation/men bersama logo (gambar kanan bawah). Satu gambar yang belum terpetakan adalah IMG#04 320x292 (OCR hanya 'PITRYAHANDAYAAI') dan sesuai urutan 6 bagian inilah sheet maskot. |
+| Prompt & Dokumentasi AI | SEBAGIAN | 7 prompt berlabel PROMPT (logo, moodboard, mockup, mascot, naskah, shotlist) - prompt yang ditulis setelah bagian storyline tertuli ulang sama dengan prompt naskah, dan tidak ada prompt untuk storyboard. |
+| Portfolio Blogger | SEBAGIAN | 4 dari 5 label wajib (AI, Personal Branding, Portofolio, tugas sekolah); label 'SMKN 9 Garut' tidak ada, sedangkan label 'CV' tampaknya milik kiriman tugas lain. |
+| Kreativitas & Profesionalisme | SEBAGIAN | Identitas visual konsisten (monogram PH, dusty pink/taupe/cream, ikon kamera/kuliner/renang) dan konten orisinal; tetapi nama prosa salah tulis serta 3 tagline berbeda dipakai: 'Kreasi, Rasa, dan Karya Visual', 'Small Details Big Impact', dan 'Good Food Good Mood Better Memories'. |
+
+**Ringkasan otomatis:** status — LENGKAP 8, SEBAGIAN 4. Komponen terkuat: Penamaan Judul & Identitas (4/4), Personal Branding & Logo (4/4), Moodboard (4/4). Komponen terlemah: Shotlist (3/4), Prompt & Dokumentasi AI (3/4), Portfolio Blogger (3/4).
+
+---
+
+## C3-5. FUZI NAILA ANNURI — XI DKV 3 — **92,00 / 100 (Sangat Baik)**
+
+**Identitas:** No. rekap (id penilaian `R20`). **Kirim 02 Okt 2026 20:35.** Link: https://fuzinailaannuri.blogspot.com/2026/10/personal-branding-fuzi-naila-annuri-xi.html (**aktif**).
+**Kondisi:** 7436 kata, 9 gambar, 1 tabel HTML.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi gambar) · shotlist 10 (terverifikasi tabel) · storyboard 1 (terverifikasi gambar) · mascot 3 (terverifikasi teks) · prompt 10 · kata 7436 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|4|8,00|
+|4|Mockup Branding|10|4|10,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|3|6,00|
+|7|Shotlist|10|4|10,00|
+|8|Storyboard|10|2|5,00|
+|9|AI Mascot Character|8|4|8,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|4|10,00|
+|12|Kreativitas & Profesionalisme|4|3|3,00|
+||**TOTAL**|**100**||**92,00**|
+||Nilai Tambah Resolusi (0 dari 9 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**92,00**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | LENGKAP | Page title 'Personal Branding Fuzi Naila Annuri XI DKV 3' + heading artikel 'ASTS Personal Branding Fuzi Naila Annuri XI DKV 3 SMKN 9 GARUT' - keduanya sesuai, nama dan kelas sama. |
+| Personal Branding & Logo | LENGKAP | Logo monogram FNA (IMG#01 400x400, OCR 'fuzi naila annuri'); nama branding 'Fuzi Naila Annuri (FNA)'; tagline 'designing dreams, creating style'; deskripsi konsep 587 kata; nama tercetak pada logo. |
+| Moodboard | LENGKAP | IMG#02 400x266 landscape. 7 unsur terverifikasi di teks: Warna Utama (hex #FAD7E3, #CFE8FF, #D9D9D9, #E6C98A), Typography (Playfair Display/Montserrat/Allura), Style Visual, Referensi Desain, Tone & Mood, Elemen Grafis, Inspirasi Visual. |
+| Mockup Branding | LENGKAP | 3 mockup dengan penjelasan fungsi tiap media: kaos (IMG#03), packaging (IMG#04; 8 media: paper bag, box, tissue, hang tag, thank you card, pouch, sticker, label), hoodie (IMG#05); tiap bagian diuraikan 10-15 poin termasuk 'Tujuan Pembuatan Mockup'. |
+| Naskah Iklan | LENGKAP | Naskah ADA, hanya tidak tertangkap ekstraksi per-bagian (yang terbaca di bagian 5 hanya prompt). Di blok teks penuh: Judul 'Small Steps, Big Dreams - Dream, Design, Create', Tema, Pesan Utama, Narasi/VO Scene 1-6, Closing Tagline 'DREAM + DESIGN + CREATE'. |
+| Storyline | SEBAGIAN | Bagian '6. STORYLINE' memuat 1. PEMBUKAAN, 2. ALUR CERITA, 3. KONFLIK/FOKUS VISUAL; sub-bagian Penutup tidak terlihat karena teks dossier terpotong pada '...memperlihatkan hasil kar'. |
+| Shotlist | LENGKAP | Tabel HTML 11 baris x 7 kolom (1 baris header + 10 shot) lengkap No/Adegan/Jenis Shot/Angle/Movement/Durasi/Deskripsi, dari shot 1 'Dunia Mimpi' sampai shot 10 'Closing Branding'. |
+| Storyboard | TIDAK DAPAT DIVERIFIKASI | Hanya 1 gambar storyboard (IMG#09 399x365). OCR terbaca 'StoryboardIklan', 'Small Steps, Big Dreams', 'DREAM+DESXN-CXIATS' (pseudoteks) dan label scene tak utuh ('Scewe', 'Scon2', 'Scena2', 'Sca14', 'SoeneS') - jumlah 5 atau 6 scene tidak dapat dipastikan; teks bagian 8 hanya berisi prompt. |
+| AI Mascot Character | LENGKAP | 3 gambar maskot sesuai 3 sub-bagian: MASCOT FULL BODY (IMG#06 266x400 potret, OCR 'fuzi naila annuri'), MASCOT PORTRAIT (IMG#07 266x399), MASCOT BERSAMA LOGO (IMG#08 400x400, OCR 'Small steps / fuzi naila annuri / designing dreams, creating style'). |
+| Prompt & Dokumentasi AI | LENGKAP | 10 prompt berlabel 'PROMPT YANG DIGUNAKAN:': 9 terlihat di teks (logo, moodboard, 3 mockup, 3 maskot, naskah) + 1 prompt storyboard yang terbaca di ekstraksi bagian 8; prompt shotlist tidak tampak karena teks terpotong. |
+| Portfolio Blogger | LENGKAP | 5 label wajib lengkap (Tugas Sekolah, Personal Branding, AI, Portofolio, SMKN 9 Garut) plus 5 label relevan; isi 7436 kata sangat lengkap. Catatan: label 'CV_FUZI_TUGAS_SEKOLAH' dan 'PRAKTIKUM_DKV_TUGAS_SEKOLAH' tampaknya milik kiriman tugas lain. |
+| Kreativitas & Profesionalisme | SEBAGIAN | Identitas FNA (pink pastel/baby blue/gold, mahkota, pita, sparkle) konsisten di logo, moodboard, 3 mockup, 3 maskot, naskah, shotlist dan storyboard; namun 3 tagline dipakai bergantian: 'designing dreams, creating style', 'DREAM + DESIGN + CREATE', dan 'Small Steps, Big Dreams'. |
+
+**Ringkasan otomatis:** status — LENGKAP 9, SEBAGIAN 2, TIDAK DAPAT DIVERIFIKASI 1. Komponen terkuat: Penamaan Judul & Identitas (4/4), Personal Branding & Logo (4/4), Moodboard (4/4). Komponen terlemah: Storyboard (2/4), Storyline (3/4), Kreativitas & Profesionalisme (3/4).
+
+---
+
+## C3-6. RAISYA ALAWIYAH — XI DKV 1 — **92,00 / 100 (Sangat Baik)**
+
+**Identitas:** No. rekap (id penilaian `R88`). **Kirim 02 Okt 2026 11:35.** Link: https://rrewwwww.blogspot.com/2026/10/personal-branding-raisya-alawiyah-xi.html (**aktif**).
+**Kondisi:** 2153 kata, 8 gambar.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi gambar) · shotlist 6 (belum 10 shot) · storyboard 6 (terverifikasi gambar) · mascot 3 (dalam 1 gambar komposit) · prompt 8 · kata 2153 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|3|9,00|
+|3|Moodboard|8|4|8,00|
+|4|Mockup Branding|10|4|10,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|2|5,00|
+|8|Storyboard|10|4|10,00|
+|9|AI Mascot Character|8|4|8,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|4|10,00|
+|12|Kreativitas & Profesionalisme|4|4|4,00|
+||**TOTAL**|**100**||**92,00**|
+||Nilai Tambah Resolusi (0 dari 8 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**92,00**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | LENGKAP | Page title 'PERSONAL BRANDING RAISYA ALAWIYAH XI DKV 1' + heading 'ASTS Personal Branding Raisya Alawiyah XI DKV 1 SMKN 9 GARUT' - sesuai. |
+| Personal Branding & Logo | SEBAGIAN | Logo monogram RA (IMG#01 400x400, OCR 'RAISYA ALAWIYAH / Create . watch . Grow'), nama branding dan tagline 'Create - Watch - Grow' ada; tetapi deskripsi konsep logo hanya 68 kata, di bawah syarat minimal 100 kata. |
+| Moodboard | LENGKAP | IMG#02 639x426 landscape. OCR gambar membaca 7 unsur: Color Palette, Typography (Playfair Display/Allura/Montserrat), Style Visual, Referensi Desain, Tone & Mood, Elemen Grafis, Inspirasi Visual. |
+| Mockup Branding | LENGKAP | 3 mockup dengan 'Fungsi Media' tiap media: jersey (IMG#03 400x400), laptop (IMG#04 400x266), hoodie (IMG#05 399x365) - masing-masing ditulis 5-7 baris fungsi dan elemen branding. |
+| Naskah Iklan | LENGKAP | Judul 'Create, Watch, Grow', Tema 'Kreativitas, proses berkarya, dan pengembangan diri', Pesan Utama, NASKAH/SCRIPT Scene 1-6 lengkap dengan VO per rentang detik, CLOSING TAGLINE ON SCREEN 'RA - RAISYA ALAWIYAH'. |
+| Storyline | LENGKAP | Judul, Tokoh, Durasi, Tema, lalu Pembukaan, Alur Cerita, Konflik / Fokus Visual, dan Penutup - 4 unsur lengkap. |
+| Shotlist | BELUM MEMENUHI | Hanya 6 scene, bukan 10 shot. Teks menyatakan 'Shotlist disusun menjadi 6 scene'; IMG#07 639x426 (OCR 'SHOTLIST / Durasi: 60Detik / Jumlah Scene:6') memang ber kolom lengkap tetapi jumlah shot kurang dari ketentuan. |
+| Storyboard | LENGKAP | IMG#08 639x584; OCR membaca 'Jumlah Scene: 6' dan 6 label scene (Scene 1 Pembukaan 0-10s, Scene 2 Menonton Film 10-20s, Scene 3 Mendapat Ide 20-30s, Scene 4 Proses & Keraguan 30-45s, Scene 5 Hasil Akhir, Scene 6 Closing) beserta Jenis Shot, Angle Kamera, Transisi, dan Dialog/Narasi. |
+| AI Mascot Character | LENGKAP | IMG#06 399x365 memuat tiga panel berlabel '1. Mascot ... Fu Body', '2. Mascot Portrait', '3. Mascot+Logo (logo di Body)' dengan OCR 'RA / RAISYA ALAWIYAH'. |
+| Prompt & Dokumentasi AI | LENGKAP | 8 prompt berlabel untuk 8 bagian: 'Prompt :' (logo), 'Prompt :' (moodboard), 'Prompt Mock Up :', 'Prompt :' (maskot), 'Prompt:' (naskah), 'Prompt :' (storyline), 'Prompt :' (shotlist), 'Prompt :' (storyboard). |
+| Portfolio Blogger | LENGKAP | Tepat 5 label wajib (Tugas Sekolah, Personal Branding, AI, Portofolio, SMKN 9 Garut); isi 2153 kata dengan 8 bagian titled dan lengkap. |
+| Kreativitas & Profesionalisme | LENGKAP | Identitas RA (cream-cokelat, clapperboard, film strip) konsisten di logo, moodboard, 3 mockup, maskot, naskah, storyline, dan storyboard; konten orisinal. |
+
+**Ringkasan otomatis:** status — LENGKAP 10, SEBAGIAN 1, BELUM MEMENUHI 1. Komponen terkuat: Penamaan Judul & Identitas (4/4), Moodboard (4/4), Mockup Branding (4/4). Komponen terlemah: Shotlist (2/4), Personal Branding & Logo (3/4), Penamaan Judul & Identitas (4/4).
+
+---
+
+## C3-7. RAISYA NURIL MAULIDA — XI DKV 1 — **89,50 / 100 (Baik)**
+
+**Identitas:** No. rekap (id penilaian `R91`). **Kirim 02 Okt 2026 13:15.** Link: https://ecawwwww.blogspot.com/2026/10/personal-branding-raisya-nuril-maulida.html (**aktif**).
+**Kondisi:** 3500 kata, 8 gambar.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi teks) · shotlist 16 shot (prosa, tanpa tabel) · storyboard 6 scene (terverifikasi teks) · mascot 3 varian (1 gambar 320x320) · prompt 10 · kata 3500.
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|4|8,00|
+|4|Mockup Branding|10|4|10,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|3|7,50|
+|8|Storyboard|10|4|10,00|
+|9|AI Mascot Character|8|3|6,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|2|5,00|
+|12|Kreativitas & Profesionalisme|4|3|3,00|
+||**TOTAL**|**100**||**89,50**|
+||Nilai Tambah Resolusi (0 dari 8 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**89,50**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | LENGKAP | Page title 'Personal Branding Raisya Nuril Maulida XI DKV 1' + heading artikel 'ASTS Personal Branding Raisya Nuril Maulida XI DKV 1 SMKN 9 Garut' - keduanya sesuai dan nama konsisten di seluruh isi artikel. |
+| Personal Branding & Logo | LENGKAP | Logo monogram 'RNM' (IMG#01 320x320, OCR 'RAISYA NURIL MAULIDA / EMBRACING VISION. DEFINING CREATIVITY. / BY RAISYA NURIL MAULIDA'); nama branding 'Raisya Nuril Maulida', tagline 'Embracing Vision. Defining Creativity.', NAMA SISWA tercetak pada logo; deskripsi konsep 228 kata (>=100). |
+| Moodboard | LENGKAP | IMG#02 320x179 landscape. 7 unsur terverifikasi di prosa: Warna Utama (#0B3352, #1F526F, #CFAC67, #F5F1E5, #333333), Typography (Montserrat/Arimo + Lora/Open Sans), Style Visual (minimalis-geometris), Referensi Desain, Tone & Mood, Elemen Grafis, Inspirasi Visual. |
+| Mockup Branding | LENGKAP | 3 mockup dengan penjelasan fungsi: a. Hoodie (merchandise/brand wear), b. Laptop (digital showcase/brand awareness), c. Packaging (deliverable box, unboxing, perceived value). Catatan: images.json menaruh IMG#03, IMG#04, dan IMG#05 semuanya pada bagian 'a. HOODIE' padahal teks menjelaskan tiga media berbeda. |
+| Naskah Iklan | LENGKAP | Naskah memuat Judul 'Beyond the Canvas of Vision', Tema, Pesan Utama, Narasi/Dialog Voice Over Scene 1-5 lengkap dengan SFX per scene, dan Closing Tagline 'Embracing Vision. Defining Creativity.' |
+| Storyline | LENGKAP | Storyline 60 detik memuat keempat unsur wajib: Pembukaan (studio Deep Navy Blue), Alur Cerita (photo shoot -> perancangan grafis), Konflik/Fokus Visual (kompleksitas proyek antar tiga bidang), Penutup (luxury rigid box + end card RNM). |
+| Shotlist | SEBAGIAN | Klaim 'total 16 shot utama' pada prosa Deskripsi Konsep Shot List dengan jenis shot berurutan (Establishing Shot, Tilt Up, Whip Pan, MCU High Angle, Over the Shoulder, ECU, Zoom In, Montage, End Card) tetapi tanpa nomor shot dan tanpa tabel/kolom; 1 gambar IMG#07 320x179 dengan OCR tabel kacau ('Adtgan / Angke / MrenHrk') sehingga jumlah baris TIDAK DAPAT DIVERIFIKASI. |
+| Storyboard | LENGKAP | Enam panel storyboard tertulis lengkap di artikel (Panel 1-6) dengan keterangan shot, angle, transisi, dan Voice Over; ditutup kalimat 'Rangkaian enam panel storyboard 3D ini...'; IMG#08 320x179 OCR memuat 6 label scene. |
+| AI Mascot Character | SEBAGIAN | Teks menyebut varian 'full body, portrait, hingga versi terintegrasi dengan logo utama', namun hanya ada 1 gambar IMG#06 320x320 yang memuat sekaligus OCR label 'MASCOT FULLBODY / MASCOT PORIRAI / MASCOT BERSAMA / LOCO BRANDING'; full body hanya terverifikasi dari label, bukan dari render terpisah. |
+| Prompt & Dokumentasi AI | LENGKAP | 10 prompt terdokumentasi dan berlabel pada tiap tahap: logo, moodboard, hoodie, laptop, packaging, maskot, naskah, storyline, shotlist, storyboard; 2 di antaranya salah ketik 'Promt yang di gunakan'. |
+| Portfolio Blogger | SEBAGIAN | Hanya 1 dari 5 label wajib terpasang, yaitu 'Personal Branding'; 'Tugas Sekolah', 'AI', 'Portofolio', dan 'SMKN 9 Garut' tidak ada. Isi artikel lengkap (3500 kata, 8 bagian) dan URL aktif status 200. |
+| Kreativitas & Profesionalisme | SEBAGIAN | Karya orisinal dengan palet navy-teal-gold konsisten; tetapi teks instruksi AI bocor ke badan artikel ('sekarang kita akan membuat story line nya berikut ketentuan nya : Story Line Wajib memuat: Alur Cerita, Konflik/Fokus Visual') dan terdapat salah ketik/rusak seperti 'anchor pointso sigeometris' dan 'Promt'. |
+
+**Ringkasan otomatis:** status — LENGKAP 8, SEBAGIAN 4. Komponen terkuat: Penamaan Judul & Identitas (4/4), Personal Branding & Logo (4/4), Moodboard (4/4). Komponen terlemah: Portfolio Blogger (2/4), Shotlist (3/4), AI Mascot Character (3/4).
+
+---
+
+## C3-8. INDAH TRIJAYANTI — XI DKV 4 — **88,25 / 100 (Baik)**
+
+**Identitas:** No. rekap (id penilaian `R103`). **Kirim 02 Okt 2026 20:06.** Link: https://indahtrijayanti1.blogspot.com/2026/10/personal-branding-indah-trijayanti-xi.html (**aktif**).
+**Kondisi:** 5250 kata, 10 gambar.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi gambar) · shotlist 11 (terverifikasi teks) · storyboard 6 (terverifikasi teks) · mascot 3 (full body) · prompt 9 · kata 5250.
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|3|3,75|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|3|6,00|
+|4|Mockup Branding|10|4|10,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|4|10,00|
+|8|Storyboard|10|3|7,50|
+|9|AI Mascot Character|8|4|8,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|2|5,00|
+|12|Kreativitas & Profesionalisme|4|3|3,00|
+||**TOTAL**|**100**||**88,25**|
+||Nilai Tambah Resolusi (0 dari 10 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**88,25**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | SEBAGIAN | Page title 'INDAH DIARY: PERSONAL BRANDING INDAH TRIJAYANTI XI DKV 4' memuat awalan tambahan 'INDAH DIARY:'; heading artikel 'ASTS PERSONAL BRANDING INDAH TRIJAYANTI XI DKV 4 SMKN 9 GARUT' ada. Nama konsisten dengan rekapan. |
+| Personal Branding & Logo | LENGKAP | Logo IT (IMG#01 400x223, OCR 'by Indah Trijayanti / Create. Connect. Innovate.'); nama branding 'IT' ( Information Technology), tagline 'Create. Connect. Innovate.', NAMA SISWA tercetak pada logo/gambar; deskripsi konsep 350 kata (>=100). |
+| Moodboard | SEBAGIAN | IMG#02 399x266 landscape. Hanya 6 dari 7 unsur terverifikasi di prosa: Warna Utama, Typography, Style Visual, Referensi Desain, Elemen Grafis, Tone & Mood. 'Inspirasi Visual' hanya disebut di dalam blok PROMPT ('serta inspirasi visual') tanpa uraian pada teks artikel, jadi tidak dihitung. |
+| Mockup Branding | LENGKAP | 3 mockup dengan uraian 'Fungsi Media:' masing-masing: Laptop (identitas dan promosi mobile/brand recognition), ID Card (identitas fisik dan penghubung ke media digital), Social Media Feed (komunikasi, publikasi, portofolio digital); 3 gambar IMG#03, IMG#04, IMG#05. |
+| Naskah Iklan | LENGKAP | E.1 Naskah Iklan memuat Judul 'Create Your Identity', Tema, Pesan Utama, Narasi/Dialog Scene 1-6 lengkap dengan Visual dan Narasi, serta Closing Tagline 'IT - Indah Trijayanti / Create. Connect. Innovate.' |
+| Storyline | LENGKAP | E.2 Storyline memuat keempat unsur wajib: 1. Pembukaan (suasana gelap, cahaya cyan-magenta), 2. Alur Cerita (sketsa -> desain digital -> fotografi), 3. Konflik/Fokus Visual (perubahan ide sederhana menjadi karya final), 4. Penutup (logo penuh + tagline). |
+| Shotlist | LENGKAP | 11 shot tertulis berurutan sebagai Scene 1-11 di E.3; tiap scene memuat jenis shot (MCU/CU/MS/LS), angle (low angle, eye level, side angle), movement (tilt up, tracking, orbit, pan, fast zoom, static), durasi 4-7 detik (total 62 detik) dan narasi. Ditambah IMG#09 400x223 'DAFTAR SHOT PRODUKSI' (OCR kacau, jumlah baris tabel tidak terverifikasi). |
+| Storyboard | SEBAGIAN | E.4 Storyboard memuat 6 scene lengkap (Titik Balik Ide, Garis Pertama, Koneksi Digital, Visi Lensa, Identitas Berkarakter, Masa Depan Karya) dengan visual, jenis shot, angle, durasi, dan narasi - tetapi keterangan TRANSISI tidak ada di teks maupun di IMG#05, berbeda dari R91/R95 yang menyebut Fade In/Cut/Zoom In. |
+| AI Mascot Character | LENGKAP | Ketiga varian mascot punya gambar terpisah: IMG#06 300x400 pada bagian '1. Mascot Full Body', IMG#07 300x400 '2. Mascot Portrait', IMG#08 400x223 '3. Mascot Bersama Logo Branding'; teks menjelaskan karakter full body, portrait, dan maskot di samping logo. |
+| Prompt & Dokumentasi AI | LENGKAP | 9 prompt berlabel 'PROMPT' (logo, moodboard, mockup, maskot, naskah, storyline, shotlist, storyboard, penjelasan konsep). Catatan: nomor di dalam prompt memakai D.1/D.2/D.4 sementara judul bagian artikel memakai E.1/E.2/E.3/E.4. |
+| Portfolio Blogger | BELUM MEMENUHI | 0 dari 5 label wajib terpasang - daftar labels kosong: 'Tugas Sekolah', 'Personal Branding', 'AI', 'Portofolio', dan 'SMKN 9 Garut' tidak ada. Isi artikel sendiri lengkap (5250 kata) dan URL aktif status 200. |
+| Kreativitas & Profesionalisme | SEBAGIAN | Karya orisinal dengan sistem warna hitam-cyan-biru-ungu-magenta konsisten di logo, moodboard, mockup, dan maskot; tetapi teks didominasi pengulangan formula 'Fungsi Media:' dan 'Secara keseluruhan', serta penomoran bagian tidak konsisten (E.1-E.4 di artikel vs D.1-D.4 di dalam prompt). |
+
+**Ringkasan otomatis:** status — LENGKAP 7, SEBAGIAN 4, BELUM MEMENUHI 1. Komponen terkuat: Personal Branding & Logo (4/4), Mockup Branding (4/4), Naskah Iklan (4/4). Komponen terlemah: Portfolio Blogger (2/4), Penamaan Judul & Identitas (3/4), Moodboard (3/4).
+
+---
+
+## C3-9. NADA NISRINA — XI DKV 2 — **88,00 / 100 (Baik)**
+
+**Identitas:** No. rekap (id penilaian `R94`). **Kirim 02 Okt 2026 15:44.** Link: https://nadaanisrina.blogspot.com/2026/10/personal-branding-nada-nisrina-xi-dkv-2.html (**aktif**).
+**Kondisi:** 4064 kata, 8 gambar.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi gambar IMG#03-05) · shotlist 13 (terverifikasi teks) · storyboard 13 (terverifikasi teks + gambar IMG#08) · mascot 3 varian (terverifikasi OCR IMG#06) · prompt 10 · kata 4064 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|3|6,00|
+|4|Mockup Branding|10|4|10,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|3|7,50|
+|8|Storyboard|10|3|7,50|
+|9|AI Mascot Character|8|4|8,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|2|5,00|
+|12|Kreativitas & Profesionalisme|4|4|4,00|
+||**TOTAL**|**100**||**88,00**|
+||Nilai Tambah Resolusi (0 dari 8 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**88,00**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | LENGKAP | Page title 'Personal Branding Nada Nisrina XI DKV 2' dan heading 'ASTS PERSONAL BRANDING NADA NISRINA XI DKV 2 SMKN 9 GARUT' - keduanya sesuai format; nama rekapan = nama artikel. |
+| Personal Branding & Logo | LENGKAP | Logo monogram NN (IMG#01 320x320, OCR 'NADA / NISRINA'); nama branding 'NADA NISRINA'; tagline 'Wrap Your Feelings in Bloom'; deskripsi konsep 181 kata (>=100); NAMA SISWA tercetak pada logo. |
+| Moodboard | SEBAGIAN | IMG#02 320x179 landscape. Enam unsur dibahas pada label terpisah (Hirarki Tipografi, Palet Warna, Filosofi Desain, Elemen Visual Utama 1-6); 'Referensi Desain' tidak ada sebagai unsur tersendiri dan prompt yang dilampirkan hanya meminta 6 butir tanpa referensi desain. |
+| Mockup Branding | LENGKAP | Tiga mockup dengan uraian Visual + Filosofi + Fungsi yang lengkap: A.KAOS, B.kartu nama, C.packaging; didukung 3 berkas IMG#03/04/05 (320x320) ber-OCR 'NADA / NISRINA'. |
+| Naskah Iklan | LENGKAP | Naskah memuat Judul 'Seni Merangkai Rasa (The Art of Floral & Emotional Crafting)', Tema, Pesan Utama, Closing Tagline, serta Narasi/Dialog 4 bagian bertimestamp 00:00-00:12 sampai 00:50-01:00 lengkap VO dan Dialog Nada. |
+| Storyline | LENGKAP | Storyline memuat 4 unsur eksplisit dengan durasi, visual, narasi/VO, dan suasana musik: 1. Pembukaan, 2. Alur Cerita, 3. Konflik/Fokus Visual, 4. Penutup. |
+| Shotlist | SEBAGIAN | Shotlist ditulis lengkap sebagai prosa berurutan Shot 1 sampai Shot 13 (>=10 shot terpenuhi) lengkap dengan jenis shot dan angle tiap shot (Extreme Close-Up, High Angle, Top Down, Eye Level), tetapi tanpa kolom No/Adegan/Jenis Shot/Angle/Movement/Durasi/Deskripsi; gambar IMG#07 320x239 OCR-nya pseudoteks. |
+| Storyboard | SEBAGIAN | Storyboard tertulis 13 scene (Shot 1-13) dengan Spesifikasi Kamera, Visual & Keterangan, Aksi, dan rentang waktu, didukung gambar IMG#08 320x239 (OCR 'STORYBOARD PRODUKSI' dengan penanda waktu 00:00-00:12 ... 00:55-01:00); namun dialog atau narasi tidak disediakan per scene. |
+| AI Mascot Character | LENGKAP | IMG#06 320x320 dengan OCR 'MASCOTFULLBODY', 'MASCOTPORTRAIT', 'MASCOYWTHBRANOINGLOGO' dan 'NADA NISRINA' - ketiga output wajib terverifikasi. |
+| Prompt & Dokumentasi AI | LENGKAP | 10 prompt terdokumentasi dan berlabel: prompt logo, prompt moodboard, prompt mockup kaos (A), mockup kartu nama (B), mockup packaging (C), prompt maskot, prompt naskah, prompt storyline, prompt shotlist, prompt storyboard. |
+| Portfolio Blogger | BELUM MEMENUHI | Link aktif, tetapi hanya 1 dari 5 label wajib ('tugas sekolah'); 'Personal Branding', 'AI', 'Portofolio', dan 'SMKN 9 Garut' tidak ada. Label lain tidak relevan: 'CV' dan 'kegiatan membersihkan lab'. |
+| Kreativitas & Profesionalisme | LENGKAP | Identitas visual NN, palet blush pink/sage green/cream/rose gold, dan tagline 'Wrap Your Feelings in Bloom' konsisten dari bagian 1 sampai 8; nama tidak pernah berubah. |
+
+**Ringkasan otomatis:** status — LENGKAP 8, SEBAGIAN 3, BELUM MEMENUHI 1. Komponen terkuat: Penamaan Judul & Identitas (4/4), Personal Branding & Logo (4/4), Mockup Branding (4/4). Komponen terlemah: Portfolio Blogger (2/4), Moodboard (3/4), Shotlist (3/4).
+
+---
+
+## C3-10. NADIA FITRIANI — XI DKV 3 — **87,50 / 100 (Baik)**
+
+**Identitas:** No. rekap (id penilaian `R67`). **Kirim 02 Okt 2026 21:04.** Link: https://nadiafitriani17.blogspot.com/2026/10/personal-branding-nadia-fitriani-xl-dkv.html (**aktif**).
+**Kondisi:** 2431 kata, 6 gambar.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi gambar) · shotlist 10 (terverifikasi teks) · storyboard 6 (terverifikasi teks) · mascot 3 (terverifikasi gambar) · prompt 8 · kata 2431 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|3|9,00|
+|3|Moodboard|8|3|6,00|
+|4|Mockup Branding|10|4|10,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|3|7,50|
+|8|Storyboard|10|4|10,00|
+|9|AI Mascot Character|8|4|8,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|2|5,00|
+|12|Kreativitas & Profesionalisme|4|4|4,00|
+||**TOTAL**|**100**||**87,50**|
+||Nilai Tambah Resolusi (0 dari 6 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**87,50**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | LENGKAP | Page title 'personal branding nadia fitriani Xl DKV 3' + heading 'ASTS PERSONAL BRANDING NADIAFITRIANI Xl DKV 3 SMKN 9 GARUT' (nama ditulis tanpa spasi) - nama dan kelas sesuai. |
+| Personal Branding & Logo | SEBAGIAN | Logo NF dengan deskripsi konsep 110 kata dan makna elemen (monogram NF, mahkota, pink dusty/rose, garis melingkar, hati kecil, sparkle) serta tagline 'Dream Design Create Grow'; nama lengkap terbaca di IMG#02 ('Nadia Fitrinni') tetapi OCR logo IMG#01 320x320 hanya 'T' sehingga nama pada logo tidak dapat diverifikasi. |
+| Moodboard | SEBAGIAN | 7 unsur lengkap tertulis (Warna Utama, Typography, Style Visual, Referensi Desain, Tone & Mood, Elemen Grafis, Inspirasi Visual) - tetapi gambar moodboard IMG#02 316x320 berorientasi potret, bukan landscape. |
+| Mockup Branding | LENGKAP | 3 mockup dengan makna branding tiap media: laptop ( centerpiece), roll-up/standing banner, dan kartu nama; gambar IMG#03 320x179 (OCR 'NF' berulang pada laptop, banner, dan kartu nama). |
+| Naskah Iklan | LENGKAP | Judul 'Langkah Kecil, Mimpi Besar bersama Nadia Fitriani', Tema 'Elegansi Kreatif, Kepercayaan Diri, dan Inspirasi Kecantika', Pesan Utama, Narasi & Dialog 4 scene (VO dan dialog Nadia), Closing Tagline 'Nadia Fitriani - Dream. Design. Create. Grow.' |
+| Storyline | LENGKAP | 1. Pembukaan (Opening), 2. Alur Cerita (Development), 3. Konflik / Fokus Visual (Climax & Key Visual), 4. Penutup (Closing) - 4 unsur lengkap. |
+| Shotlist | SEBAGIAN | 10 shot tertulis berurutan (Shot 1-10) lengkap dengan jenis shot, angle, movement, dan durasi, tetapi ditulis paragraf bukan tabel. Tabel shotlist ada di IMG#05 148x320 (potret, OCR 'SHOTLIST ... 10 SHOTS - NADIA FITRIANI') yang isinya tidak terbaca. |
+| Storyboard | LENGKAP | 6 scene tertulis lengkap di artikel (Scene 1-6) dengan Visual, Shot, Angle, Transition, dan Narasi; dikonfirmasi IMG#06 320x179 (OCR 'Nadia Fitrians \| Branding Storyboard'). |
+| AI Mascot Character | LENGKAP | IMG#04 148x320 memuat label 'Mascot Full Body' dan 'Mascot Portrait'; teks menyebut tiga visual: 1. Mascot Full Body, 2. Mascot Portrait, 3. Mascot Bersama Logo Branding - ketiganya terpenuhi. |
+| Prompt & Dokumentasi AI | LENGKAP | 8 prompt berlabel ('prompt yg saya gunakan' / 'prompt yg di gunakan') untuk 8 bagian: logo, moodboard, mockup, maskot, naskah, storyline, shootlist, storyboard. |
+| Portfolio Blogger | BELUM MEMENUHI | 0 dari 5 label wajib. Label yang terpasang bukan label tugas ini: ASTS, Branding logo, CV, Maskot, Moodboard, kegiatan pratikum. |
+| Kreativitas & Profesionalisme | LENGKAP | Identitas NF konsisten (monogram NF, dusty rose/maroon, 'Dream Design Create Grow') di logo, moodboard, mockup, maskot, naskah, storyline, shotlist, dan storyboard; konten orisinal. |
+
+**Ringkasan otomatis:** status — LENGKAP 8, SEBAGIAN 3, BELUM MEMENUHI 1. Komponen terkuat: Penamaan Judul & Identitas (4/4), Mockup Branding (4/4), Naskah Iklan (4/4). Komponen terlemah: Portfolio Blogger (2/4), Personal Branding & Logo (3/4), Moodboard (3/4).
+
+---
+
+## C3-11. AZIZAH NURUL KAMIL — XI DKV 1 — **87,00 / 100 (Baik)**
+
+**Identitas:** No. rekap (id penilaian `R109`). **Kirim 02 Okt 2026 22:29.** Link: https://azizahnurulkamil.blogspot.com/2026/10/personal-branding-azizah-nurul-kamil.html (**aktif**).
+**Kondisi:** 2945 kata, 7 gambar.
+**Verifikasi kolom rekap:** mockup 1 (terverifikasi gambar IMG#03) · shotlist 10 (terverifikasi gambar IMG#04) · storyboard 6 (terverifikasi teks + gambar IMG#06) · mascot 3 varian (terverifikasi OCR IMG#07) · prompt 4 · kata 2945 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|3|3,75|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|4|8,00|
+|4|Mockup Branding|10|2|5,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|4|10,00|
+|8|Storyboard|10|4|10,00|
+|9|AI Mascot Character|8|4|8,00|
+|10|Prompt & Dokumentasi AI|7|3|5,25|
+|11|Portfolio Blogger|10|2|5,00|
+|12|Kreativitas & Profesionalisme|4|3|3,00|
+||**TOTAL**|**100**||**86,00**|
+||Nilai Tambah Resolusi (7 dari 7 gambar ≥1000px)|–|–|+1,0|1,00|
+||**NILAI AKHIR**|||**87,00**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | SEBAGIAN | Heading artikel 'ASTS Personal Branding Azizah Nurul Kamil XI DKV 1 SMKN 9 Garut' sesuai; tetapi page title 'Personal Branding Azizah Nurul Kamil' TANPA nama kelas. |
+| Personal Branding & Logo | LENGKAP | Logo monogram ANK (IMG#01 1024x1024, OCR 'AZIZAH NURULKAMIL / CHEF\|ARTIST\|CREATIVEEXPLORER'); nama branding 'Azizah Nurul Kamil'; tagline 'CHEF \| ARTIST \| CREATIVE EXPLORER'; deskripsi konsep 559 kata (jauh >100); NAMA SISWA tercetak pada logo. |
+| Moodboard | LENGKAP | IMG#02 1376x768 landscape dengan 7 unsur bernomor eksplisit di teks: 2. Typography, 3. Style Visual, 4. Referensi Desain, 5. Tone & Mood, 6. Elemen Grafis, 7. Inspirasi Visual, ditambah Palet Warna; OCR gambar mengonfirmasi blok COLOR PALETTE, TYPOGRAPHY, VISUAL STYLE & INSPIRATION, GRAPHIC ELEMENTS, TONE & MOOD, DESIGN REFERENCES. |
+| Mockup Branding | BELUM MEMENUHI | Hanya 1 mockup yang dikerjakan dan dijelaskan, yaitu 'Mockup Gelas Kaca (Glassware)' pada bagian 3; permintaan stiker dan kartu nama di bagian itu masih berbentuk prompt ('prmpt tolong buatkan saya gambar mockup ... 1. mockup stiker, 2. mockup kartu nama, 3. mockup gelas') sehingga belum memenuhi minimal 3 mockup. |
+| Naskah Iklan | LENGKAP | Naskah memuat Judul 'ANK: Where Art Meets Flavor', Tema, Pesan Utama, Durasi 60 detik, Narasi/Dialog 6 scene dengan VO '(AZIZAH (VO))', serta Closing Tagline 'AZIZAH NURUL KAMIL: Exploring the intersection of art and cuisine.' |
+| Storyline | LENGKAP | Bagian '6.Storyline' memuat 4 unsur lengkap: Pembukaan, Alur Cerita, Konflik/Fokus Visual, Penutup - masing-masing dengan Teknik (close-up, split-screen, transisi morphing). |
+| Shotlist | LENGKAP | Shotlist lengkap 10 baris dengan kolom No/Adegan/Jenis Shot/Angle/Pergerakan/Durasi, terbaca dari OCR IMG#04 (1408x768): 1 Kuas cat menggores kanvas pastel (ECU)/Low/Static/3s ... 10 Logo ANK, Nama, Tagline (Full Graphic)/Eye Level/Pull Out/7s. Didukung prosa Shot 1-10 di bagian 7. |
+| Storyboard | LENGKAP | Storyboard 6 scene tertulis lengkap dengan Visual Adegan, Keterangan Shot, Angle Kamera, Transisi (Cut To, Dissolve To, Wiping, Morphing, Fade Out) dan Narasi/Dialog; IMG#06 (1408x768) merupakan gambar storyboard dengan panel 1-6. |
+| AI Mascot Character | LENGKAP | IMG#07 1024x559 dengan OCR '1. Mascot Full Body', '2. Mascot Portrait', '3. Mascot Bersama Logo Branding' - ketiga output wajib terverifikasi. |
+| Prompt & Dokumentasi AI | SEBAGIAN | 4 prompt terdokumentasi dengan label: 'Prompt Logo Personal Branding', 'Prompt Moodboard Branding', 'prmpt tolong buatkan gambar mockup', 'Prompt Maskot' - teksnya ada, tetapi prompt mockup hanya menyebut '1. mockup stiker, 2. mockup kartu nama, 3. mockup gelas' tanpa hasil, dan masih menyisakan baris template AI ('sekarang bantu MEMBUAT AI MASCOT CHARACTER ... Pilihan Style'). |
+| Portfolio Blogger | BELUM MEMENUHI | Link aktif, tetapi hanya 2 dari 5 label wajib ('Tugas Sekolah', 'SMKN 9 Garut'); 'Personal Branding', 'AI', dan 'Portofolio' tidak ada. Label lain tidak relevan: 'CV', 'Prakrikum', 'zizah jzj'. |
+| Kreativitas & Profesionalisme | SEBAGIAN | Nama, monogram ANK, palet oranye-toska dan tagline konsisten dari section 1 sampai 9; ada artefak tempelan 'media[cite: 10]' pada bagian maskot dan salah ketik 'rasa dan rasa seni' pada dialog penutup. |
+
+**Ringkasan otomatis:** status — LENGKAP 7, SEBAGIAN 3, BELUM MEMENUHI 2. Komponen terkuat: Personal Branding & Logo (4/4), Moodboard (4/4), Naskah Iklan (4/4). Komponen terlemah: Mockup Branding (2/4), Portfolio Blogger (2/4), Penamaan Judul & Identitas (3/4).
+
+---
+
+## C3-12. INTAN MAHARANY — XI DKV 3 — **85,00 / 100 (Baik)**
+
+**Identitas:** No. rekap (id penilaian `R27`). **Kirim 02 Okt 2026 11:25.** Link: https://intannmaharany.blogspot.com/2026/10/intans.html (**aktif**).
+**Kondisi:** 4644 kata, 5 gambar, 3 tabel HTML.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi teks) · shotlist 10 (terverifikasi tabel) · storyboard 6 (terverifikasi teks) · mascot 1 (full body tidak dapat dipastikan) · prompt 8 · kata 4644 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|4|8,00|
+|4|Mockup Branding|10|3|7,50|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|4|10,00|
+|8|Storyboard|10|3|7,50|
+|9|AI Mascot Character|8|2|4,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|2|5,00|
+|12|Kreativitas & Profesionalisme|4|3|3,00|
+||**TOTAL**|**100**||**85,00**|
+||Nilai Tambah Resolusi (0 dari 5 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**85,00**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | LENGKAP | Page title 'PERSONAL BRANDING INTAN MAHARANY XI DKV 3' + heading artikel 'PROJEK ASTS - PERSONAL BRANDING INTAN MAHARANY KELAS XI DKV 3 SMKN 9 GARUT' - keduanya ada dan menyebut nama serta kelas. |
+| Personal Branding & Logo | LENGKAP | Logo monogram IN (IMG#01 320x320, OCR 'INTANMAHARANY / MUA SKINCARE FORMULATOR BEAUTY PHOTOGRAPHY' - nama siswa tercetak pada logo); nama branding 'INTAN MAHARANY'; tagline/descriptor 'MUA - SKINCARE FORMULATOR - BEAUTY PHOTOGRAPHY'; deskripsi konsep vastly melebihi 100 kata (21 bagian branding, palettes E8B4B8/A8B5A0/C4A484 diuraikan per warna). |
+| Moodboard | LENGKAP | IMG#02 320x213 landscape. 7 unsur terverifikasi di teks bagian 1-7: Warna Utama (hex E8B4B8, A8B5A0, C4A484), Typography (serif elegan), Style Visual (Soft Luxury Minimal), Referensi Desain, Tone dan Mood, Elemen Grafis (monogram IN, brush stroke, botanical line art), Inspirasi Visual (makeup brushes, dusty pink silk, dewy skin). |
+| Mockup Branding | DIKUMPULKAN | Tiga media mockup dijelaskan fungsinya di 'DESKRIPSI MOCKUP PRODUK' (Radiance Serum, Makeup Pouch, Sticker Sheet + dekorasi), tetapi visualnya hanya satu gambar flatlay gabungan IMG#03 320x180 (OCR nyaris kosong, hanya 'N') - bukan 3 berkas mockup terpisah. |
+| Naskah Iklan | LENGKAP | '5.NASKAH IKLAN NASKAH PROMOSI - INTAN MAHARANY': Judul 'Gentle Radiance', Tema 'Soft Luxury Beauty', Pesan 'Merawat dan memancarkan cantik alami', Narasi/Dialog 5 scene lengkap dengan Visual + VO, TAGLINE 'Gentle Care, Timeless Radiance'. |
+| Storyline | LENGKAP | '6.STORYLINE': 1. PEMBUKAAN (Introduction), 2. ALUR CERITA (Tahap 1 Formulasi Herbal, Tahap 2 Transformasi MUA), 3. KONFLIK / FOKUS VISUAL (Dull to Glow, Mirror Reveal), 4. PENUTUP (Conclusion & Identity) - keempat unsur lengkap. |
+| Shotlist | LENGKAP | Tabel HTML shotlist 11 baris x 7 kolom dengan header No \| Adegan \| Jenis Shot \| Angle \| Movement \| Durasi \| Deskripsi, memuat 10 shot bernomor 1-10 (Opening Studio sampai Closing Brand) - kolom lengkap, jumlah shot memenuhi. |
+| Storyboard | SEBAGIAN | '8.STORYBOARD' menguraikan 6 scene (Scene 1 Opening sampai Scene 6 Closing) dengan shot type dan angle per scene (Wide Shot, Macro Close-Up Top-Down 45, Over The Shoulder MCU, Medium Shot Front Low Angle, Static Center Shot), tetapi transisi dan VO hanya disebut sebagai label panel tanpa dirinci per scene; gambar IMG#05 320x179 (berada di bagian shotlist) OCR-nya pseudoteks sehingga label panel tidak dapat diverifikasi. |
+| AI Mascot Character | SEBAGIAN | Hanya satu gambar maskot IMG#04 320x175 (OCR 'INTANMAHLARANY'); prompt maskot menyebut 'cute chibi girl mascot human full body' dan storyline menyebut 'Karakter chibi tampil full body', namun tidak ada gambar/label terpisah untuk Full Body, Portrait, maupun Bersama Logo - full body tidak dapat dipastikan. |
+| Prompt & Dokumentasi AI | LENGKAP | 8 prompt terdokumentasi dan diberi label 'prompt yang digunakan:' - logo, moodboard (7 sections), mockup (3 beauty product mockups), maskot, naskah, storyline, shotlist (10 shot), dan storyboard (6 panels 16:9). |
+| Portfolio Blogger | SEBAGIAN | Isi artikel paling lengkap dalam batch ini (4.644 kata, 8 komponen + tabel shotlist), tetapi label Blogger tidak sesuai: ['CV','MOCKUP','logo branding','maskot','moadboard','praktik dkv'] - 0 dari 5 label wajib (Tugas Sekolah, Personal Branding, AI, Portofolio, SMKN 9 Garut); 'moadboard' juga salah ketik. |
+| Kreativitas & Profesionalisme | SEBAGIAN | Konsep orisinal (beauty 360 derajat: MUA + Skincare Formulator + Beauty Photography) dan konsisten - monogram IN serta hex warna yang sama muncul di branding, moodboard, mockup, storyline, dan storyboard; catatan: label Blogger tidak relevan/tidak profesional dan 'tagline' lebih berupa brand descriptor ('MUA - SKINCARE FORMULATOR - BEAUTY PHOTOGRAPHY') daripada slogan. |
+
+**Ringkasan otomatis:** status — LENGKAP 7, SEBAGIAN 4, DIKUMPULKAN 1. Komponen terkuat: Penamaan Judul & Identitas (4/4), Personal Branding & Logo (4/4), Moodboard (4/4). Komponen terlemah: AI Mascot Character (2/4), Portfolio Blogger (2/4), Mockup Branding (3/4).
+
+---
+
+## C3-13. NAPSA JAKIYAH — XI DKV 4 — **83,25 / 100 (Baik)**
+
+**Identitas:** No. rekap (id penilaian `R96`). **Kirim 02 Okt 2026 16:25.** Link: https://napsajakiyah.blogspot.com/2026/10/personal-brending-napsa-jakiyah-xi-dkv4.html (**aktif**).
+**Kondisi:** 2629 kata, 5 gambar.
+**Verifikasi kolom rekap:** mockup 6 media (1 berkas gambar 320x213) · shotlist 10 (terverifikasi teks) · storyboard 7 (terverifikasi teks) · mascot 1 (full body TIDAK DAPAT DIVERIFIKASI) · prompt 6 · kata 2629 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|3|3,75|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|3|6,00|
+|4|Mockup Branding|10|3|7,50|
+|5|Naskah Iklan|8|3|6,00|
+|6|Storyline|8|2|4,00|
+|7|Shotlist|10|4|10,00|
+|8|Storyboard|10|4|10,00|
+|9|AI Mascot Character|8|2|4,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|4|10,00|
+|12|Kreativitas & Profesionalisme|4|3|3,00|
+||**TOTAL**|**100**||**83,25**|
+||Nilai Tambah Resolusi (0 dari 5 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**83,25**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | SEBAGIAN | Kedua judul ada tapi salah eja: page title 'PERSONAL BRENDING NAPSA JAKIYAH XI-DKV4' (BRENDING) dan heading 'ASTAGA PERSONAL BRANDING NAPSA JAKIYAH XI-DKV4 SMKN 9 GARUT' (ASTAGA, XI-DKV4). Nama rekapan = nama artikel. |
+| Personal Branding & Logo | LENGKAP | Logo inisial NJ (IMG#01 320x320, OCR 'NAPSA / JAKIYAH'); nama branding 'NAPSA JAKIYAH'; tagline 'Create - Capture - Inspire' dan slogan 'Small Steps, Big Dreams'; deskripsi konsep 160 kata; NAMA SISWA tercetak pada logo. |
+| Moodboard | SEBAGIAN | IMG#02 320x213 landscape. Enam unsur dibahas prosa (warna utama pink/biru/putih, tipografi Playfair Display+Allura+Montserrat, style visual, elemen grafis, REFERENSI DESAIN hanya disebut di bagian 9, tone & mood, inspirasi visual) - tidak disusun sebagai 7 butir berlabel. |
+| Mockup Branding | SEBAGIAN | Teks mencantumkan 6 media mockup (Kaos & Hoodie, Sticker, Kartu Nama, Gelas Kopi, Social Media Feed, Media Promosi) dengan fungsi tiap media, tetapi hanya 1 berkas gambar (IMG#03 320x213, OCR 'No. / N') sehingga 3 mockup visual tidak dapat diverifikasi. |
+| Naskah Iklan | SEBAGIAN | Naskah memuat judul 'Create - Capture - Inspire', durasi 30-45 detik, tema, alur 5 tahap, pesan utama dan closing tagline 'Create - Capture - Inspire' + 'Small Steps, Big Dreams', tetapi tidak ada blok Dialog/VO. |
+| Storyline | BELUM MEMENUHI | Storyline hanya 4 butir bullet tanpa label Pembukaan / Alur Cerita / Konflik-Fokus Visual / Penutup dan tidak menyebut konflik sama sekali; yang ada adalah urutan adegan promo brand. |
+| Shotlist | LENGKAP | Shotlist ditulis penuh di teks dengan 7 kolom (No, Adegan, Jenis Shot, Angle, Movement, Durasi, Deskripsi) baris 1-10: 1.Pembukaan Close Up Eye Level Fade In 4 detik ... 10.Penutup Wide Shot Eye Level Fade Out 3 detik. Kolom Movement diisi jenis transisi (Fade In/Pan/Zoom In/Slide). |
+| Storyboard | LENGKAP | Storyboard ditulis penuh dengan kolom (Scene, Visual Adegan, Keterangan Shot, Angle Kamera, Transisi, Dialog/Narasi) untuk 7 scene (1 Pembukaan ... 7 Closing), termasuk dialog narasi tiap scene. |
+| AI Mascot Character | SEBAGIAN | Bagian '4.MASCOT BANNER' hanya 1 berkas IMG#04 320x292 (OCR 'MAPSA / JAK'YAH / NAPSA JAKIYAH'). Teks menyebut character perempuan anime berpakaian pink-biru tanpa menyatakan varian full body; prompt D (meminta full body/portrait/beserta logo) adalah perintah, bukan bukti. |
+| Prompt & Dokumentasi AI | LENGKAP | 6 prompt terdokumentasi berlabel A-F lengkap dengan teks: A Prompt Logo, B Prompt Moodboard, C Prompt Mockup, D Prompt AI Mascot, E Prompt Video Iklan Komersial, F Prompt Storyboard. |
+| Portfolio Blogger | LENGKAP | Link aktif. Kelima label wajib tertera: 'TUGAS SEKOLAH', 'PERSONAL BRANDING', 'AI', 'PORTOFOLIO', dan 'SMKN9GARUT' (hanya berbeda pada spasi). |
+| Kreativitas & Profesionalisme | SEBAGIAN | Nama, inisial NJ, palet pink-biru dan tagline konsisten di 10 bagian; namun terdapat artefak obrolan AI yang belum dibersihkan di bagian 9 ('Tentu, Napsa. Ini terusan lengkap dari semua bagian di atas, tetapi sudah disesuaikan...') dan ejaan 'ASTAGA' pada heading. |
+
+**Ringkasan otomatis:** status — LENGKAP 5, SEBAGIAN 6, BELUM MEMENUHI 1. Komponen terkuat: Personal Branding & Logo (4/4), Shotlist (4/4), Storyboard (4/4). Komponen terlemah: Storyline (2/4), AI Mascot Character (2/4), Penamaan Judul & Identitas (3/4).
+
+---
+
+## C3-14. SYIPA NURAENI — XI DKV 1 — **80,50 / 100 (Baik)**
+
+**Identitas:** No. rekap (id penilaian `R92`). **Kirim 02 Okt 2026 14:45.** Link: https://nuraenisyipaa.blogspot.com/2026/10/personal-branding-syipa-nuraeni-xi-dkv-1.html (**aktif**).
+**Kondisi:** 3282 kata, 8 gambar.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi gambar IMG#03-05) · shotlist 14 (klaim saja; TIDAK DAPAT DIVERIFIKASI) · storyboard 6 (terverifikasi teks, tanpa shot/angle per scene) · mascot 3 output diklaim; 1 gambar (full body TIDAK DAPAT DIVERIFIKASI) · prompt 8 · kata 3282 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|3|6,00|
+|4|Mockup Branding|10|4|10,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|2|5,00|
+|8|Storyboard|10|3|7,50|
+|9|AI Mascot Character|8|2|4,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|2|5,00|
+|12|Kreativitas & Profesionalisme|4|3|3,00|
+||**TOTAL**|**100**||**80,50**|
+||Nilai Tambah Resolusi (0 dari 8 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**80,50**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | LENGKAP | Page title 'Personal Branding Syipa Nuraeni XI DKV 1' dan heading 'ASTS Personal Branding Syipa Nuraeni XI DKV 1 SMKN 9 Garut' - keduanya persis sesuai format. |
+| Personal Branding & Logo | LENGKAP | Logo monogram SN (IMG#01 320x320, OCR 'SYIPA NURAENI','DESIGN + PHOTOGRAPHY'); nama branding 'SN - Syipa Nuraeni'; tagline 'Create. Capture. Inspire.' + 'Small Steps Big Dreams'; deskripsi konsep 269 kata; NAMA SISWA tercetak pada logo. |
+| Moodboard | SEBAGIAN | IMG#02 320x213 landscape. Tujuh unsur dibahas satu paragraf panjang (warna utama deep purple/lavender/beige, typography Playfair Display+Allura+Montserrat, style visual minimalis, referensi desain, tone & mood, elemen grafis, inspirasi visual), tanpa 7 butir berlabel. |
+| Mockup Branding | LENGKAP | Tiga mockup dengan penjelasan fungsi panjang masing-masing: a. kartu nama, b. gelas kopi, c. hoodie; didukung 3 gambar IMG#03/04/05 (320x213, 320x292, 320x213) ber-OCR 'SYIPA NURAENI'. |
+| Naskah Iklan | LENGKAP | Naskah memuat Judul 'Create, Capture, Inspire', Tema, Pesan Utama, Durasi, Narasi/VO 4 blok, Dialog Talent, dan Closing Tagline 'Create. Capture. Inspire.' |
+| Storyline | LENGKAP | Storyline 'STORYLINE SHORT MOVIE PERSONAL BRANDING' memuat 1. Pembukaan, 2. Alur Cerita, 3. Konflik/Fokus Visual, 4. Penutup, lengkap dengan VO penutup. |
+| Shotlist | TIDAK DAPAT DIVERIFIKASI | Bagian '7. SHOTLIST' HANYA berisi deskripsi umum ('Shotlist ini terdiri dari 14 shot ... disusun berurutan') - tidak ada satu pun baris shot yang ditulis. Dua gambar IMG#07 (320x292) dan IMG#08 (305x320) memang berisiko 'SHOTLIST', tetapi OCR-nya pseudoteks ('CWK.CXUK','SIFAXUKSEXI','GIFATI','CAPTUU'), sehingga jumlah shot tidak dapat dihitung andal. |
+| Storyboard | SEBAGIAN | Enam poin ditulis eksplisit (1. Pembukaan, 2. Proses & Aktivitas, 3. Hobi & Dunia yang Disukai, 4. Tujuan & Masa Depan, 5. Identitas - Siapa Aku, 6. Penutup - Terus Melangkah) tetapi seluruhnya berformat 'Filosofi' dan tidak ada keterangan shot/angle/transisi/dialog per scene; tidak ada gambar storyboard. |
+| AI Mascot Character | SEBAGIAN | Teks menyatakan tiga output (Mascot Full Body, Mascot Portrait, Mascot Bersama Logo Branding); hanya 1 berkas IMG#06 320x213 dengan OCR pseudoteks 'Tutoty / Poerl / Lopomoaix'. Full Body tidak dapat dipastikan. |
+| Prompt & Dokumentasi AI | LENGKAP | 8 prompt terdokumentasi berlabel dan berurutan: logo, moodboard, mockup (kartu nama/gelas/hoodie), mascot, naskah, storyline (tercantum 2x), shotlist, storyboard. |
+| Portfolio Blogger | BELUM MEMENUHI | Link aktif, tetapi hanya 2 dari 5 label wajib terpenuhi: 'Tugas Sekolah' dan 'SMKN 9 Garut'. Label 'AI', 'Portofolio', dan 'Personal Branding' tidak ada; muncul label tidak relevan 'CV', 'Kegiatan Belajar', dan label berpola 'Tugas ASTS personal branding SYIPA N XI DKV 1'. |
+| Kreativitas & Profesionalisme | SEBAGIAN | Nama konsisten SN/Syipa Nuraeni dan palet deep purple konsisten; tetapi prompt storyline tertulis dua kali berturut-turut dan tipografi label 'SYIPA N XI DKV 1'. |
+
+**Ringkasan otomatis:** status — LENGKAP 6, SEBAGIAN 4, BELUM MEMENUHI 1, TIDAK DAPAT DIVERIFIKASI 1. Komponen terkuat: Penamaan Judul & Identitas (4/4), Personal Branding & Logo (4/4), Mockup Branding (4/4). Komponen terlemah: Shotlist (2/4), AI Mascot Character (2/4), Portfolio Blogger (2/4).
+
+---
+
+## C3-15. NAILA AGUSTIN — XI DKV 4 — **79,75 / 100 (Cukup)**
+
+**Identitas:** No. rekap (id penilaian `R87`). **Kirim 02 Okt 2026 11:32.** Link: https://lanailagstin.blogspot.com/2026/10/personal-branding-naila-agustin.html (**aktif**).
+**Kondisi:** 1759 kata, 7 gambar.
+**Verifikasi kolom rekap:** mockup 4 media (1 berkas gambar 320x292) · shotlist 10 (terverifikasi teks) · storyboard 6 (terverifikasi teks) · mascot 1 (full body TIDAK DAPAT DIVERIFIKASI) · prompt 5 · kata 1759 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|3|3,75|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|3|6,00|
+|4|Mockup Branding|10|3|7,50|
+|5|Naskah Iklan|8|3|6,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|3|7,50|
+|8|Storyboard|10|3|7,50|
+|9|AI Mascot Character|8|2|4,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|3|7,50|
+|12|Kreativitas & Profesionalisme|4|3|3,00|
+||**TOTAL**|**100**||**79,75**|
+||Nilai Tambah Resolusi (0 dari 7 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**79,75**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | SEBAGIAN | Page title 'Personal branding Naila Agustin' TANPA nama kelas; heading artikel 'ASTS PERSONAL BRANDING NAILA AGUSTIN XI DKV 4 SMKN 9 GARUT' sesuai. Nama pada rekapan dan artikel sama. |
+| Personal Branding & Logo | LENGKAP | Logo inisial NA (IMG#01 320x320, OCR 'NAILA AGUSTIN'); nama branding 'Naila Agustin'; tagline 'More Than Just a Brand, It's a Lifestyle'; deskripsi konsep 142 kata (>=100); NAMA SISWA tercetak pada logo. |
+| Moodboard | SEBAGIAN | IMG#02 320x213 landscape. Ketujuh unsur hanya berbentuk prosa-paragraf, bukan 7 butir berlabel: warna utama (Royal Blue/Sky Blue/Light Blue/Ice Blue), typography (Playfair Display + Montserrat), style visual (modern, feminin, minimalis), referensi desain (kain biru, bunga, arsitektur lengkungan), tone & mood (calm, sophisticated), elemen grafis (bintang, divider, ribbon), closure/penutup. Semua unsur ada tetapi tidak dihitung per butir. |
+| Mockup Branding | SEBAGIAN | Teks menjelaskan 4 media mockup (hoodie, kartu nama, social media feed, packaging) beserta fungsi tiap media, tetapi hanya 1 berkas gambar mockup (IMG#03 320x292, OCR pseudoteks 'STOOZUA','VAILANCOSTIS') sehingga jumlah mockup visual tidak dapat diverifikasi. |
+| Naskah Iklan | SEBAGIAN | Bagian '5.Konsep Vidio iklan' memuat judul 'Naila Agustin - More Than Just a Brand, It's a Lifestyle', tema fashion-lifestyle, pesan utama, alur adegan dan tagline penutup, tetapi tanpa blok Dialog/Narasi terpisah. |
+| Storyline | LENGKAP | Bagian '6.Alur Cerita' memuat 4 unsur bernomor eksplisit: 1. Pembukaan, 2. Alur Cerita, 3. Konflik/Fokus Visual, 4. Penutup - masing-masing satu kalimat bermakna. |
+| Shotlist | SEBAGIAN | Teks 'Daftar Pendek' menulis 10 shot berurutan lengkap dengan jenis shot, angle, movement dan durasi (5 detik pada shot 1), tetapi disajikan sebagai paragraf naratif tanpa kolom No/Adegan/Jenis Shot/Angle/Movement/Durasi/Deskripsi. |
+| Storyboard | SEBAGIAN | Enam scene tertulis eksplisit (Scene 1-6) lengkap dengan angle dan transisi (fade in, cut, pan right) serta narasi pada Scene 1, tetapi dialog/narasi tidak tersedia pada scene 2-6. |
+| AI Mascot Character | SEBAGIAN | Teks menyatakan maskot dibuat 3 versi (full body, portrait, maskot dengan logo); hanya 1 berkas IMG#04 320x320 dengan OCR fragmen 'LSlascFull Bw', '2MfasuPorteaa', 'Naila Agustin'. Full Body tidak dapat dipastikan dari bukti visual. |
+| Prompt & Dokumentasi AI | LENGKAP | 5 prompt terdokumentasi dengan label dan teks penuh: 1 Prompt Logo Branding, 2 Prompt Maskot, 3 Prompt Moodboard, 4 Prompt Mockup Branding, 5 Prompt Video Iklan. |
+| Portfolio Blogger | SEBAGIAN | Link aktif (status 200). 6 label: 'AI', 'BRANDING', 'PERSONAL', 'PORTOFOLIO', 'SMKN 9 GARUT', 'TUGAS SEKOLAH.' - fifth label wajib terpecah menjadi 'PERSONAL'+'BRANDING' dan ditulis dengan titik ('TUGAS SEKOLAH.'), bukan label baku. |
+| Kreativitas & Profesionalisme | SEBAGIAN | Identitas visual konsisten (nama, palet biru, monogram NA) di seluruh 10 bagian; penomoran bagian melompat (6 lalu 8, tanpa 7) dan satu blok prompt video iklan masih menyatu dengan bagian 5. |
+
+**Ringkasan otomatis:** status — LENGKAP 3, SEBAGIAN 9. Komponen terkuat: Personal Branding & Logo (4/4), Storyline (4/4), Prompt & Dokumentasi AI (4/4). Komponen terlemah: AI Mascot Character (2/4), Penamaan Judul & Identitas (3/4), Moodboard (3/4).
+
+---
+
+## C3-16. MUHAMMAD TAUFIQ ISMAIL — XI DKV 3 — **79,50 / 100 (Cukup)**
+
+**Identitas:** No. rekap (id penilaian `R55`). **Kirim 03 Okt 2026 00:12.** Link: https://taufikismailll.blogspot.com/2026/10/personal-branding-muhammad-taufiq.html (**aktif**).
+**Kondisi:** 6815 kata, 5 gambar, 1 tabel HTML.
+**Verifikasi kolom rekap:** mockup 2 (terverifikasi teks) · shotlist 0 (tidak ada shotlist) · storyboard 6 (terverifikasi teks) · mascot 1 (full body teks) · prompt 8 (7 komponen) · kata 6815 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|4|8,00|
+|4|Mockup Branding|10|2|5,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|1|2,50|
+|8|Storyboard|10|4|10,00|
+|9|AI Mascot Character|8|3|6,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|2|5,00|
+|12|Kreativitas & Profesionalisme|4|3|3,00|
+||**TOTAL**|**100**||**79,50**|
+||Nilai Tambah Resolusi (0 dari 5 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**79,50**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | LENGKAP | Page title 'Personal Branding Muhammad Taufiq Ismail XI DKV 3' (format pendek sesuai) + heading artikel dua h1: 'ASTS PERSONAL BRANDING' dan 'MUHAMMAD TAUFIQ ISMAI XI DKV 3 SMKN 9 GARUT' (format panjang sesuai). CATATAN: nama pada heading terpotong satu huruf menjadi 'TAUFIQ ISMAI', sedangkan 22 kali lain di artikel ditulis 'Taufiq Ismail'. |
+| Personal Branding & Logo | LENGKAP | Logo monogram TL + pemain futsal + bola + mahkota (IMG#01 320x320, OCR 'FUTSAL / TL'); nama branding 'TL - Muhammad Taufiq Ismail'; tagline 'PLAY FUTSAL, LIVE THE DREAM.'; NAMA SISWA tercetak pada logo menurut deskripsi bagian '10. Komposisi Logo' ('Pada bagian bawah terdapat tulisan MUHAMMAD TAUFIQ ISMAIL'); deskripsi konsep 15 sub-bagian (Latar Belakang s.d. Kesimpulan) +/-1.177 kata, jauh di atas 100 kata. |
+| Moodboard | LENGKAP | IMG#02 320x213 landscape (prompt moodboard juga meminta 'format landscafe dan kualitas lebih dari 4k'). Tujuh unsur terverifikasi di teks: Warna Utama (Black #000000, White #FFFFFF, Silver #C0C0C0, Electric Blue #007BFF), Typography (Montserrat Bold/Extra Bold, Bebas Neue, Brush Script, Sporty Brush), Style Visual (Modern, Dynamic, Bold, Sporty), Referensi Desain (jersey futsal, sepatu, banner, desain logo olahraga, lapangan futsal, apparel), Elemen Grafis (Mahkota, Bola Futsal, Speed Line, Monogram TL, Perisai, Garis Dinamis), Inspirasi Visual (lapangan futsal malam hari, jaring gawang, lampu lapangan, gunung). Tone & mood tidak memakai label khusus, diwakili bagian '12. Karakter yang Ingin Ditampilkan' (Tegas, Sporty, Modern, Dinamis, Percaya diri, Profesional). |
+| Mockup Branding | BELUM MEMENUHI | Hanya 2 media mockup, di bawah syarat minimal 3: Futsal Jersey Set dan Hoodie - teks sendiri menulis 'Dua produk utama yang ditampilkan adalah: Futsal Jersey Set'. Uraian produk sangat rinci (nomor 02, nama TAUFIQ, kerah V-neck, bahan dry-fit, detail hood, jahitan, palet warna, elemen grafis) tetapi tidak ada penjelasan fungsi tiap media; visual tunggal IMG#03 320x213 (OCR '02 / 02 / 正 / 02') tidak memisahkan dua produk. |
+| Naskah Iklan | LENGKAP | '5. naskah' memuat Judul 'PLAY FUTSAL, LIVE THE DREAM', Tema (semangat, passion, impian dalam dunia futsal), Pesan Utama, Narasi/Dialog 6 scene (Scene 1 Pembukaan sampai Scene 6 Penutup, tiap scene memuat Visual + kutipan dialog), serta Closing Tagline pada 'Teks layar: TL - MUHAMMAD TAUFIQ ISMAIL / MORE THAN A GAME, IT'S A LIFESTYLE.' |
+| Storyline | LENGKAP | '6. storyline' memuat keempat unsur: 1. PEMBUKAAN (lampu electric blue menyala, maskot memasuki lapangan), 2. ALUR CERITA (memasang sepatu, menggiring bola, skill, tendangan gol, pose percaya diri), 3. FOKUS VISUAL (warna, elemen yang ditonjolkan, gaya cinematic sports style, transisi fade/whip pan/speed ramp), 4. PENUTUP (medium shot ke low angle hero shot + tagline 'PLAY FUTSAL, LIVE THE DREAM.'). Diperkuat tabel HTML 7 baris x 6 kolom (1 header + 6 scene) dengan kolom Visual Adegan, Keterangan Shot, Angle Kamera, Transisi, Dialog/Narasi. |
+| Shotlist | BELUM MEMENUHI | Tidak ada shotlist. Bagian '7. Shootlish' (ejaan salah) hanya memuat jawaban AI 'Siap. Berikut storyboard AI 6 scene yang sudah menyatukan naskah, storyline, dan shotlist untuk branding TL' - jadi shotlist tidak pernah dikirim sebagai dokumen tersendiri; hanya ada 6 scene pada tabel, di bawah syarat minimal 10 shot, dan tanpa kolom No/Duration/Movement. Teks bagian 7 hanya memuat judul 'Shootlish' (ejaan salah dari 'Shotlist') dan 'Arahan Visual AI'. |
+| Storyboard | LENGKAP | Enam scene storyboard lengkap di artikel dan di tabel (1. Pembukaan s.d. 6. Closing Branding) dengan Keterangan Shot (Establishing shot, Close-up, Tracking Shot, POV Ball, Slow Motion, Hero Shot), Angle Kamera (Wide Shot + Low Angle, Medium Shot, Over Shoulder, Front Center Shot), Transisi (Fade In, Slow Zoom + Light Flash, Match Cut, Whip Pan, Speed Ramp, Fade Out) dan Dialog/Narasi tiap scene; 'Artikel Storyboard Iklan TL' (182 kata) menyebut durasi 30-45 detik; IMG#05 320x292 OCR 'STORYBOARD IKLAN' + angka 02, 02, 0个0 (pseudoteks, jumlah panel tidak dapat dihitung). |
+| AI Mascot Character | LENGKAP | '4. maskot' diuraikan 20 sub-bagian: karakter pemain futsal duduk dengan bola di depan, format digital 1:1, komposisi bagian atas (mahkota + logo), tengah (karakter), bawah (bola, sepatu, lantai lapangan) - ini bukti full body secara tekstual; prompt maskot terdokumentasi ('sekarang buatkan maskot tentang logo yg tadi dengan ketentuan kualitas tinggi 4k'). TAPI hanya ada 1 gambar maskot IMG#04 320x320 (OCR '及 / PLAYHISN / LINE THE DREAMY / TECPIOIEWAL / GIAAL / 02 / T' - pseudoteks); tidak ada varian Portrait maupun Maskot Bersama Logo. |
+| Prompt & Dokumentasi AI | LENGKAP | 8 prompt terdokumentasi dan diberi label ('Prompt yang saya gunakan:' 4x dan 'promp yang saya gunakan:' 4x): logo ('berperanlah sebagai expert designer, tolong buatkan logo dari singkatan atau inisial MUHAMMAD TAUFIQ ISMAIL'), moodboard ('tolong buatkan moudbore tentang, warna utama branding, typography, style visual, referensi desain, elemen grafis dan inspirasi visual, output 1 moodbore, format landscafe'), mockup ('sekarang buat mockup dari logo tersebut kedalam baju jersey dan hodie kualitas 4k'), maskot, naskah, storyline, dan storyboard (2x). Tidak ada prompt terpisah untuk shotlist. |
+| Portfolio Blogger | SEBAGIAN | Link aktif status 200, isi artikel paling panjang di batch ini (6.815 kata, bagian 1-15 branding, 1-13 moodboard, 2-18 mockup, 1-20 maskot, 5 naskah, 6 storyline, 7 Shootlish, 8 Storyboard). Namun hanya 3 dari 5 label wajib terpasang: 'personal branding', 'tugas sekolah', dan 'SMKN 9 GARUT' (yang muncul di dalam label tidak relevan 'mengesahkan kreatifitas di lab dkv SMKN 9 GARUT'); label 'AI' tidak ada dan 'Portofolio' tidak ada (hanya label 'profil'); ada salah ketik label 'brending logo'. |
+| Kreativitas & Profesionalisme | SEBAGIAN | Sistem visual sangat konsisten (monogram TL, mahkota, bola futsal, perisai, speed line; palet #000000/#FFFFFF/#C0C0C0/#007BFF; slogan 'PLAY FUTSAL, LIVE THE DREAM') dari logo sampai storyboard. TEMUAN KHUSUS: ada tanda ezrawan dari sumber lain yang tidak dihapus - '( IndiBlogHub )' di paragraf pembuka bagian maskot dan '( Markuva )' di bagian '16. Hubungan dengan Personal Branding' - indikasi teks mentah hasil AI disalin tanpa diedit, perlu klarifikasi guru (terindikasi tidak orisinal). Ditambah teks banyak pengulangan ('Jersey futsal Jersey futsal', 'Percaya diri Percaya diri'), salah eja ('Shootlish', 'brending', 'promp', 'moudbore', 'visiual'), dan kelima gambar berukuran kecil (320 px) dengan pseudoteks. |
+
+**Ringkasan otomatis:** status — LENGKAP 8, SEBAGIAN 2, BELUM MEMENUHI 2. Komponen terkuat: Penamaan Judul & Identitas (4/4), Personal Branding & Logo (4/4), Moodboard (4/4). Komponen terlemah: Shotlist (1/4), Mockup Branding (2/4), Portfolio Blogger (2/4).
+
+---
+
+## C3-17. GILAR APGAN MUHAMAD SOLEH — XI DKV 4 — **73,75 / 100 (Cukup)**
+
+**Identitas:** No. rekap (id penilaian `R102`). **Kirim 02 Okt 2026 19:49.** Link: https://gilarapganms.blogspot.com/2026/10/personal-branding-gilar-apgan-muhamad.html (**aktif**).
+**Kondisi:** 2740 kata, 8 gambar.
+**Verifikasi kolom rekap:** mockup 7 media (terverifikasi teks) · shotlist TIDAK DAPAT DIVERIFIKASI · storyboard 6 (terverifikasi teks) · mascot 1 (full body tidak dapat dipastikan) · prompt 8 · kata 2740 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|3|3,75|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|3|6,00|
+|4|Mockup Branding|10|3|7,50|
+|5|Naskah Iklan|8|3|6,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|1|2,50|
+|8|Storyboard|10|4|10,00|
+|9|AI Mascot Character|8|2|4,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|2|5,00|
+|12|Kreativitas & Profesionalisme|4|2|2,00|
+||**TOTAL**|**100**||**73,75**|
+||Nilai Tambah Resolusi (0 dari 8 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**73,75**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | SEBAGIAN | Page title 'Personal Branding Gilar Apgan Muhamad Soleh' ada tetapi tidak mencantumkan kelas; heading artikel sudah lengkap: 'ASTS PERSONAL BRANDING GILAR APGAN MUHAMAD SOLEH; XI DKV 4 SMKN 9 GARUT'. |
+| Personal Branding & Logo | LENGKAP | Logo monogram GIL (IMG#01 246x240, OCR 'GILAR APGAN / MUHAMAD / SOLEH / CAMERA.VISUAL.FILM' - nama tercetak); nama branding 'GILAR APGAN MUHAMAD SOLEH'; tagline 'Lebih dari Sekadar Kamera'; deskripsi konsep >= 100 kata ('1. LOGO PERSONAL BRANDING' 116 kata ditambah blok 'Filosofi Branding' sekitar 150 kata). |
+| Moodboard | DIKUMPULKAN | IMG#02 434x289 landscape. Teks 137 kata menguraikan warna utama (biru elektrik, hitam, abu-abu metalik, putih), typography (serif + sans serif), style visual (cinematic, minimalis, profesional, premium), tone & mood, elemen grafis (monogram, garis geometris, target), dan inspirasi visual (kamera, fotografer, pegunungan, langit malam, elang); 'Referensi Desain' tidak diuraikan di teks - hanya terbaca sebagai panel 'REFCRCNO OCSAIN' pada OCR gambar. |
+| Mockup Branding | DIKUMPULKAN | Blok 'Filosofi dan Fungsi Media Branding' memuat 7 media (Hoodie & T-Shirt, Sticker, Poster, Botol Minum, Social Media Feed, Laptop, Gelas Kopi) masing-masing dengan paragraf 'Filosofi:' dan 'Fungsi:'; secara visual hanya ada satu gambar gabungan IMG#03 422x281 (OCR 'MEOLAPROMOSI &FUNGSINYA', 'SOCIALMEEALFEEO'), bukan 3 berkas mockup terpisah. |
+| Naskah Iklan | SEBAGIAN | '5. KONSEP VIDEO IKLAN / NASKAH IKLAN' memuat Tema 'Lebih dari Sekadar Kamera', Pesan Utama, alur narasi per tahap (pembukaan hingga penutupan dengan logo dan tagline) dan closing tagline; field 'Judul' tidak dicantumkan eksplisit - judul memakai tema/tagline yang sama. |
+| Storyline | LENGKAP | '6. STORYLINE' memuat 1. Pembukaan, 2. Awal Perjalanan, 3. Proses Kreatif, 4. Konflik dan Tantangan, 5. Penutup dengan timecode, ditambah 'Deskripsi Storyline' 148 kata; IMG#06 401x267 OCR mengonfirmasi panel '1. PEMBUKAAN / 2. ALUR CERITA / KONFLIK-FOKUS VISUAL / PENUTUP'. |
+| Shotlist | BELUM MEMENUHI | Bagian '7. SHOTLIS' hanya berisi uraian paragraf 174 kata (wide shot logo, medium shot kreator, close-up kamera, tracking/pan/tilt/dolly) tanpa tabel, kolom, atau nomor shot; gambar IMG#07 391x260 OCR hanya membaca 'SHOTLIST / GILAR APGAN / MUHAMAD SOLEH / TEMA' tanpa baris shot. Jumlah shot TIDAK DAPAT DIVERIFIKASI dan tidak ada bukti 10 shot bernomor. |
+| Storyboard | LENGKAP | Enam scene tertulis lengkap (Scene 1-6) dengan Visual Adegan, angle (eye level, over shoulder, low angle), pergerakan (slow push-in, dolly in, pan right, crane up, slow zoom out), transisi (fade in, cut, match cut, whip pan, fade out), dan narasi/dialog; IMG#08 413x275 OCR menunjukkan 6 panel (PEMBUKAAN, ALUR CERITA, KONFLIK, PROSES SOLUSI, HASIL, PENUTUP). |
+| AI Mascot Character | SEBAGIAN | Hanya satu gambar maskot IMG#04 436x290 di bagian '4. MASKOT' dengan OCR 'MASCOT' dan 'PORTRAT'; teks bagian 4. MASKOT berisi salinan verbatim deskripsi mockup (hoodie, stiker, poster, botol minum) bukan uraikan maskot, dan tidak ada label 'Full Body' - full body tidak dapat dipastikan. |
+| Prompt & Dokumentasi AI | LENGKAP | 8 prompt terdokumentasi dan diberi label 'Prompt': MEMBUAT PERSONAL BRANDING, moodboard, MEMBUAT MOCKUP BRANDING, MEMBUAT AI MASCOT CHARACTER, PERENCANAAN VIDEO IKLAN / D.1 Naskah Iklan, Storyline, Shotlist, dan Storyboard. |
+| Portfolio Blogger | SEBAGIAN | Isi artikel lengkap 2.740 kata dengan 8 komponen, tetapi labels kosong ([]) - 0 dari 5 label wajib (Tugas Sekolah, Personal Branding, AI, Portofolio, SMKN 9 Garut) tidak ada sama sekali; link aktif (status 200). |
+| Kreativitas & Profesionalisme | SEBAGIAN | Palet hitam-biru dan logo GIL konsisten di 8 media, tetapi konsistensi konten bermasalah: bagian '4. MASKOT' menyalin ulang paragraf bagian mockup, slogan 'Dream / Create / Achieve' pada blok filosofi bertentangan dengan tagline 'Lebih dari Sekadar Kamera', dan semua gambar memuat pseudoteks AI ('GILARAPGAX', 'MUHANAOSOLLH'). |
+
+**Ringkasan otomatis:** status — LENGKAP 4, SEBAGIAN 5, BELUM MEMENUHI 1, DIKUMPULKAN 2. Komponen terkuat: Personal Branding & Logo (4/4), Storyline (4/4), Storyboard (4/4). Komponen terlemah: Shotlist (1/4), AI Mascot Character (2/4), Portfolio Blogger (2/4).
+
+---
+
+## C3-18. ADE SAHRUL GUNAWAN — XI DKV 4 — **72,50 / 100 (Cukup)**
+
+**Identitas:** No. rekap (id penilaian `R95`). **Kirim 02 Okt 2026 16:10.** Link: https://adesahrulgunawan.blogspot.com/2026/10/personal-branding-ade-sahrul-gunawan-xi.html (**aktif**).
+**Kondisi:** 2953 kata, 7 gambar.
+**Verifikasi kolom rekap:** mockup 1 (belum terverifikasi) · shotlist 12 (klaim teks; TIDAK DAPAT DIVERIFIKASI) · storyboard 6 (terverifikasi teks) · mascot 1 (gambar; 3 varian diklaim) · prompt 5 · kata 2953.
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|4|12,00|
+|3|Moodboard|8|2|4,00|
+|4|Mockup Branding|10|1|2,50|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|2|5,00|
+|8|Storyboard|10|4|10,00|
+|9|AI Mascot Character|8|2|4,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|2|5,00|
+|12|Kreativitas & Profesionalisme|4|2|2,00|
+||**TOTAL**|**100**||**72,50**|
+||Nilai Tambah Resolusi (0 dari 7 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**72,50**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | LENGKAP | Page title 'PERSONAL BRANDING ADE SAHRUL GUNAWAN XI DKV 4' + heading artikel 'ASTS PERSONAL BRANDING ADE SAHRUL GUNAWAN XI DVK 4 SMKN 9 GARUT' - keduanya sesuai dan nama konsisten. |
+| Personal Branding & Logo | LENGKAP | Logo ASG (IMG#01 320x320, OCR 'ADE SAHRUL GUNAWAN / CAPTURE / CREATE / INSPIRE'); nama branding 'Ade Sahrul Gunawan', tagline 'CAPTURE CREATE INSPIRE', NAMA SISWA tercetak pada logo; deskripsi konsep berupa 10 sub-bagian (Identitas Brand, Konsep Utama, Makna Bentuk, Warna, Tipografi, Tagline, Karakter, Target, Penerapan, Filosofi) - cuplikan saja sudah 235 kata, jauh di atas 100. |
+| Moodboard | SEBAGIAN | IMG#02 320x213 landscape. Hanya 4 dari 7 unsur bernama jelas di prosa: Warna Utama (navy/royal/sky/light blue), Typography (Montserrat + Allura), Referensi Desain, Elemen Grafis (kamera, video, play button, crown). 'Style Visual' dan 'Tone & Mood' hanya tersirat, 'Inspirasi Visual' tidak ada; ketujuh unsur hanya muncul di dalam blok PROMPT sehingga tidak dihitung. |
+| Mockup Branding | BELUM MEMENUHI | Hanya ada 1 gambar mockup (IMG#03 320x213, OCR '(tidak ada teks yang terbaca)'). Teks bagian 'C. MEMBUAT MOCKUP BRANDING' hanya 105 kata umum tanpa sub-bagian per media dan tanpa penjelasan fungsi tiap media, padahal PROMPT meminta 'Minimal 3 Mockup Branding... Disertai penjelasan fungsi media'. |
+| Naskah Iklan | LENGKAP | Naskah Iklan memuat Judul 'Lebih dari Sekadar Gambar', Tema, Pesan Utama, Narasi/Dialog Scene 1-6 (Visual + Narator), dan Closing Tagline 'ADE SAHRUL GUNAWAN / CAPTURE CREATE INSPIRE' beserta makna tiap kata tagline. |
+| Storyline | LENGKAP | Storyline memuat keempat unsur wajib: '1. Pembukaan', '2. Alur Cerita' (Melihat -> Mengambil -> Mengedit -> Menciptakan karya -> Membagikan), '3. Konflik/Fokus Visual', '4. Penutup' dengan logo ASG dan tagline. |
+| Shotlist | BELUM MEMENUHI | Shotlist hanya berupa paragraf Deskripsi Shotlist 102 kata yang mengklaim 'Video terdiri dari 12 shot'; tidak ada daftar/tabel shot dan tidak ada jenis shot, angle, movement, maupun durasi per shot. IMG#06 320x213 hanya terbaca OCR 'SHOTLIST ... 8' sehingga jumlah baris TIDAK DAPAT DIVERIFIKASI. |
+| Storyboard | LENGKAP | 6 scene storyboard tertulis lengkap di artikel dengan jenis shot (Wide Shot, Close Up, Medium Close Up, Medium Shot), angle (Eye Level, Over Shoulder, High Angle), transisi (Fade In, Cut, Push In -> Cut, Match Cut, Quick Cut, Fade Out), dan narasi; IMG#07 320x213 memuat header 'STORYBOARD IKLAN KOMERSIAL'. |
+| AI Mascot Character | SEBAGIAN | Teks menjelaskan tiga varian ('1. Mascot Full Body' dari kepala hingga kaki, '2. Mascot Portrait', '3. Mascot Bersama Logo Branding' dengan logo SAG/ASG) tetapi hanya ada 1 gambar (IMG#05 320x292) tanpa label varian yang terbaca, sehingga full body tidak dapat dipastikan dari gambar. |
+| Prompt & Dokumentasi AI | LENGKAP | 5 prompt berlabel 'PROMPT :': branding/logo, moodboard, mockup, video (naskah + storyline + shotlist + storyboard dalam satu prompt), dan maskot. Catatan koreksi: blok 'PROMPT : Ubah foto diri menjadi karakter maskot...' hanya muncul 1 kali pada teks penuh - tidak ada prompt maskot duplikat. |
+| Portfolio Blogger | BELUM MEMENUHI | 0 dari 5 label wajib terpasang (daftar labels kosong). Isi artikel lengkap (2953 kata, 7 bagian bernomor A-E) dan URL aktif status 200. |
+| Kreativitas & Profesionalisme | SEBAGIAN | Konten orisinal dan naratif kuat, tetapi ada ketidakkonsistenan: dua bagian berbeda sama-sama berjudul 'Deskripsi Desain Branding' (B moodboard dan C mockup), palet berubah dari 'navy blue, biru royal, biru sky, light blue' di B menjadi 'hitam dan biru' di C, dan nama logo disebut 'SAG/ASG'. Catatan koreksi: bagian huruf B ADA ('B. MEMBUAT MOODBOARD BRANDING'); huruf F tidak ada sebagai bagian tingkat atas dan hanya muncul sebagai butir 'F. Elemen Mahkota' di dalam '3. Makna Bentuk Logo'. |
+
+**Ringkasan otomatis:** status — LENGKAP 6, SEBAGIAN 3, BELUM MEMENUHI 3. Komponen terkuat: Penamaan Judul & Identitas (4/4), Personal Branding & Logo (4/4), Naskah Iklan (4/4). Komponen terlemah: Mockup Branding (1/4), Moodboard (2/4), Shotlist (2/4).
+
+---
+
+## C3-19. SAVINA KHOERUNNISA — XI DKV 2 — **72,25 / 100 (Cukup)**
+
+**Identitas:** No. rekap (id penilaian `R100`). **Kirim 02 Okt 2026 19:25.** Link: https://savinakh.blogspot.com/2026/10/personal-branding-savina-khoerunnisa.html (**aktif**).
+**Kondisi:** 2639 kata, 8 gambar.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi gambar IMG#03-05) · shotlist 10 (terverifikasi gambar IMG#07) · storyboard 0 (TIDAK DIKUMPULKAN) · mascot 3 varian (terverifikasi OCR IMG#06) · prompt 8 · kata 2639 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|2|2,50|
+|2|Personal Branding & Logo|12|3|9,00|
+|3|Moodboard|8|3|6,00|
+|4|Mockup Branding|10|4|10,00|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|4|8,00|
+|7|Shotlist|10|3|7,50|
+|8|Storyboard|10|0|0,00|
+|9|AI Mascot Character|8|4|8,00|
+|10|Prompt & Dokumentasi AI|7|3|5,25|
+|11|Portfolio Blogger|10|2|5,00|
+|12|Kreativitas & Profesionalisme|4|2|2,00|
+||**TOTAL**|**100**||**71,25**|
+||Nilai Tambah Resolusi (8 dari 8 gambar ≥1000px)|–|–|+1,0|1,00|
+||**NILAI AKHIR**|||**72,25**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | SEBAGIAN | Page title 'PERSONAL BRANDING SAVINA KHOERUNNISA' ada nama tetapi TANPA kelas; tidak ada heading 'ASTS Personal Branding ... SMKN 9 Garut' (headings=0, artikel langsung mulai '1.PERSONAL BRANDING'). Nama reposisi: artikel 'Savina Khoerunnisa' vs rekapan 'SAVINA KHOERUNNISA' (ejaan berbeda). |
+| Personal Branding & Logo | SEBAGIAN | Logo monogram SK (IMG#01 1448x1086, OCR 'SAVINA KHOERUNNISA / masa depan di bayar dengan usaha hari ini'), nama branding 'SAVINA KHOERUNNISA', tagline 'masa depan di bayar dengan usaha hari ini'; NAMA SISWA tercetak pada logo. Namun deskripsi konsep hanya 52 kata (<100) dan pada heading bagian 1 tertulis '{monogrom SSG}' padahal seluruh isi memakai inisial SK. |
+| Moodboard | SEBAGIAN | IMG#02 1448x1086 landscape; OCR terbaca 6 blok bernomor '1.WARNAUTAMABRANDING / 2.TIPOGRAFI / 3.STYLEVISUAL / 4.TONE & MOOD / 5.ELEMEN GRAFIS / 6.INSPIRASI VISUAL'. 'Referensi Desain' tidak ada sebagai unsur tersendiri (prompt juga hanya meminta 6 butir). |
+| Mockup Branding | LENGKAP | Tiga mockup dengan uraian visual, filosofi, dan fungsi yang sangat rinci: A.KAOS (fungsi: seragam tim, merchandise resmi, brand awareness berjalan), B.TUMBLER, C.KARTU NAMA; didukung 3 berkas IMG#03, IMG#04 (1376x768), IMG#05. |
+| Naskah Iklan | LENGKAP | Naskah memuat Judul 'Resep Rasa & Karya: Dapur Savina Khoerunnisa', Tema, Pesan Utama, Narasi/Dialog 4 blok bertimestamp [00:00-00:05] sampai [00:22-00:30] lengkap VO, dan Closing Tagline 'Masa depan dibayar dengan usaha hari ini.' |
+| Storyline | LENGKAP | Storyline 'Merangkai Gita dan Rasa' memuat 1. Pembukaan, 2. Alur Cerita, 3. Konflik/Fokus Visual, 4. Penutup - masing-masing dengan Fokus Visual dan Narasi Visual terperinci. |
+| Shotlist | SEBAGIAN | Teks di bawah heading '7.SHOTLIST' BUKAN shotlist: isinya deskripsi visual logo (monogram SK, topi koki, whisk, kamera, pita, tipografi, palet warna). Shotlist yang sebenarnya hanya ada sebagai gambar IMG#07 (1195x896) - OCR terbaca jelas sebagai tabel dengan kolom No/JENIS SHOT/ANGLE/MOVEMENT/DURASI/DESKRIPSI LITERASI dan baris bernomor 1-10 (10 shot, minimum terpenuhi). |
+| Storyboard | TIDAK DIKUMPULKAN | Bagian '8.STORYBOARD' tidak berisi scene sama sekali. Isinya uraian logo monogram rose gold yang 96% identik dengan teks bagian 7 (dihitung pembanding baris karakter, rasio similaritas 0,96) dan tidak ada satu pun scene, keterangan shot, angle, transisi, atau dialog. Tidak ada gambar storyboard; IMG#08 adalah salinan identik dari IMG#07 (shotlist). |
+| AI Mascot Character | LENGKAP | IMG#06 1195x896 dengan OCR terbaca 'MascotFull Body', 'Mascot Portrait', 'Mascot and Branding' - ketiga output wajib terverifikasi. |
+| Prompt & Dokumentasi AI | SEBAGIAN | 8 prompt terdokumentasi (logo, moodboard, mockup kaos, mockup tumbler, mockup kartu nama, mascot, naskah, storyline) tetapi sebagian besar terpotong di tengah kalimat dan salah ketik: 'PROMPT;', 'PROMT:', 'FROMT:', 'WOW KEREN', 'Mascout'. |
+| Portfolio Blogger | BELUM MEMENUHI | Link aktif (status 200) tetapi label kategori kosong total (labels=[]) - 0 dari 5 label wajib: 'Tugas Sekolah', 'Personal Branding', 'AI', 'Portofolio', 'SMKN 9 Garut' tidak ada sama sekali. |
+| Kreativitas & Profesionalisme | SEBAGIAN | Nama konsisten SAVINA KHOERUNNISA dan palet rose gold/krem konsisten, tetapi ada ketidakkonsistenan isi: bagian shotlist/storyboard memakai maskot yang berenang di air ('Maskot berenang gaya dada', 'keluar dari permukaan air') yang bertentangan dengan brand kuliner + fotografi, dan inisial disebut SSG pada judul bagian 1 namun SK di seluruh dokumen lain. |
+
+**Ringkasan otomatis:** status — LENGKAP 4, SEBAGIAN 6, BELUM MEMENUHI 1, TIDAK DIKUMPULKAN 1. Komponen terkuat: Mockup Branding (4/4), Naskah Iklan (4/4), Storyline (4/4). Komponen terlemah: Storyboard (0/4), Penamaan Judul & Identitas (2/4), Portfolio Blogger (2/4).
+
+---
+
+## C3-20. MUHAMAD REZA RAMDANI — XI DKV 2 — **69,50 / 100 (Perlu Perbaikan)**
+
+**Identitas:** No. rekap (id penilaian `R93`). **Kirim 02 Okt 2026 14:49.** Link: https://mhmdreza65.blogspot.com/2026/09/projek-asts.html (**aktif**).
+**Kondisi:** 4560 kata, 8 gambar.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi gambar, brand 'The Creative Studio') · shotlist 10 (terverifikasi teks) · storyboard 6 (terverifikasi teks + gambar IMG#07) · mascot 1 (full body terverifikasi teks, brand lain) · prompt 8 · kata 4560 (memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|2|2,50|
+|2|Personal Branding & Logo|12|3|9,00|
+|3|Moodboard|8|2|4,00|
+|4|Mockup Branding|10|2|5,00|
+|5|Naskah Iklan|8|3|6,00|
+|6|Storyline|8|3|6,00|
+|7|Shotlist|10|4|10,00|
+|8|Storyboard|10|4|10,00|
+|9|AI Mascot Character|8|2|4,00|
+|10|Prompt & Dokumentasi AI|7|4|7,00|
+|11|Portfolio Blogger|10|2|5,00|
+|12|Kreativitas & Profesionalisme|4|1|1,00|
+||**TOTAL**|**100**||**69,50**|
+||Nilai Tambah Resolusi (0 dari 8 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**69,50**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | SEBAGIAN | Page title 'PROJEK ASTS' tidak sesuai format; heading artikel 'ASTS Personal Branding Muhammad Reza Ramdani XI DKV 2 SMKN 9 Garut' sesuai. Catatan nama: artikel 'Muhammad Reza Ramdani', rekapan 'MUHAMAD REZA RAMDANI' (beda satu huruf). |
+| Personal Branding & Logo | SEBAGIAN | Logo RR ada (IMG#01 320x320, OCR 'MUHAMMAD REZA RAMDANI / RR') dengan nama branding 'RR' dan NAMA SISWA tercetak pada logo; deskripsi konsep 168 kata (>=100). Tagline TIDAK ada - prompt sendiri menulis 'tagline = sesuaikan' dan tidak pernah diisi. |
+| Moodboard | BELUM MEMENUHI | Moodboard BUKAN milik personal branding siswa. IMG#02 400x266 (OCR 'WARNAUTAMAIRANHKO','Poppins','Montserra','NEGERI9 GARVT') dan seluruh deskripsi berbunyi 'Moodboard branding SMK Negeri 9 Garut' - ini branding SEKOLAH (biru navy/kuning emas), bukan RR. |
+| Mockup Branding | SEBAGIAN | Tiga mockup terverifikasi (IMG#03/04/05 400x218, 400x218, 400x218) dengan penjelasan fungsi lengkap (Packaging, Laptop, Hoodie), tetapi seluruh konten beridentitas 'The Creative Studio' dengan logo inisial 'AF' dan slogan 'Ahmad Faisal \| Visual Storyteller' - bukan RR. |
+| Naskah Iklan | SEBAGIAN | Naskah memuat Judul 'Langkahmu Dimulai di Sini', Tema, Pesan Utama, Narasi/Dialog 5 scene, Closing Tagline 'Berkarakter, Kompeten, Siap Menghadapi Masa Depan' - lengkap secara struktur, tetapi subjeknya iklan SEKOLAH 'SMK Negeri 9 Garut', bukan personal branding siswa. |
+| Storyline | SEBAGIAN | Storyline 'THE FUTURE FRAME' memuat 1. Pembukaan, 2. Alur Cerita, 3. Konflik/Fokus Visual, 4. Penutup lengkap dengan Visual/Audio/Narasi, tetapi ditulis untuk brand 'The Creative Studio' (AF), bukan RR. |
+| Shotlist | LENGKAP | Shotlist ditulis penuh 10 baris dengan kolom No/Adegan/Jenis Shot/Sudut Pandang/Gerakan/Durasi/Deskripsi Visual & Audio (baris 1-10), dan didukung gambar tabel IMG#06 400x213 (OCR 'No. / Adegan / Jenis Shot / Angle / Morement / Durasi / Deskripsi' dengan baris 01-10). Subjeknya 'The Creative Studio'. |
+| Storyboard | LENGKAP | Storyboard 6 panel tertulis lengkap (Panel 01-06) dengan Visual, Keterangan Shot, Angle Kamera, Transisi, dan Narasi per panel; didukung gambar IMG#07 400x218 (OCR 'STORYBOARD VIDEO PROMOSI: THE CREATIVE STUDIO'). |
+| AI Mascot Character | SEBAGIAN | Teks maskot mendeskripsikan karakter berdiri tegak (full body) tetapi untuk 'The Shinobi Studio - Maskot Kedua (Rina)' dengan logo 'AF'; gambar IMG#08 400x223 hanya terbaca 'THE SHINOBI STUOIO / MASKOT KEDUA CRINA'. Bukan maskot personal branding RR. |
+| Prompt & Dokumentasi AI | LENGKAP | 8 prompt terdokumentasi dan diberi label di dalam artikel: prompt logo, prompt moodboard, prompt mockup, prompt naskah, prompt storyline, prompt shotlist, prompt storyboard, prompt maskot ke-2. |
+| Portfolio Blogger | BELUM MEMENUHI | Link aktif (status 200) tetapi labels=[] - 0 dari 5 label wajib ('Tugas Sekolah', 'Personal Branding', 'AI', 'Portofolio', 'SMKN 9 Garut') tidak ada. |
+| Kreativitas & Profesionalisme | BELUM MEMENUHI | Identitas visual berubah-ubah dalam satu artikel: bagian 1 logo 'RR' Muhammad Reza Ramdani; bagian 2 moodboard branding SMK Negeri 9 Garut; bagian 3, 4.2, 4.3, 4.4 memakai brand 'The Creative Studio' dengan inisial 'AF' dan nama 'Ahmad Faisal \| Visual Storyteller'; bagian 5 memakai 'The Shinobi Studio - Rina'. Teks deskripsi mockup 'The Creative Studio' tersebut terindikasi bukan karya pribadi siswa (identik dengan template deskripsi generik hasil AI) - terindikasi tidak orisinal / perlu klarifikasi guru. |
+
+**Ringkasan otomatis:** status — LENGKAP 3, SEBAGIAN 6, BELUM MEMENUHI 3. Komponen terkuat: Shotlist (4/4), Storyboard (4/4), Prompt & Dokumentasi AI (4/4). Komponen terlemah: Kreativitas & Profesionalisme (1/4), Penamaan Judul & Identitas (2/4), Moodboard (2/4).
+
+---
+
+## C3-21. DAPA MUSTOPA — XI DKV 1 — **68,95 / 100 (Perlu Perbaikan)**
+
+**Identitas:** No. rekap (id penilaian `R105`). **Kirim 02 Okt 2026 20:22.** Link: https://dafamstf.blogspot.com/2026/10/personal-branding-dapa-mustopa-xi-dkv-1.html (**aktif**).
+**Kondisi:** 1834 kata, 6 gambar.
+**Verifikasi kolom rekap:** mockup 3 (terverifikasi teks) · shotlist TIDAK DAPAT DIVERIFIKASI · storyboard 5 (terverifikasi gambar) · mascot 3 varian (1 gambar 1024x559) · prompt 0 (tidak terdokumentasi) · kata 1834.
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|2|2,50|
+|2|Personal Branding & Logo|12|3|9,00|
+|3|Moodboard|8|4|8,00|
+|4|Mockup Branding|10|3|7,50|
+|5|Naskah Iklan|8|4|8,00|
+|6|Storyline|8|3|6,00|
+|7|Shotlist|10|1|2,50|
+|8|Storyboard|10|2|5,00|
+|9|AI Mascot Character|8|3|6,00|
+|10|Prompt & Dokumentasi AI|7|1|1,75|
+|11|Portfolio Blogger|10|4|10,00|
+|12|Kreativitas & Profesionalisme|4|2|2,00|
+||**TOTAL**|**100**||**68,25**|
+||Nilai Tambah Resolusi (5 dari 6 gambar ≥1000px)|–|–|+0,7|0,70|
+||**NILAI AKHIR**|||**68,95**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | SEBAGIAN | Page title 'PERSONAL BRANDING DAPA MUSTOPA XI DKV 1' sesuai dengan nama pada rekapan; heading panjang 'ASTS Personal Branding ... SMKN 9 Garut' TIDAK DAPAT DIVERIFIKASI karena blok TEKS ARTIKEL LENGKAP tidak tersedia untuk R105 dan bagian pertama yang terbaca adalah 'A. Personal Branding'. KETIDAKSESUAIAN IDENTITAS: page title menulis 'DAPA MUSTOPA' sedangkan seluruh isi artikel menulis 'DAFA MUSTOFA'. |
+| Personal Branding & Logo | SEBAGIAN | Logo monogram DM (IMG#01 1024x559, OCR 'DAFAMUSTOFA / DESIGN \| KREATIF I DAMAI / BYDAFA'), nama branding dan tagline 'DESIGN \| KREATIF \| DAMAI' ada; deskripsi konsep unik +/-165 kata (>=100) dari 4 sub-bagian. TAPI NAMA SISWA tidak tercetak sebagai nama yang benar: yang tercetak pada logo adalah 'DAFA MUSTOFA', dan satu-satunya penyebutan 'DAPA MUSTOPA' di artikel adalah baris 'Nama Branding: DAPA MUSTOPA' di bagian '3. Tipografi & Tagline'. |
+| Moodboard | LENGKAP | IMG#02 1536x1024 landscape; 7 label unsur terbaca jelas pada gambar (WARNA UTAMA BRANDING, TYPOGRAPHY, STYLE VISUAL, TONE & MOOD, REFERENSI DESAIN, ELEMEN GRAFIS, INSPIRASI VISUAL) dengan palette #0ESASA/#2EBB7F/#A7E3C1/#E5F7ED/#FFFFFF; prosa memuat uraian unsur 1-5. Catatan: prosa unsur 6 dan 7 terpotong pada batas 1600 karakter dossier. |
+| Mockup Branding | SEBAGIAN | 3 mockup terverifikasi di teks dan pada IMG#03 1536x1024: 1. Kartu Nama (fungsi eksplisit: media memperkenalkan identitas dan memberikan informasi kontak), 2. Mockup Kaos (uraikan penempatan logo, fungsi hanya tersirat), 3. Mockup Gelas (fungsi hanya tersirat: penerapan pada merchandise). Fungsi tidak dijelaskan tegas untuk tiap media. |
+| Naskah Iklan | LENGKAP | D.1 Naskah Iklan memuat Judul 'Kreativitas Tanpa Batas', Tema, Pesan Utama, Narasi/Dialog, dan Closing Tagline 'DAFA MUSTOFA - DESIGN \| KREATIF \| DAMAI'. |
+| Storyline | SEBAGIAN | Keempat unsur storyline lengkap: 1. Pembukaan (suasana alam, gunung, dedaunan), 2. Alur Cerita (sketsa -> desain digital -> karya visual), 3. Konflik/Fokus Visual (proses mengubah ide jadi karya), 4. Penutup (logo + tagline). Catatan: tidak ada judul bagian 'D.2 Storyline' dan penomoran melompat dari D.1 ke D.4. |
+| Shotlist | TIDAK DAPAT DIVERIFIKASI | Tidak ada teks shotlist sama sekali di artikel - bagian 'D.3 Shotlist' tidak muncul sebagai heading (lompat dari D.1 ke D.4). Satu-satunya bukti adalah IMG#04 385x256, gambar terkecil di batch, dengan OCR tabel pseudoteks ('SHOTLIST / DAFAMUSTOFA / VIDEO IKLAN KOMERSIAL' dan angka 2, 6, 8, 10, 11 yang tidak berurutan); jumlah shot TIDAK DAPAT DIVERIFIKASI. |
+| Storyboard | BELUM MEMENUHI | IMG#05 1024x559 memuat 5 scene bertanda lengkap (SCENE1 KONTROL BOLA \| ECU LOW ANGLE \| MATCH CUT; SCENE2 KREASI GARIS DM \| CU OVER SHOULDER; SCENE3 FOKUS DAFA \| MCU \| EYE LEVEL \| CUT; SCENE4 LOGO DM \| CU \| STRAIGHT ON \| ZOOM OUT; SCENE5 STUDIO TENANG \| FS \| LOW ANGLE \| DISSOLVE) - 5 scene, sedangkan syarat minimal 6; teks D.4 Storyboard (724 kata) terpotong pada Scene 2 di dossier sehingga scene ke-6 tidak dapat dipastikan. |
+| AI Mascot Character | SEBAGIAN | Ketiga varian terdeskripsi lengkap di teks (Output 1 Mascot Full Body 226 kata berisi pose, pakaian, dan hex warna; Output 2 Portrait 152 kata; Output 3 Bersama Logo 157 kata) dan labelnya terbaca pada IMG#06 1024x559 ('1.MASCOTFULLBODY / 2.MASCOT PORTRAIT / 3.MASCOTBERSAMALOGOBRANDING'), tetapi ketiga varian berada dalam satu gambar - render terpisah tidak dapat dipastikan. |
+| Prompt & Dokumentasi AI | TIDAK DIKUMPULKAN | Nol blok 'Prompt' pada 17 bagian artikel (pencarian teks 'prompt' = 0 hasil). Satu-satunya jejak prompt adalah teks 'MEMBUAT AI MASCOT CHARACTER / Pilihan Style: 3D Character (Pixar Style)' yang tercetak di DALAM IMG#06 (1024x559), bukan terdokumentasi sebagai teks artikel. Beberapa bagian terpotong pada 1600 karakter dossier sehingga tidak 100% pasti tidak ada prompt di bagian yang terpotong. |
+| Portfolio Blogger | LENGKAP | Kelima label wajib terpasang: 'Tugas Sekolah', 'Personal Branding', 'AI', 'Portofolio', dan 'SMKN 9 Garut'. URL aktif status 200; isi artikel 1834 kata. |
+| Kreativitas & Profesionalisme | BELUM MEMENUHI | Ketidaksesuaian identitas total: rekapan dan page title 'DAPA MUSTOPA', sedangkan seluruh isi artikel dan seluruh gambar memakai 'DAFA MUSTOFA' (OCR IMG#01 'DAFAMUSTOFA / BYDAFA', IMG#03 'dafa.mustofa@gmail.com / @dafamustofa', IMG#05 'DAFAMUSTOFA', IMG#06 'dafa mustofa'). Ditambah tiap paragraf branding/moodboard/storyboard tampil dua kali dalam ekstraksi, dan penomoran bagian melompat (D.1 -> D.4 tanpa D.2/D.3; tanpa huruf F). Terindikasi tidak konsisten identitas - perlu klarifikasi guru apakah yang dimaksud Dafa Mustofa. |
+
+**Ringkasan otomatis:** status — LENGKAP 3, SEBAGIAN 5, BELUM MEMENUHI 2, TIDAK DIKUMPULKAN 1, TIDAK DAPAT DIVERIFIKASI 1. Komponen terkuat: Moodboard (4/4), Naskah Iklan (4/4), Portfolio Blogger (4/4). Komponen terlemah: Shotlist (1/4), Prompt & Dokumentasi AI (1/4), Penamaan Judul & Identitas (2/4).
+
+---
+
+## C3-22. NADYA NURLATIFA — XI DKV 4 — **34,00 / 100 (Perlu Perbaikan)**
+
+**Identitas:** No. rekap (id penilaian `R89`). **Kirim 02 Okt 2026 12:37.** Link: https://nadya29710.blogspot.com/2026/10/personal-branding-nadya-xi-dkv-4.html (**aktif**).
+**Kondisi:** 415 kata, 7 gambar.
+**Verifikasi kolom rekap:** mockup 1 (terverifikasi gambar) · shotlist TIDAK DAPAT DIVERIFIKASI · storyboard TIDAK DAPAT DIVERIFIKASI · mascot 1 (terverifikasi teks) · prompt 0 · kata 415 (tidak memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|4|5,00|
+|2|Personal Branding & Logo|12|2|6,00|
+|3|Moodboard|8|0|0,00|
+|4|Mockup Branding|10|1|2,50|
+|5|Naskah Iklan|8|0|0,00|
+|6|Storyline|8|1|2,00|
+|7|Shotlist|10|2|5,00|
+|8|Storyboard|10|2|5,00|
+|9|AI Mascot Character|8|2|4,00|
+|10|Prompt & Dokumentasi AI|7|0|0,00|
+|11|Portfolio Blogger|10|1|2,50|
+|12|Kreativitas & Profesionalisme|4|2|2,00|
+||**TOTAL**|**100**||**34,00**|
+||Nilai Tambah Resolusi (0 dari 7 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**34,00**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | LENGKAP | Page title 'Personal branding nadya xi dkv 4' + heading 'ASTS PERSONAL BRANDING NADYA NURLATIFA XI DKV 4 SMKN 9 GARUT' - keduanya sesuai dengan nama rekapan. |
+| Personal Branding & Logo | SEBAGIAN | Logo NN dengan deskripsi konsep 110 kata (makna: monogram NN, mahkota, ungu/lavender, garis melingkar, hati, sparkle) dan konsep warna; tetapi nama branding ditulis 'NN - by Nadya Nurlatifa' - salah eja dari NADYA NURLATIFA (5 kali di teks) dan OCR logo IMG#01 tidak terbaca. |
+| Moodboard | TIDAK DIKUMPULKAN | Tidak ada bagian moodboard: 5 bagian artikel hanya LOGO BRANDING, KONSEP VIDIO, KONSEP MASCOT, MOCKUP BRANDING, NADYA CREATIVE. Tiga gambar (IMG#03 320x249, IMG#05 dan IMG#07 320x316) OCR-nya pseudoteks sehingga tidak dapat dipastikan sebagai moodboard - perlu dibuka guru. |
+| Mockup Branding | BELUM MEMENUHI | Hanya 1 gambar mockup (IMG#04 320x213, OCR 'mOckuP BRAndING / STICIR / LAMNER'); teks menyebut media logo, sticker, banner, kemasan, kartu ucapan tanpa penjelasan fungsi tiap media. |
+| Naskah Iklan | TIDAK DIKUMPULKAN | Tidak ada bagian naskah iklan; 415 kata artikel tidak memuat Judul, Tema, Pesan Utama, Narasi/Dialog, maupun Closing Tagline. |
+| Storyline | SEBAGIAN | Hanya bagian '2.KONSEP VIDIO' yang berisi alur singkat (ide -> sketsa -> diedit -> dibagikan -> logo), tanpa struktur Pembukaan, Konflik/Fokus Visual, dan Penutup. |
+| Shotlist | TIDAK DAPAT DIVERIFIKASI | Gambar shotlist IMG#02 320x211 terbaca headed 'SHOTLIST / VIDEO IKLAN KOMERSIAL', tetapi angka dan baris di dalamnya ('8', '15', '15') adalah pseudoteks sehingga jumlah shot tidak dapat dihitung andal. |
+| Storyboard | TIDAK DAPAT DIVERIFIKASI | Gambar storyboard IMG#06 320x213 terbaca 'STORYBOARD / VIDEO IKLAN KOMERSIAL'; jumlah scene serta keterangan shot/angle/transisi tidak terbaca - tidak boleh dihitung. |
+| AI Mascot Character | SEBAGIAN | Teks '3.KONSEP MASCOT' menjelaskan maskot perempuan berhijab bergaya chibi (ungu/cream, hoodie, tote bag, sneakers, tablet, kamera); dua gambar 320x316 (IMG#05/IMG#07) memuat token 'MASC...' yang tidak terbaca - Full Body tidak dapat dipastikan. |
+| Prompt & Dokumentasi AI | TIDAK DIKUMPULKAN | Tidak ada satu pun prompt terdokumentasi di seluruh 415 kata artikel (kemunculan kata 'prompt' = 0). |
+| Portfolio Blogger | BELUM MEMENUHI | 0 dari 5 label wajib; daftar label kosong ([]). Isi artikel sangat tipis: 415 kata dan 5 sub-bagian. |
+| Kreativitas & Profesionalisme | SEBAGIAN | Palet ungu-krem dan logo NN konsisten pada logo, mockup, dan concept video; tetapi nama pada branding salah eja 'Nadya Nurlatifa' dan teks artikel terpotong di bagian '5.NADYA CREATIVE' (...serta elem). |
+
+**Ringkasan otomatis:** status — LENGKAP 1, SEBAGIAN 4, BELUM MEMENUHI 2, TIDAK DIKUMPULKAN 3, TIDAK DAPAT DIVERIFIKASI 2. Komponen terkuat: Penamaan Judul & Identitas (4/4), Personal Branding & Logo (2/4), Shotlist (2/4). Komponen terlemah: Moodboard (0/4), Naskah Iklan (0/4), Prompt & Dokumentasi AI (0/4).
+
+---
+
+## C3-23. RAFI FAUZAN NAJA LUTFIANA — XI DKV 4 — **4,75 / 100 (Perlu Perbaikan)**
+
+**Identitas:** No. rekap (id penilaian `R97`). **Kirim 02 Okt 2026 16:38.** Link: https://rafiifauzan-profil.blogspot.com/2026/10/asts-komputer-grafis-xi-dkv-4.html?m=1 (**aktif**).
+**Kondisi:** 146 kata, 3 gambar.
+**Verifikasi kolom rekap:** mockup 0 (TIDAK DIKUMPULKAN) · shotlist 0 (TIDAK DIKUMPULKAN) · storyboard 0 (TIDAK DIKUMPULKAN) · mascot 0 (TIDAK DIKUMPULKAN) · prompt 0 · kata 146 (tidak memenuhi).
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|1|1,25|
+|2|Personal Branding & Logo|12|0|0,00|
+|3|Moodboard|8|0|0,00|
+|4|Mockup Branding|10|0|0,00|
+|5|Naskah Iklan|8|0|0,00|
+|6|Storyline|8|0|0,00|
+|7|Shotlist|10|0|0,00|
+|8|Storyboard|10|0|0,00|
+|9|AI Mascot Character|8|0|0,00|
+|10|Prompt & Dokumentasi AI|7|0|0,00|
+|11|Portfolio Blogger|10|1|2,50|
+|12|Kreativitas & Profesionalisme|4|1|1,00|
+||**TOTAL**|**100**||**4,75**|
+||Nilai Tambah Resolusi (0 dari 3 gambar ≥1000px)|–|–|+0,0|0,00|
+||**NILAI AKHIR**|||**4,75**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | BELUM MEMENUHI | Page title 'ASTS KOMPUTER GRAFIS XI DKV 4' dan teks heading 'ASTS KOMPUTER GRAFIS RAFI FAUZAN XI DKV 4 SMKN 9 GARUT' - keduanya TIDAK memakai format 'Personal Branding [Nama] [Kelas]' / 'ASTS Personal Branding ...'. |
+| Personal Branding & Logo | TIDAK DIKUMPULKAN | Tidak ada logo personal branding. Yang ada ID Card atas nama 'Joko Apar' (anggota program MBG), banner rental PS 'NOOBLE PLAYSTATION', dan 'sample logo Android' (IMG#03 275x320, OCR kosong). Tidak ada nama branding, tagline, atau deskripsi konsep untuk identitas pribadi siswa. |
+| Moodboard | TIDAK DIKUMPULKAN | Bagian moodboard tidak ada sama sekali (heading(0), 146 kata total). |
+| Mockup Branding | TIDAK DIKUMPULKAN | ID Card dan banner rental PS adalah tugas komputer grafis, bukan mockup branding; tidak ada penjelasan fungsi media branding. |
+| Naskah Iklan | TIDAK DIKUMPULKAN | Bagian naskah iklan tidak ada. |
+| Storyline | TIDAK DIKUMPULKAN | Bagian storyline tidak ada. |
+| Shotlist | TIDAK DIKUMPULKAN | Bagian shotlist tidak ada. |
+| Storyboard | TIDAK DIKUMPULKAN | Bagian storyboard tidak ada. |
+| AI Mascot Character | TIDAK DIKUMPULKAN | Tidak ada gambar karakter maskot; isi 3 gambar adalah ID Card, banner PS, dan logo Android. |
+| Prompt & Dokumentasi AI | TIDAK DIKUMPULKAN | Tidak ada prompt AI. Teks justru menyebut 'Dibuat di aplikasi Vektor, Software CorelDRAW Versi 2020' - dikerjakan manual, bukan AI. |
+| Portfolio Blogger | BELUM MEMENUHI | Link aktif (status 200) tetapi hanya 1 dari 5 label wajib ('AI'); label 'Tugas Sekolah', 'Personal Branding', 'Portofolio', 'SMKN 9 Garut' tidak ada. Label lain 'Corel' tidak relevan. |
+| Kreativitas & Profesionalisme | BELUM MEMENUHI | Identitas visual tidak konsisten/tidak ada: karya terdiri atas 3 projek terpisah (ID Card, banner rental PS, logo Android) dengan 3 subjek berbeda, dan tidak ada satu pun aset personal branding milik RAFI FAUZAN NAJA LUTFIANA sebagai karya ASTS. |
+
+**Ringkasan otomatis:** status — BELUM MEMENUHI 3, TIDAK DIKUMPULKAN 9. Komponen terkuat: Penamaan Judul & Identitas (1/4), Portfolio Blogger (1/4), Kreativitas & Profesionalisme (1/4). Komponen terlemah: Personal Branding & Logo (0/4), Moodboard (0/4), Mockup Branding (0/4).
+
+---
+
+## C3-24. ALIA ALAIKA NURFADILA — XI DKV 1 — **0,00 / 100 (Perlu Perbaikan)**
+
+**Identitas:** No. rekap (id penilaian `R104`). **Kirim 02 Okt 2026 20:08.** Link: https://aliaalaikanurfadila.blogspot.com/2026/10/asts-personal-branding-alia-alaika.html (**TIDAK AKSES**).
+**Kondisi:** link tidak dapat diakses publik - karya tidak dapat diperiksa.
+**Verifikasi kolom rekap:** mockup TIDAK DAPAT DIVERIFIKASI · shotlist TIDAK DAPAT DIVERIFIKASI · storyboard TIDAK DAPAT DIVERIFIKASI · mascot TIDAK DAPAT DIVERIFIKASI · prompt TIDAK DAPAT DIVERIFIKASI · kata TIDAK DAPAT DIVERIFIKASI.
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|0|0,00|
+|2|Personal Branding & Logo|12|0|0,00|
+|3|Moodboard|8|0|0,00|
+|4|Mockup Branding|10|0|0,00|
+|5|Naskah Iklan|8|0|0,00|
+|6|Storyline|8|0|0,00|
+|7|Shotlist|10|0|0,00|
+|8|Storyboard|10|0|0,00|
+|9|AI Mascot Character|8|0|0,00|
+|10|Prompt & Dokumentasi AI|7|0|0,00|
+|11|Portfolio Blogger|10|0|0,00|
+|12|Kreativitas & Profesionalisme|4|0|0,00|
+||**TOTAL**|**100**||**0,00**|
+||Nilai Tambah Resolusi (Inaccessible)|–|–|–|0,00|
+||**NILAI AKHIR**|||**0,00**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | TIDAK DAPAT DIVERIFIKASI | Link artikel publik yang dikirim mengembalikan HTTP 404 (https://aliaalaikanurfadila.blogspot.com/2026/10/asts-personal-branding-alia-alaika.html tidak dapat dibuka); kemungkinan artikel masih berstatus draft atau URL tidak dipublikasikan. |
+| Personal Branding & Logo | TIDAK DAPAT DIVERIFIKASI | Halaman HTTP 404 - tidak ada page title, tidak ada teks artikel, tidak ada gambar yang dapat diunduh. |
+| Moodboard | TIDAK DAPAT DIVERIFIKASI | Halaman HTTP 404 - bagian moodboard tidak dapat diperiksa. |
+| Mockup Branding | TIDAK DAPAT DIVERIFIKASI | Halaman HTTP 404 - bagian mockup tidak dapat diperiksa. |
+| Naskah Iklan | TIDAK DAPAT DIVERIFIKASI | Halaman HTTP 404 - bagian naskah iklan tidak dapat diperiksa. |
+| Storyline | TIDAK DAPAT DIVERIFIKASI | Halaman HTTP 404 - bagian storyline tidak dapat diperiksa. |
+| Shotlist | TIDAK DAPAT DIVERIFIKASI | Halaman HTTP 404 - bagian shotlist tidak dapat diperiksa. |
+| Storyboard | TIDAK DAPAT DIVERIFIKASI | Halaman HTTP 404 - bagian storyboard tidak dapat diperiksa. |
+| AI Mascot Character | TIDAK DAPAT DIVERIFIKASI | Halaman HTTP 404 - bagian maskot tidak dapat diperiksa. |
+| Prompt & Dokumentasi AI | TIDAK DAPAT DIVERIFIKASI | Halaman HTTP 404 - bagian prompt tidak dapat diperiksa. |
+| Portfolio Blogger | TIDAK DAPAT DIVERIFIKASI | Halaman HTTP 404 - label Blogger tidak dapat diperiksa. |
+| Kreativitas & Profesionalisme | TIDAK DAPAT DIVERIFIKASI | Karya tidak dapat diakses sehingga orisinalitas dan profesionalisme tidak dapat dinilai. |
+
+**Ringkasan otomatis:** status — TIDAK DAPAT DIVERIFIKASI 12. Komponen terkuat: Penamaan Judul & Identitas (0/4), Personal Branding & Logo (0/4), Moodboard (0/4). Komponen terlemah: Penamaan Judul & Identitas (0/4), Personal Branding & Logo (0/4), Moodboard (0/4).
+
+---
+
+## C3-25. LUSI NURAENI — XI DKV 1 — **0,00 / 100 (Perlu Perbaikan)**
+
+**Identitas:** No. rekap (id penilaian `R90`). **Kirim 02 Okt 2026 12:46.** Link: https://www.blogger.com/blog/post/edit/4743577463240745335/7829928751200628715 (**TIDAK AKSES**).
+**Kondisi:** link tidak dapat diakses publik - karya tidak dapat diperiksa.
+**Verifikasi kolom rekap:** mockup TIDAK DAPAT DIVERIFIKASI · shotlist TIDAK DAPAT DIVERIFIKASI · storyboard TIDAK DAPAT DIVERIFIKASI · mascot TIDAK DAPAT DIVERIFIKASI · prompt TIDAK DAPAT DIVERIFIKASI · kata TIDAK DAPAT DIVERIFIKASI.
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|0|0,00|
+|2|Personal Branding & Logo|12|0|0,00|
+|3|Moodboard|8|0|0,00|
+|4|Mockup Branding|10|0|0,00|
+|5|Naskah Iklan|8|0|0,00|
+|6|Storyline|8|0|0,00|
+|7|Shotlist|10|0|0,00|
+|8|Storyboard|10|0|0,00|
+|9|AI Mascot Character|8|0|0,00|
+|10|Prompt & Dokumentasi AI|7|0|0,00|
+|11|Portfolio Blogger|10|0|0,00|
+|12|Kreativitas & Profesionalisme|4|0|0,00|
+||**TOTAL**|**100**||**0,00**|
+||Nilai Tambah Resolusi (Inaccessible)|–|–|–|0,00|
+||**NILAI AKHIR**|||**0,00**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | TIDAK DAPAT DIVERIFIKASI | Link yang dikirim adalah alamat EDITOR Blogger (https://www.blogger.com/blog/post/edit/...), bukan link artikel publik; halaman hanya dapat dibuka setelah login Google sehingga karya tidak dapat diakses sama sekali. |
+| Personal Branding & Logo | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - tidak ada page title, tidak ada teks artikel, tidak ada gambar yang dapat diunduh. |
+| Moodboard | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian moodboard tidak dapat diperiksa. |
+| Mockup Branding | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian mockup tidak dapat diperiksa. |
+| Naskah Iklan | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian naskah iklan tidak dapat diperiksa. |
+| Storyline | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian storyline tidak dapat diperiksa. |
+| Shotlist | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian shotlist tidak dapat diperiksa. |
+| Storyboard | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian storyboard tidak dapat diperiksa. |
+| AI Mascot Character | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian maskot tidak dapat diperiksa. |
+| Prompt & Dokumentasi AI | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian prompt tidak dapat diperiksa. |
+| Portfolio Blogger | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger (bukan artikel publik) - label Blogger tidak dapat diperiksa. |
+| Kreativitas & Profesionalisme | TIDAK DAPAT DIVERIFIKASI | Karya tidak dapat diakses sehingga orisinalitas dan profesionalisme tidak dapat dinilai. |
+
+**Ringkasan otomatis:** status — TIDAK DAPAT DIVERIFIKASI 12. Komponen terkuat: Penamaan Judul & Identitas (0/4), Personal Branding & Logo (0/4), Moodboard (0/4). Komponen terlemah: Penamaan Judul & Identitas (0/4), Personal Branding & Logo (0/4), Moodboard (0/4).
+
+---
+
+## C3-26. RADIT KURNIAWAN — XI DKV 3 — **0,00 / 100 (Perlu Perbaikan)**
+
+**Identitas:** No. rekap (id penilaian `R99`). **Kirim 02 Okt 2026 22:20.** Link: https://www.blogger.com/u/1/blog/post/edit/2251886040121859008/2007859641830967938 (**TIDAK AKSES**).
+**Kondisi:** link tidak dapat diakses publik - karya tidak dapat diperiksa.
+**Verifikasi kolom rekap:** mockup TIDAK DAPAT DIVERIFIKASI · shotlist TIDAK DAPAT DIVERIFIKASI · storyboard TIDAK DAPAT DIVERIFIKASI · mascot TIDAK DAPAT DIVERIFIKASI · prompt TIDAK DAPAT DIVERIFIKASI · kata TIDAK DAPAT DIVERIFIKASI.
+
+| No | Komponen | Bobot | Skor | Nilai |
+|---:|---|---:|---:|---:|
+|1|Penamaan Judul & Identitas|5|0|0,00|
+|2|Personal Branding & Logo|12|0|0,00|
+|3|Moodboard|8|0|0,00|
+|4|Mockup Branding|10|0|0,00|
+|5|Naskah Iklan|8|0|0,00|
+|6|Storyline|8|0|0,00|
+|7|Shotlist|10|0|0,00|
+|8|Storyboard|10|0|0,00|
+|9|AI Mascot Character|8|0|0,00|
+|10|Prompt & Dokumentasi AI|7|0|0,00|
+|11|Portfolio Blogger|10|0|0,00|
+|12|Kreativitas & Profesionalisme|4|0|0,00|
+||**TOTAL**|**100**||**0,00**|
+||Nilai Tambah Resolusi (Inaccessible)|–|–|–|0,00|
+||**NILAI AKHIR**|||**0,00**||
+
+### Hasil pemeriksaan per komponen
+| Komponen | Status | Bukti / hasil pemeriksaan |
+|---|---|---|
+| Penamaan Judul & Identitas | TIDAK DAPAT DIVERIFIKASI | Link yang dikirim adalah alamat EDITOR Blogger (https://www.blogger.com/u/1/blog/post/edit/...), bukan link artikel publik; halaman hanya dapat dibuka setelah login Google sehingga karya tidak dapat diakses sama sekali. |
+| Personal Branding & Logo | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - tidak ada page title, tidak ada teks artikel, tidak ada gambar yang dapat diunduh. |
+| Moodboard | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian moodboard tidak dapat diperiksa. |
+| Mockup Branding | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian mockup tidak dapat diperiksa. |
+| Naskah Iklan | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian naskah iklan tidak dapat diperiksa. |
+| Storyline | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian storyline tidak dapat diperiksa. |
+| Shotlist | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian shotlist tidak dapat diperiksa. |
+| Storyboard | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian storyboard tidak dapat diperiksa. |
+| AI Mascot Character | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian maskot tidak dapat diperiksa. |
+| Prompt & Dokumentasi AI | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger - bagian prompt tidak dapat diperiksa. |
+| Portfolio Blogger | TIDAK DAPAT DIVERIFIKASI | URL editor Blogger (bukan artikel publik) - label Blogger tidak dapat diperiksa. |
+| Kreativitas & Profesionalisme | TIDAK DAPAT DIVERIFIKASI | Karya tidak dapat diakses sehingga orisinalitas dan profesionalisme tidak dapat dinilai. |
+
+**Ringkasan otomatis:** status — TIDAK DAPAT DIVERIFIKASI 12. Komponen terkuat: Penamaan Judul & Identitas (0/4), Personal Branding & Logo (0/4), Moodboard (0/4). Komponen terlemah: Penamaan Judul & Identitas (0/4), Personal Branding & Logo (0/4), Moodboard (0/4).
+
+---
 # D. CATATAN UNTUK GURU — VERIFIKASI MANUAL YANG DISARANKAN
 
 Ases tidak dapat melihat gambar secara visual. Verifikasi memakai OCR (Apple Vision) +
 dimensi piksel asli. Butir di bawah **wajib dicek langsung oleh guru** dan sudah
-tersedia sebagai sheet `4. CEK MANUAL GURU` (27 butir) pada workbook.
+tersedia sebagai sheet `4. CEK MANUAL GURU` (38 butir) pada workbook.
 
 | No | Siswa | Butir yang perlu dicek manual | Petunjuk OCR |
 |---:|---|---|---|
@@ -4178,50 +5355,61 @@ tersedia sebagai sheet `4. CEK MANUAL GURU` (27 butir) pada workbook.
 | 25 | NAZWA KURNIA | Kirim link artikel publik | Link yang masuk adalah URL editor Blogger (redirect login Google). Nilai 0 karena karya tidak dapat diverifikasi. |
 | 26 | RISMA SAPARANI | Kirim link artikel publik yang aktif | Link mengembalikan HTTP 404. Nilai 0 karena karya tidak dapat diverifikasi. |
 | 27 | NURI MEITRI AENI | Kirim link artikel publik yang aktif | Link mengembalikan HTTP 404. Nilai 0 karena karya tidak dapat diverifikasi. |
+| 28 | LUSI NURAENI | Kirim link artikel publik | Link yang masuk adalah URL editor Blogger (redirect login Google). Nilai 0 karena karya tidak dapat diverifikasi. |
+| 29 | RADIT KURNIAWAN | Kirim link artikel publik | Link yang masuk adalah URL editor Blogger (redirect login Google). Nilai 0 karena karya tidak dapat diverifikasi. |
+| 30 | ALIA ALAIKA NURFADILA | Kirim link artikel publik yang aktif | Link mengembalikan HTTP 404. Nilai 0 karena karya tidak dapat diverifikasi. |
+| 31 | RAFI FAUZAN NAJA LUTFIANA | Konfirmasi kiriman - projek yang dikirim bukan Personal Branding | Isi: ID Card 'Joko Apar', banner rental PS 'NOOBLE PLAYSTATION', sample logo Android - seluruhnya CorelDRAW 2020, tanpa AI. Perlu konfirmasi apakah link keliru kirim. |
+| 32 | DAPA MUSTOPA | Verifikasi identitas nama | Rekapan & page title 'DAPA MUSTOPA'; seluruh isi artikel dan gambar 'DAFA MUSTOFA'. Perlu klarifikasi nama yang benar. |
+| 33 | MUHAMAD REZA RAMDANI | Verifikasi orisinalitas & identitas brand | Identitas berubah 4x dalam satu artikel: logo 'RR', moodboard branding sekolah, mockup & storyboard 'The Creative Studio' (Ahmad Faisal). Perlu klarifikasi. |
+| 34 | MUHAMMAD TAUFIQ ISMAIL | Verifikasi nama & sisa teks mentah AI | Heading artikel 'MUHAMMAD TAUFIQ ISMAI' (tanpa L); ada sisa '( IndiBlogHub )' dan '( Markuva )' - teks mentah hasil AI. |
+| 35 | SAVINA KHOERUNNISA | Cek isi bagian SHOTLIST dan STORYBOARD | Keduanya berisi deskripsi logo yang sama, bukan shot/scene. Shotlist sebenarnya hanya pada gambar IMG#07 (10 shot); storyboard tidak ada. |
+| 36 | SAFINAH SYARA GARINI | Cek duplikasi bagian mockup | Bagian 'C. Kemasan/Packaging' berisi teks identik dengan 'A. Kartu Nama' - fungsi kemasan bukan spesifik. |
+| 37 | AQILA NAZIL FALAQ | Cek gambar - album Google Photos privat | 7 gambar berada di lh3.google.com/u/0 (butuh login) sehingga tidak dapat diunduh. Bila guru punya akses, periksa moodboard/mockup/logo/maskot. |
+| 38 | WULAN SUNDARI | Konfirmasi link - sekarang HTTP 404 | Nilai 87,75 dihitung dari arsip HTML + 6 gambar yang berhasil diunduh. Bila siswa mengirim link publik baru, nilai dapat dihitung ulang. |
 
 ---
 
 # E. RINGKASAN AKHIR
 
 > Angka bagian ini dihitung ulang dari sumber kebenaran `make_xlsx.py` pada **3 Oktober 2026**
-> (86 siswa). Riwayat versi sebelumnya (31, 68, dan 69 siswa) tetap tercatat di bagian A.
+> (112 siswa). Riwayat versi sebelumnya (31, 68, dan 69 siswa) tetap tercatat di bagian A.
 
-1. **80 dari 86 siswa mengirim link Blogger yang dapat diakses publik** sebelum batas waktu;
-   waktu pengumpulan **tidak memengaruhi skor kualitas**. **6 siswa bernilai 0** karena karya
-   tidak dapat diverifikasi, bukan karena karya kosong: **4 siswa mengirim URL editor Blogger**
-   (CEISHA SINTHIA, NAZWA KURNIA, SINDIA SAPUTRI, SITI JENAB) dan **2 link mengembalikan HTTP 404** (NURI MEITRI AENI, RISMA SAPARANI).
+1. **104 dari 112 siswa mengirim link Blogger yang dapat diakses publik** sebelum batas waktu;
+   waktu pengumpulan **tidak memengaruhi skor kualitas**. **8 siswa bernilai 0** karena karya
+   tidak dapat diverifikasi, bukan karena karya kosong: **6 siswa mengirim URL editor Blogger**
+   (CEISHA SINTHIA, LUSI NURAENI, NAZWA KURNIA, RADIT KURNIAWAN, SINDIA SAPUTRI, SITI JENAB) dan **2 link mengembalikan HTTP 404** (ALIA ALAIKA NURFADILA, RISMA SAPARANI).
 
-2. **23 siswa Sangat Baik** — MUHAMAD PIRDAUS 98,50 · SILVI PUTRI 98,00 · AI MUSLIMAH 98,00 · YAYU ASTIA 97,50 · SHANDIKA SHAFARUDIN 96,25 · RESTI FADILA 96,00 · INTAN WIDIYANTI 94,50 · SYABINA AKHROS 94,00 · PUTRI UTAMI 93,00 · MEYLAN SOFYAN 92,50 · WILDA AZKIA 92,00 · JAJANG MUBAROK 91,50 · NENG AGUSTIN 91,25 · FAHMI ALFIAN 91,25 · SELVI URIZQI 91,00 · JIHAN MULYADI 90,50 · INDRI FITRIYANI 90,50 · NURJIHAN 90,25 · SYIFA HAIRA 90,00 · SRI WAHYUNI 90,00 · HARUM KAMILA 90,00 · DEBI LESTARI 90,00 · AUPA AZNIA 90,00.
+2. **33 siswa Sangat Baik** — MUHAMAD PIRDAUS 98,50 · SILVI PUTRI 98,00 · AI MUSLIMAH 98,00 · MUHAMAD NUGRAHA 97,65 · YAYU ASTIA 97,50 · SHANDIKA SHAFARUDIN 96,25 · INDRI 96,25 · RESTI FADILA 96,00 · SAFINAH GARINI 95,00 · INTAN WIDIYANTI 94,50 · SYABINA AKHROS 94,00 · SITI MULYANI 93,45 · WILDA AZKIA 93,25 · PUTRI UTAMI 93,00 · QUINSYA SOLEHA 92,75 · MEYLAN SOFYAN 92,50 · PITRYA HANDAYANI 92,25 · RAISYA ALAWIYAH 92,00 · FUZI ANNURI 92,00 · JAJANG MUBAROK 91,50 · NENG AGUSTIN 91,25 · FAHMI ALFIAN 91,25 · SITI SILPIANA 91,00 · SELVI URIZQI 91,00 · JIHAN MULYADI 90,50 · NURJIHAN 90,25 · SYIFA HAIRA 90,00 · SRI WAHYUNI 90,00 · M HUAFAH 90,00 · INDRI FITRIYANI 90,00 · HARUM KAMILA 90,00 · DEBI LESTARI 90,00 · AUPA AZNIA 90,00.
 
-3. **44 siswa Baik** — JAJANG NURJAMAN 89,75 · SAFINAH GARINI 89,50 · AI IMAS 89,50 · RITA PEBRIYANI 89,25 · NADIRA RIZKIA 89,25 · SITI KHOIRIYAH 88,75 · MEISYA FAKHRIYAH 88,75 · SITI SILPIANA 88,50 · M HUAFAH 87,50 · DEVINA FITRIANI 87,50 · SOPA AISAH 86,75 · TIRA FADILA 86,50 · NAZMA GASANI 86,50 · MUTIA SARI 86,50 · MOH PIKRI 86,50 · ILFA KHOERUNISA 86,50 · GADNA WIDIATNI 86,50 · ALYA NURAENI 86,50 · AI LESTARI 86,50 · TENI DAMAYANTI 86,25 · HASNI MAIRA 86,25 · AMIRA AULIA 86,00 · DEDE KARTIKA 85,50 · KHANZA NURAENI 85,45 · RISMAYANTI 85,25 · NANI YULIYANI 85,00 · KAMILA APRILIANI 85,00 · RAIRA PUTRI 84,25 · KAILA AROPATILAH 84,25 · AZMI ANUGRAH 84,25 · ZAHRATUL AULIA 84,00 · WAHDAN SAPARI 84,00 · SUMIYATI 84,00 · RIANA SANJAYA 84,00 · NAZWA AISYAH 84,00 · WINA AFRILIANI 83,75 · WILDAN 82,75 · SULISTIAWATI 82,75 · SECHAN KHALIFATUNNISA 82,75 · AZZAHRA QYASIMAH 82,75 · AJENG FITRI 82,75 · AI ZAHRA 82,75 · WULAN SUNDARI 80,50 · NENG RAHAYU 80,25.
+3. **51 siswa Baik** — JAJANG NURJAMAN 89,75 · RAISYA MAULIDA 89,50 · GADNA WIDIATNI 89,50 · AI IMAS 89,50 · RITA PEBRIYANI 89,25 · NADIRA RIZKIA 89,25 · SITI KHOIRIYAH 88,75 · MEISYA FAKHRIYAH 88,75 · INDAH TRIJAYANTI 88,25 · NADA NISRINA 88,00 · WULAN SUNDARI 87,75 · NADIA FITRIANI 87,50 · DEVINA FITRIANI 87,50 · DHEA KHOERUNNISA 87,00 · AZIZAH KAMIL 87,00 · SOPA AISAH 86,75 · TIRA FADILA 86,50 · NAZMA GASANI 86,50 · MUTIA SARI 86,50 · MOH PIKRI 86,50 · ILFA KHOERUNISA 86,50 · ALYA NURAENI 86,50 · AI LESTARI 86,50 · TENI DAMAYANTI 86,25 · HASNI MAIRA 86,25 · AMIRA AULIA 86,00 · DEDE KARTIKA 85,50 · KHANZA NURAENI 85,45 · RISMAYANTI 85,25 · NANI YULIYANI 85,00 · KAMILA APRILIANI 85,00 · INTAN MAHARANY 85,00 · RAIRA PUTRI 84,25 · KAILA AROPATILAH 84,25 · AZMI ANUGRAH 84,25 · ZAHRATUL AULIA 84,00 · WAHDAN SAPARI 84,00 · SUMIYATI 84,00 · RIANA SANJAYA 84,00 · NAZWA AISYAH 84,00 · WINA AFRILIANI 83,75 · NAPSA JAKIYAH 83,25 · WILDAN 82,75 · SULISTIAWATI 82,75 · SECHAN KHALIFATUNNISA 82,75 · AZZAHRA QYASIMAH 82,75 · AJENG FITRI 82,75 · AI ZAHRA 82,75 · SYIPA NURAENI 80,50 · NENG RAHAYU 80,25 · AQILA FALAQ 80,25.
 
-4. **10 siswa Cukup** — MERLIN AZNIKA 78,00 · ILMA LATIFAH 77,25 · FITRIYANI 76,50 · SYIVA AGUSTIN 75,25 · DIRA RAHMAWATI 75,00 · AI TITO 74,25 · QIANDRA NAHARI 72,45 · AQILA FALAQ 72,25 · RIZKY SAFARI 71,00 · AHMAD FAUZI 70,00.
+4. **15 siswa Cukup** — NAILA AGUSTIN 79,75 · MUHAMMAD ISMAIL 79,50 · MERLIN AZNIKA 78,00 · ILMA LATIFAH 77,25 · FITRIYANI 76,50 · NURI AENI 75,50 · SYIVA AGUSTIN 75,25 · DIRA RAHMAWATI 75,00 · AI TITO 74,25 · GILAR SOLEH 73,75 · ADE GUNAWAN 72,50 · QIANDRA NAHARI 72,45 · SAVINA KHOERUNNISA 72,25 · RIZKY SAFARI 71,00 · AHMAD FAUZI 70,00.
 
-5. **9 siswa Perlu Perbaikan** — PUTRI NURAENI 69,50 · DHEA KHOERUNNISA 58,50 · QUINSYA SOLEHA 52,50 · SITI JENAB 0,00 · SINDIA SAPUTRI 0,00 · RISMA SAPARANI 0,00 · NURI AENI 0,00 · NAZWA KURNIA 0,00 · CEISHA SINTHIA 0,00.
+5. **13 siswa Perlu Perbaikan** — PUTRI NURAENI 69,50 · MUHAMAD RAMDANI 69,50 · DAPA MUSTOPA 68,95 · NADYA NURLATIFA 34,00 · RAFI LUTFIANA 4,75 · SITI JENAB 0,00 · SINDIA SAPUTRI 0,00 · RISMA SAPARANI 0,00 · RADIT KURNIAWAN 0,00 · NAZWA KURNIA 0,00 · LUSI NURAENI 0,00 · CEISHA SINTHIA 0,00 · ALIA NURFADILA 0,00.
 
-6. **Nilai tambah resolusi** diberikan kepada **7 siswa**: JAJANG MUBAROK (+1,0) · JIHAN MULYADI (+1,0) · WULAN SUNDARI (+1,0) · MUHAMAD PIRDAUS (+1,0) · JAJANG NURJAMAN (+1,0) · QIANDRA NAHARI (+0,7) · KHANZA NURAENI (+0,7).
-   79 siswa lain nilai tambah 0 **tanpa pengurangan nilai** — resolusi rendah tetap diperbolehkan.
+6. **Nilai tambah resolusi** diberikan kepada **12 siswa**: JAJANG MUBAROK (+1,0) · JIHAN MULYADI (+1,0) · WULAN SUNDARI (+1,0) · MUHAMAD PIRDAUS (+1,0) · JAJANG NURJAMAN (+1,0) · AZIZAH KAMIL (+1,0) · SAVINA KHOERUNNISA (+1,0) · QIANDRA NAHARI (+0,7) · KHANZA NURAENI (+0,7) · DAPA MUSTOPA (+0,7) · SITI MULYANI (+0,7) · MUHAMAD NUGRAHA (+0,4).
+   100 siswa lain nilai tambah 0 **tanpa pengurangan nilai** — resolusi rendah tetap diperbolehkan.
 
-7. **Pola umum kelas (86 siswa, 131 temuan ketidaklengkapan):** komponen terkuat adalah
-   **Storyline** (rata 3,52/4; 72 siswa memperoleh skor 4), disusul *Personal Branding & Logo* (3,51/4) dan *Naskah Iklan* (3,49/4).
-   Komponen terlemah: **Mockup Branding** (2,84/4), *Storyboard* (2,85/4), dan *AI Mascot Character* (2,88/4).
-   Temuan terbanyak: *Mockup Branding* (15 temuan), *Portfolio Blogger* (15 temuan), *Penamaan Judul & Identitas* (12 temuan) — trio komponen yang paling sering tidak lengkap di kelas.
+7. **Pola umum kelas (112 siswa, 185 temuan ketidaklengkapan):** komponen terkuat adalah
+   **Storyline** (rata 3,54/4; 93 siswa memperoleh skor 4), disusul *Naskah Iklan* (3,48/4) dan *Personal Branding & Logo* (3,46/4).
+   Komponen terlemah: **AI Mascot Character** (2,82/4), *Mockup Branding* (2,88/4), dan *Storyboard* (2,90/4).
+   Temuan terbanyak: *Portfolio Blogger* (27 temuan), *Mockup Branding* (21 temuan), *Shotlist* (19 temuan) — trio komponen yang paling sering tidak lengkap di kelas.
 
-8. **Setelah 3x revisi rubrik:** rata-rata nilai rubrik **79,28**, ditambah nilai tambah resolusi
-   **+0,07** → **79,35** (nilai akhir, 86 siswa). Tertinggi MUHAMAD PIRDAUS 98,50; terendah yang dapat dinilai
-   QUINSYA SOLEHA; **6 siswa 0,00** (tidak dapat dinilai).
+8. **Setelah 3x revisi rubrik:** rata-rata nilai rubrik **78,53**, ditambah nilai tambah resolusi
+   **+0,09** → **78,62** (nilai akhir, 112 siswa). Tertinggi MUHAMAD PIRDAUS 98,50; terendah yang dapat dinilai
+   RAFI LUTFIANA; **8 siswa 0,00** (tidak dapat dinilai).
 
 9. **Riwayat nilai kelas:** 64,61 (semula) → 66,58 (Revisi-1) → 78,65 (Revisi-2) → 78,09
     (Revisi-3, 18 siswa) → 79,50 (31 siswa) → 79,11 (69 baris) → 78,95 (68 siswa) →
-    **79,35 (86 siswa)**.
+    **78,62 (112 siswa)**.
 
 10. **Riwayat revisi rubrik:** revisi ke-1 — 9 siswa naik (64,61 → 66,58); revisi ke-2 —
     resolusi jadi nilai tambah tanpa pengurangan; revisi ke-3 — nilai tambah resolusi
     diturunkan menjadi maksimal +1,0 poin (78,65 → 78,09, tanpa perubahan kategori).
 
 11. **Rekomendasi untuk guru:**
-    (a) **minta link artikel publik** untuk CEISHA SINTHIA, NAZWA KURNIA, SINDIA SAPUTRI, SITI JENAB — seluruh komponen tercatat TIDAK DAPAT DIVERIFIKASI sehingga nilai 0,00;
-    (b) **minta link aktif** untuk NURI MEITRI AENI, RISMA SAPARANI — link mengembalikan HTTP 404;
+    (a) **minta link artikel publik** untuk CEISHA SINTHIA, LUSI NURAENI, NAZWA KURNIA, RADIT KURNIAWAN, SINDIA SAPUTRI, SITI JENAB — seluruh komponen tercatat TIDAK DAPAT DIVERIFIKASI sehingga nilai 0,00;
+    (b) **minta link aktif** untuk ALIA ALAIKA NURFADILA, RISMA SAPARANI — link mengembalikan HTTP 404;
     (c) **periksa orisinalitas 4 kiriman** — heading "{Monogram SSG}" muncul identik pada MUHAMAD PIRDAUS, NAZMA GASANI, TENI DAMAYANTI, RESTI FADILA;
     (d) **revisi soal/RPP** agar rubrik tertulis dan rubrik yang dipakai menjadi satu acuan — lihat peringatan di `KETENTUAN-AI.md` 3.4;
     (e) **tambahkan label Blogger** dan **beri label "Prompt"** pada setiap blok prompt;

@@ -1,0 +1,206 @@
+====================================================================================================
+ID R92 | SYIPA NURAENI | XI DKV 1 | ts 2026-10-02 14:45:46
+URL: https://nuraenisyipaa.blogspot.com/2026/10/personal-branding-syipa-nuraeni-xi-dkv-1.html
+PAGE TITLE: 'Personal Branding Syipa Nuraeni XI DKV 1'
+STATUS 200 | words=3282 | img=8 | tabel=0 | labels=['Branding', 'CV', 'Kegiatan Belajar', 'SMKN 9 Garut', 'Tugas ASTS personal branding SYIPA N XI DKV
+1', 'Tugas Sekolah']
+
+### JUMLAH KATA PER BAGIAN: {}
+
+
+### TEKS ARTIKEL LENGKAP (get_text() penuh, 3282 kata; ekstraksi per-bagian hanya 0) — WAJIB DIBACA, JANGAN ABAIKAN
+ASTS Personal Branding Syipa Nuraeni XI DKV 1 SMKN 9 Garut 1. personal Branding Logo dan identitas Branding Logo Personal Branding SN Logo SN
+merupakan identitas visual personal branding yang dibuat dari inisial nama Syipa Nuraeni. Huruf S dan N menjadi elemen utama yang dirancang dalam
+bentuk monogram sehingga menghasilkan logo yang sederhana, unik, dan mudah dikenali. Bentuk huruf yang tegas dan dinamis menggambarkan karakter diri
+yang percaya diri, produktif, dan kreatif. Konsep logo juga menggabungkan beberapa elemen visual yang mewakili minat dan hobi. Elemen buku
+menggambarkan kegemaran membaca novel, sedangkan simbol kamera dan aperture merepresentasikan ketertarikan terhadap fotografi. Selain itu, penggunaan
+cursor dan garis digital menggambarkan aktivitas editing serta minat dalam mengolah dan menciptakan karya visual. Elemen-elemen tersebut dipadukan
+secara sederhana agar logo tetap terlihat rapi dan tidak terlalu ramai. Bentuk frame yang mengelilingi bagian utama logo terinspirasi dari bidang
+fotografi dan desain. Frame tersebut memiliki makna sebagai ruang untuk menuangkan ide, kreativitas, dan berbagai karya visual. Garis yang mengalir
+pada bagian logo memberikan kesan dinamis, menggambarkan semangat untuk terus belajar, berkarya, dan mengembangkan kemampuan di bidang kreatif. Warna
+utama yang digunakan adalah ungu gelap dengan aksen lavender. Ungu gelap memberikan kesan kuat, percaya diri, dan profesional, sedangkan lavender
+memberikan kesan kreatif, lembut, dan artistik. Kombinasi warna tersebut dipilih untuk menciptakan identitas visual yang modern sekaligus memiliki
+karakter personal. Secara keseluruhan, logo SN menjadi representasi dari pribadi Syipa Nuraeni yang produktif, percaya diri, dan memiliki ketertarikan
+terhadap dunia kreatif. Melalui perpaduan inisial nama, elemen membaca, fotografi, dan editing, logo ini menggambarkan perjalanan dalam mengembangkan
+kreativitas melalui desain dan fotografi. Identitas visual ini nantinya dapat digunakan secara konsisten pada portofolio, hasil desain, fotografi,
+media sosial, maupun berbagai karya kreatif lainnya. prompt: hai berperanlah sebagai ahli designer, disini saya akan membuat logo personal Branding
+dari inisial nama saya = Syipa Nuraeni dengan ketentuan berikut berdasarkan: • Inisial nama: SN • Karakter diri: produktif, percaya diri • Hobi atau
+minat; membaca novel, nonton drama, ngedit sedikit-sedikit • Bidang kreatif yang diminati: design, fotografi 2. Moodboard Branding Deskripsi Moodboard
+Moodboard personal branding SN (Syipa Nuraeni) dibuat sebagai gambaran visual dari identitas, karakter, minat, dan bidang kreatif yang ingin
+ditampilkan. Moodboard ini menjadi acuan dalam menentukan arah visual agar seluruh elemen branding memiliki tampilan yang konsisten, mulai dari warna,
+tipografi, gaya visual, elemen grafis, hingga suasana yang ingin dibangun. Warna utama menggunakan kombinasi deep purple, lavender, soft lilac, beige,
+dan dark gray. Deep purple memberikan kesan percaya diri, kuat, dan profesional, sedangkan lavender dan soft lilac memberikan kesan kreatif, lembut,
+dan artistik. Beige digunakan sebagai warna penyeimbang yang memberikan kesan hangat dan elegan, sementara dark gray membantu memberikan kontras serta
+menjaga tampilan tetap tegas dan modern. Pada bagian typography, digunakan perpaduan font Playfair Display, Allura, dan Montserrat. Playfair Display
+memberikan karakter elegan dan profesional, Allura memberikan sentuhan personal dan artistik melalui gaya tulisan tangan, sedangkan Montserrat
+digunakan sebagai font pendukung karena memiliki bentuk yang bersih, modern, dan mudah dibaca. Kombinasi ketiga tipografi tersebut menciptakan
+keseimbangan antara sisi elegan, kreatif, dan modern. Style visual yang digunakan adalah minimalis, modern, kreatif, elegan, profesional, dan estetik.
+Visual fotografi seperti kamera, buku, meja kerja, laptop, dan suasana kota digunakan untuk memperkuat identitas sebagai seseorang yang memiliki
+ketertarikan pada desain dan fotografi. Komposisi yang rapi dengan penggunaan ruang kosong membuat moodboard tetap terlihat bersih dan tidak
+berlebihan. Pada bagian referensi desain, ditampilkan berbagai contoh penerapan identitas visual seperti desain poster, kartu, tampilan media sosial,
+fotografi, dan merchandise. Referensi tersebut menunjukkan bagaimana logo SN, warna, tipografi, serta elemen grafis dapat diterapkan secara konsisten
+pada berbagai media. Tone & mood yang ingin ditampilkan adalah tenang, kreatif, inspiratif, hangat, bersemangat, profesional, dan dreamy. Suasana
+tersebut menggambarkan karakter Syipa yang percaya diri dan produktif, tetapi tetap memiliki sisi kreatif dan imajinatif. Mood ini juga terhubung
+dengan hobinya seperti membaca novel, menonton drama, dan menikmati proses editing. Elemen grafis dalam moodboard meliputi logo SN, simbol kamera,
+aperture, buku, film, cursor, frame, sparkles, garis dekoratif, serta elemen seperti grid dan potongan kertas. Elemen-elemen tersebut menjadi simbol
+dari berbagai minat Syipa, terutama membaca, menonton, editing, desain, dan fotografi. Penggunaannya dibuat sederhana agar tetap mendukung identitas
+utama tanpa menghilangkan fokus pada logo. Pada bagian inspirasi visual, digunakan gambar yang berkaitan dengan aktivitas membaca, fotografi, desain,
+editing, suasana ruang kerja, buku, laptop, kamera, serta pemandangan dengan nuansa lavender dan ungu. Kumpulan visual tersebut menggambarkan dunia
+kreatif yang menjadi sumber inspirasi Syipa dalam menghasilkan ide dan karya. Secara keseluruhan, moodboard ini menggambarkan personal branding Syipa
+Nuraeni sebagai pribadi yang produktif, percaya diri, kreatif, dan memiliki ketertarikan pada desain serta fotografi. Moodboard berfungsi sebagai
+pedoman visual agar setiap karya yang dibuat tetap memiliki karakter yang sama dan mudah dikenali sebagai bagian dari identitas SN. Prompt: Coba dari
+branding ini buatkan moodboardnya. berikut ketentuannya; Buat moodboard visual yang menggambarkan identitas branding yang telah dibuat. Moodboard
+wajib memuat: • Warna utama branding • Typography • Style visual • Referensi desain • Tone & Mood • Elemen grafis • Inspirasi visual Output • 1
+Moodboard • Format Landscape 3. Mockup Branding a. kartu nama Deskripsi Mockup Kartu Nama Mockup kartu nama SN (Syipa Nuraeni) merupakan salah satu
+implementasi dari identitas visual personal branding yang telah dibuat. Kartu nama ini dirancang untuk memperkenalkan identitas sekaligus menunjukkan
+karakter Syipa sebagai pribadi yang percaya diri, produktif, dan kreatif, dengan minat utama pada bidang desain dan fotografi. Pada bagian depan kartu
+nama, digunakan warna deep purple sebagai warna utama dengan logo SN berwarna terang sebagai focal point. Kontras tersebut membuat logo terlihat lebih
+menonjol dan memberikan kesan elegan, profesional, serta kuat. Logo ditempatkan di bagian tengah sehingga menjadi elemen visual utama dan membuat
+kartu nama mudah dikenali. Bagian belakang menggunakan warna soft lilac yang lebih lembut sebagai penyeimbang dari bagian depan. Informasi seperti
+nama Syipa Nuraeni, bidang Design & Photography, email, media sosial, dan lokasi disusun dengan tata letak yang rapi dan sederhana. Penggunaan ruang
+kosong membuat informasi lebih mudah dibaca sekaligus mempertahankan kesan minimalis. Elemen dekoratif seperti garis tipis, frame, simbol bintang, dan
+bentuk visual yang terinspirasi dari logo digunakan sebagai aksen untuk memperkuat identitas branding. Elemen tersebut tidak dibuat terlalu banyak
+agar kartu nama tetap terlihat clean dan profesional. Pemilihan material kertas dengan tekstur halus juga memberikan kesan premium dan artistik.
+Mockup kartu nama kemudian ditampilkan dalam suasana flat lay dengan beberapa objek pendukung seperti kamera, buku, bunga, dan stationery. Objek
+tersebut dipilih untuk memperkuat hubungan antara kartu nama dengan dunia fotografi, membaca, desain, dan kreativitas. Secara keseluruhan, kartu nama
+ini menjadi media yang menggabungkan fungsi informasi dengan identitas visual sehingga personal branding Syipa Nuraeni dapat terlihat konsisten,
+profesional, dan mudah dikenali. b. gelas kopi Deskripsi Mockup Gelas Kopi Mockup gelas kopi ini merupakan penerapan personal branding SN — Syipa
+Nuraeni ke dalam media yang dekat dengan aktivitas sehari-hari. Gelas tidak hanya berfungsi sebagai wadah minuman, tetapi juga menjadi simbol ruang
+untuk berpikir, mencari inspirasi, dan menghasilkan ide kreatif. Warna deep purple pada logo melambangkan rasa percaya diri, kreativitas, dan karakter
+yang kuat. Warna lavender memberikan kesan lembut, tenang, dan imajinatif, sedangkan warna cream/putih melambangkan kesederhanaan, keterbukaan, dan
+ruang untuk menciptakan ide baru. Logo SN menjadi identitas utama yang melambangkan pribadi Syipa Nuraeni yang produktif dan percaya diri. Elemen
+kamera merepresentasikan ketertarikan pada fotografi, buku melambangkan hobi membaca novel dan sumber inspirasi, sedangkan elemen editing dan desain
+menggambarkan bidang kreatif yang ingin terus dikembangkan. Tulisan “Create. Capture. Inspire.” memiliki filosofi bahwa setiap ide dapat diciptakan
+menjadi karya, setiap momen dapat ditangkap melalui fotografi, dan setiap pengalaman dapat menjadi inspirasi. Sementara itu, “Small Steps Big Dreams”
+menggambarkan keyakinan bahwa langkah-langkah kecil dalam belajar dan berkarya dapat membawa seseorang menuju impian yang lebih besar. Secara
+keseluruhan, gelas kopi ini menggambarkan sosok Syipa Nuraeni sebagai pribadi yang percaya diri, produktif, kreatif, dan terus berkembang melalui
+membaca, desain, editing, dan fotografi. c. hooodie Deskripsi mockup hoodie Mockup hoodie SN (Syipa Nuraeni) merupakan salah satu penerapan identitas
+visual personal branding ke dalam media fashion. Hoodie ini dirancang untuk membawa karakter SN ke dalam produk yang lebih kasual, modern, dan dapat
+digunakan dalam aktivitas sehari-hari. Konsepnya tetap mempertahankan karakter utama branding, yaitu percaya diri, produktif, kreatif, dan ekspresif.
+Warna utama hoodie menggunakan deep purple yang menjadi salah satu warna utama pada moodboard personal branding. Warna tersebut memberikan kesan kuat,
+elegan, dan percaya diri, sekaligus menciptakan tampilan yang modern. Detail berwarna lavender dan soft lilac digunakan pada tali hoodie dan beberapa
+bagian grafis untuk memberikan keseimbangan serta mempertahankan kesan lembut dan kreatif dari identitas SN. Pada bagian depan hoodie terdapat logo
+monogram SN dalam ukuran yang lebih kecil sehingga memberikan kesan minimalis dan elegan. Logo dilengkapi dengan nama Syipa Nuraeni serta identitas
+Design & Photography sebagai penegas bidang kreatif yang ditekuni. Sementara itu, bagian belakang menggunakan logo SN dalam ukuran yang lebih besar
+sehingga menjadi focal point utama dan memberikan identitas yang lebih kuat ketika hoodie dilihat dari belakang. Beberapa detail kecil seperti simbol
+bintang, frame, dan elemen garis digunakan sebagai aksen dekoratif yang diambil dari identitas visual logo. Tali hoodie juga dibuat dengan detail
+ujung berbentuk bintang untuk memberikan ciri khas dan memperkuat kesan kreatif. Pada bagian samping terdapat label kecil dengan logo SN yang
+memberikan sentuhan branding tambahan sekaligus membuat desain terlihat lebih profesional. Konsep hoodie ini juga berkaitan dengan berbagai minat
+Syipa, seperti fotografi, membaca, editing, dan kreativitas. Hal tersebut divisualisasikan melalui ikon kamera, buku, simbol editing, dan elemen
+bintang pada presentasi mockup. Dengan demikian, hoodie tidak hanya berfungsi sebagai pakaian, tetapi juga menjadi media untuk mengekspresikan
+identitas dan dunia kreatif Syipa. Secara keseluruhan, mockup hoodie SN menggabungkan unsur fashion, kreativitas, dan personal branding dalam satu
+tampilan yang konsisten. Penggunaan warna, logo, tipografi, dan elemen grafis yang berasal dari moodboard membuat hoodie ini tetap memiliki identitas
+yang sama dengan media branding lainnya. Mockup ini menunjukkan bahwa identitas SN dapat diterapkan secara fleksibel pada berbagai media tanpa
+kehilangan karakter utamanya. Prompt: Sekarang berdasarkan branding diatas implementasikan kedalam bentuk mock up; Kartu Nama, Gelas Kopi, Hoodie. 4.
+Maskot Branding Deskripsi visual: Deskripsi dan Filosofi Maskot SN Maskot personal branding SN — Syipa Nuraeni dibuat dalam gaya 3D Character dengan
+karakter perempuan berhijab yang tampil modern, kreatif, percaya diri, dan energik. Maskot dirancang dalam tiga output, yaitu Mascot Full Body, Mascot
+Portrait, dan Mascot Bersama Logo Branding. Ketiganya memiliki visual yang konsisten dengan identitas warna dan gaya personal branding SN. Pada Mascot
+Full Body, karakter menggunakan hoodie berwarna deep purple yang menjadi warna utama branding. Hoodie melambangkan kenyamanan sekaligus kebebasan
+dalam mengekspresikan kreativitas. Celana berwarna cream memberikan keseimbangan visual dan melambangkan kesederhanaan. Kamera yang dibawa oleh maskot
+menjadi simbol ketertarikan pada fotografi, sedangkan buku dan elemen digital merepresentasikan membaca, desain, dan editing. Headphone menggambarkan
+aktivitas menikmati hiburan sekaligus mencari inspirasi dari berbagai sumber. Pada Mascot Portrait, ekspresi wajah yang ramah dan percaya diri
+menggambarkan karakter optimis, produktif, dan terbuka terhadap ide baru. Pose yang santai memberikan kesan bahwa kreativitas dapat muncul dari
+suasana yang nyaman. Elemen bintang dan dekorasi lavender menjadi simbol ide, inspirasi, dan mimpi yang terus berkembang. Pada Mascot Bersama Logo
+Branding, maskot ditampilkan bersama logo SN sebagai bentuk penyatuan antara karakter dan identitas visual. Logo menjadi simbol utama dari Syipa
+Nuraeni, sedangkan maskot menjadi representasi visual dari kepribadian dan bidang kreatifnya. Tulisan “Create. Capture. Inspire.” memiliki filosofi
+bahwa setiap ide dapat diciptakan menjadi karya, setiap momen dapat ditangkap melalui fotografi, dan setiap pengalaman dapat menjadi sumber inspirasi.
+Secara keseluruhan, maskot SN bukan hanya karakter dekoratif, tetapi merupakan representasi visual dari pribadi Syipa Nuraeni yang percaya diri,
+produktif, kreatif, dan terus berkembang. Perpaduan warna deep purple, lavender, dan cream memperkuat kesan modern, elegan, lembut, dan kreatif
+sehingga maskot dapat digunakan secara konsisten pada portfolio, media sosial, poster, merchandise, maupun berbagai media branding lainnya. Prompt:
+Membuat AI mascot character dari branding yang telah dibuat implementasikan/ buat maskot nya style : 3D character dengan ketentuan Output 1. Mascot
+Full Body 2. Mascot Portrait 3. Mascot Bersama Logo Branding 5. Naskah Iklan Komersial NASKAH SHORT MOVIE PERSONAL BRANDING Judul: Create, Capture,
+Inspire Tema: Perjalanan seorang kreator muda dalam menemukan dan mengekspresikan dirinya melalui membaca, desain, editing, dan fotografi. Durasi: ±60
+detik Pesan Utama: Setiap ide kecil dapat menjadi karya yang berarti ketika kita berani belajar, berkarya, dan percaya pada diri sendiri. Closing
+Tagline: “Create. Capture. Inspire.” NASKAH / SCRIPT Di sebuah meja kerja yang sederhana dan estetik, terlihat sebuah novel terbuka, kamera, laptop,
+sketchbook, alat tulis, dan beberapa hasil desain. Talent duduk di depan meja, mengambil novel dan mulai membaca dengan tenang. Beberapa halaman
+dibalik secara perlahan, kemudian talent berhenti sejenak seolah menemukan sebuah inspirasi. VO: “Semua karya berawal dari sebuah rasa ingin tahu.
+Dari satu halaman yang dibaca, satu cerita yang menginspirasi, dan satu ide kecil yang muncul di dalam pikiran.” Talent kemudian menutup novel dan
+mengambil sketchbook. Ia mulai membuat sketsa sederhana. Kamera memperlihatkan detail tangan yang menggambar, garis-garis sketsa, serta ekspresi fokus
+talent. Setelah itu, talent berpindah ke laptop dan mulai mengembangkan sketsa tersebut menjadi sebuah desain digital. VO: “Bagiku, kreativitas bukan
+hanya tentang membuat sesuatu yang terlihat indah. Tetapi tentang bagaimana sebuah ide dapat berkembang menjadi sesuatu yang memiliki cerita.”
+Tampilan berpindah ke layar laptop. Terlihat proses editing desain: memilih warna, mengatur tipografi, menyusun elemen visual, hingga desain mulai
+terlihat utuh. Talent tersenyum kecil setelah melihat hasilnya. VO: “Aku membaca untuk menemukan inspirasi. Aku mendesain untuk menyampaikan ide. Dan
+aku belajar melalui setiap proses untuk menemukan caraku sendiri dalam berkarya.” Talent kemudian mengambil kamera dan berjalan menuju sebuah tempat
+dengan pencahayaan menarik. Ia mengatur kamera, melihat objek melalui viewfinder, kemudian mengambil beberapa foto. Potongan hasil foto ditampilkan
+secara cepat, diselingi detail logo SN pada kartu nama, hoodie, dan berbagai media branding. VO: “Karena setiap momen memiliki cerita. Dan melalui
+fotografi, aku belajar untuk melihat sesuatu dari sudut pandang yang berbeda.” Talent kembali ke meja kerja dan melihat hasil desain serta foto yang
+telah dibuat di laptop. Ia memperhatikan hasil karyanya dengan ekspresi puas dan percaya diri. Talent kemudian menatap kamera. Dialog – Talent: “Ini
+adalah caraku menciptakan, menangkap, dan bercerita.” Talent berdiri dan berjalan menjauh dari meja. Layar perlahan menampilkan berbagai potongan
+karya: desain, fotografi, sketchbook, novel, dan elemen visual dari personal branding SN. Musik mulai meningkat secara perlahan. VO: “Aku mungkin
+masih dalam proses. Masih banyak hal yang ingin kupelajari dan masih banyak karya yang ingin kuciptakan. Tapi aku percaya, setiap langkah kecil
+membawa aku lebih dekat pada versi terbaik dari diriku.” Layar kemudian berubah menjadi tampilan logo SN — Syipa Nuraeni secara utuh dengan warna
+utama deep purple dan lavender. Di bawah logo muncul tulisan DESIGN • PHOTOGRAPHY • READING • EDITING. VO: “Karena menjadi kreatif bukan tentang
+menjadi sempurna. Tetapi tentang berani mencoba, terus belajar, dan percaya pada diri sendiri.” CLOSING ON SCREEN SN — SYIPA NURAENI DESIGN •
+PHOTOGRAPHY • READING • EDITING CREATE. CAPTURE. INSPIRE. Small Ideas, Meaningful Creations. Prompt : sekarang kita akan membuat storylinenya :
+berikut ketentuannya : storylinenya wajib memuat: • Pembukaan • Alur Cerita • Konflik/Fokus Visual • Penutup 6. STORYLINE STORYLINE SHORT MOVIE
+PERSONAL BRANDING Judul: Create. Capture. Inspire. Durasi: ±60 detik Tokoh: Syipa Nuraeni Konsep: Personal Branding SN 1. Pembukaan Cerita dibuka
+dengan suasana meja kerja yang estetik dan tenang. Terlihat novel, kamera, laptop, sketchbook, dan perlengkapan desain. Syipa duduk sambil membaca
+novel untuk mencari inspirasi. Setelah selesai membaca, ia mulai mendapatkan sebuah ide dan menuangkannya ke dalam sketchbook. 2. Alur Cerita Ide yang
+muncul kemudian dikembangkan melalui proses kreatif. Syipa mulai membuat desain menggunakan laptop, mengatur warna, typography, dan layout. Setelah
+itu, ia mengambil kamera untuk mengabadikan sebuah objek dan melihat hasil fotonya. Berbagai aktivitas tersebut menunjukkan perjalanan Syipa dalam
+mengembangkan kreativitas melalui membaca, desain, editing, dan fotografi. 3. Konflik/Fokus Visual Konflik dalam cerita bukan berupa masalah besar,
+tetapi lebih kepada proses dan keraguan dalam menciptakan sebuah karya. Syipa menghadapi proses mencoba, mengembangkan ide, dan memperbaiki hasil
+karyanya. Fokus visual berada pada ekspresi serius saat berkarya, detail tangan saat menggambar atau mengedit, proses menggunakan kamera, serta
+perubahan dari sebuah ide sederhana menjadi karya yang lebih bermakna. 4. Penutup Setelah menyelesaikan prosesnya, Syipa melihat hasil desain dan foto
+yang telah dibuat dengan ekspresi percaya diri. Visual kemudian menampilkan berbagai karya, maskot, dan identitas logo SN — Syipa Nuraeni. Cerita
+ditutup dengan pesan bahwa setiap langkah kecil dalam belajar dan berkarya dapat membawa seseorang lebih dekat pada impiannya. Closing Tagline:
+“CREATE. CAPTURE. INSPIRE.” Prompt : sekarang kita akan membuat storylinenya : berikut ketentuannya : storylinenya wajib memuat: • Pembukaan • Alur
+Cerita • Konflik/Fokus Visual • Penutup 7. SHOTLIST Deskripsi Shotlist: Shotlist short movie “Create. Capture. Inspire.” dibuat sebagai panduan visual
+untuk mengatur setiap pengambilan gambar dalam video personal branding SN — Syipa Nuraeni. Shotlist ini terdiri dari 14 shot dengan durasi keseluruhan
+sekitar 60 detik, yang disusun secara berurutan mulai dari pembukaan hingga penutup. Setiap shot menjelaskan durasi, visual atau aksi, jenis shot,
+angle, gerakan kamera, audio/VO, dan transisi. Alur visual dimulai dari aktivitas membaca novel sebagai sumber inspirasi, dilanjutkan dengan proses
+membuat sketsa, mendesain dan melakukan editing menggunakan laptop, kemudian beralih ke aktivitas fotografi. Penggunaan Wide Shot, Medium Shot, Close
+Up, dan Medium Close Up membantu menampilkan cerita secara lebih variatif. Close Up digunakan untuk memperlihatkan detail seperti tangan saat
+menggambar, layar laptop, dan kamera, sedangkan Medium Shot digunakan untuk memperlihatkan aktivitas dan ekspresi karakter. Pergerakan kamera seperti
+Slow Push In, Dolly In, Pan, Tracking, dan Static digunakan untuk membuat video terasa lebih hidup dan menarik. Secara visual, shotlist mempertahankan
+identitas branding SN melalui penggunaan nuansa deep purple, lavender, dan cream, serta menampilkan elemen buku, kamera, laptop, desain, dan maskot.
+Bagian akhir menampilkan logo SN — Syipa Nuraeni dan tagline “Create. Capture. Inspire.” sebagai penegasan identitas personal branding. Shotlist ini
+berfungsi sebagai acuan saat proses produksi agar pengambilan gambar lebih terarah, konsisten, dan sesuai dengan naskah serta storyline yang telah
+dibuat. Prompt: Sekarang buatkan dokumen shotlistnya dengan ketentuan berikut : buat tabel shotlist minimal 10 shot No l Adegan l Jenis Shot l Angle l
+Movement Durasi l Deskripsi 8. STORYBOARD Deskripsi Storyboard: Filosofi Storyboard Personal Branding Storyboard personal branding “Create. Capture.
+Inspire.” menggambarkan perjalanan Syipa Nuraeni dalam mengenal diri, mengembangkan kemampuan, dan mengekspresikan kreativitas melalui berbagai
+aktivitas yang disukai. 1. Pembukaan – Inspirasi Ruang kerja yang berisi buku, kamera, laptop, dan alat tulis menggambarkan bahwa setiap karya berawal
+dari sebuah ide dan inspirasi sederhana. 2. Proses & Aktivitas – Berkarya Adegan membaca, membuat sketsa, dan menggunakan laptop menunjukkan bahwa
+sebuah karya membutuhkan proses. Setiap langkah menjadi kesempatan untuk belajar, mencoba, dan mengembangkan kemampuan. 3. Hobi & Dunia yang Disukai
+Buku, fotografi, editing, dan desain merepresentasikan minat Syipa. Berbagai hobi tersebut menjadi sumber inspirasi sekaligus bagian dari karakter dan
+identitas personalnya. 4. Tujuan & Masa Depan – Melangkah Visual perjalanan menuju masa depan melambangkan semangat untuk terus berkembang dan
+mengejar impian. Hal ini menggambarkan filosofi “Small Steps, Big Dreams”, yaitu bahwa langkah kecil yang dilakukan secara konsisten dapat membawa
+seseorang menuju tujuan yang lebih besar. 5. Identitas – Siapa Aku Mascot Syipa menjadi representasi visual dari karakter personal branding. Sosok
+yang kreatif, percaya diri, dan terus belajar ditampilkan melalui ekspresi serta elemen visual yang konsisten dengan identitas brand. 6. Penutup –
+Terus Melangkah Kemunculan logo SN menjadi simbol dari identitas Syipa Nuraeni. Logo tersebut menyatukan berbagai minat, proses, dan karya menjadi
+satu identitas personal branding yang utuh. Filosofi Warna Deep Purple melambangkan kreativitas, karakter, dan kepercayaan diri. Lavender melambangkan
+kelembutan, imajinasi, dan sisi personal. Lilac melambangkan perkembangan dan semangat untuk bereksplorasi. Cream memberikan kesan hangat, sederhana,
+dan elegan. Putih melambangkan kebebasan, keseimbangan, dan kesan bersih. Filosofi Elemen Visual Bintang melambangkan inspirasi, harapan, dan impian.
+Daun melambangkan pertumbuhan dan perkembangan diri. Buku melambangkan pengetahuan dan imajinasi. Kamera melambangkan kemampuan menangkap dan
+mengabadikan cerita. Laptop melambangkan proses menciptakan karya secara digital. Mascot menjadi representasi karakter Syipa dalam bentuk visual. Logo
+SN menjadi simbol utama identitas personal branding Syipa Nuraeni. Kesimpulan: Storyboard ini menggambarkan bahwa personal branding bukan hanya
+tentang logo atau tampilan visual, tetapi juga tentang proses mengenal diri, mengembangkan kemampuan, menciptakan karya, dan menunjukkan karakter
+melalui kreativitas. Slogan “Create. Capture. Inspire.” menjadi inti dari keseluruhan konsep, yaitu menciptakan karya, mengabadikan momen, dan
+memberikan inspirasi melalui proses yang dijalani. Prompt: Sekarang buatkan storyboardnya ini ketentuannya: Minimal: • 6 Scene • Visual Adegan =
+berikan gambar ilustrasinya pada adegannya • Keterangan Shot • Angle Kamera • Transisi • Dialog atau Narasi
+
+--- GAMBAR (8) — BUKTI VISUAL, BACA FILENYA LANGSUNG ---
+
+[IMG#01] px=320x320 square | bagian: 1. personal Branding | file: img/R92/01.jpg
+  OCR: SYIPA NURAENI / DESIGN + / PHOTOGRAPHY / READ / WATCH / ACOIT
+
+[IMG#02] px=320x213 landscape | bagian: 2. Moodboard Branding | file: img/R92/02.jpg
+  OCR: SV / Aa / Retotoro / SYIRNURAYXI
+
+[IMG#03] px=320x213 landscape | bagian: 3. Mockup Branding | file: img/R92/03.jpg
+  OCR: 2 / SR / SYIPA NUKAENY / S / Svho Naceo
+
+[IMG#04] px=320x292 landscape | bagian: 3. Mockup Branding | file: img/R92/04.jpg
+  OCR: LetrTenoevyk / SNV / D / SYIPA NURAENI / SNIPANURAEX
+
+[IMG#05] px=320x213 landscape | bagian: 3. Mockup Branding | file: img/R92/05.jpg
+  OCR: SN / SNIEA SURAESI / SL / NS / STAPANLKCEXI
+
+[IMG#06] px=320x213 landscape | bagian: 4. Maskot Branding | file: img/R92/06.jpg
+  OCR: Tutoty / Poerl / Lopomoaix / SYIPANURAINI / S
+
+[IMG#07] px=320x292 landscape | bagian: 7. SHOTLIST | file: img/R92/07.jpg
+  OCR: Sv / SHOTLIST / CWK.CXUK / SIFAXUKSEXI / PRIPOA
+
+[IMG#08] px=305x320 portrait | bagian: 7. SHOTLIST | file: img/R92/08.jpg
+  OCR: SYIPA NURAENI / SV / SaRseu / GIFATI / FIASONAESLANBING VIOEO / Bg Doau / CAPTUU / Stin / CAIPXXUAATXI / BXLAX

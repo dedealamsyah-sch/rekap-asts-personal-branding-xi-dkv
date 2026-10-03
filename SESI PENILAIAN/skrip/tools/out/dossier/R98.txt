@@ -1,0 +1,248 @@
+====================================================================================================
+ID R98 | QUINSYA RAHMANESA SOLEHA | XI DKV 3 | ts 2026-10-01 18:59:32
+URL: https://quinsyarahmanesasoleha.blogspot.com/2026/10/personal-branding-quinsya-rahmanesa.html
+PAGE TITLE: 'quinsya blog: Personal Branding Quinsya Rahmanesa Soleha XI DKV 3'
+STATUS 200 | words=2114 | img=5 | tabel=1 | labels=['AI', 'SMKN 9 Garut', 'personal branding', 'portofolio', 'tugas sekolah']
+
+### [Promt yang digunakan:] (85 kata)
+Buatkan gambar 3D render realistis logo 'QRS' berbahan enamel merah marun mengkilap dengan bingkai perak di atas alas logam. Di sekitarnya terdapat
+miniatur papan klaper film, monitor editing video, mahkota, dan elemen hati bercahaya. Bagian bawah memuat tulisan "Quinsya Rahmanesa Soleha" dan
+slogan "Small Clips, Big Stories" dengan font elegan. Menggunakan pencahayaan studio yang dramatis dan latar bertekstur kulit gelap, memberikan kesan
+mewah dan profesional. Hasil gambar harus berkualitas tinggi dengan resolusi minimal 1080p atau resolusi lebih tinggi dari 1040p. Sertakan deskripsi
+minimal 100 kata.
+
+### [2.Moadboard] (83 kata)
+Moodboard branding untuk QRS (Quinsya Rahmanesa Soleha) mengusung konsep visual yang memadukan estetika modern, kreatif, dan profesional dengan fokus
+utama pada dunia penyuntingan video serta pembuat klip video. Latar belakang moodboard tampil elegan menggunakan kombinasi warna deep maroon dan
+metallic silver polos yang memberikan kesan mewah, dinamis, serta tajam. Pada bagian pusat moodboard, logo utama QRS dipamerkan secara menonjol dengan
+gaya glossy 3D bermaterial silver berkilau dan merah maroon, dilengkapi ornamen khas dunia perfilman seperti clapperboard, timeline penyuntingan
+video, bintang, dan bentuk hati.
+
+### [promt yang digunakan:] (121 kata)
+Buatkan sebuah moodboard branding komprehensif berformat lanskap untuk brand penyuntingan video "QRS" (Quinsya Rahmanesa Soleha). Objek utama mencakup
+logo 3D 'QRS' bergaya glossy, palet warna (deep maroon, metallic silver, matte grey, putih, blush pink), tipografi (Cormorant SC, Inter, Playfair
+Display Italic), elemen grafis (clapperboard, timeline, bintang), serta referensi antarmuka editing software. Gaya desainnya modern dan terstruktur
+dalam grid rapi di atas latar polos maroon dan perak. Palet warna didominasi kombinasi maroon dan silver yang menghadirkan mood profesional, kreatif,
+dan energik. Pencahayaannya studio soft-lighting yang menonjolkan tekstur metalik. Detail visualnya mencakup swatches warna, sampel font, maket
+antarmuka, dan ikon grafis. Tipografinya menyajikan font header dan teks fungsional. Kualitas gambar resolusi tinggi (di atas 1040p), tajam, dan
+realistis. Sertakan deskripsi minimal 100 kata.
+
+### [3.Mockup] (148 kata)
+Mockup branding 4K ini menghadirkan tiga media utama—stiker, laptop, dan feed media sosial—di atas latar belakang maroon gelap yang elegan. Media
+stiker die-cut dibuat dengan efek glossy berkilau pada logo 3D QRS; berfungsi sebagai media promosi portabel, merchandise, serta label personalisasi
+yang dapat ditempelkan pada berbagai permukaan fisik untuk meningkatkan pengenalan merek secara langsung (brand awareness). Media laptop premium
+menampilkan antarmuka perangkat lunak penyuntingan video pada layar serta stiker logo di bagian penutupnya; berfungsi sebagai representasi alat kerja
+utama (workstation) seorang kreator klip profesional yang mempertegas kredibilitas dan keahlian teknis. Media grid feed media sosial menyajikan tata
+letak visual terstruktur dengan perpaduan warna maroon, silver, dan tipografi dinamis; berfungsi sebagai portofolio digital interaktif untuk
+memamerkan hasil klip video, membangun engagement dengan audiens, serta menjaga konsistensi identitas merek di platform digital secara profesional.
+Pencahayaan studio yang halus semakin menyempurnakan tampilan visual ini sehingga terkesan energik dan sophisticated.
+
+### [promt yang digunakan:] (33 kata)
+oke berdasarkan dengan logo dan moadboard tadi, buatkan saya mock up dengan 3 branding yaitu sticker, laptop, dan social media feed, dengan resolusi
+4k lebih dari 1040p, dan berikan deskripsi minimal 100 kata
+
+### [4. Mascot] (149 kata)
+Lembar desain ini menyajikan tiga konsep penerapan maskot yang konsisten untuk brand QRS, ditata secara profesional di atas latar belakang metalik
+perak dan maroon yang elegan[cite: 3]. Maskot ini berwujud seorang anak laki-laki yang energik dan ceria dengan gaya rambut dan topi merah maroon
+bertuliskan "QRS", mengenakan jaket bomber maroon dan celana kargo. Konsep pertama di sebelah kiri, "MASCOT FULL BODY", menampilkan maskot dalam pose
+dinamis penuh sambil memegang clapperboard film dan mikrofon boom, menegaskan perannya dalam produksi konten video[cite: 3]. Konsep tengah, "MASCOT
+PORTRAIT", menyajikan close-up potret wajah maskot dengan senyum ramah dan pose tangan di dagu, memberikan kesan personal dan ramah. Konsep ketiga di
+sebelah kanan, "MASCOT & LOGO", mengintegrasikan maskot yang sedang duduk santai di atas logo 3D QRS, dikelilingi ikon pendukung seperti timeline
+video, bintang, hati, dan teks slogan[cite: 3]. Secara keseluruhan, desain ini menciptakan identitas merek yang kohesif, ramah, dan penuh semangat.
+
+### [promt yang digunakan:] (33 kata)
+baik bagus, sekarang buatkan saya maskot dengan style cartoon (spt shinchan) dengan 3 konsep yaitu mascot full body, mascot potrait, mascot bersama
+logo. resolusi tinggi melebihi 1040p. Dan berikan deskripsi minimal 100 kata
+
+### [5. Naskah iklan] (217 kata)
+Judul: Cerita Besar dalam Setiap Potongan KlipTema: Kreativitas & Penyuntingan Video ProfesionalPesan Utama: Setiap momen sederhana memiliki potensi
+cerita luar biasa jika disunting dengan sentuhan kreativitas dan detail yang tepat. NARASI & DIALOG(SCENE 1 - INT. STUDIO EDITING - NIGHT)(Suara
+ketukan jari di meja, derak keyboard, dan dengung lembut musik latar yang membangun ritme.) NARRATOR (VO): "Di balik layar monitor ini, setiap detik
+punya arti. Ribuan potongan video hanyalah tumpukan visual..." (SCENE 2 - CLOSE UP MUKA MASKOT / EDITOR)(Maskot QRS tersenyum percaya diri, menekan
+tombol spacebar untuk memulai pemutaran klip di layar.) NARRATOR (VO):"...sampai ada yang menyatukannya dengan warna, ritme, dan rasa."(SCENE 3 - FAST
+PACED TRANSITION - EDITING TIMELINE)(Transisi cepat memperlihatkan potongan klip aksi, kilatan efek metalik silver, dan pengaturan warna deep maroon
+yang tajam di aplikasi Alight Motion.) EDITOR (DIALOG): "Bukan cuma potong dan tempel. Ini tentang menghidupkan cerita di setiap klip." (SCENE 4 -
+MONTAGE HASIL KLIP & MOCKUP)(Montage visual memperlihatkan hasil editan video yang dinamis, berlanjut ke tampilan feed media sosial yang rapi dan
+stiker QRS yang berkilau.)NARRATOR (VO):"Dari potongan klip sederhana, hadir karya visual penuh energi yang siap memikat audiensmu." CLOSING
+TAGLINE(Tampilan logo 3D QRS berkilau di tengah layar dengan latar belakang maroon elegan, diiringi efek suara clapperboard.)NARRATOR (VO):"QRS —
+Small Clips, Big Stories."
+
+### [promt yang digunakan:] (22 kata)
+sekarang buatkan saya naskah iklan (cukup dengan teks saja). Yang mencakup Naskah IklanWajib memuat:• Judul• Tema• Pesan Utama• Narasi/Dialog• Closing
+Tagline
+
+### [1. Pembukaan (Opening)] (66 kata)
+Visual: Suasana ruangan editing studio yang tenang dan temaram di malam hari. Layar monitor memancarkan cahaya lembut, memperlihatkan tumpukan
+mentahan klip video yang berantakan dan belum tersusun di aplikasi editing. Audio: Suara dentingan instrumen piano lambat yang memberikan kesan
+kontemplatif, diiringi ketukan jari secara perlahan di atas meja. Proses: Kamera melakukan pergerakan slow zoom-in mendekati layar monitor untuk
+menggambarkan awal dari proses kreatif pembuatan sebuah video.
+
+### [2. Alur Cerita (Development)] (67 kata)
+Visual: Maskot QRS berwajah ceria mengenakan topi maroon duduk di depan layar, bersiap untuk mulai bekerja. Jari-jarinya bergerak cepat menekan
+pintasan keyboard, memotong (split), menata timeline, dan menyesuaikan ritme klip video satu per satu. Audio: Musik latar bertransisi dari tempo
+lambat menjadi musik synthwave/beat modern yang energik dan dinamis. Proses: Memperlihatkan transformasi dari potongan-potongan video mentah yang
+terpisah menjadi satu kesatuan alur visual yang mengalir indah.
+
+### [3. Konflik / Fokus Visual (Climax)] (75 kata)
+Visual: Fokus visual mencapai puncaknya dengan transisi cepat (fast-paced cuts). Terlihat kilatan efek metallic silver, pengaturan color grading warna
+deep maroon yang tajam, serta efek visual animasi pada detik-detik penting di dalam klip. Audio: Suara efek transisi (swoosh, glitch, dan beat drop)
+yang mantap dan selaras dengan setiap perpindahan adegan. Proses: Menegaskan tingkat kesulitan dan presisi dalam teknik penyuntingan video, di mana
+potongan klip biasa diubah menjadi karya yang berpotensi emosional dan memikat perhatian audiens.
+
+### [4. Penutup (Closing)] (69 kata)
+Visual: Hasil video yang sudah selesai disunting ditampilkan secara memukau, berlanjut ke integrasi penerapan merek pada media feed sosial media dan
+stiker glossy. Layar kemudian bertransisi menuju logo 3D QRS maroon-silver yang berkilau di tengah layar. Audio: Musik latar mencapai nada klimaks
+lalu meredup halus (fade out), diakhiri dengan efek suara ketukan clapperboard* yang tegas dan narasi tagline. Proses: Menutup seluruh rangkaian
+cerita dengan mempertegas identitas merek secara profesional.
+
+### TABEL (11 baris x 7 kolom)
+  r01: No. || Adegan || Jenis Shot || Angle || Movement || Durasi || Deskripsi
+  r02: 1 || Atmosphere Studio || Extreme Long Shot || Eye Level || Static || 3s || Suasana ruangan studio temaram di malam hari dengan pendaran cahaya
+monitor.
+  r03: 2 || Layar Mentahan Klip || Medium Close Up || High Angle || Zoom In || 2s || Kamera mendekati monitor yang menampilkan deretan klip video acak
+di aplikasi editing.
+  r04: 3 || Perkenalan Maskot || Medium Shot || Eye Level || Pan Right || 3s || Maskot QRS duduk di depan komputer, tersenyum percaya diri lalu siap
+bekerja.
+  r05: 4 || Ekspresi Fokus || Close Up || Eye Level || Static || 2s || Wajah maskot yang serius menatap layar monitor saat proses penyuntingan
+dimulai.
+  r06: 5 || Interaksi Keyboard & Mouse || Extreme Close Up || Low Angle || Rack Focus || 2s || Jari-jari bergerak cepat menekan shortcut keyboard
+untuk memotong klip (split).
+  r07: 6 || Proses Timeline Editing || Over the Shoulder || Eye Level || Tilt Up || 3s || Melihat dari belakang bahu maskot, menampilkan potongan klip
+yang mulai tersusun rapi.
+  r08: 7 || Efek Visual & Color Grading || Close Up || Eye Level || Whip Pan || 2s || Kilatan transisi metallic silver dan penyesuaian warna deep
+maroon yang tajam pada klip.
+  r09: 8 || Hasil Akhir Video || Medium Shot || Slight High Angle || Dolly Out || 3s || Tampilan pemutaran hasil akhir klip video yang dinamis dan
+berenergi secara utuh.
+  r10: 9 || Mockup Application || Full Shot || Eye Level || Tracking Shot || 3s || Transisi ke tampilan grid feed media sosial dan stiker logo QRS
+berkilau pada laptop.
+  r11: 10 || Closing & Title Tagline || Close Up || Eye Level || Static || 3s || Logo 3D QRS berkilau di pusat layar dengan slogan "Small Clips, Big
+Stories".
+
+### JUMLAH KATA PER BAGIAN: {'Promt yang digunakan:': 85, '2.Moadboard': 83, '3.Mockup': 148, '4. Mascot': 149, '5. Naskah iklan': 219, '1. Pembukaan
+(Opening)': 66, '2. Alur Cerita (Development)': 67, '3. Konflik / Fokus Visual (Climax)': 75, '4. Penutup (Closing)': 69}
+
+
+### TEKS ARTIKEL LENGKAP (get_text() penuh, 2114 kata; ekstraksi per-bagian hanya 1168) — WAJIB DIBACA, JANGAN ABAIKAN
+ASTS Personal Branding Quinsya Rahmanesa Soleha XI DKV 3 SMKN 9 Garut 1. Branding logo Logo personal branding “QRS” merupakan identitas visual yang
+dibuat untuk menggambarkan karakter dan bidang kreatif dari Quinsya Rahmanesa Soleha. Nama “QRS” diambil dari inisial nama pemilik, sehingga logo
+lebih mudah dikenali dan memiliki hubungan langsung dengan identitas pribadi. Personal branding ini berfokus pada hobi dan minat dalam membuat video
+clip atau video pendek serta bidang kreatif editing. Karena itu, digunakan beberapa elemen visual yang berhubungan dengan dunia video dan editing,
+seperti clapperboard, tampilan timeline editing, tombol play, serta berbagai hiasan kreatif. Warna utama yang digunakan adalah maroon dan silver
+dengan perpaduan gradasi. Warna maroon memberikan kesan berani, kreatif, dan memiliki karakter yang kuat, sedangkan warna silver memberikan kesan
+modern, elegan, dan profesional. Perpaduan kedua warna tersebut dibuat agar logo tetap terlihat menarik, lucu, dan unik tanpa memberikan kesan terlalu
+ramai atau alay. Efek glossy dan bentuk tiga dimensi juga membuat logo terlihat lebih hidup dan menarik perhatian. Selain itu, terdapat elemen
+bintang, hati, mahkota, serta bentuk dekoratif lainnya yang menunjukkan sisi kreatif dan playful dari pemilik branding. Elemen-elemen tersebut juga
+membuat logo terasa lebih personal dan tidak terlalu formal. Tulisan “Quinsya Rahmanesa Soleha” di bawah logo berfungsi untuk memperjelas nama
+pemilik, sedangkan tagline “Small Clips, Big Stories” memiliki makna bahwa meskipun video yang dibuat berdurasi pendek, setiap video tetap dapat
+menyampaikan cerita, suasana, dan pesan yang menarik bagi penonton. Secara keseluruhan, konsep branding QRS dibuat dengan menggabungkan identitas
+pribadi, kreativitas, dan ketertarikan terhadap editing video. Logo ini diharapkan dapat menjadi ciri khas yang mudah diingat serta dapat digunakan
+pada hasil karya, video clip, media sosial, maupun berbagai proyek kreatif lainnya. Perpaduan warna maroon dan silver serta elemen editing membuat
+branding QRS memiliki tampilan yang modern, kreatif, unik, dan sesuai dengan karakter seorang content creator atau editor video. Promt yang digunakan:
+Buatkan gambar 3D render realistis logo 'QRS' berbahan enamel merah marun mengkilap dengan bingkai perak di atas alas logam. Di sekitarnya terdapat
+miniatur papan klaper film, monitor editing video, mahkota, dan elemen hati bercahaya. Bagian bawah memuat tulisan "Quinsya Rahmanesa Soleha" dan
+slogan "Small Clips, Big Stories" dengan font elegan. Menggunakan pencahayaan studio yang dramatis dan latar bertekstur kulit gelap, memberikan kesan
+mewah dan profesional. Hasil gambar harus berkualitas tinggi dengan resolusi minimal 1080p atau resolusi lebih tinggi dari 1040p. Sertakan deskripsi
+minimal 100 kata. 2.Moadboard Moodboard branding untuk QRS (Quinsya Rahmanesa Soleha) mengusung konsep visual yang memadukan estetika modern, kreatif,
+dan profesional dengan fokus utama pada dunia penyuntingan video serta pembuat klip video. Latar belakang moodboard tampil elegan menggunakan
+kombinasi warna deep maroon dan metallic silver polos yang memberikan kesan mewah, dinamis, serta tajam. Pada bagian pusat moodboard, logo utama QRS
+dipamerkan secara menonjol dengan gaya glossy 3D bermaterial silver berkilau dan merah maroon, dilengkapi ornamen khas dunia perfilman seperti
+clapperboard , timeline penyuntingan video, bintang, dan bentuk hati. Warna utama branding didominasi oleh perpaduan Deep Maroon , Metallic Silver ,
+Matte Grey , serta sentuhan netral putih dan Blush Pink untuk menjaga keseimbangan visual. Pemilihan tipografi mengombinasikan font serif yang anggun
+seperti Cormorant SC dan Playfair Display untuk memberikan sentuhan sophisticated , dipadukan dengan sans-serif bersih seperti Inter untuk kebutuhan
+teks fungsional. Elemen grafis yang dihadirkan meliputi ikon-ikon penyuntingan video, garis geometri modern, dan simbol kilauan bintang yang
+mempertegas identitas pembuatan konten kreatif. Melalui tata letak lanskap yang rapi, moodboard ini berhasil merepresentasikan tone & mood yang
+autentik, energik, dan artistik, selaras dengan slogan "Small Clips, Big Stories" . promt yang digunakan: Buatkan sebuah moodboard branding
+komprehensif berformat lanskap untuk brand penyuntingan video "QRS" (Quinsya Rahmanesa Soleha). Objek utama mencakup logo 3D 'QRS' bergaya glossy,
+palet warna (deep maroon, metallic silver, matte grey, putih, blush pink), tipografi (Cormorant SC, Inter, Playfair Display Italic), elemen grafis
+(clapperboard, timeline, bintang), serta referensi antarmuka editing software. Gaya desainnya modern dan terstruktur dalam grid rapi di atas latar
+polos maroon dan perak. Palet warna didominasi kombinasi maroon dan silver yang menghadirkan mood profesional, kreatif, dan energik. Pencahayaannya
+studio soft-lighting yang menonjolkan tekstur metalik. Detail visualnya mencakup swatches warna, sampel font, maket antarmuka, dan ikon grafis.
+Tipografinya menyajikan font header dan teks fungsional. Kualitas gambar resolusi tinggi (di atas 1040p), tajam, dan realistis. Sertakan deskripsi
+minimal 100 kata. 3.Mockup Mockup branding 4K ini menghadirkan tiga media utama—stiker, laptop, dan feed media sosial—di atas latar belakang maroon
+gelap yang elegan. Media stiker die-cut dibuat dengan efek glossy berkilau pada logo 3D QRS; berfungsi sebagai media promosi portabel, merchandise,
+serta label personalisasi yang dapat ditempelkan pada berbagai permukaan fisik untuk meningkatkan pengenalan merek secara langsung (brand awareness).
+Media laptop premium menampilkan antarmuka perangkat lunak penyuntingan video pada layar serta stiker logo di bagian penutupnya; berfungsi sebagai
+representasi alat kerja utama (workstation) seorang kreator klip profesional yang mempertegas kredibilitas dan keahlian teknis. Media grid feed media
+sosial menyajikan tata letak visual terstruktur dengan perpaduan warna maroon, silver, dan tipografi dinamis; berfungsi sebagai portofolio digital
+interaktif untuk memamerkan hasil klip video, membangun engagement dengan audiens, serta menjaga konsistensi identitas merek di platform digital
+secara profesional. Pencahayaan studio yang halus semakin menyempurnakan tampilan visual ini sehingga terkesan energik dan sophisticated. promt yang
+digunakan: oke berdasarkan dengan logo dan moadboard tadi, buatkan saya mock up dengan 3 branding yaitu sticker, laptop, dan social media feed, dengan
+resolusi 4k lebih dari 1040p, dan berikan deskripsi minimal 100 kata 4. Mascot Lembar desain ini menyajikan tiga konsep penerapan maskot yang
+konsisten untuk brand QRS, ditata secara profesional di atas latar belakang metalik perak dan maroon yang elegan[cite: 3]. Maskot ini berwujud seorang
+anak laki-laki yang energik dan ceria dengan gaya rambut dan topi merah maroon bertuliskan "QRS", mengenakan jaket bomber maroon dan celana kargo.
+Konsep pertama di sebelah kiri, "MASCOT FULL BODY", menampilkan maskot dalam pose dinamis penuh sambil memegang clapperboard film dan mikrofon boom,
+menegaskan perannya dalam produksi konten video[cite: 3]. Konsep tengah, "MASCOT PORTRAIT", menyajikan close-up potret wajah maskot dengan senyum
+ramah dan pose tangan di dagu, memberikan kesan personal dan ramah. Konsep ketiga di sebelah kanan, "MASCOT & LOGO", mengintegrasikan maskot yang
+sedang duduk santai di atas logo 3D QRS, dikelilingi ikon pendukung seperti timeline video, bintang, hati, dan teks slogan[cite: 3]. Secara
+keseluruhan, desain ini menciptakan identitas merek yang kohesif, ramah, dan penuh semangat. promt yang digunakan: baik bagus, sekarang buatkan saya
+maskot dengan style cartoon (spt shinchan) dengan 3 konsep yaitu mascot full body, mascot potrait, mascot bersama logo. resolusi tinggi melebihi
+1040p. Dan berikan deskripsi minimal 100 kata 5. Naskah iklan Judul: Cerita Besar dalam Setiap Potongan Klip Tema: Kreativitas & Penyuntingan Video
+Profesional Pesan Utama: Setiap momen sederhana memiliki potensi cerita luar biasa jika disunting dengan sentuhan kreativitas dan detail yang tepat.
+NARASI & DIALOG (SCENE 1 - INT. STUDIO EDITING - NIGHT) (Suara ketukan jari di meja, derak keyboard, dan dengung lembut musik latar yang membangun
+ritme.) NARRATOR (VO): "Di balik layar monitor ini, setiap detik punya arti. Ribuan potongan video hanyalah tumpukan visual..." (SCENE 2 - CLOSE UP
+MUKA MASKOT / EDITOR) (Maskot QRS tersenyum percaya diri, menekan tombol spacebar untuk memulai pemutaran klip di layar.) NARRATOR (VO): "...sampai
+ada yang menyatukannya dengan warna, ritme, dan rasa." (SCENE 3 - FAST PACED TRANSITION - EDITING TIMELINE) (Transisi cepat memperlihatkan potongan
+klip aksi, kilatan efek metalik silver, dan pengaturan warna deep maroon yang tajam di aplikasi Alight Motion.) EDITOR (DIALOG): "Bukan cuma potong
+dan tempel. Ini tentang menghidupkan cerita di setiap klip." (SCENE 4 - MONTAGE HASIL KLIP & MOCKUP) (Montage visual memperlihatkan hasil editan video
+yang dinamis, berlanjut ke tampilan feed media sosial yang rapi dan stiker QRS yang berkilau.) NARRATOR (VO): "Dari potongan klip sederhana, hadir
+karya visual penuh energi yang siap memikat audiensmu." CLOSING TAGLINE (Tampilan logo 3D QRS berkilau di tengah layar dengan latar belakang maroon
+elegan, diiringi efek suara clapperboard.) NARRATOR (VO): "QRS — Small Clips, Big Stories." promt yang digunakan: sekarang buatkan saya naskah iklan
+(cukup dengan teks saja). Yang mencakup Naskah Iklan Wajib memuat: • Judul • Tema • Pesan Utama • Narasi/Dialog • Closing Tagline 6.Storyline 1.
+Pembukaan (Opening) Visual : Suasana ruangan editing studio yang tenang dan temaram di malam hari. Layar monitor memancarkan cahaya lembut,
+memperlihatkan tumpukan mentahan klip video yang berantakan dan belum tersusun di aplikasi editing. Audio : Suara dentingan instrumen piano lambat
+yang memberikan kesan kontemplatif, diiringi ketukan jari secara perlahan di atas meja. Proses : Kamera melakukan pergerakan slow zoom-in mendekati
+layar monitor untuk menggambarkan awal dari proses kreatif pembuatan sebuah video. 2. Alur Cerita (Development) Visual: Maskot QRS berwajah ceria
+mengenakan topi maroon duduk di depan layar, bersiap untuk mulai bekerja. Jari-jarinya bergerak cepat menekan pintasan keyboard, memotong (split),
+menata timeline, dan menyesuaikan ritme klip video satu per satu. Audio: Musik latar bertransisi dari tempo lambat menjadi musik synthwave/beat modern
+yang energik dan dinamis. Proses: Memperlihatkan transformasi dari potongan-potongan video mentah yang terpisah menjadi satu kesatuan alur visual yang
+mengalir indah. 3. Konflik / Fokus Visual (Climax) Visual: Fokus visual mencapai puncaknya dengan transisi cepat (fast-paced cuts). Terlihat kilatan
+efek metallic silver, pengaturan color grading warna deep maroon yang tajam, serta efek visual animasi pada detik-detik penting di dalam klip. Audio:
+Suara efek transisi (swoosh, glitch, dan beat drop) yang mantap dan selaras dengan setiap perpindahan adegan. Proses: Menegaskan tingkat kesulitan dan
+presisi dalam teknik penyuntingan video, di mana potongan klip biasa diubah menjadi karya yang berpotensi emosional dan memikat perhatian audiens. 4.
+Penutup (Closing) Visual: Hasil video yang sudah selesai disunting ditampilkan secara memukau, berlanjut ke integrasi penerapan merek pada media feed
+sosial media dan stiker glossy. Layar kemudian bertransisi menuju logo 3D QRS maroon-silver yang berkilau di tengah layar. Audio: Musik latar mencapai
+nada klimaks lalu meredup halus (fade out), diakhiri dengan efek suara ketukan clapperboard* yang tegas dan narasi tagline. Proses: Menutup seluruh
+rangkaian cerita dengan mempertegas identitas merek secara profesional. promt yang digunakan: good, sekarang buatin Storyline Wajib memuat: •
+Pembukaan • Alur Cerita • Konflik/Fokus Visual • Penutup 7.Shotlist No. Adegan Jenis Shot Angle Movement Durasi Deskripsi 1 Atmosphere Studio Extreme
+Long Shot Eye Level Static 3s Suasana ruangan studio temaram di malam hari dengan pendaran cahaya monitor. 2 Layar Mentahan Klip Medium Close Up High
+Angle Zoom In 2s Kamera mendekati monitor yang menampilkan deretan klip video acak di aplikasi editing. 3 Perkenalan Maskot Medium Shot Eye Level Pan
+Right 3s Maskot QRS duduk di depan komputer, tersenyum percaya diri lalu siap bekerja. 4 Ekspresi Fokus Close Up Eye Level Static 2s Wajah maskot yang
+serius menatap layar monitor saat proses penyuntingan dimulai. 5 Interaksi Keyboard & Mouse Extreme Close Up Low Angle Rack Focus 2s Jari-jari
+bergerak cepat menekan shortcut keyboard untuk memotong klip ( split ). 6 Proses Timeline Editing Over the Shoulder Eye Level Tilt Up 3s Melihat dari
+belakang bahu maskot, menampilkan potongan klip yang mulai tersusun rapi. 7 Efek Visual & Color Grading Close Up Eye Level Whip Pan 2s Kilatan
+transisi metallic silver dan penyesuaian warna deep maroon yang tajam pada klip. 8 Hasil Akhir Video Medium Shot Slight High Angle Dolly Out 3s
+Tampilan pemutaran hasil akhir klip video yang dinamis dan berenergi secara utuh. 9 Mockup Application Full Shot Eye Level Tracking Shot 3s Transisi
+ke tampilan grid feed media sosial dan stiker logo QRS berkilau pada laptop. 10 Closing & Title Tagline Close Up Eye Level Static 3s Logo 3D QRS
+berkilau di pusat layar dengan slogan "Small Clips, Big Stories". promt yang digunakan: sekarang buatin Shotlist Buat tabel shotlist minimal 10 shot.
+No. Adegan. Jenis Shot Angle Movement Durasi Deskrips untuk kebawah 10 slot, untuk ke kiri-kanan 7 buatkan dulu tabelnya dengan warna maroon
+8.storyboard Gambar di atas menyajikan papan cerita (storyboard) berformat grid 6 panel yang disusun secara rapi untuk menggambarkan alur video iklan
+komersial brand QRS. Desain ini menggunakan gaya kartun khas Shinchan dengan warna dominan deep maroon dan metallic silver yang konsisten dengan
+identitas merek. Panel 1 (Kebingungan): Memperlihatkan maskot QRS mengenakan topi maroon bertuliskan "QRS" dan jaket bomber sedang duduk di meja
+studio temaram, menatap bingung tumpukan klip video mentah yang berantakan di layar monitor. Panel 2 (Inspirasi): Maskot mendapatkan ide, tersenyum
+percaya diri sambil memutar topinya ke belakang dan siap memegang mouse untuk mulai bekerja. Panel 3 (Proses): Menyajikan tampilan close-up jari
+tangan yang sedang memotong (cut) dan menata klip di atas garis timeline editing. Panel 4 (Transisi): Menampilkan kilatan efek transisi berkilau
+metallic silver dan penyesuaian warna (color grading) deep maroon yang tajam pada layar monitor. Panel 5 (Hasil Akhir): Maskot QRS bersandar santai di
+kursi dengan ekspresi puas dan bahagia menyaksikan hasil akhir video yang dinamis dan estetik di layarnya. Panel 6 (Logo Brand): Maskot bergaya dengan
+pose mengacungkan jempol di samping logo 3D QRS berkilau berwarna maroon-silver, lengkap dengan slogan "Small Clips, Big Stories" pada latar maroon
+yang elegan. promt yang digunakan: buatin storyboard minimal • 6 Scene • Visual Adegan • Keterangan Shot • Angle Kamera • Transisi • Dialog atau Naras
+digabungkan dengan maskot tadi
+
+--- GAMBAR (5) — BUKTI VISUAL, BACA FILENYA LANGSUNG ---
+
+[IMG#01] px=320x320 square | bagian: 1. Branding logo | file: img/R98/01.jpg
+  OCR: 网 / Smdl Clips, Big Stories.
+
+[IMG#02] px=346x193 landscape | bagian: 2.Moadboard | file: img/R98/02.jpg
+  OCR: WARNAUTAMABRANCING / SYYLEVSUAL / YQRS, / RORS / TYPOSRAPHY / STMLEVISUAL / Cormomant SC / ROSORENSIOTSAN / Inter / YORST / INSPIRASIVSUAL /
+TONE&MOOD / LLEMENGSAIS
+
+[IMG#03] px=368x206 landscape | bagian: 3.Mockup | file: img/R98/03.jpg
+  OCR: 10-03 / TIFAY IEX / TER18800 / CNRRUUNLS / QRS / YORS / SORS / TEUYTIOT / TIERNOEOO / SOTTLUEG / QR
+
+[IMG#04] px=338x338 square | bagian: 4. Mascot | file: img/R98/04.jpg
+  OCR: MASCOT / MASCOT / MASCOT / FULL BODY / PORTRAIT / & LOGO / QRS / QRS / MASCOT / MASCOT / MASCOT / FULL BODY / PORTRAIT / &LOGO / POTRETAASKOT /
+MASKOTBERSAMALGGO
+
+[IMG#05] px=320x320 square | bagian: 8.storyboard | file: img/R98/05.jpg
+  OCR: ORS / KEBINGUNGAN/CONFUSION / INSPIRASI/INSPIRATION / Flp soowo cop bat 5ready to mork / PROSES/PROCESS / TRANSISI/TRANSIUION / Apply flash
+tranos to dep color grads / QRS / QRS / QRS / HASIL AKHIR/CIAL RESULT / LOGO BRAND

@@ -1,0 +1,245 @@
+====================================================================================================
+ID R94 | NADA NISRINA | XI DKV 2 | ts 2026-10-02 15:44:49
+URL: https://nadaanisrina.blogspot.com/2026/10/personal-branding-nada-nisrina-xi-dkv-2.html
+PAGE TITLE: 'Personal Branding Nada Nisrina XI DKV 2'
+STATUS 200 | words=4064 | img=8 | tabel=0 | labels=['CV', 'kegiatan membersihkan lab', 'tugas sekolah', 'tugas sekolah - branding']
+
+### [1. PERSONAL BRANDING] (22 kata)
+blush pink yang feminin, sage green yang menenangkan, warm cream yang aesthetic. Kombinasi ini menciptakan impresi visual yang lembut, bersih, dan
+berkelas
+
+### [2. MEMBUAT MOODBOARD BRANDING] (11 kata)
+Blush Pink Sage Green Warm Beige Rose Gold Milk Tea Brown
+
+### JUMLAH KATA PER BAGIAN: {'1. PERSONAL BRANDING': 22, '2. MEMBUAT MOODBOARD BRANDING': 12}
+
+
+### TEKS ARTIKEL LENGKAP (get_text() penuh, 4064 kata; ekstraksi per-bagian hanya 33) — WAJIB DIBACA, JANGAN ABAIKAN
+ASTS PERSONAL BRANDING NADA NISRINA XI DKV 2 SMKN 9 GARUT 1. PERSONAL BRANDING Deskripsi personal branding Identitas visual personal branding untuk
+NADA NISRINA ("NN") dirancang khusus untuk mencerminkan keanggunan, kelembutan, dan estetika manis khas soft girl dalam ranah industri kreatif
+florist, gift & craft, serta dekorasi handmade. Secara filosofis : elemen monogram NN yang bertaut secara organis dengan motif botani melambangkan
+hubungan emosional yang erat antara pembuat dan penerima hadiah. Lingkaran bunga (wreath) mewakili dedikasi, keutuhan, dan keindahan alam yang abadi.
+Penggunaan garis-garis halus (fine line art) menegaskan kesan otentik dari karya buket dan dekorasi buatan tangan (handmade), memberikan nuansa
+personal yang hangat dan tidak kaku. Palet warna mengombinasikan blush pink yang feminin, sage green yang menenangkan, warm cream yang aesthetic.
+Kombinasi ini menciptakan impresi visual yang lembut, bersih, dan berkelas Tagline " wrap your feelings in bloom " menjadi pilar utama narasi brand
+ini, menegaskan bahwa setiap buket atau kado yang dirangkai bukan sekadar barang fisik, melainkan ungkapan perasaan yang dibungkus dengan ketulusan
+dan keindahan bunga yang bermekaran. Keseluruhan konsep ini membentuk identitas brand yang memikat, tepercaya, dan konsisten di berbagai media
+aplikasi, mulai dari kemasan produk hingga media sosial. prompt : hai berperanlah sebagai expert designer i will make new personal branding/ logo from
+my initial name NADA NISRINA "NN", style aestethic, soft girl. sesuai kan dengan ketentuan: buat identitas visual personal berdasarkan • Inisial nama
+= NN • Karakter diri = aesthetic, soft girl • Hobi atau minat = merangkai buket • Bidang kreatif yang diminati = florist, gift & craft, dekorasi
+handmade Output •Logo personal branding: •Nama branding: •Tagline: Output file:PNG, dimensi 4:3 kualitas=4k 2. MEMBUAT MOODBOARD BRANDING Deskripsi
+Moodboard Branding Nada Nisrina ("NN") Deskripsi Visual Layout & Komposisi Board: Susun visual secara simetris dan rapi di atas latar kertas
+bertekstur off-white lembut. Bagian atas tengah menampilkan logo monogram NN lengkap dengan tagline, diikuti oleh spesifikasi tipografi merek di
+bagian bawahnya. Elemen Visual Utama : 1. Handcrafted Bouquet Wrapping: Buket bunga kering pastel dengan balutan kertas wrapping putih dan pita satin
+dusty rose serta wax seal monogram. 2. Fine Line Art Botanicals: Ilustrasi garis botani (botanical line-art) mawar, dedaunan, dan ranting pada kertas
+bertekstur kasar (deckle-edge paper). 3. Handmade Paper Stationery: Set alat tulis dan kartu ucapan buatan tangan dengan pinggiran tidak rata, amplop
+krem, dan mini buket bunga kering. 4. Soft Girl Aesthetic Decor: Elemen dekorasi studio bergaya soft girl / cottagecore dengan rumput pampas, tekstil
+linen hangat, dan pencahayaan alami. 5. Custom Wax Seal Stamps: Stempel lilin tembaga dengan ukiran monogram NN di atas amplop. 6. Gift Box &
+Packaging: Kotak hadiah kertas kraft cokelat yang diikat pita sage green dan dilengkapi hangtag merek. Hirarki Tipografi (Typography): Cinzel
+Decorative: Digunakan untuk Heading / Primary Brand Name yang memberikan kesan anggun dan klasik. Montserrat Light: Digunakan untuk Sub-heading /
+Secondary Text & Body Text yang bersih, modern, dan mudah dibaca. Palet Warna Branding (Color Palette): Enam warna acuan utama: Blush Pink Sage Green
+Warm Beige Rose Gold Milk Tea Brown Off-White Filosofi Desain Kehangatan Emosional & Ketulusan (Aesthetic Soft Girl):Penggabungan tekstur bahan alami
+(kertas handmade, kain linen, serat kayu) dengan palet warna pastel merepresentasikan sifat merek yang ramah, hangat, dan penuh perhatian
+(thoughtful). Seni Pengungkapan Perasaan (Craftsmanship & Personal Touch): Penggunaan line-art presisi, pita satin, dan wax seal stamp mencerminkan
+bahwa setiap detail produk dikerjakan secara manual (handcrafted) dengan dedikasi tinggi untuk menjaga nilai ketulusan dari pengirim hadiah.
+Keseimbangan Organik & Kemewahan Ringan (Organic & Delicate Luxury): Sentuhan Rose Gold dan tipografi Cinzel Decorative yang dipadukan dengan Sage
+Green dan bahan kraft menciptakan harmoni antara keindahan alam yang manis dengan kesan eksklusif dan elegan. Fungsi & Kegunaan Panduan Pengarah
+Visual (Visual Brand Guideline): Menjadi acuan tunggal bagi tim kreatif, desainer, content creator, dan floristdalam menjaga konsistensi visual di
+seluruh lini produk dan media sosial. Pondasi Identitas & Karakter Brand (Brand Identity Foundation): Memperjelas penentuan warna, jenis font, gaya
+fotografi, dan suasana (vibe) produk sehingga merek Nada Nisrina memiliki keunikan tersendiri di pasar florist & craft. Standar Produksi Aset
+Marketing (Production Standard): Memudahkan pembuatan media promosi baru (seperti katalog, desain kemasan, dekorasi studio, hingga iklan video) agar
+tetap selaras dengan tagline "Wrap Your Feelings in Bloom". prompt : berdasarkan logo di atas buatkan moodboard nya sesuai dengan ketentuan berikut:
+1. Warna utama branding 2. Tipografi 3. Style visual 4. Tone & mood 5. Elemen grafis 6. Inspirasi visual Output: Format landscape 3. MEMBUAT MOCKUP
+BRANDING A. KAOS Deskripsi Visual, Filosofi, dan Fungsi Desain Kaos Nada Nisrina ("NN") Deskripsi Visual Warna & Material: Kaos menggunakan warna
+dasar Off-White / Warm Cream dengan bahan katun berkualitas tinggi yang memberikan tekstur halus, bersih, dan kesan hangat. Layout & Komposisi Cetak:
+Desain Grafis ditempatkan presisi di area dada tengah (center chest) dengan bentuk melingkar yang seimbang (circular frame). Elemen Monogram (NN):
+Inisial NN ditampilkan melalui tipografi kaligrafi bergaya cursive/script yang saling bertautan di bagian pusat grafik. Ornamen Floral: Logo
+dilingkari oleh ilustrasi botani halus berupa dedaunan, kuncup mawar, dan Bunga Mawar Mekar dengan warna pastel bernuansa earth tone (dusty rose, sage
+green, dan taupe). Aksen Pita & Tipografi: Di bawah monogram terdapat grafis pita (ribbon) yang mengikat kerangka bunga, diikuti oleh tulisan nama
+brand NADA NISRINA dan tagline melengkung "WRAP YOUR FEELINGS IN BLOOM". Filosofi Desain Keterikatan Emosional (Monogram NN): Huruf N yang saling
+terpaut menyimbolkan hubungan yang erat antara pengirim dan penerima—mencerminkan peran Nada Nisrina sebagai penghubung ungkapan perasaan. Pertumbuhan
+& Keindahan (Mawar & Flora): Karangan bunga melingkar menggambarkan ketulusan, keindahan yang mekar, serta perhatian penuh (mindfulness) dalam setiap
+rangkaian bunga yang dibuat. Ikatan Ketulusan (Aksen Pita): Pita melambangkan seni membungkus (wrapping), mewakili komitmen merek dalam mengemas tidak
+hanya hadiah fisik, melainkan emosi, rasa syukur, dan cinta. Sentuhan Kehangatan (Palet Warna Warm Pastel): Pemilihan warna krem, blush pink, dan sage
+green merepresentasikan sifat gentle, soft, dan penuh kehangatan yang menjadi identitas utama brand Nada Nisrina. Fungsi & Kegunaan Uniform &
+Identitas Tim (Staff Wear): Berfungsi sebagai seragam resmi untuk Nada dan tim florist saat bekerja di studio, menciptakan tampilan profesional, rapi,
+dan estetis selaras dengan konsep studio florist. Merchandise Resmi (Official Merchandise): Dapat dijual atau dijadikan hadiah eksklusif bagi
+pelanggan setia (loyal customers) sebagai bentuk apresiasi branding. Media Promosi Berjalan (Brand Awareness): Menguatkan awareness merek melalui
+penyampaian identitas visual, logo monogram, dan tagline merek secara langsung kepada publik. B.kartu nama Deskripsi Visual, Filosofi, dan Fungsi
+Kartu Ucapan & Identitas Nada Nisrina ("NN") Deskripsi Visual Material & Tekstur Kartu Utama: Menggunakan kertas bertekstur premium (deckle-edge
+cotton paper) berwarna krem/off-white dengan pinggiran tidak rata (rough/torn edges) yang memberikan kesan personal dan buatan tangan (craftsmanship).
+Cetakan Logo & Branding: Di bagian tengah kartu utama, logo monogram NN tercetak dengan gaya kaligrafi elegan (script calligraphy), dikelilingi
+ornamen Bunga Mawar Mekar, dedaunan, pita, nama brand NADA NISRINA, serta tagline "WRAP YOUR FEELINGS IN BLOOM" bernuansa warna cokelat tanah pastel
+(warm taupe). Kartu Nama & Informasi Kontak: Kartu bisnis (business card) kecil di bagian tengah bawah menampilkan logo monogram mini, nama Nada
+Nisrina (couturier/florist), username Instagram (@nadenisrina.bloom ), serta nomor kontak. Aksen & Aksesori Pelengkap: Dilengkapi dengan amplop
+bertumpuk, buket bunga kering mini (mini dried bouquet), stempel lilin tembaga (wax seal stamp) berinisial NN, serta panduan palet warna branding
+(color palette guide). Palet Warna Utama (Branding Color Palette): Enam warna acuan yang tertera meliputi Blush Pink, Sage Green, Warm Beige, Rose
+Gold, Milk Tea Brown, dan Off-White. Filosofi Desain Keintiman & Ketulusan Emosi (Kertas Tekstur Rough-Edge): Pinggiran kertas yang tidak dipotong
+mesin secara simetris menyimbolkan ketulusan yang alami, tidak dibuat-buat, serta setiap ungkapan pesan yang ditulis terasa sangat personal dan
+hangat. Identitas Merek yang Mengikat Perasaan (Logo Floral & Wax Seal): Lingkaran flora dan pita melambangkan keharmonisan dan keindahan, sedangkan
+stempel lilin (wax seal) menyimbolkan komitmen dan kerahasiaan pesan cinta yang dikunci dengan rapat dan elegan. Kehangatan & Ketenangan (Warm Earthy
+Palette): Kombinasi warna krem, blush pink, dan sage green menggambarkan kelembutan (softness), keheningan yang bernilai, serta pertumbuhan perasaan
+seperti bunga yang mekar. Fungsi & Kegunaan Kartu Ucapan Pesanan (Greeting Card / Message Card): Berfungsi sebagai wadah bagi pelanggan untuk
+menuliskan pesan kustom (permintaan maaf, ungkapan rindu, ucapan ulang tahun, atau perayaan cinta) yang disisipkan di dalam buket bunga atau kado.
+Kartu Nama Bisnis (Business Card & Networking): Memudahkan pelanggan atau mitra bisnis untuk menyimpan informasi kontak dan akun media sosial resmi
+Nada Nisrina. Elemen Unboxing & Brand Identity Enhancement: Memberikan pengalaman unboxing yang mewah dan berkesan bagi penerima hadiah, sehingga
+memperkuat citra merek sebagai high-end/boutique florist. C. packaging Deskripsi Visual, Filosofi, dan Fungsi Kemasan (Packaging) Nada Nisrina ("NN")
+Deskripsi Visual Kotak Utama (Mailer Box): Menggunakan bahan eco-friendly kraft corrugated box berwarna cokelat alami. Bagian penutup luar dicetak
+penuh dengan ilustrasi garis botani dan monogram NN berwarna sage green/earthy tone. Bagian dalam kotak memuat kaos terlipat rapi dengan permukaan
+center print yang langsung terlihat saat dibeli atau dibuka. Tabung Silinder (Poster/Art Tube): Tabung karton cokelat berbentuk silinder yang
+dilengkapi label melingkar berwarna cokelat muda, menampilkan logo monogram NN serta tulisan NADA NISRINA. Kado Terbungkus (Gift Wrapped Box): Kotak
+kado berukuran sedang yang dibungkus dengan kertas kado kustom (patterned wrapping paper) bermotif monogram NN samar. Diikat anggun dengan pita satin
+double-bow berwarna dusty rose/pinkish taupe, dilengkapi hangtag berlogo monogram dan berteks NADA NISRINA. Ornamen Pendukung: Didukung aksen buket
+bunga kering mini (mini dried bouquet), kelopak bunga mawar pastel yang tersebar, dedaunan eucalyptus, dan stempel lilin (wax seal stamp). Filosofi
+Desain Keberlanjutan & Alam (Kraft & Eco-Conscious): Penggunaan bahan kartun kraft alami tanpa bahan sintetis berlebih menyimbolkan kepedulian merek
+terhadap lingkungan, sejalan dengan napas bisnis florist yang dekat dengan keindahan alam. Kejutan & Rasa Dihargai (Unboxing Experience): Struktur
+kemasan yang bertingkat—mulai dari pembungkus luar, pita satin, hingga interior kotak yang rapi—dirancang untuk menciptakan momen ketegangan emosional
+yang menyenangkan (anticipation and delight) saat penerima membukanya. Perlindungan Pesan Emosional (Kemasan Silinder & Kotak): Kotak dan tabung
+melambangkan "ruang aman" yang menjaga agar hadiah serta perasaan pengirim tetap utuh, aman, dan berharga hingga sampai di tangan penerima. Sentuhan
+Mewah & Personal (Pita Satin & Hangtag): Kombinasi warna pastel lembut pada pita dan kertas pembungkus merepresentasikan filosofi "Wrap Your Feelings
+in Bloom", menegaskan bahwa yang dibungkus bukan sekadar barang fisik, melainkan kehangatan emosi pengirim. Fungsi & Kegunaan Pelindung Produk
+(Product Protection): Corrugated box dan art tube menjaga produk (seperti apparel, cetakan seni, kartu ucapan, maupun aksesori craft) agar tidak
+rusak, terlipat, atau terkena debu selama proses pengiriman. Pengalaman Unboxing (Memorable Unboxing Experience): Memberikan nilai tambah visual
+(aesthetic value) bagi pelanggan yang ingin menjadikan momen unboxing sebagai konten media sosial atau kenangan pribadi. Kemasan Hadiah Siap Pakai
+(Ready-to-Gift Packaging): Memudahkan pelanggan yang membeli produk sebagai kado, sehingga tidak perlu lagi membungkus ulang secara manual. Penguat
+Identitas Merek (Brand Consistency): Mengintegrasikan seluruh elemen visual branding (logotype, monogram, warna pastel, dan pola floral) dalam bentuk
+fisik untuk memperkuat citra profesional dan premium merek Nada Nisrina. prompt : A. good job. baik sudah sesuai sekarang buatkan/implementasi kan
+personal branding logo yang telah di buat sebelumnya mock up.dalam kaos B. good job. baik sudah sesuai sekarang buatkan/implementasi kan personal
+branding logo yang telah di buat sebelumnya mock up.dalam kartu nama C. good job. baik sudah sesuai sekarang buatkan/implementasi kan personal
+branding logo yang telah di buat sebelumnya mock up.dalam packaging 4.MASCOT Deskripsi Maskot Anime Deskripsi Visual Maskot Karakter & Fitur Wajah:
+Sesosok gadis berwajah hangat dengan mata berwarna olive green/cokelat lembut, senyum ramah yang tulus, serta gaya rambut cokelat bergelombang yang
+dikepang miring ke samping (side braid) hiasan jepit bunga kecil pastel. Gaya Busana (Outfit & Style): Mengusung estetika Mori Girl / Cottagecore yang
+santai namun anggun. Mengenakan gaun panjang (maxi dress) berwarna beige/warm cream, dipadukan dengan kardigan rajut longgar berwarna dusty rose/pink,
+tas selempang kulit cokelat, kaus kaki renda, dan sepatu boots kulit cokelat. Gaya Ilustrasi: Menggunakan teknik ilustrasi anime modern berbahan cat
+air (watercolor/soft-shaded anime artstyle) dengan garis tepi (lineart) yang halus dan palet warna earthy pastel. Aksesoris & Pose: Karakter
+ditampilkan sedang memegang hadiah bertali pita hijau atau sekuntum bunga mawar pink, memperlihatkan interaksi yang dekat dengan produk dan identitas
+merek. Filosofi Desain Maskot Representasi Karakter "Nada": Menggambarkan kepribadian pemilik brand yang lembut, estetik, peduli, hangat, dan penuh
+perhatian (caring & thoughtful). Estetika Alami & Kehangatan (Cottagecore & Earthy Tones): Pilihan gaya Mori Girl dan warna-warna alam menyimbolkan
+kedekatan dengan dunia bunga, kesederhanaan, serta kenyamanan emosional. Simbol Ketulusan & Penghubung Perasaan (Bunga & Hadiah): Buket bunga mawar
+dan kotak kado yang dipegang karakter menjadi wujud nyata dari tagline merek "Wrap Your Feelings in Bloom", yaitu menghadirkan kebahagiaan lewat karya
+florist dan hadiah buatan tangan. prompt : Baik sudah selesai,sekarang buatkan Mascout dari personil branding/logo yang telah dibuat,buat Mascout
+dengan style anime. Output: 1. Mascout full body 2. Mascout potrait 3. Mascout bersama logo branding 5.NASKAH IKLAN Berikut draft naskah/skrip lengkap
+untuk iklan video Nada Nisrina ("NN") berdurasi 60 detik yang disusun sesuai dengan ketentuan yang diminta: NASKAH IKLAN VIDEO PRODUKSI (60 DETIK) 1.
+Judul Iklan: Seni Merangkai Rasa (The Art of Floral & Emotional Crafting) 2. Tema: Ketulusan, Kehangatan Emosional, dan Aesthetic Soft Girl /
+Cottagecore Florist 3. Pesan Utama: Setiap rangkaian bunga bukan sekadar susunan kelopak dan dedaunan, melainkan bentuk penyampaian perasaan cinta,
+rindu, dan maaf yang dikemas secara estetik dan penuh makna. 4. Closing Tagline:"Wrap Your Feelings in Bloom" (Bungkus Perasaanmu dalam Keindahan yang
+Mekar) DETAIL DIALOG, NARASI, DAN INSTRUKSI ADEGAN 00:00 – 00:12 | BAGIAN 1: PEMBUKAAN (OPENING) Visual: Shot 1: Extreme Close-Up kuncup mawar pastel
+mekar lambat di atas kertas bertekstur, pencahayaan alami yang lembut (soft daylight). Shot 2: Nada duduk anggun di meja studio bernuansa pastel,
+tersenyum hangat ke arah kamera di antara rangkaian bunga segar. SFX / Musik: Musik piano puitis yang lembut dipadukan dengan efek suara keheningan
+pagi dan gesekan kertas. Voice Over (VO) / Narasi: > "Bagi sebagian orang, merangkai bunga hanyalah sebuah hobi. Tapi bagiku... ini adalah cara paling
+jujur untuk menyapa perasaan." 00:12 – 00:35 | BAGIAN 2: ALUR CERITA (PROSES KREATIF) Visual: Shot 3:High Angle, jemari Nada memilih daun sage green
+dan mawar murni. Shot 4:Low Angle, gunting florist memotong batang bunga presisi. Shot 5:High Angle, Nada merangkai buket mawar pastel bernuansa
+lembut (Pesan Permintaan Maaf). Shot 6:Close-Up detail buket bunga kering estetik (Pesan Ungkapan Rindu). Shot 7:Top Down ,penataan kotak kado craft
+handmade yang dihias bunga kering mini (Pesan Perayaan Cinta). SFX / Musik: Instrumen piano berpadu gesekan cello. Suara khas gunting memotong batang
+(snip) terdengar jernih. Voice Over (VO) / Narasi: > "Dari tumpukan kelopak dan dedaunan ini, lahir berbagai cerita. Tentang permintaan maaf yang tak
+sempat terucap, rasa rindu yang merenda jarak, hingga perayaan cinta yang ingin diabadikan selamanya." 00:35 – 00:50 | BAGIAN 3: KONFLIK & FOKUS
+VISUAL (THE ART OF WRAPPING) Visual: Shot 8: High Angle, jemari Nada melipat kertas kraft bermotif monogram NN secara teliti. Shot 9:Extreme Close-Up,
+tangan mengikat pita satin sage green dan menekan stempel lilin tembaga (custom NN wax seal). Shot 10: Medium Shot, tangan Nada menyerahkan kado yang
+terbungkus rapi ke genggaman hangat penerima. SFX / Musik: Melodi musik mencapai puncaknya (crescendo) dengan nada yang mengalun hangat. SFX gesekan
+pita satin dan tekanan wax seal. Voice Over (VO) / Narasi: > "Sebab yang kami rangkai bukan sekadar keindahan fisik... melainkan ketulusan hati Anda.
+Kami bungkus rapi, kami kunci dengan doa dan pita, agar maknanya tetap utuh saat tiba di genggamannya." 00:50 – 01:00 | BAGIAN 4: PENUTUP (CLOSING &
+BRANDING) Visual: Shot 11:Medium Close-Up, ekspresi wajah penerima berbinar gembira dan terharu saat membuka kado. Shot 12:Medium Full Shot, Nada
+berdiri anggun di studio dengan kaos branding, memegang produk final dan memberi gestur ramah. Shot 13: Outro, tampilan penuh logo monogram NADA
+NISRINA (NN) dan tagline utama pada layar bersih. SFX / Musik: Piano perlahan melandai (fade-out) dengan nada manis yang membahagiakan. Dialog
+Langsung (Nada di Studio) & Voice Over: Nada (Shot 12): "Mari simpan ceritamu dalam sejuta kelopak..." Voice Over (Shot 13): "Nada Nisrina. Wrap Your
+Feelings in Bloom." prompt : Baik terimakasih,pertama saya ingin membuat naskah/scriptnya terlebih dahulu berikut ketentuannya: Naskah iklan Wajib
+memuat: 1. Judul: sesuaikan dengan hobi"merangkai bunga" 2. Tema:Sesuaikan 3. Pesan utama: sesuaikan 4. Narasi/dialog: sesuaikan untuk memenuhi durasi
+60 detik 5. Closing tagline:buatkan yang bermakna 6.STORYLINE Storyline (Naskah Alur Cerita) lengkap untuk video promosi Nada Nisrina ("NN") berdurasi
+60 detik. Storyline ini disusun berurutan berdasarkan struktur narasi puitis yang menyatu dengan aksi visual storyboard: 1. Pembukaan (Opening: Pure
+Beauty & Warm Welcome) Durasi: 00:00 - 00:12 (Scene 1 | Shot 1–2) Visual: Kuncup mawar pastel mekar secara perlahan di atas kertas bertekstur bawah
+cahaya alami yang lembut. Transisi berpindah ke studio hangat bernuansa pastel, memperlihatkan Nada tersenyum manis menyapa kamera di antara tumpukan
+bunga segar. Narasi / Voice Over (VO): > "Setiap bunga punya cara sendiri untuk bicara. Seperti perasaan... ia mekar dengan tenang, membawa hangat
+yang tak terucap." Suasana/Musik: Musik piano instrumental berkecepatan lambat (soft ambient piano) dipadukan dengan efek suara (SFX) keheningan alam
+dan derak lembut kertas. 2. Alur Cerita (Storyline: Craftsmanship & Creative Process) Durasi: 00:12 - 00:35 (Scene 2 | Shot 3–7) Visual: Jemari Nada
+memilih tangkai mawar dan daun sage green secara cermat. Gunting florist memotong batang bunga presisi. Nada merangkai buket mawar pastel (Permintaan
+Maaf), berlanjut menyorot tekstur bunga kering estetik (Ungkapan Rindu), dan penataan kotak kado craft handmade (Perayaan Cinta). Narasi / Voice Over
+(VO): > "Di studio kecil ini, kami merangkai cerita. Dari permintaan maaf yang tertahan, rasa rindu yang membuncah, hingga perayaan cinta yang ingin
+diabadikan. Semua dirawat dengan ketelitian penuh kasih." Suasana/Musik: Musik instrumen mulai diiringi gesekan cello yang lembut. Efek suara (SFX)
+potongan gunting (snip) dan sentuhan dedaunan terdengar jernih. Konflik / Fokus Visual (Visual Focus: The Art of Wrapping & Emotional Connection)
+Durasi: 00:35 - 00:50 (Scene 3 | Shot 8–10) Visual: Tangan Nada melipat kertas kraft bermotif monogram logo NN membungkus buket. Close-up tajam
+memperlihatkan jemari mengikat pita satin sage green dan menekan wax seal tembaga berlogo NN. Selanjutnya, tangan Nada menyerahkan kado yang
+terbungkus indah ke genggaman tangan hangat seorang penerima. Narasi / Voice Over (VO): > "Karena yang kami kemas bukan sekadar bunga atau barang...
+melainkan ketulusan hati Anda. Dikunci rapi dalam ikatan pita dan stempel lilin, menjaga rasa tetap utuh hingga sampai di tujuan." Suasana/Musik:
+Musik mencapai klimaks emosional (crescendo) yang hangat. Efek suara (SFX) gesekan kertas kraft, pita satin yang ditarik, dan ketukan wax seal
+bertumpu lembut. 4. Penutup (Outro: Joy, Call to Create & Brand Identity) Durasi: 00:50 - 01:00 (Scene 4 | Shot 11–13) Visual: Wajah penerima berbinar
+terharu dan tersenyum bahagia. Nada berdiri anggun mengenakan kaos branding di tengah studionya, memegang produk final dengan gestur mengundang. Video
+diakhiri dengan grafis logo monogram NN dan tagline resmi pada latar bersih. Narasi / Voice Over (VO): > "Mari ungkapan perasaan Anda dalam keindahan
+yang mekar. Nada Nisrina—Wrap Your Feelings in Bloom." Suasana/Musik: Melodi piano diakhiri dengan nada lembut yang memudar (fade-out), diiringi tawa
+renyah kebahagiaan yang samar. prompt : Waw amazing.nice... Sekarang buatkan juga storyline. Ini ketentuannya,wajib memuat: 1.Pembukaan 2.Alur cerita
+3.Konflik/Fokus Visual 4.Penutup 7. SHOTLIST Shot List Produksi Iklan Nada Nisrina ("NN") Bagian 1: Pembukaan / Opening (Scene 1) Shot 1: Visual
+diawali dengan Extreme Close-Up (ECU) pada sudut Eye Level yang memperlihatkan kuncup bunga mawar pastel mekar secara perlahan di bawah pencahayaan
+alami (soft natural daylight) dengan latar belakang kertas bertekstur. Pergerakan mekanis mekar ini memberikan kesan awal yang organik, puitis, dan
+lembut. Shot 2: Berpindah ke Medium Shot (MS) sejajar mata (Eye Level). Nada, sebagai representasi estetika soft girl, tampak duduk santai di meja
+studionya yang dikelilingi bunga-bunga segar. Ia melempar senyum hangat dan ramah langsung ke arah kamera untuk menyapa audiens. Bagian 2: Alur Cerita
+/ Storyline (Scene 2) Shot 3: Pengambilan gambar beralih ke Close-Up (CU) dari sudut High Angle. Fokus kamera menyorot gerakan jemari Nada saat
+memilih sehelai daun sage green dan bunga mawar murni dari seikat bunga di atas meja. Shot 4: Gambar Extreme Close-Up (ECU) dari sudut rendah (Low
+Angle) memperlihatkan gunting florist memotong batang bunga secara tepat dan presisi, memberikan penekanan pada aspek ketelitian dan keahlian kraf.
+Shot 5: Menggunakan Medium Close-Up (MCU) High Angle, Nada terlihat memusatkan perhatiannya dalam merangkai komposisi buket mawar pink khusus. Shot 6:
+Pengambilan Close-Up (CU) Eye Level menampilkan keindahan tekstur buket bunga kering estetik (aesthetic dried floral bouquet) secara detail dengan
+latar belakang studio yang bersih. Shot 7: Tampilan Medium Shot dari sudut Top Down (sudut pandang atas) menyajikan gambaran menyeluruh proses
+penataan kotak kado kraft yang dihiasi bunga kering dan label (tag) berlogo Nada Nisrina. Bagian 3: Visual Fokus & Detail Produk (Scene 3 -
+Konflik/Visual Focus) Shot 8: Pengambilan Close-Up (CU) dari sudut High Angle memperlihatkan tangan Nada yang melipat kertas kraft bermotif monogram
+logo secara berhati-hati membungkus buket yang telah siap. Shot 9: Fokus beralih ke Extreme Close-Up (ECU) Eye Level yang menyorot momen mengikat pita
+satin sage green, dilanjutkan dengan penekanan stempel lilin kustom monogram NN (custom NN wax seal stamp). Shot 10: Dalam Medium Shot (MS) Eye Level
+dari perspektif penerima (Recipient), tangan Nada menyerahkan kotak kado yang terbungkus indah ke genggaman tangan seorang penerima yang lebih tua.
+Bagian 4: Penutup / Outro (Scene 4) Shot 11: Pengambilan Medium Close-Up (MCU) Eye Level menangkap reaksi emosional pada wajah penerima hadiah, yang
+terpancar gembira, terkejut, dan terharu saat menerima kado tersebut. Shot 12: Berpindah ke Medium Full Shot (MFS) Eye Level. Nada berdiri anggun di
+antara deretan karya di studionya, mengenakan kaos seragam merek, memegang kotak hadiah, dan memberikan gestur mengundang kepada audiens. Shot 13:
+Iklan ditutup dengan Full Shot Graphic sejajar mata (Eye Level) yang menampilkan logo lengkap Nada Nisrina (NN) beserta tagline utama "WRAP YOUR
+FEELINGS IN BLOOM", lalu diakhiri dengan clean fade-out. prompt : Keren,mari lanjutkan ke projek selanjutnya implementasikan atau buatkan
+shotlistnya,ketentuan:Buat shotlist minimal 10 shot. 8.STORYBOARD Berikut Storyboard Produksi Iklan Nada Nisrina ("NN") berdurasi 60 detik: Bagian 1:
+Pembukaan / Opening (00:00 - 00:12) Shot 1: Kuncup Mawar Mekar (00:00 - 00:05) Spesifikasi Kamera: Eye Level Visual & Keterangan: Menampilkan kuncup
+mawar yang mekar secara perlahan di atas kertas bertekstur dengan pencahayaan lembut (soft lighting). Aksi (Action):Rose unfurls (bunga mawar mekar).
+Shot 2: Perkenalan Nada di Studio (00:05 - 00:12) Spesifikasi Kamera:Eye Level Visual & Keterangan: Nada berada di studionya yang serba bernuansa
+pastel, dikelilingi oleh berbagai rangkaian bunga. Aksi (Action): Nada smiles (Nada tersenyum hangat ke arah kamera). Bagian 2: Proses Kreatif &
+Rangkaian Bunga (00:12 - 00:35) Shot 3: Pemilihan Bunga (00:12 - 00:17) Spesifikasi Kamera: Pan Down Visual & Keterangan: Tangan Nada memilih dan
+mengambil daun sage green serta mawar segar. Aksi (Action):Hands move (gerakan tangan mengambil bunga). Shot 4: Pemotongan Batang (00:17 - 00:20)
+Spesifikasi Kamera:Static Visual & Keterangan:Gunting florist memotong batang bunga secara tepat dan presisi. Aksi (Action):Cut (memotong batang).
+Shot 5: Rangkaian Buket Mawar (00:20 - 00:25) Spesifikasi Kamera: MCU (Medium Close-Up), High Angle, Tracking Right (5 detik) Visual & Keterangan:
+Menampilkan proses merangkai buket mawar pastel bernuansa lembut. Shot 6: Rangkaian Bunga Kering (00:25 - 00:30) Spesifikasi Kamera: CU (Close-Up),
+Eye Level, Static (5 detik) Visual & Keterangan: Detail close-up dari buket bunga kering estetik. Aksi (Action): Focus (fokus pada tekstur bunga).
+Shot 7: Kotak Kado Handmade (00:30 - 00:35) Spesifikasi Kamera: MS (Medium Shot), Top Down, Static (5 detik) Visual & Keterangan: Penataan kotak kado
+craft handmade yang dihias anggun. Bagian 3: Detail Kemasan & Momen Penyerahan (00:35 - 00:50) Shot 8: Pembungkusan Buket (00:35 - 00:40) Spesifikasi
+Kamera: CU (Close-Up), High Angle, Slow Zoom In (5 detik) Visual & Keterangan: Melipat kertas wrapping bermotif monogram logo 'NN'. Aksi
+(Action):Paper is folded (kertas melipat buket). Shot 9: Detail Pita & Wax Seal (00:40 - 00:45) Spesifikasi Kamera: ECU (Extreme Close-Up), Eye Level,
+Static (5 detik) Visual & Keterangan: Tangan Nada mengikat pita satin sage green dan menekan wax seal tembaga. Shot 10: Penyerahan Buket (00:45 -
+00:50) Spesifikasi Kamera: MS (Medium Shot), Eye Level, Panning Left (5 detik) Visual & Keterangan: Tangan Nada secara lembut menyerahkan buket/kado
+kepada penerima. Bagian 4: Penutup & Identitas Brand (00:50 - 01:00) Shot 11: Ekspresi Kebahagiaan (00:50 - 00:55) Spesifikasi Kamera: MCU (Medium
+Close-Up), Eye Level, Static (5 detik) Visual & Keterangan: Ekspresi wajah penerima terharu dan berbinar gembira saat menerima kado. Shot 12: Penutup
+(Nada & Produk Final) (00:55 - 01:00) Spesifikasi Kamera: MFS (Medium Full Shot), Eye Level, Pedestal Up (5 detik) Visual & Keterangan: Nada berdiri
+di studio bersama hasil karya finalnya. Shot 13: Outro Logo & Tagline (01:00 / Outro) Spesifikasi Kamera:Fade In (5 detik) Visual & Keterangan:
+Tampilan logo monogram NN dan tagline "Wrap Your Feelings in Bloom". prompt: Good job.Last,implementasikan/buatkan kedalam storyboard nya.Dengan
+ketentuan: Minimal: 1. 13 scene 2. Visual adegan 3. Keterangan shot 4. Angle kamera 5. Transisi 6. Dialog atau narasi
+
+--- GAMBAR (8) — BUKTI VISUAL, BACA FILENYA LANGSUNG ---
+
+[IMG#01] px=320x320 square | bagian: 1. PERSONAL BRANDING | file: img/R94/01.jpg
+  OCR: NADA / NISRINA
+
+[IMG#02] px=320x179 landscape | bagian: 2. MEMBUAT MOODBOARD BRANDING | file: img/R94/02.jpg
+  OCR: Cmad Deontie / 2 / Cotisg Ekgecx / ANOCWTIE / BOVOUETATAN / wupYourSeelog / COLOSTNLETTEANRY / 12 / 13 / 16 / TI
+
+[IMG#03] px=320x320 square | bagian: 3. MEMBUAT MOCKUP BRANDING | file: img/R94/03.jpg
+  OCR: m / NADA / HEAPY / NISRINA / 心
+
+[IMG#04] px=320x320 square | bagian: 3. MEMBUAT MOCKUP BRANDING | file: img/R94/04.jpg
+  OCR: NADA / NISRINA / Noda Nisdina / RONACAVC / IULEAPAL / PAKAINCE / XATAHCOMO
+
+[IMG#05] px=320x320 square | bagian: 3. MEMBUAT MOCKUP BRANDING | file: img/R94/05.jpg
+  OCR: RINA / 福 / 心
+
+[IMG#06] px=320x320 square | bagian: 4.MASCOT | file: img/R94/06.jpg
+  OCR: NADA NISRINA / MASCOTFULLBODY / MASCOTPORTRAIT / NADANISONAPORTRAT / Xabtr:LerbaL &leekPedel / MASCOYWTHBRANOINGLOGO / NADA / NISRINA / NADA
+NISRNA / IMPLEMENTASILOGO / FULL8OOY / MxootNady'oersamaKderotsBrond
+
+[IMG#07] px=320x239 landscape | bagian: 7. SHOTLIST | file: img/R94/07.jpg
+  OCR: SHOT LST / shote / Scetes / Ssert beacripien / Irrehg / Anglo / penpecio / Arloi / LoJdlaelcarbudlovotingso / 1(Fenbakun / eCU / EveLmN / Cvrez
+/ Fownrs / 2 / Eye Level / Ciren / 3 / WurOoX / Cuee / LoU dotcooochecnga oren / LovAoge / Cirera / va / HohArda / Crer / OUo an Menhc
+sredSobovgoeLcelecrd / 6 / OJ / EveLod / Core't / Foos / ednod.ogrretadeunthudg bodcoog / T / vs / Tap Dovn / Coras / Arsogacart / 13sdegmdpapr / 8 /
+Coet / cwira.complledoovgoetoiovngxopo / Npers 1odod / LCU o a decade agegron adn bban ngec / Robce ded, / ECU / EveLoe / Corea / ABXPIEUSC / CL / Bye
+Lecl / Kocper! / Hueds moet / 15 / VOU / Eve LoN / Curee / Sow / Fatgyhagdeadjoyahoaccpaag / 8dXM / 12 / Lhepongoo / MFS / Ere Lover / Coree / hedng
+peor / 13 / APYTLRITALNCEKS.OOK / ByeLeel / Crer / Cein tade-ot
+
+[IMG#08] px=320x239 landscape | bagian: 8.STORYBOARD | file: img/R94/08.jpg
+  OCR: STORYBOARDPRODUKSI / NAOA NISRINA TNNT  SODETIK / 452004400012-002 / Draoyror / CC / 218 / ：0100L.25c / thctcu.NchAopa.BovNoom / 2OJ000:40-0045
+/ V5120:45.00:50 / MCU12050.00:55 / W5000:55-0103 / 13000x1010
