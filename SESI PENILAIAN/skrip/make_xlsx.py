@@ -5,7 +5,9 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
 
-OUT = "REKAP NILAIAN ASTS - Personal Branding XI DKV 2026-2027.xlsx"
+# Selalu tulis ke root proyek, apa pun direktori kerja saat skrip dijalankan.
+_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+OUT = os.path.join(_ROOT, "REKAP NILAIAN ASTS - Personal Branding XI DKV 2026-2027.xlsx")
 
 KOM = ["Penamaan Judul & Identitas","Personal Branding & Logo","Moodboard","Mockup Branding",
        "Naskah Iklan","Storyline","Shotlist","Storyboard","AI Mascot Character",
@@ -1408,9 +1410,8 @@ RESOLUSI = {   # nama: (jumlah_gambar, jumlah_ge_1000px, lebar_maks, catatan)
   "NENG SRI RAHAYU": (7,0,320,""),
   "SILVI BUDIA PUTRI": (6,0,320,""),
  "NURJIHAN": (6,0,320,''),
-  "SINDIA SAPUTRI": (0,0,0,"Inaccessible"),
-  "INDRI FITRIYANI": (5,0,320,""),
-  "MUTIA ANITA SARI": (7,0,320,""),
+"SINDIA SAPUTRI": (0,0,0,"Inaccessible"),
+   "MUTIA ANITA SARI": (7,0,320,""),
   "HARUM NURAULIA SRI KAMILA": (7,0,320,""),
   "AZZAHRA QYASIMAH": (8,0,320,""),
   "AUPA AZNIA": (6,0,320,""),
@@ -1457,6 +1458,9 @@ RESOLUSI = {   # nama: (jumlah_gambar, jumlah_ge_1000px, lebar_maks, catatan)
  "AMIRA NUR AULIA": (10,0,400,''),
  "RAIRA PUTRI": (8,0,320,''),
  "KAILA AROPATILAH": (5,0,320,''),
+  # Link tidak dapat diakses (URL editor Blogger / HTTP 404) - tidak ada gambar terukur
+ "NURI MEITRI AENI": (0,0,0,"Inaccessible"),
+ "NAZWA KURNIA": (0,0,0,"Inaccessible"),
 }
 def fmt_bonus(b):
     """Tampilkan nilai tambah resolusi dengan 1 desimal, Pemisah koma (id-ID)."""
@@ -1513,7 +1517,7 @@ ws["A1"].font = Font(bold=True, size=14)
 ws["A2"] = "Mata Pelajaran: DKV - AI dalam Desain | Semester: 1 | TP: 2026/2027 | Sekolah: SMK Negeri 9 Garut"
 ws["A3"] = "Batas akhir: Jumat, 2 Oktober 2026 23.59 WIB (seluruh kiriman tepat waktu; waktu tidak memengaruhi skor kualitas)"
 ws["A3"].font = Font(italic=True, size=9)
-ws["A4"] = "Sumber: rekapan Google Form (18 kiriman) + akses langsung ke Blogger + 119 berkas gambar (OCR & dimensi piksel asli)"
+ws["A4"] = "Sumber: rekapan Google Form (86 kiriman) + akses langsung ke Blogger + 555 berkas gambar (OCR & dimensi piksel asli)"
 ws["A4"].font = Font(italic=True, size=9)
 
 hdr = ["No","Nama Siswa","Kelas","Waktu Kirim","Link Blogger","Mockup","Shotlist","Storyboard","Mascot","Prompt","Jml Kata Deskripsi","Resolusi (px)","Nilai Rubrik /100","Nilai Tambah Resolusi","NILAI AKHIR /100","Kategori"]
@@ -1727,7 +1731,7 @@ ws4.append(["No","Nama","Butir yang perlu dicek","Petunjuk OCR / bukti", "Cek (x
 style_header(ws4, 5, 7)
 CEK = [
  ("QUINSYA RAHMANESA SOLEHA","Jumlah shot pada tabel shotlist","Tabel memuat nomor 1,2,3,4,5,6,8,9 = 8 shot (kurang 2). Format tabel tetap wajib, jumlah harus >=10"),
- ("JIHAN SHAFIRA KEAN P.M.","Jumlah scene storyboard","Berkas memuat Scene 1-4 (kurang 2 dari minimum 6)"),
+ ("JIHAN SHAFIRA KEAN PUTRI MULYADI","Jumlah scene storyboard","Berkas memuat Scene 1-4 (kurang 2 dari minimum 6)"),
  ("QIANDRA KAIZAR NAHARI","Ada/tidaknya gambar AI Mascot","Tidak ada berkas maskot sama sekali di 5 gambar artikel"),
  ("AHMAD FAUZI","Fungsi 6 gambar antara storyline dan storyboard","Berada di posisi D.3 (Shotlist) - belum jelas shotlist atau frame storyboard"),
  ("AHMAD FAUZI","Jumlah shot pada shotlist gambar","Format gambar sudah DITERIMA; yang belum dipastikan hanya jumlah baris (teks hasil AI tidak terbaca)"),
@@ -1740,9 +1744,19 @@ CEK = [
  ("ILMA LATIFAH","Jumlah mockup dalam 1 gambar & apakah mascot full body","Teks menyebut kartu nama, stiker, banner; 1 berkas gambar"),
  ("DEDE APRILIA KARTIKA","Jumlah mockup dalam 1 gambar","Teks menyebut tote bag, kartu nama, social media feed; 1 berkas gambar"),
  ("SAFINAH SYARA GARINI","Jumlah baris shotlist pada gambar","Format gambar sudah DITERIMA; yang belum dipastikan hanya jumlah baris (header terbaca, baris tidak)"),
- ("JIHAN SHAFIRA KEAN P.M.","Jumlah mockup dalam berkas gambar","4-5 berkas identitas; fungsi laptop/packaging/gelas terverifikasi di teks"),
+ ("JIHAN SHAFIRA KEAN PUTRI MULYADI","Jumlah mockup dalam berkas gambar","4-5 berkas identitas; fungsi laptop/packaging/gelas terverifikasi di teks"),
  ("WULAN SUNDARI","Jumlah mockup dalam 1 gambar","1 berkas 1376x768"),
  ("WILDA AZKIA","Apakah salah satu gambar mascot = FULL BODY","Tidak ada label pada gambar; full body kini komponen WAJIB"),
+ ("MUHAMAD DIAZ PIRDAUS","Orisinalitas heading '{Monogram SSG}'","Heading yang sama persis muncul pada 4 kiriman: MUHAMAD DIAZ PIRDAUS, NAZMA KAYVA GASANI, TENI DAMAYANTI, RESTI NURUL FADILA. Perlu klarifikasi orisinalitas dari siswa."),
+ ("NAZWA KAYVA GASANI","Orisinalitas heading '{Monogram SSG}'","Lihat butir MUHAMAD DIAZ PIRDAUS - heading identik pada 4 kiriman."),
+ ("TENI DAMAYANTI","Orisinalitas heading '{Monogram SSG}'","Lihat butir MUHAMAD DIAZ PIRDAUS - heading identik pada 4 kiriman."),
+ ("RESTI NURUL FADILA","Orisinalitas heading '{Monogram SSG}'","Lihat butir MUHAMAD DIAZ PIRDAUS - heading identik pada 4 kiriman."),
+ ("CEISHA SINTHIA","Kirim link artikel publik","Link yang masuk adalah URL editor Blogger (redirect login Google). Nilai 0 karena karya tidak dapat diverifikasi."),
+ ("SINDIA SAPUTRI","Kirim link artikel publik","Link yang masuk adalah URL editor Blogger (redirect login Google). Nilai 0 karena karya tidak dapat diverifikasi."),
+ ("SITI JENAB","Kirim link artikel publik","Link yang masuk adalah URL editor Blogger (redirect login Google). Nilai 0 karena karya tidak dapat diverifikasi."),
+ ("NAZWA KURNIA","Kirim link artikel publik","Link yang masuk adalah URL editor Blogger (redirect login Google). Nilai 0 karena karya tidak dapat diverifikasi."),
+ ("RISMA SAPARANI","Kirim link artikel publik yang aktif","Link mengembalikan HTTP 404. Nilai 0 karena karya tidak dapat diverifikasi."),
+ ("NURI MEITRI AENI","Kirim link artikel publik yang aktif","Link mengembalikan HTTP 404. Nilai 0 karena karya tidak dapat diverifikasi."),
 ]
 rr = 6
 for i, (nama, butir, petunjuk) in enumerate(CEK, 1):
@@ -1768,20 +1782,38 @@ ws5.append([]); ws5.append([])
 ws5.append(["No","Timestamp","Kelas","Nama","Link Postingan Blogger","Status Blogger","Catatan"])
 style_header(ws5, 4, 7)
 rr = 5
+# Status akses blogger berdasarkan hasil fetch (parsed.json). Id R## tidak dipakai
+# sebagai kunci karena tidak unik antar-entri.
+TIDAK_AKSES = {
+  "CEISHA SINTHIA":  "TIDAK AKSES - URL editor Blogger (redirect login Google)",
+  "SINDIA SAPUTRI":  "TIDAK AKSES - URL editor Blogger (redirect login Google)",
+  "SITI JENAB":      "TIDAK AKSES - URL editor Blogger (redirect login Google)",
+  "NAZWA KURNIA":    "TIDAK AKSES - URL editor Blogger (redirect login Google)",
+  "RISMA SAPARANI":  "TIDAK AKSES - HTTP 404",
+  "NURI MEITRI AENI":"TIDAK AKSES - HTTP 404",
+}
+CATATAN = {
+  "AHMAD FAUZI": "Judul artikel 'Biodata diri' - perlu verifikasi identitas",
+  "MUHAMAD DIAZ PIRDAUS": "Heading '{Monogram SSG}' - teks yang sama juga muncul di 3 kiriman lain",
+  "NAZMA KAYVA GASANI": "Heading '{Monogram SSG}' - teks yang sama juga muncul di 3 kiriman lain",
+  "TENI DAMAYANTI": "Heading '{Monogram SSG}' - teks yang sama juga muncul di 3 kiriman lain",
+  "RESTI NURUL FADILA": "Heading '{Monogram SSG}' - teks yang sama juga muncul di 3 kiriman lain",
+  "AZMI ANUGRAH": "Judul artikel 'UJI KOPETENSI PROMTPTING AI DKV' - perlu verifikasi identitas",
+  "PUTRI INTAN NURAENI": "Judul artikel 'ASTS KOMPETENSI AI DKV - SMKN 9 GARUT' - perlu verifikasi identitas",
+  "MUTIA ANITA SARI": "Page title 'ASTS personal branding nama Mutia' - nama pada judul tidak lengkap",
+}
 for i, row in enumerate(S, 1):
     rid, nama, kls, ts, link, mk, sh, sc, ms, pr, dsk, skor12, det = row
     vals, rubrik, bon, ketb, akhir, kat0, kat = x_rows(row)
-    status = "AKTIF (HTTP 200)"
-    cat_ = ""
-    if rid == "R03": cat_ = "Judul artikel 'Biodata diri' - perlu verifikasi identitas"
-    if rid == "R20": cat_ = "Heading '{Monogram SSG}' - teks milik siswa lain"
-    if rid == "R18": cat_ = "URL blog memuat id Blogger (_01701389558)"
+    status = TIDAK_AKSES.get(nama, "AKTIF (HTTP 200)")
+    cat_ = CATATAN.get(nama, "")
     ws5.cell(row=rr, column=1, value=i)
     ws5.cell(row=rr, column=2, value=ts)
     ws5.cell(row=rr, column=3, value=kls)
     ws5.cell(row=rr, column=4, value=nama)
     ws5.cell(row=rr, column=5, value=link).alignment = WRAP
-    ws5.cell(row=rr, column=6, value=status)
+    c = ws5.cell(row=rr, column=6, value=status)
+    if nama in TIDAK_AKSES: c.fill = BAD; c.font = Font(bold=True, color="9C0006")
     ws5.cell(row=rr, column=7, value=cat_).alignment = WRAP
     for cc in range(1, 8):
         ws5.cell(row=rr, column=cc).border = BORD
@@ -1840,7 +1872,7 @@ notes = [
  ("Nilai tambah resolusi", "Diturunkan agar pengaruhnya kecil: +1,0 / +0,7 / +0,4 / 0 (maksimal +1,0 poin, bukan +3)."),
  ("Resolusi rendah", "TIDAK menjadi potongan nilai. Resolusi tetap diperbolehkan."),
  ("Nilai Akhir", "Nilai Rubrik (0-100) + Nilai Tambah Resolusi, dibatasi maksimum 100."),
- ("Dampak", "18 siswa dihitung ulang. Tidak ada nilai turun; selisih hanya pada 6 siswa yang mendapat nilai tambah."),
+ ("Dampak", "18 siswa dihitung ulang saat revisi ini diterapkan (1 Oktober 2026). Tidak ada nilai turun; selisih hanya pada 6 siswa yang mendapat nilai tambah."),
  ("", ""),
  ("REVISI RUBRIK KE-2 (1 Oktober 2026)", ""),
  ("Resolusi rendah", "TIDAK lagi menjadi potongan nilai. Resolusi tetap diperbolehkan."),
@@ -1853,9 +1885,9 @@ notes = [
  ("Dampak", "Nilai seluruh siswa DIHITUNG ULANG. Tidak ada siswa yang mengunggah ulang (0 perubahan data)."),
  ("", ""),
  ("METODE VERIFIKASI", ""),
- ("Sumber 1", "Rekapan pengumpulan Google Form: 18 kiriman (nama, kelas, link, timestamp)."),
- ("Sumber 2", "Halaman Blogger publik diakses langsung satu per satu (HTTP 200 untuk 18 dari 18)."),
- ("Sumber 3", "119 berkas gambar diunduh dari Blogger dan diperiksa dengan OCR (Apple Vision) + dimensi piksel asli."),
+ ("Sumber 1", "Rekapan pengumpulan Google Form: 86 kiriman (nama, kelas, link, timestamp)."),
+ ("Sumber 2", "Halaman Blogger diakses langsung satu per satu. 80 dari 86 dapat diakses publik; 4 siswa mengirim URL editor Blogger (mengarah ke halaman login Google) dan 2 link mengembalikan HTTP 404."),
+ ("Sumber 3", "555 berkas gambar terukur (dimensi piksel asli) dan diperiksa dengan OCR (Apple Vision). 6 siswa tidak memiliki gambar yang dapat diukur karena link tidak dapat diakses."),
  ("Sumber 4", "Teks artikel, tabel, heading, dan label/tag Blogger."),
  ("", ""),
  ("KETERBATASAN PENTING", ""),
@@ -1867,7 +1899,7 @@ notes = [
  ("ATURAN PENILAIAN", ""),
  ("Rumus", "Nilai komponen = (Skor / 4) x Bobot. Total = jumlah seluruh nilai komponen. Skala 0-4."),
  ("Kategori", "90-100 Sangat Baik | 80-89 Baik | 70-79 Cukup | <70 Perlu Perbaikan."),
- ("Waktu", "Seluruh 18 kiriman sebelum batas 2 Oktober 2026 23.59 WIB. Waktu TIDAK mengubah skor kualitas."),
+ ("Waktu", "Seluruh 86 kiriman sebelum batas 2 Oktober 2026 23.59 WIB. Waktu TIDAK mengubah skor kualitas."),
  ("", ""),
  ("BOBOT KOMPONEN", ""),
 ]
@@ -1879,7 +1911,8 @@ notes += [
  ("", ""),
  ("CATATAN PENTING UNTUK GURU", ""),
  ("Cek manual", "Lihat sheet '4. CEK MANUAL GURU' untuk butir yang tidak dapat dipastikan."),
- ("Data rekapan", "Rekapan Google Form berisi 18 kiriman. Tiga nama tidak lagi tercatat pada Form: ADE SAHRUL GUNAWAN, DIRA RAHMAWATI, FITRIYANI - ketiganya dikeluarkan dari penilaian atas keputusan guru."),
+ ("Data rekapan", "Rekapan Google Form berisi 86 kiriman dan seluruh 86 siswa dinilai. Tidak ada siswa yang dikeluarkan dari penilaian."),
+ ("Nilai 0", "6 siswa bernilai 0 karena karya tidak dapat diverifikasi, bukan karena karya kosong: 4 siswa mengirim URL editor Blogger (CEISHA SINTHIA, SINDIA SAPUTRI, SITI JENAB, NAZWA KURNIA) dan 2 link mengembalikan HTTP 404 (RISMA SAPARANI, NURI MEITRI AENI)."),
 ]
 rr = 3
 for k, v in notes:

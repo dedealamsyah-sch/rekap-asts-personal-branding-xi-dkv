@@ -2,90 +2,83 @@
 
 State of the ASTS assessment workflow, so the AI can continue without re-loading all data.
 
-**Diperbarui: 2 Oktober 2026 (pukul 10.30 WIB) — sinkron dengan commit `2914cb9`.**
-Versi sebelum 1 Oktober sudah usang: rubric bukan lagi 36 siswa, dan tidak ada siswa
-yang belum dinilai.
+**Diperbarui: 3 Oktober 2026 — sinkron dengan 86 siswa, rata-rata 79,35.**
+Versi sebelum 2 Oktober sudah usang: rubric bukan lagi 36/68 siswa.
 
 ## Lokasi
-- Root: `/Users/dedealamsyah/Instructor/SAGAR/DKV/2026/MPP AI - XI DKV/ASTS/NILAI ASTS 1/`
-- Skrip: `SESI PENILAIAN/skrip/` (`fetch_parse.py`, `report.py`, `make_xlsx.py`, `hitung.py`, `getimg.py`)
-- Data: `SESI PENILAIAN/skrip/parsed.json` (hasil fetch terbaru, **68 entri**),
-  `SESI PENILAIAN/data/parsed.json` (baseline, **masih 45 entri** — lihat "Jebakan baseline")
-- HTML mentah: `SESI PENILAIAN/skrip/raw/R*.html` (67 berkas)
-- Bukti baca: `SESI PENILAIAN/skrip/reports/R*.txt` (68 berkas, otomatis dari `report.py`)
-- Output: `REKAP NILAIAN ASTS - Personal Branding XI DKV 2026-2027.xlsx` (**75 sheet**)
-- Backup workbook: `SESI PENILAIAN/backup/REKAP NILAIAN ASTS - 69 baris (sebelum hapus duplikat).xlsx`
-- Web: `index.html` (semua data dibaca dari objek JS `DATA`)
+- Skrip penilaian: `SESI PENILAIAN/skrip/`
+- Sumber kebenaran nilai: `SESI PENILAIAN/skrip/make_xlsx.py` (`S.append` + `RESOLUSI`)
+- Data fetch: `SESI PENILAIAN/skrip/parsed.json` (**86 entri**), baseline identik di `SESI PENILAIAN/data/parsed.json`
+- HTML mentah: `SESI PENILAIAN/skrip/raw/R*.html` (111 berkas)
+- Bukti baca: `SESI PENILAIAN/skrip/reports/R*.txt` (86 berkas)
+- Output: `REKAP NILAIAN ASTS - Personal Branding XI DKV 2026-2027.xlsx` (**93 sheet**)
+- Turunan: `LAPORAN PENILAIAN ... .md`, `rekap_nilai_asts_hasil.json`, `index.html`
 
 ## Sumber data
 - Spreadsheet Form Responses: `https://docs.google.com/spreadsheets/d/1eq2UyXOYX8z60ybOxGiSa9CLhDQRrRrhQViKrzZjIoU`
 - `fetch_parse.py` memakai ekspor **xlsx** (`?export?format=xlsx`), bukan CSV.
 
-## Status per 02/10/2026
-- **68 siswa** dinilai penuh di `1. REKAP NILAI` (No 1–68, tanpa nomor lompatan).
-- **75 sheet**: 68 `Detail - <nama>` + `1. REKAP NILAI`, `2. NILAI KOMPONEN`,
-  `3. REKAP KETIDAKLENGKAPAN`, `4. CEK MANUAL GURU`, `5. DATA REKAPAN`,
-  `7. NILAI TAMBAHAN RESOLUSI`, `6. METODE & RUBRIK`.
-- **Rata-rata Nilai Akhir 78,95** (rubrik 78,86 + nilai tambah resolusi 0,09), 440 berkas gambar.
-- Sebar per kelas: XI DKV 1 = 13, XI DKV 2 = 19, XI DKV 3 = 24, XI DKV 4 = 12.
-- Kategori: Sangat Baik 16 · Baik 34 · Cukup 10 · Perlu Perbaikan 8.
-- **Nilai 0 (4 siswa, semuanya XI DKV 2)**: CEISHA SINTHIA (No 65), SINDIA SAPUTRI (No 66),
-  SITI JENAB (No 67) — link-nya berupa halaman *editor* Blogger sehingga tidak dapat diverifikasi;
-  RISMA SAPARANI (No 68) — link publik aktif, tetapi tidak ada visual/prompt yang dapat diperiksa.
-- 2 Oktober: duplikat **INDRI FITRIYANI** (satu orang, link `...fitriyani-xi.html?m=1` = versi
-  mobile dari kiriman utama) dihapus dari `make_xlsx.py`. Sheet `Detail - Indri Fitriyani1` hilang,
-  jumlah siswa 69 → 68, rata-rata 79,11 → 78,95. Skor yang dipakai: rubrik **90,5**.
-- Web sudah sinkron dengan Excel (`python3 docs/update_data.py`, 0 selisih di semua baris),
-  sudah di-commit & push (`2914cb9`).
+## Status per 03/10/2026
+- **86 siswa** dinilai penuh. Rata-rata **rubrik 79,28 + nilai tambah resolusi 0,07 = 79,35**.
+- Kategori: Sangat Baik 23 · Baik 44 · Cukup 10 · Perlu Perbaikan 9.
+- Sebar kelas: XI DKV 1 = 18 · DKV 2 = 22 · DKV 3 = 25 · DKV 4 = 21.
+- **93 sheet**: 86 `Detail - <nama>` + `1. REKAP NILAI`, `2. NILAI KOMPONEN`,
+  `3. REKAP KETIDAKLENGKAPAN` (330 temuan), `4. CEK MANUAL GURU` (**27 butir**),
+  `5. DATA REKAPAN`, `7. NILAI TAMBAHAN RESOLUSI`, `6. METODE & RUBRIK`.
+- **6 siswa bernilai 0** (karya tidak dapat diverifikasi, bukan karya kosong):
+  - URL *editor* Blogger → CEISHA SINTHIA, SINDIA SAPUTRI, SITI JENAB, NAZWA KURNIA
+  - HTTP 404 → RISMA SAPARANI, NURI MEITRI AENI
+- **27 butir `4. CEK MANUAL GURU`**: 17 butir verifikasi visual lama + 4 butir orisinalitas
+  heading `{Monogram SSG}` (MUHAMAD DIAZ, NAZMA KAYVA, TENI DAMAYANTI, RESTI NURUL FADILA)
+  + 6 permintaan link publik/aktif.
 
 ## PENTING: cakupan make_xlsx.py
-- `make_xlsx.py` **tidak membaca** `parsed.json`. Seluruh penilaian rubric (12 komponen × 68 siswa)
-  ditulis manual sebagai literal `S.append((...))`, lengkap dengan narasi bukti per komponen.
-- **68 entri `S.append`** = 68 siswa. Regenerasi **sudah diverifikasi identik (0 sel berbeda)**
-  pada 02/10/2026, jadi aman selama `S` tidak diubah manual.
-- Id `R##` pada `S.append` **tidak unik** (R16, R17, R19, R20, R21 dipakai dua kali) dan tidak
-  dirujuk apa pun — jangan memakainya sebagai kunci lookup.
-- Archives/kelengkapan nilai tetap di `index.html` dibaca dari Excel, bukan dari skrip.
+- `make_xlsx.py` **tidak membaca** `parsed.json`. Seluruh rubrik (12 komponen × 86 siswa)
+  ditulis literal sebagai `S.append((...))` + `RESOLUSI`.
+- Id `R##` pada `S.append` **tidak unik** dan tidak dirujuk apa pun — jangan memakainya
+  sebagai kunci lookup. `TIDAK_AKSES` dan `CATATAN` sengaja di-key **berdasarkan nama**.
+- `OUT` dihitung absolut dari lokasi skrip, jadi aman dijalankan dari direktori mana pun.
 
-## Jebakan baseline
-`SESI PENILAIAN/data/parsed.json` masih berisi **45 entri**, sedangkan `skrip/parsed.json` berisi 68.
-Kalau `fetch_parse.py` dijalankan sekarang, ~23 siswa akan terbaca sebagai "kiriman baru" yang
-palsu. Salin `skrip/parsed.json` ke `data/parsed.json` lebih dulu bila ingin deteksi perubahan akurat.
-
-## Yang belum dinilai
-**Tidak ada.** Seluruh 68 siswa sudah punya nilai rubrik + nilai akhir di Excel maupun `index.html`.
-Yang masih menunggu keputusan guru ada di bagian "Tugas التالية".
-
-## Tugas berikutnya
-1. **Konfirmasi 4 siswa nilai 0**: minta link artikel publik untuk CEISHA SINTHIA, SINDIA SAPUTRI,
-   SITI JENAB (link editor), dan klarifikasi apakah RISMA SAPARANI perlu di nilai ulang.
-2. **Cek manual guru**: tinjau butir pada sheet `4. CEK MANUAL GURU` (17 butir).
-3. **Ekspor laporan**: buat PDF/laporan cetak bila diperlukan untuk pembagian hasil ASTS.
-
-## Alur pemeliharaan (kalau ada perubahan nilai)
+## Alur pemeliharaan
 ```bash
 # 1. nilai baru: baca reports/R*.txt + raw/R*.html, lalu tambah S.append((...)) di make_xlsx.py
-python3 "SESI PENILAIAN/skrip/make_xlsx.py"     # regenerate Excel (68 -> N siswa)
-python3 docs/update_data.py --check              # lihat apa yang berubah, tanpa menulis
-python3 docs/update_data.py                      # tulis DATA ke index.html
-git add index.html && git commit -m "..." && git push origin main
+python "SESI PENILAIAN/skrip/make_xlsx.py"   # regenerate Excel (93 sheet)
+python docs/update_data.py --check            # lihat apa yang berubah, tanpa menulis
+python docs/update_data.py                    # tulis DATA ke index.html
+git add -A && git commit -m "..." && git push origin main
 ```
-Bila kiriman baru dari Form Responses:
+Bila ada kiriman baru dari Form Responses:
 ```bash
-cd "SESI PENILAIAN/skrip"
-cp parsed.json ../data/parsed.json               # baseline dulu (lihat "Jebakan baseline")
-python3 fetch_parse.py                           # deteksi kiriman baru / berubah
-python3 report.py                                # bukti baca untuk siswa baru
+cp "SESI PENILAIAN/skrip/parsed.json" "SESI PENILAIAN/data/parsed.json"  # baseline dulu
+python "SESI PENILAIAN/skrip/fetch_parse.py"
+python "SESI PENILAIAN/skrip/report.py"
 ```
+
+## Urutan sinkronisasi 4 berkas (jangan sampaiidah)
+`make_xlsx.py` → `.xlsx` → `docs/update_data.py` → `index.html`.
+`LAPORAN *.md` dan `rekap_nilai_asts_hasil.json` **tidak** dibangun otomatis — keduanya
+perlu diperbarui manual dari `make_xlsx.py` setiap kali nilai berubah.
+
+## Jebakan yang sudah pernah terjadi
+- **Baseline `data/parsed.json` tertinggal.** Kalau `fetch_parse.py` dijalankan saat
+  baseline lebih tua dari `skrip/parsed.json`, ~(selisih) siswa terbaca sebagai "kiriman baru"
+  yang palsu. Salin dulu sebelum fetch.
+- **Duplikat nama.** DIRA RAHMAWATI sempat dikeluarkan lalu muncul lagi; INDRI FITRIYANI
+  sempat tercatat dua kali. Halaman web mencari data **berdasarkan nama** (`norm()`), jadi
+  nama harus unik.
+- **Id R## bukan kunci.** Gunakan nama lengkap.
 
 ## Catatan teknis
 - `docs/update_data.py` hanya menyalin ulang objek `DATA`; HTML/JS lain tidak tersentuh.
-  Ia juga menulis ulang angka ringkasan pada `6. METODE & RUBRIK` (jumlah kiriman & berkas gambar).
-- Halaman web mencari data **berdasarkan nama** (`norm()`). Nama siswa harus unik — duplikat nama
-  membuat baris kedua memakai angka baris pertama dan membuat `detail` tidak terpetakan.
-- `git push` ke repo `dedealamsyah-sch/...` gagal 403 bila akun aktif `gh` adalah `dedealamsyah`.
-  Pakai `gh auth switch --user dedealamsyah-sch` sebelum push, lalu kembalikan.
-- Output python yang panjang kadang tertangkap hook; tulis ke file lalu baca bila perlu
-  (`python3 skrip.py > /tmp/out.txt`).
-- `.xlsx`, `LAPORAN *.md`, `rekap_nilai_asts_hasil.json`, dan `SESI PENILAIAN/` tidak ikut
-  ter-upload ke GitHub (`.gitignore`); hanya `index.html`, `logo-dkv.png`, dan `docs/`.
+  Ia juga menulis ulang angka ringkasan (`meta.rata`, `meta.gambar`).
+- `git push` ke repo `dedealamsyah-sch/...` gagal 403 bila akun aktif `gh` adalah
+  `dedealamsyah`. Pakai `gh auth switch --user dedealamsyah-sch` sebelum push, lalu kembalikan.
+- Output python yang panjang kadang tertangkap hook; tulis ke file lalu baca bila perlu.
+- `.gitignore` **tidak** mengecualikan apa pun — seluruh isi project (termasuk `.xlsx`,
+  `SESI PENILAIAN/`, gambar) ikut ter-*commit* ke repo.
+
+## Tugas berikutnya
+1. **Minta link** dari 6 siswa bernilai 0 (lihat daftar di atas).
+2. **Tinjau 27 butir** sheet `4. CEK MANUAL GURU`.
+3. **Periksa orisinalitas** 4 kiriman dengan heading `{Monogram SSG}`.
+4. **Ekspor laporan** PDF/cetak bila perlu untuk pembagian hasil ASTS.

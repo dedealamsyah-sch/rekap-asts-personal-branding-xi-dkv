@@ -65,14 +65,16 @@ Folder kerja:
 
 | Berkas | Keterangan |
 |---|---|
-| `REKAP NILAIAN ASTS - Personal Branding XI DKV 2026-2027.xlsx` | **FILE UTAMA** — 28 sheet |
+| `REKAP NILAIAN ASTS - Personal Branding XI DKV 2026-2027.xlsx` | **FILE UTAMA** — 93 sheet (86 `Detail - <nama>` + 7 sheet rekap) |
 | `LAPORAN PENILAIAN ASTS - Personal Branding XI DKV 2026-2027.md` | Laporan naratif + feedback per siswa |
-| `rekap_nilai_asts_hasil.json` | Data nilai (machine-readable) |
-| `index.html` | Milik guru — **JANGAN DISENTUH** (dikerjakan sendiri di VSCode) |
+| `rekap_nilai_asts_hasil.json` | Data nilai (machine-readable, 86 entri) |
+| `index.html` | Halaman rekap interaktif. Objek `DATA` di-generate dari Excel oleh `docs/update_data.py` — ** jangan menyunting `DATA` secara manual**. Bagian HTML/JS di luar `DATA` milik guru. |
+| `SESI PENILAIAN/skrip/make_xlsx.py` | **SUMBER KEBENARAN nilai** — `S.append` (12 skor + 12 status/bukti per siswa) + `RESOLUSI` |
 | `SESI PENILAIAN/KETENTUAN-AI.md` | **DOKUMEN INI** |
 | `SESI PENILAIAN/KONTEKS-SESI.md` | Ringkasan keadaan & handoff |
 | `SESI PENILAIAN/skrip/` | Semua skrip penilaian (lihat Bagian 8) |
 | `SESI PENILAIAN/data/` | Snapshot hasil fetch (`parsed.json`, `images.json`, `ocr_compact2.txt`, `nilai_akhir.json`) |
+| `SESI PENILAIAN/README_CONTINUE.md` | **Catatan handoff terbaru** — baca lebih dulu sebelum lanjut |
 
 Folder di atas berisi `.git` — **berikan perhatian pada `git status` sebelum menulis berkas**.
 
@@ -349,80 +351,68 @@ Tabel 2 kolom status + 1 kolom keterangan, **WAJIB berisi hitungan eksplisit**:
 
 ---
 
-# 7. KEADAAN SAAT INI (31 SISWA)
+# 7. KEADAAN SAAT INI (86 SISWA)
 
-Data per 1 Oktober 2026. **31 siswa**, semua dikirim sebelum batas akhir.
-Rata-rata **Nilai Rubrik 79,29** + **Nilai Tambah 0,21** = **Nilai Akhir 79,50**
-Distribusi: **Sangat Baik 9 · Baik 10 · Cukup 7 · Perlu Perbaikan 5**
-Sebaran kelas: DKV 1 = 7 · DKV 2 = 6 · DKV 3 = 17 · DKV 4 = 1
+Data per **3 Oktober 2026**. **86 siswa**, semua dikirim sebelum batas akhir.
+Rata-rata **Nilai Rubrik 79,28** + **Nilai Tambah 0,07** = **Nilai Akhir 79,35**
+Distribusi: **Sangat Baik 23 · Baik 44 · Cukup 10 · Perlu Perbaikan 9**
+Sebaran kelas: DKV 1 = 18 · DKV 2 = 22 · DKV 3 = 25 · DKV 4 = 21
 
-| # | Nama | Kelas | Rubrik | Nilai Tambah | AKHIR | Kategori |
-|---:|---|---|---:|---:|---:|---|
-| 1 | MUHAMAD DIAZ PIRDAUS | DKV 1 | 97,50 | +1,0 | **98,50** | Sangat Baik |
-| 2 | YAYU ASTIA | DKV 2 | 97,50 | – | **97,50** | Sangat Baik |
-| 3 | PUTRI UTAMI | DKV 2 | 93,00 | – | **93,00** | Sangat Baik |
-| 4 | MEYLAN MELIYANTI ANASTASYA SOFYAN | DKV 3 | 92,50 | – | **92,50** | Sangat Baik |
-| 5 | WILDA AZKIA | DKV 1 | 92,00 | – | **92,00** | Sangat Baik |
-| 6 | JAJANG M HUSNI MUBAROK | DKV 3 | 90,50 | +1,0 | **91,50** | Sangat Baik |
-| 7 | SELVI SIFA URIZQI | DKV 3 | 91,00 | – | **91,00** | Sangat Baik |
-| 8 | JIHAN SHAFIRA KEAN PUTRI MULYADI | DKV 3 | 89,50 | +1,0 | **90,50** | Sangat Baik |
-| 9 | INDRI FITRIYANI | DKV 3 | 90,50 | – | **90,50** | Sangat Baik |
-| 10 | JAJANG NURJAMAN | DKV 3 | 88,75 | +1,0 | **89,75** | Baik |
-| 11 | SAFINAH SYARA GARINI | DKV 1 | 89,50 | – | **89,50** | Baik |
-| 12 | MEISYA FAKHRIYAH | DKV 3 | 88,75 | – | **88,75** | Baik |
-| 13 | M REZA HUAFAH | DKV 1 | 87,50 | – | **87,50** | Baik |
-| 14 | DEDE APRILIA KARTIKA | DKV 4 | 85,50 | – | **85,50** | Baik |
-| 15 | KHANZA NURAENI | DKV 3 | 84,75 | +0,7 | **85,45** | Baik |
-| 16 | KAMILA APRILIANI | DKV 3 | 85,00 | – | **85,00** | Baik |
-| 17 | AZMI ANUGRAH | DKV 3 | 84,25 | – | **84,25** | Baik |
-| 18 | WAHDAN SAPARI | DKV 2 | 84,00 | – | **84,00** | Baik |
-| 19 | WINA AFRILIANI | DKV 2 | 83,75 | – | **83,75** | Baik |
-| 20 | SOPA ANIDATUL AISAH | DKV 3 | 78,25 | – | **78,25** | Cukup |
-| 21 | ILMA LATIFAH | DKV 3 | 77,25 | – | **77,25** | Cukup |
-| 22 | WULAN SUNDARI | DKV 1 | 75,00 | +1,0 | **76,00** | Cukup |
-| 23 | SYIVA WIDIYANA AGUSTIN | DKV 1 | 75,25 | – | **75,25** | Cukup |
-| 24 | QIANDRA KAIZAR NAHARI | DKV 3 | 71,75 | +0,7 | **72,45** | Cukup |
-| 25 | RIZKY MUHAMMAD REGAL SAFARI | DKV 1 | 71,00 | – | **71,00** | Cukup |
-| 26 | AHMAD FAUZI | DKV 2 | 70,00 | – | **70,00** | Cukup |
-| 27 | INTAN WIDIYANTI | DKV 3 | 66,75 | – | **66,75** | Perlu Perbaikan |
-| 28 | PUTRI INTAN NURAENI | DKV 3 | 66,00 | – | **66,00** | Perlu Perbaikan |
-| 29 | DHEA EKA KHOERUNNISA | DKV 3 | 58,50 | – | **58,50** | Perlu Perbaikan |
-| 30 | QUINSYA RAHMANESA SOLEHA | DKV 3 | 52,50 | – | **52,50** | Perlu Perbaikan |
-| 31 | CEISHA SINTHIA | DKV 2 | 0,00 | – | **0,00** | Perlu Perbaikan |
+**Nilai akhir teratas:** MUHAMAD DIAZ PIRDAUS 98,50 · SILVI BUDIA PUTRI 98,00 ·
+AI SITI MUSLIMAH 98,00 · YAYU ASTIA 97,50 · SHANDIKA REVI 96,25 · RESTI NURUL FADILA 96,00.
+**Nilai terendah yang dapat dinilai:** QUINSYA RAHMANESA SOLEHA 52,50.
 
-## 7.1 Tiga siswa yang dikeluarkan dari penilaian
-**ADE SAHRUL GUNAWAN · DIRA RAHMAWATI · FITRIYANI** (semua XI DKV 4) tidak lagi tercatat pada
-rekapan Google Form dan **dikeluarkan dari penilaian atas keputusan guru**.
-Nilai lama: 11,25 · 10,25 · 0,00. Riwayat lengkap ada di `KONTEKS-SESI.md` Bagian 3.2.
-Dampak: "Perlu Perbaikan" turun **7 → 4** (saat itu, 18 siswa); rata-rata kelas naik (68,44 → 78,65 → 78,09 → **79,50** setelah 13 kiriman susulan).
+Tabel rekap lengkap (86 baris, diurutkan nilai akhir) ada di:
+- sheet `1. REKAP NILAI` pada workbook
+- bagian `A` pada `LAPORAN PENILAIAN ... .md`
+- `rekap_nilai_asts_hasil.json`
+- objek `DATA.rekap` pada `index.html`
 
-## 7.1b Tiga belas Kiriman Susulan (1 Oktober 2026, 10:11 – 11:16)
-| Nama | DKV | Nilai | Catatan |
-|---|---|---:|---|
-| CEISHA SINTHIA | 2 | **0,00** | **TIDAK DAPAT DINILAI** — link terkirim adalah `blogger.com/blog/post/edit/...` (URL editor). Perlu link artikel publik. |
-| YAYU ASTIA | 2 | **97,50** | Storyboard 10 scene; naskah berupa TABEL (Detik/Visual/Audio); maskot 3 versi; 10 shot; 8 prompt. Hanya 6 gambar. |
-| PUTRI UTAMI | 2 | **93,00** | Maskot esports cyborg orisinal; storyboard 6 panel terverifikasi; 9 prompt. Naskah tanpa Narasi/Dialog; shotlist 8 shot. |
-| MEYLAN M. A. SOFYAN | 3 | **92,50** | Deskripsi 689 kata (terpanjang di kelas); alur cerita paling sinematik; 10 shot bertimecode. |
-| SELVI SIFA URIZQI | 3 | **91,00** | Uraian panjang & spesifik; 12 shot. Gambar maskot tidak terkumpul; storyboard tanpa teks. |
-| INDRI FITRIYANI | 3 | **90,50** | FILOSOFI branding + Daftar pustaka + iterasi prompt; 10 shot. Storyboard hanya 4 panel. |
-| JAJANG NURJAMAN | 3 | **89,75** | **Satu-satunya dapat nilai tambah +1,0** (5 gambar 1024 px). Storyline dengan Fokus Suasana per bagian. Moodboard persegi. |
-| MEISYA FAKHRIYAH | 3 | **88,75** | Deskripsi 602 kata dengan palet hex; planning video 4 tahap. Resolusi 179–320 px; tabel shotlist dobel. |
-| M REZA HUAFAH | 1 | **87,50** | 27 gambar (terbanyak); 3.467 kata; shotlist 12 shot sebagai gambar; 8 prompt. Hanya 1 label Blogger. |
-| KAMILA APRILIANI | 3 | **85,00** | Planning video terkuat XI DKV 3 (naskah 6 scene, 12 shot). Branding & moodboard paling ringkas. |
-| AZMI ANUGRAH | 3 | **84,25** | Judul tidak sesuai format; **storyline kosong**; maskot tidak terverifikasi. |
-| WINA AFRILIANI | 2 | **83,75** | Shotlist 10 shot + storyboard 10 scene; 3 versi maskot. Branding/moodboard tipis; penulisan kurang rapi. |
-| SYIVA WIDIYANA A. | 1 | **75,25** | Mockup paling rinci di kelas; 7 prompt. **Shotlist & storyboard hanya narasi teks** — jumlah TIDAK DAPAT DIVERIFIKASI. |
+> Riwayat versi lama (31 siswa / 79,50 · 68 siswa / 78,95 · 69 baris / 79,11) dicatat di
+> bagian `E. RINGKASAN AKHIR` pada `LAPORAN ... .md`. **Jangan memakai angka lama sebagai acuan.**
+
+## 7.0 Enam siswa bernilai 0 (karya tidak dapat diverifikasi)
+| Nama | Kelas | Penyebab |
+|---|---|---|
+| CEISHA SINTHIA | DKV 2 | URL *editor* Blogger (redirect login Google) |
+| SINDIA SAPUTRI | DKV 2 | URL *editor* Blogger |
+| SITI JENAB | DKV 2 | URL *editor* Blogger |
+| NAZWA KURNIA | DKV 4 | URL *editor* Blogger |
+| RISMA SAPARANI | DKV 2 | HTTP 404 |
+| NURI MEITRI AENI | DKV 3 | HTTP 404 |
+
+Nilai 0 pada enam siswa ini **bukan** penalty dari karya kosong — karya tidak dapat
+diperiksa sama sekali. Minta link publik/aktif sebelum masuk rapor.
+
+## 7.1 Riwayat perubahan jumlah siswa
+
+|giliran | Jumlah | Rata-rata akhir | Catatan |
+|---|---:|---:|---|
+| Semula | 18 | 64,61 | Penilaian pertama |
+| Revisi-1 | 18 | 66,58 | 9 siswa naik |
+| Revisi-2 | 18 | 78,65 | Resolusi jadi nilai tambah |
+| Revisi-3 | 18 | 78,09 | Nilai tambah diturunkan maks +1,0 |
+| Tambahan 1 Okt pagi | 31 | 79,50 | 13 kiriman susulan |
+| Assessment susulan | 69 | 79,11 | 4 kiriman sisipan |
+| Duplikat dihapus | 68 | 78,95 | INDRI FITRIYANI dobel dihapus |
+| **Tambahan 2 Okt malam** | **86** | **79,35** | **18 kiriman baru + 9 perbaikan; DIRA RAHMAWATI & FITRIYANI kembali dinilai** |
+
+## 7.1b Kiriman yang tercatat pada tahap susulan
+Rincian 18 kiriman 2 Oktober + catatan 13 kiriman 1 Oktober tersimpan di
+`LAPORAN PENILAIAN ... .md` bagian A (blok `ADDITION`) dan di sheet `5. DATA REKAPAN`.
 
 ## 7.2 Temuan yang masih terbuka
-1. **CEISHA SINTHIA** — link terkirim adalah URL editor Blogger, karya tidak dapat diakses → **wajib minta link publik**.
-2. **MUHAMAD DIAZ** — heading `{Monogram SSG}` (teks milik Safinah Syara Garini) → indikasi tidak orisinal, perlu klarifikasi guru.
+1. **6 siswa bernilai 0** — 4 mengirim URL editor Blogger (CEISHA SINTHIA, SINDIA SAPUTRI,
+   SITI JENAB, NAZWA KURNIA) dan 2 link 404 (RISMA SAPARANI, NURI MEITRI AENI) → **wajib minta link publik/aktif**.
+2. **Orisinalitas** — heading `{Monogram SSG}` muncul identik pada **4 kiriman**:
+   MUHAMAD DIAZ PIRDAUS, NAZMA KAYVA GASANI, TENI DAMAYANTI, RESTI NURUL FADILA → perlu klarifikasi guru.
 3. **AHMAD FAUZI** — judul artikel "Biodata diri" → perlu verifikasi identitas.
-4. **RIZKY** — deskripsi konsep tidak ada; penjelasan fungsi media tidak ada; moodboard persegi.
-5. **LABEL BLOGGER** — 5 siswa (Ahmad Fauzi, Wulan Sundari, Rizky, M Reza Huafah, Syiva) memakai label milik tugas lain atau kehilangan label wajib.
-6. **SYIVA** — shotlist & storyboard hanya ada sebagai narasi teks → jumlah shot & scene TIDAK DAPAT DIVERIFIKASI.
-7. `index.html` — angka belum sinkron dengan 31 siswa; **dikerjakan sendiri oleh guru di VSCode. JANGAN DISENTUH.**
-8. Butir yang wajib dicek manual guru ada di sheet `4. CEK MANUAL GURU`.
-9. **Belum ada nilai masuk rapor** — tunggu persetujuan guru atas revisi rubrik.
+4. **AZMI ANUGRAH** (judul "UJI KOPETENSI PROMTPTING AI DKV") dan **PUTRI INTAN NURAENI**
+   (judul "ASTS KOMPETENSI AI DKV - SMKN 9 GARUT") → perlu verifikasi identitas.
+5. **MUTIA ANITA SARI** — page title "ASTS personal branding nama Mutia" (nama tidak lengkap).
+6. **LABEL BLOGGER** — beberapa siswa memakai label milik tugas lain atau kehilangan label wajib.
+7. Butir yang wajib dicek manual guru ada di sheet `4. CEK MANUAL GURU` (**27 butir**).
+8. **Belum ada nilai masuk rapor** — tunggu persetujuan guru atas revisi rubrik.
 
 ---
 
@@ -451,8 +441,14 @@ mkdir -p imgup && for f in img/<ID>/*.jpg; do sips -Z 2400 -s format png "$f" --
 ./ocr imgup/*/*.png > ocr_up.txt
 
 # 4) bangun ulang Excel (semua data siswa & skor ada di make_xlsx.py)
-python3 make_xlsx.py
+python make_xlsx.py
+
+# 5) sinkronkan index.html dari Excel
+python docs/update_data.py --check
+python docs/update_data.py
 ```
+
+> Jalankan `make_xlsx.py` dari direktori mana pun — `OUT` dihitung absolut dari lokasi skrip.
 
 ## 8.2 Struktur data di `make_xlsx.py`
 ```python
@@ -472,11 +468,12 @@ BOBOT = [5,12,8,10,8,8,10,10,8,7,10,4]
 - **Jangan mengubah nilai siswa yang tidak terkait.** Hanya sentuh siswa yang kirimannya berubah.
 - **Jangan menurunkan nilai** hanya karena ada kiriman baru dari siswa lain.
 - Jika rubrik berubah lagi → hitung ulang **seluruh** siswa dengan rubric baru, dan tulis riwayat perubahan di laporan.
-- Update 4 berkas setiap kali nilai berubah:
-  1. `REKAP NILAIAN ....xlsx` (lewat `make_xlsx.py`)
-  2. `LAPORAN ....md`
-  3. `rekap_nilai_asts_hasil.json`
-  4. `SESI PENILAIAN/KONTEKS-SESI.md`
+- Update berkas berikut setiap kali nilai berubah:
+  1. `REKAP NILAIAN ....xlsx` — `python "SESI PENILAIAN/skrip/make_xlsx.py"`
+  2. `index.html` — `python docs/update_data.py`
+  3. `LAPORAN ....md` — **tidak otomatis**; perbarui dari `make_xlsx.py`
+  4. `rekap_nilai_asts_hasil.json` — **tidak otomatis**; perbarui dari `make_xlsx.py`
+  5. `SESI PENILAIAN/README_CONTINUE.md` + `KONTEKS-SESI.md` — handoff
 
 ## 8.4 Skrip yang tersedia
 | Skrip | Fungsi |
@@ -487,7 +484,8 @@ BOBOT = [5,12,8,10,8,8,10,10,8,7,10,4]
 | `ocrcrop.swift` / `ocrcrop` | OCR versi tile/potong (lebih baik untuk teks kecil) |
 | `report.py` | Laporan teks per siswa (urutan dokumen) |
 | `hitung.py` | Hitung nilai dari skor |
-| `make_xlsx.py` | **Bangun Excel lengkap (28 sheet)** |
+| `make_xlsx.py` | **Bangun Excel lengkap (93 sheet)** — sumber kebenaran nilai |
+| `docs/update_data.py` | Regenerasi objek `DATA` di `index.html` dari Excel |
 
 ---
 

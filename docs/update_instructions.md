@@ -5,10 +5,26 @@ Objek tersebut di-*generate ulang* dari file Excel sumber:
 
 > **`REKAP NILAIAN ASTS - Personal Branding XI DKV 2026-2027.xlsx`**
 
+Workbook itu sendiri dihasilkan oleh **`SESI PENILAIAN/skrip/make_xlsx.py`**, yang
+merupakan sumber kebenaran seluruh nilai.
+
+## Urutan pembaruan
+
+```bash
+# 1. ubah/tambah S.append(...) di SESI PENILAIAN/skrip/make_xlsx.py
+python "SESI PENILAIAN/skrip/make_xlsx.py"     # regenerate Excel
+python docs/update_data.py --check              # lihat apa yang berubah, tanpa menulis
+python docs/update_data.py                      # tulis DATA ke index.html
+git add -A && git commit -m "..." && git push
+```
+
+> `LAPORAN *.md` dan `rekap_nilai_asts_hasil.json` **tidak** dibangun oleh skrip mana pun.
+> Keduanya harus diperbarui manual dari `make_xlsx.py` setiap kali nilai berubah.
+
 ## Cara memperbarui data
 
 1. **Siapkan file Excel**
-   - Letakkan workbook di root proyek (satu folder dengan `index.html`).
+   - Workbook berada di root proyek (satu folder dengan `index.html`).
    - Jangan mengubah nama sheet. Skrip mengenali sheet berikut:
      `1. REKAP NILAI`, `2. NILAI KOMPONEN`, `3. REKAP KETIDAKLENGKAPAN`,
      `4. CEK MANUAL GURU`, `5. DATA REKAPAN`, `6. METODE & RUBRIK`,
@@ -16,7 +32,7 @@ Objek tersebut di-*generate ulang* dari file Excel sumber:
 
 2. **Jalankan skrip pembaruan**
    ```bash
-   python3 docs/update_data.py
+   python docs/update_data.py
    ```
    Skrip akan menimpa **seluruh isi `DATA`** (bukan hanya `rekap`) dengan data
    terbaru dari Excel, yaitu:
@@ -34,12 +50,12 @@ Objek tersebut di-*generate ulang* dari file Excel sumber:
 
    Untuk melihat perubahannya tanpa menulis file:
    ```bash
-   python3 docs/update_data.py --check
+   python docs/update_data.py --check
    ```
 
 3. **Commit perubahan**
    ```bash
-   git add index.html
+   git add -A
    git commit -m "Refresh data dari Excel"
    git push
    ```
@@ -56,6 +72,8 @@ Objek tersebut di-*generate ulang* dari file Excel sumber:
   ke nama lengkap siswa agar pencarian `norm()` di halaman tetap cocok.
 - `meta.gambar` = jumlah kolom "Jumlah Gambar" pada sheet 7.
 - Skrip bersifat *idempotent*: dijalankan dua kali menghasilkan file sama.
+- **Nama siswa harus unik.** Halaman mencari baris berdasarkan nama (`norm()`);
+  duplikat nama membuat baris kedua memakai angka baris pertama.
 
 ## Troubleshooting
 
